@@ -1,0 +1,1729 @@
+﻿TY  - JOUR
+AN  - 5317633
+DB  - Medline
+DP  - NLM
+ET  - 1970/01/01
+J2  - Scandinavian journal of respiratory diseases. Supplementum
+KW  - Animals
+Humans
+Lung
+physiology
+Lung Diseases
+LA  - eng
+N1  - Journal Article
+Denmark
+Scand J Respir Dis Suppl. 1970;74:1-24.
+PY  - 1970
+SN  - 0080-6730 (Print)
+0080-6730
+SP  - 1-24
+ST  - XXV Nordic Congress of Pneumonology. Goteborg, 1970. Abstracts
+T2  - Scand J Respir Dis Suppl
+TI  - XXV Nordic Congress of Pneumonology. Goteborg, 1970. Abstracts
+VL  - 74
+ID  - 18
+ER  - 
+
+TY  - JOUR
+AN  - 4524241
+DA  - May
+DB  - Medline
+DP  - NLM
+ET  - 1974/05/01
+IS  - 5
+J2  - Dental journal
+KW  - Canada
+Insurance, Liability
+Malpractice
+LA  - eng
+N1  - Journal Article
+Canada
+Dent J. 1974 May;40(5):350.
+PY  - 1974
+SN  - 0382-8514 (Print)
+0382-8514
+SP  - 350
+ST  - Your security. Why you must consider malpractice insurance
+T2  - Dent J
+TI  - Your security. Why you must consider malpractice insurance
+VL  - 40
+ID  - 19
+ER  - 
+
+TY  - JOUR
+AB  - GetWell:)Network, a Bethesda, MD-based interactive patient care provider, had the right tool. What it didn't have was the means to get the word out about that tool. So in September 2006, the provider tapped Waltham, MA-based healthcare public relations agency Schwartz Communications to design and execute a national media relations campaign about the PatientLife:)System, GetWell's interactive educational bedside tool.
+AN  - 17361789
+DA  - Jan-Feb
+DB  - Medline
+DP  - NLM
+ET  - 2007/03/17
+IS  - 1
+J2  - Profiles in healthcare communications
+KW  - Humans
+Marketing of Health Services
+Patient Satisfaction
+Point-of-Care Systems
+Public Relations
+United States
+LA  - eng
+N1  - Journal Article
+United States
+Profiles Healthc Commun. 2007 Jan-Feb;23(1):1-7.
+PY  - 2007
+SN  - 1931-9592 (Print)
+1931-9592
+SP  - 1-7
+ST  - Patient satisfaction point-of-care technology makes media waves. Public relations campaign heightens presence for GetWell:)Network
+T2  - Profiles Healthc Commun
+TI  - Patient satisfaction point-of-care technology makes media waves. Public relations campaign heightens presence for GetWell:)Network
+VL  - 23
+ID  - 20
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To evaluate in vitro the effect of the size of the unfilled space of the abutment screw access hole on the amount of extruded excess cement and the retention of zirconia copings. MATERIALS AND METHODS: Twelve dental implant replicas were attached to the corresponding abutments and embedded in acrylic resin blocks. A total of 36 CAD/CAM zirconia copings were fabricated by one technician using the standard technique. Abutments were divided into group I: the entire screw access channel was completely filled (nonspaced); group II: 1-mm-spaced; and group III: 2-mm-spaced. The copings were air-abraded and temporarily cemented under constant load of 60 N for 10 minutes. The excess cement was calculated as the difference between the post-cementation and post-excess-removal weights using a digital scale. Retention test was performed by a universal testing machine at a 0.5 mm/min crosshead speed. The ultimate force and tensile strength required for separation were recorded. One-way ANOVA and Tukey's test were used for statistical analysis at p < 0.05. RESULTS: The average amount of extruded cement in groups 1, 2, and 3 was 33.48 +/- 1.55, 23.05 +/- 5.48, and 15.58 +/- 5.98 mg, respectively. Multiple comparisons showed significant differences in the amount of extruded excess cement between the three groups (p < 0.001). The maximum load at decementation in groups 1, 2, and 3 was 98.8, 87.5, and 88.6 N, respectively. Groups 1, 2, and 3 separated at 6.90 +/- 1.2, 6.12 +/- 0.7, and 6.21 +/- 0.9 MPa, respectively, with no significant differences between them. CONCLUSIONS: The amount of extruded excess cement was reduced by more than half when a 2-mm space of the screw access hole was left unfilled in comparison to the nonspaced counterpart. The retention of zirconia copings was not affected by the reported technique.
+AD  - Department of Prosthetic Dental Sciences, College of Dentistry, King Saud University, Riyadh, Saudi Arabia.
+Department of Prosthetic Dental Sciences, College of Dentistry, Al Jouf University, Al Jouf, Saudi Arabia.
+AN  - 28102922
+AU  - Al-Johany, S. S.
+AU  - Al Amri, M. D.
+AU  - Al-Bakri, A. S.
+AU  - Al-Qarni, M. N.
+DA  - Feb
+DB  - Medline
+DO  - 10.1111/jopr.12580
+DP  - NLM
+ET  - 2017/01/20
+IS  - 2
+J2  - Journal of prosthodontics : official journal of the American College of Prosthodontists
+KW  - Bone Screws
+Computer-Aided Design
+Crowns
+Dental Abutments
+Dental Cements
+chemistry
+Dental Prosthesis Design
+Dental Prosthesis Retention
+methods
+Dental Prosthesis, Implant-Supported
+Dental Stress Analysis
+Tensile Strength
+Zirconium
+chemistry
+LA  - eng
+N1  - 1532-849x
+Al-Johany, Sulieman S
+Al Amri, Mohammad D
+Al-Bakri, Ahmed S
+Al-Qarni, Mohammed N
+College of Dentistry Research Centre and Deanship of Scientific Research
+IR 0115/King Saud University
+Journal Article
+United States
+Cement-retained
+extruded cement
+implant abutment
+retention
+zirconia crown
+J Prosthodont. 2019 Feb;28(2):179-184. doi: 10.1111/jopr.12580. Epub 2017 Jan 19.
+PY  - 2019
+SN  - 1059-941x
+SP  - 179-184
+ST  - Effect of the Unfilled Space Size of the Abutment Screw Access Hole on the Extruded Excess Cement and Retention of Single Implant Zirconia Crowns
+T2  - J Prosthodont
+TI  - Effect of the Unfilled Space Size of the Abutment Screw Access Hole on the Extruded Excess Cement and Retention of Single Implant Zirconia Crowns
+VL  - 28
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AB  - To appreciate any enhancement in speech following gingivectomy of enlarged anterior palatal gingiva. Periodontal literature has documented various conditions, pathophysiology, and treatment modalities of gingival enlargement. Relationship between gingival maladies and speech alteration has received scant attention. This case report describes on altered speech pattern enhancement secondary to the gingivectomy procedure. A systemically healthy 24-year- female patient reported with bilateral anterior gingival enlargement who was provisionally diagnosed as "gingival abscess with inflammatory enlargement" in relation to palatal aspect of the right maxillary canine to left maxillary canine. Bilateral gingivectomy procedure was performed by external bevel incision in relation to anterior palatal gingiva and a large wedge of epithelium and connective tissue was removed. Patient and her close acquaintances noticed a great improvement in her pronunciation and enunciation of sounds like "t", "d", "n", "l", "th", following removal of excess gingival palatal tissue and was also appreciated with visual analog scale score. Exploration of linguistic research documented the significance of tongue-palate contact during speech. Any excess gingival tissue in palatal region brings about disruption in speech by altering tongue-palate contact. Periodontal surgery like gingivectomy may improve disrupted phonetics. Excess gingival palatal tissue impedes on tongue-palate contact and interferes speech. Pronunciation of consonants like "t", "d", "n", "l", "th", are altered with anterior enlarged palatal gingiva. Excision of the enlarged palatal tissue results in improvement of speech.
+AD  - Department of Periodontology, SRM Dental College, Chennai, Tamil Nadu, India.
+AN  - 25191084
+AU  - Balasundaram, A.
+AU  - Vinayagavel, M.
+AU  - Bandi, D. P.
+C2  - PMC4147824
+DA  - Jul
+DB  - PubMed-not-MEDLINE
+DO  - 10.4103/0976-237x.137974
+DP  - NLM
+ET  - 2014/09/06
+IS  - 3
+J2  - Contemporary clinical dentistry
+LA  - eng
+N1  - Balasundaram, Aruna
+Vinayagavel, Mythreyi
+Bandi, Dhathri Priya
+Case Reports
+India
+Alveolar plosive
+gingival enlargement
+gingivectomy
+palate
+speech
+Contemp Clin Dent. 2014 Jul;5(3):406-9. doi: 10.4103/0976-237X.137974.
+PY  - 2014
+SN  - 0976-237X (Print)
+0976-2361
+SP  - 406-9
+ST  - Speech intelligibility after gingivectomy of excess palatal tissue
+T2  - Contemp Clin Dent
+TI  - Speech intelligibility after gingivectomy of excess palatal tissue
+VL  - 5
+ID  - 27
+ER  - 
+
+TY  - JOUR
+AB  - Wasting syndrome is a common complication of HIV infection and is marked by progressive weight loss and weakness, often associated with fever. The mechanisms involved in the pathogenesis of these syndromes are not well defined, and neither are the brain areas involved. The present study tests a new hypothesis: that the preoptic anterior hypothalamus (POAH), the main brain area for thermoregulation and fever, has a role in the pathogenesis of fever induced by glycoprotein 120 (gp120), the surface envelope protein used by the HIV to gain access into immune cells, and that the CXC chemokine receptors (CXCR4) that serve as a coreceptor for HIV entry mediate the effect. A sterilized stainless steel C313G cannula guide was implanted into the POAH, and a biotelemetry system was used to monitor the body temperature (Tb) changes. The administration of gp120 into the POAH induced fever in a dose-dependent manner. To demonstrate possible links between the gp120 and CXCR4 in generating the fever, we pretreated the rats with 1,1'-[1,4-phenylenebis(methylene)]bis[1,4,8,11-tetraazacyclotetradecane] octohydrobromide dihydrate (AMD 3100), an antagonist of stromal cell-derived growth factor (SDF)-1alpha/CXCL12, acting at its receptor, CXCR4, 30 min before administration of gp120. AMD 3100 significantly reduced the gp120-induced fever. The present studies show that the presence of HIV-1 envelope glycoprotein gp120 in the POAH provokes fever via interaction CXCR4 pathway.
+AD  - Center for Substance Abuse Research, Temple University School of Medicine, Philadelphia, PA 19140, USA. kbenamar@temple.edu
+AN  - 19906780
+AU  - Benamar, K.
+AU  - Addou, S.
+AU  - Yondorf, M.
+AU  - Geller, E. B.
+AU  - Eisenstein, T. K.
+AU  - Adler, M. W.
+C2  - PMC2812112
+DA  - Feb
+DB  - Medline
+DO  - 10.1124/jpet.109.160309
+DP  - NLM
+ET  - 2009/11/13
+IS  - 2
+J2  - The Journal of pharmacology and experimental therapeutics
+KW  - Animals
+Anti-HIV Agents
+pharmacology
+Benzylamines
+Body Temperature
+drug effects
+Cyclams
+Fever
+chemically induced
+etiology
+HIV Envelope Protein gp120
+administration & dosage
+pharmacology
+Heterocyclic Compounds
+pharmacology
+Male
+Microinjections
+Preoptic Area
+drug effects
+Rats
+Rats, Sprague-Dawley
+Receptors, CXCR4
+antagonists & inhibitors
+LA  - eng
+N1  - 1521-0103
+Benamar, Khalid
+Addou, Saad
+Yondorf, Menachem
+Geller, Ellen B
+Eisenstein, Toby K
+Adler, Martin W
+P30 DA013429/DA/NIDA NIH HHS/United States
+R01 DA006650/DA/NIDA NIH HHS/United States
+DA06650/DA/NIDA NIH HHS/United States
+DA13429/DA/NIDA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+United States
+J Pharmacol Exp Ther. 2010 Feb;332(2):549-53. doi: 10.1124/jpet.109.160309. Epub 2009 Nov 11.
+PY  - 2010
+SN  - 0022-3565
+SP  - 549-53
+ST  - Intrahypothalamic injection of the HIV-1 envelope glycoprotein induces fever via interaction with the chemokine system
+T2  - J Pharmacol Exp Ther
+TI  - Intrahypothalamic injection of the HIV-1 envelope glycoprotein induces fever via interaction with the chemokine system
+VL  - 332
+ID  - 23
+ER  - 
+
+TY  - JOUR
+AB  - Disturbance of sensory input during development can have disastrous effects on the development of sensory cortical areas. To examine how moderate perturbations of hearing can impact the development of primary auditory cortex, we examined markers of excitatory synapses in mice who lacked prestin, a protein responsible for somatic electromotility of cochlear outer hair cells. While auditory brain stem responses of these mice show an approximately 40 dB increase in threshold, we found that loss of prestin produced no changes in spine density or morphological characteristics on apical dendrites of cortical layer 5 pyramidal neurons. PSD-95 immunostaining also showed no changes in overall excitatory synapse density. Surprisingly, behavioral assessments of auditory function using the acoustic startle response showed only modest changes in prestin KO animals. These results suggest that moderate developmental hearing deficits produce minor changes in the excitatory connectivity of layer 5 neurons of primary auditory cortex and surprisingly mild auditory behavioral deficits in the startle response.
+AD  - Program in Neuroscience, Harvard University, Cambridge, MA 02138, USA.
+AN  - 21773053
+AU  - Bogart, L. J.
+AU  - Levy, A. D.
+AU  - Gladstone, M.
+AU  - Allen, P. D.
+AU  - Zettel, M.
+AU  - Ison, J. R.
+AU  - Luebke, A. E.
+AU  - Majewska, A. K.
+C2  - PMC3134106
+DB  - Medline
+DO  - 10.1155/2011/305621
+DP  - NLM
+ET  - 2011/07/21
+J2  - Neural plasticity
+KW  - Animals
+Auditory Cortex
+metabolism
+Critical Period, Psychological
+Dendritic Spines
+metabolism
+Evoked Potentials, Auditory, Brain Stem
+physiology
+Mice
+Mice, Knockout
+Molecular Motor Proteins
+genetics
+metabolism
+Pyramidal Cells
+metabolism
+Reflex, Startle
+physiology
+Synapses
+metabolism
+LA  - eng
+N1  - 1687-5443
+Bogart, L J
+Levy, A D
+Gladstone, M
+Allen, P D
+Zettel, M
+Ison, J R
+Luebke, A E
+Majewska, A K
+R01 EY019277/EY/NEI NIH HHS/United States
+EY019277/EY/NEI NIH HHS/United States
+AG09524/AG/NIA NIH HHS/United States
+P30 EY001319/EY/NEI NIH HHS/United States
+R01 DC003086/DC/NIDCD NIH HHS/United States
+R29 DC003086/DC/NIDCD NIH HHS/United States
+DC003086/DC/NIDCD NIH HHS/United States
+DC005409/DC/NIDCD NIH HHS/United States
+P01 AG009524/AG/NIA NIH HHS/United States
+P30 DC005409/DC/NIDCD NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Neural Plast. 2011;2011:305621. doi: 10.1155/2011/305621. Epub 2011 May 15.
+PY  - 2011
+SN  - 1687-5443
+SP  - 305621
+ST  - Loss of prestin does not alter the development of auditory cortical dendritic spines
+T2  - Neural Plast
+TI  - Loss of prestin does not alter the development of auditory cortical dendritic spines
+VL  - 2011
+ID  - 24
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The lifespan approach and recent shift in the conceptualization of Obsessive- Compulsive Disorder (OCD) promoted by the Diagnostic and Statistical Manual of Mental Disorders Fifth Edition (DSM5) along with novel insights into the pathogenesis of this heterogeneous disorder are driving the development of new outcome measures and new treatments for a disease that, on the other hand, is characterized by high rates of refractoriness. OBJECTIVE AND METHODS: The aim of this review is to provide a discussion of the translational evidence about Early Onset OCD (EO) in compliance with a neurodevelopmental and RdoC perspective. RESULTS AND CONCLUSION: EO might be considered the neurodevelopmental subtype of OCD. Indeed there is evidence that different clusters of symptoms and dimensions at an early stage predict different trajectories in phenotype and that distinct neurocircuit pathways underpin the progression of the disorder. Despite the development of high refractoriness in the course of the disorder, evidence suggests that EO may be particularly treatment responsive in the early stages, thus showing the need for early recognition and additional recovery oriented studies in this subgroup. Consistent with the neurodevelopmental perspective, immunity and glutamate neurotransmission are emerging as novel pathways for parsing out the neurobiology of OCD, the EO form, in particular, supporting the implementation of new multisystemic models of the OCD phenotype. Brain connectivity patterns, immune and microbiome profiles are standing out as promising areas for biomarkers with the potential for targeted personalized therapies in EO.
+AD  - Department of Scienze della Salute, University of Florence, Florence, Italy.
+Department of Psychiatry and Behavioral Sciences, Albert Einstein College of Medicine, Bronx, NY, United States.
+Department of Psychiatry and Behavioral Sciences, Stanford University Medical Center, CA, United States.
+Institute of Neuroscience, Florence, Italy.
+AN  - 29701156
+AU  - Burchi, E.
+AU  - Pallanti, S.
+C2  - PMC7059152
+DB  - Medline
+DO  - 10.2174/1570159x16666180426151746
+DP  - NLM
+ET  - 2018/04/28
+IS  - 8
+J2  - Current neuropharmacology
+KW  - Female
+Humans
+Male
+Obsessive-Compulsive Disorder
+diagnosis
+therapy
+Treatment Outcome
+LA  - eng
+N1  - 1875-6190
+Burchi, Elisabetta
+Pallanti, Stefano
+Journal Article
+Review
+United Arab Emirates
+Early-onset OCD
+RDoC
+glutamatergic agents
+gut microbiome
+neurodevelopmental disorders
+neuroinflammation
+pediatric OCD.
+Curr Neuropharmacol. 2019;17(8):672-680. doi: 10.2174/1570159X16666180426151746.
+PY  - 2019
+SN  - 1570-159x
+SP  - 672-680
+ST  - Diagnostic Issues in Early-Onset Obsessive-Compulsive Disorder and their Treatment Implications
+T2  - Curr Neuropharmacol
+TI  - Diagnostic Issues in Early-Onset Obsessive-Compulsive Disorder and their Treatment Implications
+VL  - 17
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AN  - 415033
+AU  - Chan, M. A.
+AU  - Goldner, M.
+DA  - Jan
+DB  - Medline
+DO  - 10.1093/jac/4.1.39
+DP  - NLM
+ET  - 1978/01/01
+IS  - 1
+J2  - The Journal of antimicrobial chemotherapy
+KW  - Cell Wall
+metabolism
+Diffusion
+Female
+Gonorrhea
+microbiology
+Humans
+Neisseria gonorrhoeae
+drug effects
+metabolism
+Penicillin G
+metabolism
+pharmacology
+Penicillin Resistance
+Species Specificity
+Temperature
+Tetracycline
+metabolism
+pharmacology
+LA  - eng
+N1  - Chan, M A
+Goldner, M
+Journal Article
+England
+J Antimicrob Chemother. 1978 Jan;4(1):39-45. doi: 10.1093/jac/4.1.39.
+PY  - 1978
+SN  - 0305-7453 (Print)
+0305-7453
+SP  - 39-45
+ST  - A view of multiple drug resistance in Neisseria gonorrhoeae
+T2  - J Antimicrob Chemother
+TI  - A view of multiple drug resistance in Neisseria gonorrhoeae
+VL  - 4
+ID  - 17
+ER  - 
+
+TY  - JOUR
+AB  - People with mental illness and their family caregivers often perceive public stigma, which may lead to stigma-related stress (or stigma stress). However, no instruments have been developed to measure this stress for family caregivers of people with mental illness. We modified an instrument that measures the stigma stress of people with mental illness (i.e., the cognitive appraisal of stigma as a stressor) and examined the psychometric properties of the scores of the newly developed instrument: the Family Stigma Stress Scale (FSSS). Primary family caregivers of people with mental illness in Southern Taiwan ( n = 300; mean age = 53.08 +/- 13.80; 136 males) completed the FSSS. An exploratory factor analysis showed that the FSSS score had two factors; both factor scores had excellent internal consistency (alpha = .913 and .814) and adequate test-retest reliability ( r = .627 and .533; n = 197). Significant correlations between FSSS factor scores and other instruments supported its concurrent validity and the ability of the FSSS to differentiate between clinical characteristics, for example, having been previously hospitalized or not. The FSSS is a brief and effective measure of the stigma stress of family caregivers of people with mental illness.
+AD  - 1 Department of Psychiatry, Chi Mei Medical Center, Tainan, Taiwan.
+2 Centre for Global Mental Health, Health Services and Population Research Department, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK.
+3 Department of Health Psychology, Chang Jung Christian University, Tainan, Taiwan.
+4 Department of Psychiatry, Chang Gung Medical Foundation, Chiayi Chang Gung Memorial Hospital, Chiayi, Taiwan.
+5 School of Medicine, Chang Gung University, Taoyuan, Taiwan.
+6 Department of Nursing, Chang Gung Institute of Technology, Taoyuan, Taiwan.
+7 Jianan Psychiatric Center, Ministry of Health and Welfare, Tainan, Taiwan.
+8 Department of Public Health, College of Medicine, National Cheng Kung University, Tainan, Taiwan.
+9 Department of Rehabilitation Sciences, Faculty of Health and Social Sciences, The Hong Kong Polytechnic University, Hong Kong.
+10 Department of Psychiatry II, University of Ulm and BKH Gunzburg, Germany.
+AN  - 29246085
+AU  - Chang, C. C.
+AU  - Su, J. A.
+AU  - Chang, K. C.
+AU  - Lin, C. Y.
+AU  - Koschorke, M.
+AU  - Rusch, N.
+AU  - Thornicroft, G.
+DA  - Jun
+DB  - Medline
+DO  - 10.1177/0163278717745658
+DP  - NLM
+ET  - 2017/12/17
+IS  - 2
+J2  - Evaluation & the health professions
+KW  - Caregivers
+psychology
+Factor Analysis, Statistical
+Female
+Humans
+Male
+Mental Disorders
+nursing
+Middle Aged
+Psychometrics
+Reproducibility of Results
+Social Stigma
+Stress, Psychological
+etiology
+Surveys and Questionnaires
+Taiwan
+LA  - eng
+N1  - 1552-3918
+Chang, Chih-Cheng
+Su, Jian-An
+Chang, Kun-Chia
+Lin, Chung-Ying
+Koschorke, Mirja
+Rusch, Nicolas
+Thornicroft, Graham
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+*Chinese culture
+*caregiver
+*family member
+*severe mental illness
+*stigma stress
+Eval Health Prof. 2019 Jun;42(2):148-168. doi: 10.1177/0163278717745658. Epub 2017 Dec 15.
+PY  - 2019
+SN  - 0163-2787
+SP  - 148-168
+ST  - Development of the Family Stigma Stress Scale (FSSS) for Detecting Stigma Stress in Caregivers of People With Mental Illness
+T2  - Eval Health Prof
+TI  - Development of the Family Stigma Stress Scale (FSSS) for Detecting Stigma Stress in Caregivers of People With Mental Illness
+VL  - 42
+ID  - 8
+ER  - 
+
+TY  - JOUR
+AN  - 58496
+AU  - Hartmann, K. P.
+AU  - Henderkott, U.
+AU  - Hor, G.
+AU  - Bottermann, P.
+DB  - Medline
+DP  - NLM
+ET  - 1975/01/01
+J2  - Verhandlungen der Deutschen Gesellschaft fur Innere Medizin
+KW  - Adult
+Antithyroid Agents
+therapeutic use
+Female
+Humans
+Hyperthyroidism
+blood
+drug therapy
+Male
+Thyroid Function Tests
+Thyroid Hormones
+blood
+Thyrotropin
+blood
+Thyrotropin-Releasing Hormone
+pharmacology
+LA  - ger
+N1  - Hartmann, K P
+Henderkott, U
+Hor, G
+Bottermann, P
+Comparative Study
+Journal Article
+Germany
+Verh Dtsch Ges Inn Med. 1975;81:1559-63.
+OP  - Vergleichende Untersuchungen zum Verhalten der Schilddrusenhormonspiegel und der TSH-Spiegel im TRH-Test im Verlauf experimenteller und thyreostatisch behandelter Hyperthyreosen
+PY  - 1975
+SN  - 0070-4067 (Print)
+0070-4067
+SP  - 1559-63
+ST  - [Comparative studies on the behavior of thyroid hormone levels and TSH level in the TRH-test in the course of experimental and thyreostatically treated hyperthyroidism]
+T2  - Verh Dtsch Ges Inn Med
+TI  - [Comparative studies on the behavior of thyroid hormone levels and TSH level in the TRH-test in the course of experimental and thyreostatically treated hyperthyroidism]
+VL  - 81
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AB  - Many Native American communities experience severe health inequalities, including shorter average lifespan and higher rates of chronic illnesses. Journalism that serves Native Americans is a promising channel for heath communication, but only if scholars first understand the particular cultural contexts of indigenous communities. This research contributes to that goal by investigating how journalists serving Native American communities characterize health and the issues they identify with covering determinants of health. In in-depth interviews (N = 24), journalists contrasted how they cover health issues as embedded in cultural context with shallow, more negative coverage by non-Native media organizations. Interviews also revealed a tension between "medical" and "cultural" models of health, contributing to the oversaturation of certain issues, like diabetes, while other health topics are underrepresented. The journalists also expressed how social determinants and histories of oppression shape health inequalities, illuminating the roles of historical trauma and the destruction of indigenous health beliefs and behaviors. Failure to recognize these issues could stymie efforts to communicate about health issues facing Native American audiences.
+AD  - a Missouri School of Journalism, University of Missouri.
+b School of Communication , University of Nebraska at Omaha.
+c Communication, Appalachian State University.
+d School of Journalism and Mass Communication , University of Iowa.
+AN  - 29182364
+AU  - Hinnant, A.
+AU  - Subramanian, R.
+AU  - Ashley, R. R.
+AU  - Perreault, M.
+AU  - Young, R.
+AU  - Thomas, R. J.
+DA  - Apr
+DB  - Medline
+DO  - 10.1080/10410236.2017.1405482
+DP  - NLM
+ET  - 2017/11/29
+IS  - 4
+J2  - Health communication
+KW  - Female
+Health Status Disparities
+Humans
+Indians, North American
+statistics & numerical data
+Interviews as Topic
+Journalism
+statistics & numerical data
+Male
+Mass Media
+statistics & numerical data
+Newspapers as Topic
+statistics & numerical data
+Social Determinants of Health
+ethnology
+statistics & numerical data
+LA  - eng
+N1  - 1532-7027
+Hinnant, Amanda
+Orcid: 0000-0002-9180-6848
+Subramanian, Roma
+Ashley, Rokeshia Renne
+Perreault, Mimi
+Young, Rachel
+Thomas, Ryan J
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+*Native Americans
+*health determinants
+*historical trauma
+*inequalities/disparities
+*journalism
+Health Commun. 2019 Apr;34(4):383-391. doi: 10.1080/10410236.2017.1405482. Epub 2017 Nov 28.
+PY  - 2019
+SN  - 1041-0236
+SP  - 383-391
+ST  - How Journalists Characterize Health Inequalities and Redefine Solutions for Native American Audiences
+T2  - Health Commun
+TI  - How Journalists Characterize Health Inequalities and Redefine Solutions for Native American Audiences
+VL  - 34
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AB  - Neuropeptides (NPs) are short secreted peptides produced mainly in the nervous system and digestive system. They activate signaling cascades to control a wide range of biological functions, such as metabolism, sensation, and behavior. NPs are typically produced from a larger NP precursor (NPP) which includes a signal peptide sequence, one or more NP sequences, and other sequences. With the drastic growth of unknown protein sequences generated in the post-genomic age, it is highly desired to develop computational methods for identifying NPP rapidly and efficiently. In this article, we developed a predictor for NPPs based on optimized sequence composition of single amino acid, dipeptide, and tripeptide. Evaluated with independent data set, the predictor showed excellent performance that achieved an accuracy of 88.65% with AUC of 0.95. The corresponding web server was developed, which is freely available at http://i.uestc.edu.cn/neuropeptide/neuropp/home.html . It can help relevant researchers to screen candidate NP precursor, shorten experimental cycle, and reduce costs.
+AD  - Center for Informational Biology, University of Electronic Science and Technology of China, Chengdu, 611731, China.
+Center for Informational Biology, University of Electronic Science and Technology of China, Chengdu, 611731, China. hj@uestc.edu.cn.
+Key Laboratory for Neuroinformation of Ministry of Education, University of Electronic Science and Technology of China, Chengdu, 611731, China. hj@uestc.edu.cn.
+AN  - 29525981
+AU  - Kang, J.
+AU  - Fang, Y.
+AU  - Yao, P.
+AU  - Li, N.
+AU  - Tang, Q.
+AU  - Huang, J.
+DA  - Mar
+DB  - Medline
+DO  - 10.1007/s12539-018-0287-2
+DP  - NLM
+ET  - 2018/03/12
+IS  - 1
+J2  - Interdisciplinary sciences, computational life sciences
+KW  - Algorithms
+Amino Acid Sequence
+Databases, Protein
+Neuropeptides
+metabolism
+Sequence Analysis, Protein
+methods
+Software
+LA  - eng
+N1  - 1867-1462
+Kang, Juanjuan
+Fang, Yewei
+Yao, Pengcheng
+Li, Ning
+Tang, Qiang
+Huang, Jian
+ORCID: http://orcid.org/0000-0003-3282-8892
+61571095/the National Natural Science Foundation of China
+ZYGX2015Z006/the Fundamental Research Funds for the Central Universities of China
+Journal Article
+Germany
+Neuropeptide
+Neuropeptide precursor
+Predictor
+Recognition
+Sequence composition
+Interdiscip Sci. 2019 Mar;11(1):108-114. doi: 10.1007/s12539-018-0287-2. Epub 2018 Mar 10.
+PY  - 2019
+SN  - 1867-1462
+SP  - 108-114
+ST  - NeuroPP: A Tool for the Prediction of Neuropeptide Precursors Based on Optimal Sequence Composition
+T2  - Interdiscip Sci
+TI  - NeuroPP: A Tool for the Prediction of Neuropeptide Precursors Based on Optimal Sequence Composition
+VL  - 11
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AB  - Mice undergo a variety of procedures that necessitate the use of analgesic agents. Opioids are often essential to successful pain management plans, but most are controlled substances, and their use requires appropriate federal and state registrations. Nalbuphine is a potentially effective opioid analgesic for mice that is not currently classified as a controlled substance. This compound has received little attention as an analgesic for mice, and standard dosage regimens have not been developed. Here we compared the pharmacokinetic profiles of 10 mg/kg nalbuphine in male C57BL/6 mice subcutaneous or intraperitoneal administration. Blood was collected from 3 mice per treatment at 5, 10, 20, and 30 min and 1, 2, 3, 6, 12, and 24 h after administration. Plasma concentrations were measured, and standard pharmacokinetic parameters were calculated. Profile characteristics for each route of administration were similar, with significant differences in plasma concentration at 5 and 30 min and 1 and 3 h. Nalbuphine was absorbed more quickly when administered subcutaneously (Tmax, 5 min) than intraperitoneally (Tmax, 10 min), whereas the drug's half-life was similar between the intraperitoneal (0.94 h) and subcutaneous (1.12 h) routes. The AUC0-tldc and AUC0-inf were higher but the apparent clearance and apparent volume of distribution were lower after subcutaneous administration compared with intraperitoneal dosing. Plasma concentrations were below the level of detection by 12 h. These results suggest that nalbuphine is absorbed in and eliminated quickly from mice, making it a possible candidate for acute pain management.
+AD  - Division of Animal Resources, Emory University, Atlanta, Georgia;, Email: bkick@emory.edu.
+Department of Pharmaceutical Sciences, College of Pharmacy, University of Michigan, Ann Arbor, Michigan.
+Division of Animal Resources, Emory University, Atlanta, Georgia.
+AN  - 28903824
+AU  - Kick, B. L.
+AU  - Shu, P.
+AU  - Wen, B.
+AU  - Sun, D.
+AU  - Taylor, D. K.
+C2  - PMC5605177
+DA  - Sep 1
+DB  - Medline
+DP  - NLM
+ET  - 2017/09/15
+IS  - 5
+J2  - Journal of the American Association for Laboratory Animal Science : JAALAS
+KW  - Analgesics, Opioid
+administration & dosage
+pharmacokinetics
+therapeutic use
+Animals
+Animals, Laboratory
+Half-Life
+Humans
+Injections, Intraperitoneal
+Injections, Subcutaneous
+Male
+Mice
+Mice, Inbred C57BL
+Nalbuphine
+administration & dosage
+pharmacokinetics
+therapeutic use
+Pain
+drug therapy
+LA  - eng
+N1  - Kick, Brenda L
+Shu, Pan
+Wen, Bo
+Sun, Duxin
+Taylor, Douglas K
+Clinical Trial
+Journal Article
+United States
+J Am Assoc Lab Anim Sci. 2017 Sep 1;56(5):534-538.
+PY  - 2017
+SN  - 1559-6109 (Print)
+1559-6109
+SP  - 534-538
+ST  - Pharmacokinetic Profiles of Nalbuphine after Intraperitoneal and Subcutaneous Administration to C57BL/6 Mice
+T2  - J Am Assoc Lab Anim Sci
+TI  - Pharmacokinetic Profiles of Nalbuphine after Intraperitoneal and Subcutaneous Administration to C57BL/6 Mice
+VL  - 56
+ID  - 30
+ER  - 
+
+TY  - JOUR
+AB  - We prepared a nonchiral mixture of achiral bent-core molecules and photoresponsive rodlike liquid crystalline (LC) molecules. With the help of the isothermal photochemical nematic (N)-isotropic (Iso) phase transition of the photoresponsive rodlike LC molecules, the corresponding phase transition from a dark conglomerate BX phase to another distinguishable dark conglomerate B4 phase took place in the mixture. A large circular dichroism (CD) signal originating from supramolecular chirality was detected in the initial BX phase. On the other hand, the detected CD signal was decreased in the B4 phase after UV irradiation. Interestingly, the decreased CD signal could be reverted to the initial CD signal with visible irradiation. This chiroptical process revealed in this work was stable and reversible and thus opens up the possibility of practical applications such as rewritable optical storage.
+AD  - Department of Advance Materials Engineering for Information and Electronics, Kyung Hee University , Yongin-shi, Gyeonggi-do 446-701, Korea.
+Graduate School of Nanoscience and Technology and KINC, KAIST , Daejeon 305-701, Korea.
+Physicochemical Soft Matter Research Unit, RIKEN Center for Emergent Matter Science (CEMS) , 2-1 Hirosawa, Wako, Saitama 351-0198, Japan.
+AN  - 26397122
+AU  - Kim, K.
+AU  - Kim, H.
+AU  - Jo, S. Y.
+AU  - Araoka, F.
+AU  - Yoon, D. K.
+AU  - Choi, S. W.
+DA  - Oct 14
+DB  - PubMed-not-MEDLINE
+DO  - 10.1021/acsami.5b07543
+DP  - NLM
+ET  - 2015/09/24
+IS  - 40
+J2  - ACS applied materials & interfaces
+LA  - eng
+N1  - 1944-8252
+Kim, Kibeom
+Kim, Hanim
+Jo, Seong-Yong
+Araoka, Fumito
+Yoon, Dong Ki
+Choi, Suk-Won
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+bent-core
+chirality
+chiroptical switching
+circular dichroism
+helical nanofilament
+liquid crystal
+ACS Appl Mater Interfaces. 2015 Oct 14;7(40):22686-91. doi: 10.1021/acsami.5b07543. Epub 2015 Sep 30.
+PY  - 2015
+SN  - 1944-8244
+SP  - 22686-91
+ST  - Photomodulated Supramolecular Chirality in Achiral Photoresponsive Rodlike Compounds Nanosegregated from the Helical Nanofilaments of Achiral Bent-Core Molecules
+T2  - ACS Appl Mater Interfaces
+TI  - Photomodulated Supramolecular Chirality in Achiral Photoresponsive Rodlike Compounds Nanosegregated from the Helical Nanofilaments of Achiral Bent-Core Molecules
+VL  - 7
+ID  - 28
+ER  - 
+
+TY  - JOUR
+AB  - Orally disintegrating tablet (ODT) is a user friendly and convenient dosage form. The study aimed to investigate the effect of polymers and wheat starch on the tablet properties of lyophilized ODT, with dapoxetine as model drug. Three polymers (hydroxypropylmethyl cellulose, carbopol 934P and Eudragit((R)) EPO) and wheat starch were used as matrix forming materials in preparation of lyophilized ODT. The polymeric dispersion was casted into a mould and kept in a freezer at -20 degrees C for 4 h before freeze dried for 12 h. It was found that increasing in HPMC and Carbopol 934P concentrations produced tablets with higher hardness and longer disintegration time. In contrast, Eudragit((R)) EPO was unable to form tablet with sufficient hardness at various concentrations. Moreover, HPMC seems to have a stronger effect on tablet hardness compared to Carbopol 934P at the same concentration level. ODT of less friable was obtained. Wheat starch acted as binder which strengthen the hardness of ODTs and prolonged the disintegration time. ODT comprising of HPMC and wheat starch at ratio of 2:1 was found to be optimum based upon the tablet properties. The optimum formulation was palatable and 80 % of the drug was released within 30 min in the dissolution study.
+AD  - Department of Pharmaceutical Technology, School of Pharmaceutical Sciences, Universiti Sains Malaysia, 11800, Minden, Penang, Malaysia.
+Department of Pharmaceutical Technology, School of Pharmaceutical Sciences, Universiti Sains Malaysia, 11800, Minden, Penang, Malaysia. kkpehken@gmail.com.
+AN  - 25579848
+AU  - Liew, K. B.
+AU  - Peh, K. K.
+DA  - Aug
+DB  - Medline
+DO  - 10.1007/s12272-014-0542-y
+DP  - NLM
+ET  - 2015/01/13
+IS  - 8
+J2  - Archives of pharmacal research
+KW  - Acrylates
+chemistry
+Administration, Oral
+Adult
+Benzylamines
+administration & dosage
+chemistry
+Chemistry, Pharmaceutical
+methods
+Drug Compounding
+methods
+Drug Liberation
+Excipients
+chemistry
+Freeze Drying
+Hardness
+Humans
+Hypromellose Derivatives
+chemistry
+Middle Aged
+Naphthalenes
+administration & dosage
+chemistry
+Polymers
+chemistry
+Polymethacrylic Acids
+chemistry
+Starch
+chemistry
+Tablets
+Taste
+Young Adult
+LA  - eng
+N1  - Liew, Kai Bin
+Peh, Kok Khiang
+Comparative Study
+Journal Article
+Korea (South)
+Carbopol 934P
+Dapoxetine HCl
+Freeze drying
+Hydroxypropylmethyl cellulose
+Lyophilized orally disintegrating tablet
+Polymer
+Arch Pharm Res. 2021 Aug;44(8):1-10. doi: 10.1007/s12272-014-0542-y. Epub 2015 Jan 13.
+PY  - 2021
+SN  - 0253-6269 (Print)
+0253-6269
+SP  - 1-10
+ST  - Investigation on the effect of polymer and starch on the tablet properties of lyophilized orally disintegrating tablet
+T2  - Arch Pharm Res
+TI  - Investigation on the effect of polymer and starch on the tablet properties of lyophilized orally disintegrating tablet
+VL  - 44
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - Irritable Bowel syndrome (IBS), the most common chronic functional gastrointestinal disorder, is categorized as IBS-C and IBS-D, which are equivalent to Ghoolenj Rihi and Maghs Rihi in Iranian traditional medicine. One of the main applications of Zataria multiflora Boiss in traditional medicine is its efficacy in the gastrointestinal tract with symptoms such as IBS. The aim of this study was to evaluate the efficacy of Zataria multiflora essential oil in management of IBS. We used all the accessible references (electronic and published books, theses, and reports) to write this article. The results of our investigation show that the majority of gas chromatography-mass spectrometry (GC-MS) analyses exhibited carvacrol and thymol as the main components of Zataria multiflora essential oil, and 60 drops oral daily dose of Z. multiflora essential oil (2%) can relieve the symptoms of IBS without any adverse effects. The pharmacological studies confirmed the analgesic, anti-inflammatory, antispasm and antiulcer effects of Z. multiflora essential oils and main components. According to the results of studies, oral Z. multiflora essential oil (2%) is a good candidate for management of IBS, but more studies are required to better understand its efficacies.
+AD  - a Department of Microbiology , Medicinal Plants Research Center of Barij , Kashan , Iran.
+AN  - 29333891
+AU  - Mahboubi, M.
+DB  - Medline
+DO  - 10.1080/19390211.2017.1409852
+DP  - NLM
+ET  - 2018/01/16
+IS  - 1
+J2  - Journal of dietary supplements
+KW  - Anti-Inflammatory Agents
+pharmacology
+therapeutic use
+Cymenes
+Gas Chromatography-Mass Spectrometry
+Humans
+Iran
+Irritable Bowel Syndrome
+drug therapy
+Lamiaceae
+chemistry
+Medicine, Traditional
+Monoterpenes
+pharmacology
+therapeutic use
+Oils, Volatile
+chemistry
+pharmacology
+therapeutic use
+Phytotherapy
+Plant Extracts
+pharmacology
+therapeutic use
+Thymol
+pharmacology
+therapeutic use
+LA  - eng
+N1  - 1939-022x
+Mahboubi, Mohaddese
+ORCID: http://orcid.org/0000-0003-4732-7302
+Journal Article
+Review
+England
+essential oil
+irritable bowel syndrome
+pain
+J Diet Suppl. 2019;16(1):119-128. doi: 10.1080/19390211.2017.1409852. Epub 2018 Jan 15.
+PY  - 2019
+SN  - 1939-0211
+SP  - 119-128
+ST  - Therapeutic Potential of Zataria multiflora Boiss in Treatment of Irritable Bowel Syndrome (IBS)
+T2  - J Diet Suppl
+TI  - Therapeutic Potential of Zataria multiflora Boiss in Treatment of Irritable Bowel Syndrome (IBS)
+VL  - 16
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AB  - The median influenza vaccination rate for Toronto acute care facilities in 2013/14 was only 44%, well below the target rate of 90%. While many Toronto hospitals adopted a vaccinate-or-mask policy, Trillium Health Partners (THP) opted to create a multimodal incentives-based flu campaign entitled GET POKED. This campaign, which required significant additional resourcing, only increased our vaccination rate by 10%. While having some modest success, we believe it is unlikely that non-policy based interventions will efficiently and sustainably raise flu vaccine rates. Vaccinate-or-mask policies, while having some inherent challenges, may be worth exploring as part of THP's larger flu-prevention strategy.
+AD  - General internal medicine specialist at Trillium Health Partners and a clinician scientist at the Institute for Better Health. She is also an assistant professor at the University of Toronto Faculty of Medicine.
+Research associate for the Institute for Better Health. He manages and supports research projects at the Institute with a focus on preventative care.
+Was the manager of Trillium's Employee, Health, Safety & Wellness department for the duration of this project.
+Community health development practitioner working both in domestic and global contexts. She supports community initiatives and promotes health strategies for marginalized groups.
+AN  - 27009712
+AU  - Marwaha, S.
+AU  - Lorv, B.
+AU  - Henseleit, S.
+AU  - Iroanyah, N.
+DB  - Medline
+DO  - 10.12927/hcq.2016.24546
+DP  - NLM
+ET  - 2016/03/25
+IS  - 4
+J2  - Healthcare quarterly (Toronto, Ont.)
+KW  - Health Personnel
+statistics & numerical data
+Health Policy
+Humans
+Influenza Vaccines
+Influenza, Human
+prevention & control
+Masks
+statistics & numerical data
+Motivation
+Ontario
+Vaccination
+statistics & numerical data
+LA  - eng
+N1  - Marwaha, Seema
+Lorv, Bailey
+Henseleit, Susanne
+Iroanyah, Ngozi
+Journal Article
+Canada
+Healthc Q. 2016;18(4):73-9. doi: 10.12927/hcq.2016.24546.
+PY  - 2016
+SN  - 1710-2774 (Print)
+1710-2774
+SP  - 73-9
+ST  - GET POKED: Comparing an Incentive-Based Flu Campaign with Vaccinate-or-Mask Policies to Boost Influenza Vaccination Rates Among Healthcare Workers
+T2  - Healthc Q
+TI  - GET POKED: Comparing an Incentive-Based Flu Campaign with Vaccinate-or-Mask Policies to Boost Influenza Vaccination Rates Among Healthcare Workers
+VL  - 18
+ID  - 29
+ER  - 
+
+TY  - JOUR
+AB  - The way we describe health threats affects perceptions of severity and preferred solutions to reduce risk. Most people agree obesity is a problem, but differ in how they attribute responsibility for development and decline of the disease. We explored effects of message framing on attributions of responsibility and support for public obesity policies using a 3 x 2 factorial design. Participants read one of six versions of a health message describing the negative effects of obesity. Message frames influenced respondent attributions and their support for policies to reduce obesity. Those who read a message that assigned agency to the disease (e.g., Obesity causes health problems) endorsed genetics as the cause to a greater degree than those who read a semantically equivalent message that instead assigned agency to people (e.g., Obese people develop health problems). In contrast, assigning agency to people rather than to the disease prompted higher attributions of individual responsibility and support for public policies. Explicit message frames that directly connected responsibility for obesity to either individual or societal factors had no effect on respondent perceptions. Findings suggest explicit arguments may be less effective in shifting perceptions of health threats than arguments embedded in agentic message frames. The results demonstrate specific message features that influence how people attribute responsibility for the onset and solution of obesity.
+AD  - a Department of Communication Studies , University of North Texas.
+b Center for Health Communication, Department of Communication Studies , The University of Texas at Austin.
+AN  - 29388801
+AU  - McGlynn, J.
+AU  - McGlone, M. S.
+DA  - Jun
+DB  - Medline
+DO  - 10.1080/10410236.2018.1431025
+DP  - NLM
+ET  - 2018/02/02
+IS  - 7
+J2  - Health communication
+KW  - Adult
+Attitude
+Female
+Health Communication
+Humans
+Internal-External Control
+Male
+Obesity
+etiology
+genetics
+prevention & control
+Public Policy
+Social Perception
+LA  - eng
+N1  - 1532-7027
+McGlynn, Joseph
+Orcid: 0000-0002-8869-0629
+McGlone, Matthew S
+Orcid: 0000-0001-8252-2512
+Journal Article
+England
+Health Commun. 2019 Jun;34(7):689-701. doi: 10.1080/10410236.2018.1431025. Epub 2018 Feb 1.
+PY  - 2019
+SN  - 1041-0236
+SP  - 689-701
+ST  - Desire or Disease? Framing Obesity to Influence Attributions of Responsibility and Policy Support
+T2  - Health Commun
+TI  - Desire or Disease? Framing Obesity to Influence Attributions of Responsibility and Policy Support
+VL  - 34
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Patients with cancer represent an important proportion of intensive care unit (ICU) admissions. Oncologists and intensivists have distinct knowledge backgrounds, and conflicts about the appropriate management of these patients may emerge. METHODS: We surveyed oncologists and intensivists at 2 academic cancer centers regarding their management of 2 hypothetical patients with different cancer types (metastatic pancreatic cancer and metastatic breast cancer with positive receptors for estrogen, progesterone, and HER-2) who develop septic shock and multiple organ failure. RESULTS: Sixty intensivists and 46 oncologists responded to the survey. Oncologists and intensivists similarly favored withdrawal of life support measures for the patient with pancreatic cancer (33/46 [72%] vs 48/60 [80%], P = .45). On the other hand, intensivists favored more withdrawal of life support measures for the patient with breast cancer compared to oncologists (32/59 [54%] vs 9/44 [21%], P < .001). In the multinomial logistic regression, the oncology specialists were more likely to advocate for a full-code status for the patient with breast cancer (OR = 5.931; CI 95%, 1.762-19.956; P = .004). CONCLUSIONS: Oncologists and intensivists share different views regarding life support measures in critically ill patients with cancer. Oncologists tend to focus on the cancer characteristics, whereas intensivists focus on multiple organ failure when weighing in on the same decisions. Regular meetings between oncologists and intensivists may reduce possible conflicts regarding the critical care of patients with cancer.
+AD  - 1 Intensive Care Unit, A.C. Camargo Cancer Center, Sao Paulo, Brazil.
+2 Intensive Care Unit, Discipline of Medical Emergencies, Hospital das Clinicas, University of Sao Paulo, Sao Paulo, Brazil.
+3 Department of Oncology, A.C. Camargo Cancer Center, Sao Paulo, Brazil.
+4 Intensive Care Unit, Pio XII Foundation, Barretos Cancer Hospital, Barretos, Brazil.
+5 Barretos School of Health Sciences, Barretos, Brazil.
+6 Department of Palliative Care, Hospital Sirio Libanes, Sao Paulo, Brazil.
+7 Pulmonary Division, Heart Institute (InCor), Hospital das Clinicas, Faculdade de Medicina da Universidade de Sao Paulo, Sao Paulo, Brazil.
+AN  - 28675982
+AU  - Nassar, A. P., Jr.
+AU  - Dettino, A. L. A.
+AU  - Amendola, C. P.
+AU  - Dos Santos, R. A.
+AU  - Forte, D. N.
+AU  - Caruso, P.
+DA  - Oct
+DB  - Medline
+DO  - 10.1177/0885066617716105
+DP  - NLM
+ET  - 2017/07/06
+IS  - 10
+J2  - Journal of intensive care medicine
+KW  - Adult
+Attitude of Health Personnel
+Brazil
+Critical Care
+Female
+Health Care Surveys
+Humans
+Intensive Care Units
+Male
+Neoplasms
+therapy
+Oncologists
+psychology
+Practice Patterns, Physicians'
+statistics & numerical data
+LA  - eng
+N1  - 1525-1489
+Nassar, Antonio Paulo Jr
+Dettino, Aldo Lourenco Abadde
+Amendola, Cristina Prata
+Dos Santos, Rodrigo Alves
+Forte, Daniel Neves
+Caruso, Pedro
+Journal Article
+Multicenter Study
+United States
+cancer
+critical care
+decision-making
+mechanical ventilation
+mortality
+J Intensive Care Med. 2019 Oct;34(10):811-817. doi: 10.1177/0885066617716105. Epub 2017 Jul 5.
+PY  - 2019
+SN  - 0885-0666
+SP  - 811-817
+ST  - Oncologists' and Intensivists' Attitudes Toward the Care of Critically Ill Patients with Cancer
+T2  - J Intensive Care Med
+TI  - Oncologists' and Intensivists' Attitudes Toward the Care of Critically Ill Patients with Cancer
+VL  - 34
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AB  - Charcot-Marie-Tooth (CMT) disease, also referred to as hereditary motor and sensory neuropathy (HMSN), is a heterogeneous group of disorders which primarily affects the peripheral nervous system. Clinically, the main features are progressive muscle weakness seen distally, along with wasting seen predominantly in the anterior compartments of the lower legs. The disease can broadly be classified into two groups, CMT1 and CMT2-based on inheritance patterns, paired with anatomical or electrophysiological findings. It can be inherited in the autosomal dominant, X-linked and rarely, the autosomal recessive fashions. Here, we present an unusual case of autosomal recessive CMT disease, in four out of six children of unaffected parents in a family.
+AD  - Internal Medicine, Dow University of Health Sciences (DUHS), Karachi, PAK.
+Pediatrics, Dow University of Health Sciences (DUHS), Karachi, PAK.
+AN  - 31245205
+AU  - Nusrat, K.
+AU  - Mahmood, S.
+AU  - Raza, M.
+AU  - Marsia, S.
+AU  - Abbas, A.
+C2  - PMC6559384
+DA  - Apr 9
+DB  - PubMed-not-MEDLINE
+DO  - 10.7759/cureus.4417
+DP  - NLM
+ET  - 2019/06/28
+IS  - 4
+J2  - Cureus
+LA  - eng
+N1  - Nusrat, Khushboo
+Mahmood, Samar
+Raza, Mohammad
+Marsia, Shayan
+Abbas, Awais
+Case Reports
+United States
+autosomal recessive
+charcot-marie-tooth
+hereditary motor and sensory neuropathy
+neuropathy
+pakistan
+pediatrics
+peripheral nervous system
+pes cavus
+sural nerve biopsy
+Cureus. 2019 Apr 9;11(4):e4417. doi: 10.7759/cureus.4417.
+PY  - 2019
+SN  - 2168-8184 (Print)
+2168-8184
+SP  - e4417
+ST  - Affected Children of Healthy Parents: Multiple Pediatric Cases of Autosomal Recessive Charcot-Marie-Tooth Disease in a Pakistani Family
+T2  - Cureus
+TI  - Affected Children of Healthy Parents: Multiple Pediatric Cases of Autosomal Recessive Charcot-Marie-Tooth Disease in a Pakistani Family
+VL  - 11
+ID  - 22
+ER  - 
+
+TY  - CHAP
+AB  - Lisinopril is classified as an angiotensin-converting enzyme inhibitor and has been available for nearly three decades. Lisinopril has some key features that make it different from enalapril and captopril; 1) it has a long half-life, 2) it is hydrophilic, and 3) it is not broken down by the liver. Lisinopril is a competitive inhibitor of angiotensin-converting enzyme (ACE) and prevents the conversion of angiotensin I to angiotensin II, which is a potent vasoconstrictor. This activity covers lisinopril, including mechanism of action, pharmacology, adverse event profiles, eligible patient populations, monitoring, and highlights the role of the interprofessional team in the management of hypertension with lisinopril.
+AN  - 29489196
+AU  - Olvera Lopez, E.
+AU  - Parmar, M.
+AU  - Pendela, V. S.
+AU  - Terrell, J. M.
+CY  - Treasure Island (FL)
+LA  - eng
+N1  - Olvera Lopez, Edgardo
+Parmar, Mayur
+Pendela, Venkata Satish
+Terrell, Jamie M.
+Study Guide
+Book Chapter
+NBK482230 [bookaccession]
+PB  - StatPearls Publishing
+StatPearls Publishing LLC.
+PY  - 2022
+ST  - Lisinopril
+T2  - StatPearls
+TI  - Lisinopril
+ID  - 12
+ER  - 
+
+TY  - JOUR
+AB  - It has been proposed that the loudness dependence of auditory evoked potentials (LDAEP) would be a reliable indicator of central serotonin system activity in humans. Serotonin levels and turnover are also increased by brain-derived neurotrophic factor (BDNF). The aim of the present study was to determine whether there is an association between genetic polymorphisms of BDNF and the LDAEP in healthy Korean young adults. The cohort comprised 211 mentally and physically healthy subjects, all of whom were nonsmokers (111 males, 100 females; age: 20 approximately 32 years). To avoid hormonal effects, the LDAEP was measured during days 2-5 after the beginning of menstruation for female subjects. In addition, BDNF polymorphisms (rs6265, rs2030324, and rs1491850) were genotyped. The strength of the LDAEP differed significantly among the BDNF genotype groups. Furthermore, the distribution of genotypic frequencies differed significantly between subjects with high and low LDAEPs. In particular, subjects with the Val/Met (A/G) genotype for rs6265, the T/T genotype for rs2030324, or the C/C genotype for rs1491850 had a higher LDAEP, indicating lower central serotonergic activity. A low LDAEP was more prevalent than a high LDAEP among those with the C-T haplotype (C genotype for rs2030424 and T genotype for rs1491850). Our results concur with previous findings on BDNF polymorphisms and serotonergic drug responses in psychiatric disorder patients. The present results suggest the possibility that BDNF polymorphisms and LDAEP patterns can predict altered serotonergic activity.
+AD  - Department of Psychiatry, Inje University, Ilsan Paik Hospital, Goyang, Republic of Korea.
+AN  - 23593198
+AU  - Park, Y. M.
+AU  - Lee, S. H.
+AU  - Lee, H. J.
+AU  - Kang, S. G.
+AU  - Min, J. A.
+AU  - Chae, J. H.
+C2  - PMC3621878
+DB  - Medline
+DO  - 10.1371/journal.pone.0060340
+DP  - NLM
+ET  - 2013/04/18
+IS  - 4
+J2  - PloS one
+KW  - Adult
+Brain-Derived Neurotrophic Factor
+genetics
+Evoked Potentials, Auditory
+genetics
+Female
+Gene Frequency
+Genotype
+Haplotypes
+Humans
+Loudness Perception
+Male
+Polymorphism, Genetic
+Polymorphism, Single Nucleotide
+Serotonin
+metabolism
+Young Adult
+LA  - eng
+N1  - 1932-6203
+Park, Young-Min
+Lee, Seung-Hwan
+Lee, Heon-Jeong
+Kang, Seung-Gul
+Min, Jung-Ah
+Chae, Jeong-Ho
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+PLoS One. 2013 Apr 9;8(4):e60340. doi: 10.1371/journal.pone.0060340. Print 2013.
+PY  - 2013
+SN  - 1932-6203
+SP  - e60340
+ST  - Association between BDNF gene polymorphisms and serotonergic activity using loudness dependence of auditory evoked potentials in healthy subjects
+T2  - PLoS One
+TI  - Association between BDNF gene polymorphisms and serotonergic activity using loudness dependence of auditory evoked potentials in healthy subjects
+VL  - 8
+ID  - 26
+ER  - 
+
+TY  - JOUR
+AB  - AIM: To examine the effect of walking before dinner on 24-h glycemic control in individuals with type 2 diabetes using the standardized multi-site Exercise-Physical Activity and Diabetes Glucose Monitoring (E-PAraDiGM) Protocol. METHODS: Eighty participants were studied under two conditions (exercise vs. non-exercise control) separated by 72 h in a randomized crossover design. Each condition lasted 2 days during which standardized meals were provided. Exercise consisted of 50 min of treadmill walking at 5.0 km/h before the evening meal, while control involved 50 min of sitting. The primary outcome measure was mean glucose during the 24-h period following exercise (or sitting) measured by continuous glucose monitoring. RESULTS: Of the 80 participants who were initially randomized, 73 completed both exercise and control. Sixty-three participants [29 males, 34 females; age = 64 +/- 8 years, body mass index = 30.5 +/- 6.5 kg/m(2) and HbA1c = 51 +/- 8 mmol/mol (6.8 +/- 0.7%), mean +/- SD] complied with the standardized diets and had complete continuous glucose monitoring data. Exercise did not affect mean 24-h glucose compared to control (0.03 mmol/L; 95% CI - 0.17, 0.22, P = 0.778) but individual differences between conditions ranged from - 2.8 to +1.8 mmol/L. Exercise did not affect fasting glucose, postprandial glucose or glucose variability. Glucose concentrations measured by continuous glucose monitoring were reduced during the 50 min of walking in exercise compared to sitting in control (- 1.56 mmol/L; 95% CI - 2.18, - 0.95, p < 0.001). CONCLUSION: Contrary to previous acute exercise studies, 50 min of walking before dinner in the E-PAraDiGM protocol did not affect 24-h glucose profiles. However, highly heterogeneous responses to exercise were observed. TRIAL REGISTRATION: NCT02834689.
+AD  - Faculty of Kinesiology, Sport, and Recreation, and Alberta Diabetes Institute, University of Alberta, Edmonton, AB, T6G 2H9, Canada.
+School of Health and Exercise Sciences, Faculty of Health and Social Development, University of British Columbia - Okanagan, Kelowna, BC, V1V 1V7, Canada.
+Faculty of Physical Activity Sciences, Universite de Sherbrooke, Sherbrooke, QC, J1K 2R1, Canada.
+Research Center on Aging, CIUSSSE - CHUS, Sherbrooke, QC, J1H 4C4, Canada.
+Faculty of Kinesiology and Recreation Management, University of Manitoba, Winnipeg, MB, R3T 2N2, Canada.
+Augustana Faculty, University of Alberta, Camrose, AB, T4V 2R3, Canada.
+Faculty of Kinesiology, University of Calgary, Calgary, AB, T2N 1N4, Canada.
+Department of Kinesiology, McMaster University, Hamilton, ON, L8S 4K1, Canada.
+Department of Medicine, Universite Laval, Quebec City, QC, G1V 0A6, Canada.
+Department of Agriculture and Food Science, Universite Laval, Quebec City, QC, G1V 0A6, Canada.
+DREAM Research Theme, Children's Hospital Research Institute of Manitoba, Winnipeg, MB, R3E 3P4, Canada.
+Departments of Medicine, Cardiac Sciences and Community Health Sciences, Faculties of Medicine and Kinesiology, University of Calgary, Calgary, AB, T2N 1N4, Canada.
+Department of Agricultural, Food and Nutritional Science, University of Alberta, Edmonton, AB, T6G 2E1, Canada.
+Faculty of Health and Medical Sciences, University of Surrey, Guilford, GU2 7WG, UK.
+Centre for Health Evaluation and Outcome Sciences, University of British Columbia, Vancouver, BC, V6Z 1Y6, Canada.
+Faculty of Kinesiology, Sport, and Recreation, and Alberta Diabetes Institute, University of Alberta, Edmonton, AB, T6G 2H9, Canada. nboule@ualberta.ca.
+School of Health and Exercise Sciences, Faculty of Health and Social Development, University of British Columbia - Okanagan, Kelowna, BC, V1V 1V7, Canada. jonathan.little@ubc.ca.
+AN  - 31093764
+AU  - Rees, J. L.
+AU  - Chang, C. R.
+AU  - Francois, M. E.
+AU  - Marcotte-Chenard, A.
+AU  - Fontvieille, A.
+AU  - Klaprat, N. D.
+AU  - Dyck, R. A.
+AU  - Funk, D. R.
+AU  - Snydmiller, G.
+AU  - Bastell, K.
+AU  - Godkin, F. E.
+AU  - Dube, M. C.
+AU  - Riesco, E.
+AU  - McGavock, J. M.
+AU  - Yardley, J. E.
+AU  - Sigal, R. J.
+AU  - Gibala, M. J.
+AU  - Weisnagel, S. J.
+AU  - Prado, C. M.
+AU  - Jung, M.
+AU  - Manders, R.
+AU  - Lee, T.
+AU  - Singer, J.
+AU  - Boule, N. G.
+AU  - Little, J. P.
+C1  - ClinicalTrials.gov/NCT02834689
+DA  - Jul
+DB  - Medline
+DO  - 10.1007/s00592-019-01358-x
+DP  - NLM
+ET  - 2019/05/17
+IS  - 7
+J2  - Acta diabetologica
+KW  - Adult
+Aged
+Blood Glucose
+metabolism
+Blood Glucose Self-Monitoring
+Cross-Over Studies
+Diabetes Mellitus, Type 2
+blood
+diagnosis
+therapy
+Exercise
+physiology
+Exercise Test
+Female
+Humans
+Male
+Meals
+Middle Aged
+Postprandial Period
+physiology
+Time Factors
+Walking
+physiology
+LA  - eng
+N1  - 1432-5233
+Rees, Jordan L
+Chang, Courtney R
+Francois, Monique E
+Marcotte-Chenard, Alexis
+Fontvieille, Adeline
+Klaprat, Nika D
+Dyck, Rebecca A
+Funk, Deanna R
+Snydmiller, Gary
+Bastell, Kent
+Godkin, Florence E
+Dube, Marie-Christine
+Riesco, Eleonor
+McGavock, Jon M
+Yardley, Jane E
+Sigal, Ronald J
+Gibala, Martin J
+Weisnagel, S John
+Prado, Carla M
+Jung, Mary
+Manders, Ralph
+Lee, Terry
+Singer, Joel
+Boule, Normand G
+ORCID: http://orcid.org/0000-0003-0256-702X
+Little, Jonathan P
+ORCID: http://orcid.org/0000-0002-9796-2008
+334972/cihr
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Germany
+Continuous glucose monitoring
+Glycemic control
+Physical activity
+Type 2 diabetes
+Walking
+Acta Diabetol. 2019 Jul;56(7):755-765. doi: 10.1007/s00592-019-01358-x. Epub 2019 May 15.
+PY  - 2019
+SN  - 0940-5429
+SP  - 755-765
+ST  - Minimal effect of walking before dinner on glycemic responses in type 2 diabetes: outcomes from the multi-site E-PAraDiGM study
+T2  - Acta Diabetol
+TI  - Minimal effect of walking before dinner on glycemic responses in type 2 diabetes: outcomes from the multi-site E-PAraDiGM study
+VL  - 56
+ID  - 32
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The current study aims to evaluate the effect of the use of single packet of levonorgestrel emergency contraceptive pills (LNG-ECPs) during breastfeeding on the health and development of the nursing infant. MATERIALS AND METHODS: The current study was an ancillary observational cohort study carried out in a university hospital. We counseled all women delivered and planning birth-space and breastfeed for at least 1 year for participation during postpartum hospital stay. Eligible participants for inclusion in the randomized controlled trial (NCT01111929) were allocated to receive adequate Lactational Amenorrhea Method (LAM) counseling (LAM-only group) or the LAM counseling in addition to counseling about LNG-ECPs use (LAM + emergency contraception (EC) group). These pills were to be used once if unprotected intercourse did occur after expiry of any of the LAM prerequisites and before the couples started to use a reliable method of contraception. We included the first 100 women in the LAM + EC who did use the pills and the first 100 women in the control group who completed the follow-up visits for 6 months to draw the infants' outcome. The primary outcome was the difference of anthropometric measurements of the infants at 3 and 6 months postpartum. Secondary outcome was the difference in the Psycho-social, fine and gross motor, and language development using Denver development screening test. RESULTS: There were no statistical significant differences between both the groups regarding the infants' weight, length, head circumference, chest circumference, and mid-arm circumference at each visit (p > .05). Additionally, there were no statistically significant differences regarding all items (psycho-social, fine and gross motor, and language) of Denver development screening test between the infants in LAM-only and LAM + EC groups (p = .081). CONCLUSIONS: The use of single packet of LNG-ECPs during breastfeeding not objectively affects health and development of nursing infants or subjectively affects the quantity of breast milk.
+AD  - a Department of Obstetrics and Gynecology , Faculty of Medicine, Assiut University , Assiut , Egypt.
+b Department of Obstetric and Gynecological Nursing , Faculty of Nursing, Assiut University , Assiut , Egypt.
+c Department of Pediatrics, Faculty of Medicine , Assiut University , Assiut , Egypt.
+AN  - 29463142
+AU  - Shaaban, O. M.
+AU  - Abbas, A. M.
+AU  - Mahmoud, H. R.
+AU  - Yones, E. M.
+AU  - Mahmoud, A.
+AU  - Zakherah, M. S.
+DA  - Aug
+DB  - Medline
+DO  - 10.1080/14767058.2018.1439470
+DP  - NLM
+ET  - 2018/02/22
+IS  - 15
+J2  - The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians
+KW  - Adult
+Breast Feeding
+Child Development
+drug effects
+Cohort Studies
+Contraception, Postcoital
+adverse effects
+Contraceptive Agents, Female
+adverse effects
+Female
+Humans
+Infant
+Levonorgestrel
+adverse effects
+LA  - eng
+N1  - 1476-4954
+Shaaban, Omar M
+Abbas, Ahmed M
+Mahmoud, Hanaa R
+Yones, Entsar M
+Mahmoud, Ahmed
+Zakherah, Mahmoud S
+Journal Article
+Observational Study
+Randomized Controlled Trial
+England
+*Breastfeeding
+*emergency contraception
+*infant growth
+*postpartum contraception
+J Matern Fetal Neonatal Med. 2019 Aug;32(15):2524-2528. doi: 10.1080/14767058.2018.1439470. Epub 2018 Feb 20.
+PY  - 2019
+SN  - 1476-4954
+SP  - 2524-2528
+ST  - Levonorgestrel emergency contraceptive pills use during breastfeeding; effect on infants' health and development
+T2  - J Matern Fetal Neonatal Med
+TI  - Levonorgestrel emergency contraceptive pills use during breastfeeding; effect on infants' health and development
+VL  - 32
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - It has become increasingly clear that "simple" recessive disorders provide unique insight into the complexities of common diseases. For years, research on Gaucher disease, a rare inherited disorder resulting from a deficiency of the lysosomal enzyme glucocerebrosidase, focused on its cell pathology and genetic basis. Clinical research showed that Gaucher disease manifests with broad phenotypic variation typical of many metabolic disorders, ranging from neonatal lethality to asymptomatic octogenarians. This clinical spectrum now overlaps with different disorders including Parkinson's disease and other Lewy body disorders, myoclonic epilepsy, and infantile neurodegenerative disorders. In fact, unraveling the factors contributing to heterogeneity in a single gene disorder may have a direct impact on studies of the pathophysiology and therapeutic options available for these more common and complex neurologic diseases.
+AD  - Medical Genetics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD 20892, USA. sidranse@mail.nih.gov
+AN  - 23114583
+AU  - Sidransky, E.
+C2  - PMC4141347
+C6  - NIHMS613030
+DA  - Oct
+DB  - Medline
+DP  - NLM
+ET  - 2012/11/02
+IS  - 77
+J2  - Discovery medicine
+KW  - Gaucher Disease
+enzymology
+genetics
+metabolism
+Glucosylceramidase
+genetics
+metabolism
+Humans
+Mutation
+Parkinson Disease
+enzymology
+genetics
+metabolism
+LA  - eng
+N1  - 1944-7930
+Sidransky, Ellen
+Z99 HG999999/ImNIH/Intramural NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Intramural
+Review
+United States
+Discov Med. 2012 Oct;14(77):273-81.
+PY  - 2012
+SN  - 1539-6509
+SP  - 273-81
+ST  - Gaucher disease: insights from a rare Mendelian disorder
+T2  - Discov Med
+TI  - Gaucher disease: insights from a rare Mendelian disorder
+VL  - 14
+ID  - 25
+ER  - 
+
+TY  - JOUR
+AB  - We report a case of a 46-year-old woman with fever, pleural effusion, massive ascites, severe edema, hepatosplenomegaly, elevation of serum creatinine level, proteinuria, and severe thrombocytopenia. Her clinical features were compatible with TAFRO syndrome proposed as a variant of multicentric Castleman's disease, that is occasionally associated with poor prognosis. Treatment with corticosteroid improved her symptoms partially. However, thrombocytopenia, ascites, and edema persisted. The use of cyclosporine A successfully improved her condition, resulting in remission.
+AD  - a Department of Internal Medicine , NTT East Tohoku Hospital , Sendai , Japan and.
+b Department of Rheumatology , NTT East Tohoku Hospital , Sendai , Japan.
+AN  - 27413814
+AU  - Takasawa, N.
+AU  - Sekiguchi, Y.
+AU  - Takahashi, T.
+AU  - Muryoi, A.
+AU  - Satoh, J.
+AU  - Sasaki, T.
+DA  - Jan
+DB  - Medline
+DO  - 10.1080/14397595.2016.1206243
+DP  - NLM
+ET  - 2016/07/15
+IS  - 1
+J2  - Modern rheumatology
+KW  - Adrenal Cortex Hormones
+administration & dosage
+therapeutic use
+Castleman Disease
+diagnosis
+drug therapy
+Cyclosporine
+administration & dosage
+therapeutic use
+Female
+Humans
+Immunosuppressive Agents
+administration & dosage
+therapeutic use
+Middle Aged
+LA  - eng
+N1  - 1439-7609
+Takasawa, Naruhiko
+Sekiguchi, Yukio
+Takahashi, Tsuneyuki
+Muryoi, Akira
+Satoh, Jo
+Sasaki, Takeshi
+Case Reports
+Journal Article
+England
+Corticosteroid
+Cyclosporine A
+Multicentric Castleman's disease
+TAFRO syndrome
+Mod Rheumatol. 2019 Jan;29(1):198-202. doi: 10.1080/14397595.2016.1206243. Epub 2016 Jul 14.
+PY  - 2019
+SN  - 1439-7595
+SP  - 198-202
+ST  - A case of TAFRO syndrome, a variant of multicentric Castleman's disease, successfully treated with corticosteroid and cyclosporine A
+T2  - Mod Rheumatol
+TI  - A case of TAFRO syndrome, a variant of multicentric Castleman's disease, successfully treated with corticosteroid and cyclosporine A
+VL  - 29
+ID  - 2
+ER  - 
+
+TY  - JOUR
+AB  - AIM: The primary aim was to demonstrate adherence to a novel 6-week lifestyle intervention program ("Meals, Mindfulness, & Moving Forward" [M(3) ]) designed to help improve lifestyle practices of youth with a history of at least 1 psychotic episode. METHODS: M(3) used a non-equivalent control group design involving clients from a community early intervention program. Seventeen individuals in the active M(3) program and 16 controls were assessed for secondary outcomes at baseline, 6-weeks, and 12-weeks (6 weeks post-intervention) on cardiometabolic and symptomatic outcomes. RESULTS: The program met its primary aim with 88% (15/17) of participants meeting adherence criteria. Compared with the controls, M(3) participants showed significant improvement in positive psychotic symptoms (P = .002). CONCLUSION: This pilot study showed that young people involved in a community early intervention program adhered to an activity-based lifestyle program which included mindfulness meditation, yoga and nutrition education, warranting further evaluation with a larger sample size.
+AD  - Department of Psychiatry, Oregon Health & Science University, Portland, Oregon.
+Department of Neurology, Oregon Health & Science University, Portland, Oregon.
+Helfgott Research Institute, National University of Natural Medicine, Portland, Oregon.
+Regional Research Institute - Social Work, Portland State University, Portland, Oregon.
+University of Hawaii at Manoa, Manoa, Hawaii.
+AN  - 29512356
+AU  - Usher, C.
+AU  - Thompson, A.
+AU  - Griebeler, M.
+AU  - Senders, A.
+AU  - Seibel, C.
+AU  - Ly, R.
+AU  - Murchison, C.
+AU  - Hagen, K.
+AU  - Afong, K. A.
+AU  - Bourdette, D.
+AU  - Ross, R.
+AU  - Borgatti, A.
+AU  - Shinto, L.
+DA  - Feb
+DB  - Medline
+DO  - 10.1111/eip.12546
+DP  - NLM
+ET  - 2018/03/08
+IS  - 1
+J2  - Early intervention in psychiatry
+KW  - Adolescent
+Adult
+Case-Control Studies
+Diet
+Early Medical Intervention
+methods
+Feasibility Studies
+Female
+Humans
+Life Style
+Male
+Meditation
+Mindfulness
+Patient Compliance
+psychology
+Patient Education as Topic
+Pilot Projects
+Psychotic Disorders
+psychology
+therapy
+Yoga
+LA  - eng
+N1  - 1751-7893
+Usher, Craigan
+Thompson, Andie
+Griebeler, Meridith
+Senders, Angela
+Seibel, Celeste
+Ly, Richard
+Murchison, Charles
+Hagen, Kirsten
+Afong, Keith-Allen
+Bourdette, Dennis
+Ross, Rachel
+Borgatti, Alena
+Shinto, Lynne
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Australia
+*cardiovascular disease
+*diet
+*exercise
+*mind body
+*psychotic disorders
+Early Interv Psychiatry. 2019 Feb;13(1):147-150. doi: 10.1111/eip.12546. Epub 2018 Mar 7.
+PY  - 2019
+SN  - 1751-7885
+SP  - 147-150
+ST  - Meals, Mindfulness, & Moving Forward: A feasibility study to a multi-modal lifestyle approach in early psychosis
+T2  - Early Interv Psychiatry
+TI  - Meals, Mindfulness, & Moving Forward: A feasibility study to a multi-modal lifestyle approach in early psychosis
+VL  - 13
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The aim of this study is to understand how ADHD symptoms correlate with romantic relationship maintenance and test theoretical pathways by which symptoms of ADHD lead to relationship difficulties. METHOD: This study involved two phases of data collection, which were identical except for the population. Phase 1 ( n = 172) was a nonclinical sample of romantically involved young adults. Phase 2 ( n = 39) was a clinical sample of romantically involved young adults with ADHD. Participants in both phases reported on their levels of inattention and hyperactivity-impulsivity, their relationship maintenance activities, and their relationship quality. RESULTS: ADHD symptoms were associated with greater relationship difficulties. In both samples, inattentive symptoms were associated with greater interest in relational alternatives and less constructive responses to partner's bad behaviors, whereas hyperactive-impulsive symptoms were associated with negative responses to bad behavior. CONCLUSION: The results of this study have implications for developing cognitive-behavioral therapy interventions targeting relationship difficulties in young adults with ADHD.
+AD  - 1 Syracuse University, NY, USA.
+AN  - 28490222
+AU  - VanderDrift, L. E.
+AU  - Antshel, K. M.
+AU  - Olszewski, A. K.
+DA  - Jul
+DB  - Medline
+DO  - 10.1177/1087054717707043
+DP  - NLM
+ET  - 2017/05/12
+IS  - 9
+J2  - Journal of attention disorders
+KW  - Attention Deficit Disorder with Hyperactivity
+Cognition
+Humans
+Impulsive Behavior
+Young Adult
+LA  - eng
+N1  - 1557-1246
+VanderDrift, Laura E
+Antshel, Kevin M
+Olszewski, Amy K
+Journal Article
+United States
+Adhd
+hyperactivity
+impulsivity
+inattention
+relationship maintenance
+romantic relationships
+J Atten Disord. 2019 Jul;23(9):985-994. doi: 10.1177/1087054717707043. Epub 2017 May 10.
+PY  - 2019
+SN  - 1087-0547
+SP  - 985-994
+ST  - Inattention and Hyperactivity-Impulsivity: Their Detrimental Effect on Romantic Relationship Maintenance
+T2  - J Atten Disord
+TI  - Inattention and Hyperactivity-Impulsivity: Their Detrimental Effect on Romantic Relationship Maintenance
+VL  - 23
+ID  - 4
+ER  - 
+
+TY  - JOUR
+AB  - Hysteresis exists ubiquitously in physical actuators. Besides, actuator failures/faults may also occur in practice. Both effects would deteriorate the transient tracking performance, and even trigger instability. In this paper, we consider the problem of compensating for actuator failures and input hysteresis by proposing a fuzzy control scheme for stochastic nonlinear systems. Compared with the existing research on stochastic nonlinear uncertain systems, it is found that how to guarantee a prescribed transient tracking performance when taking into account actuator failures and hysteresis simultaneously also remains to be answered. Our proposed control scheme is designed on the basis of the fuzzy logic system and backstepping techniques for this purpose. It is proven that all the signals remain bounded and the tracking error is ensured to be within a preestablished bound with the failures of hysteretic actuator. Finally, simulations are provided to illustrate the effectiveness of the obtained theoretical results.
+AN  - 29035236
+AU  - Wang, J.
+AU  - Liu, Z.
+AU  - Chen, C. L. P.
+AU  - Zhang, Y.
+DA  - Jan
+DB  - PubMed-not-MEDLINE
+DO  - 10.1109/tcyb.2017.2758025
+DP  - NLM
+ET  - 2017/10/17
+IS  - 1
+J2  - IEEE transactions on cybernetics
+LA  - eng
+N1  - 2168-2275
+Wang, Jianhui
+Liu, Zhi
+Chen, C L Philip
+Zhang, Yun
+Journal Article
+United States
+IEEE Trans Cybern. 2019 Jan;49(1):2-13. doi: 10.1109/TCYB.2017.2758025. Epub 2017 Oct 12.
+PY  - 2019
+SN  - 2168-2267
+SP  - 2-13
+ST  - Fuzzy Adaptive Compensation Control of Uncertain Stochastic Nonlinear Systems With Actuator Failures and Input Hysteresis
+T2  - IEEE Trans Cybern
+TI  - Fuzzy Adaptive Compensation Control of Uncertain Stochastic Nonlinear Systems With Actuator Failures and Input Hysteresis
+VL  - 49
+ID  - 6
+ER  - 
+
+TY  - JOUR
+AB  - In the zwitterionic title compound, C(16)H(12)N(2)O, the dihedral angle between the benzene ring and naphthalene ring system is 2.0 (1) degrees . The azo group adopts a trans configuration and an intra-molecular N-Hcdots, three dots, centeredO hydrogen bond is found. In the crystal, the mol-ecules are packed by strong pi-pi inter-actions [centroid-centroid distance between aromatic rings = 3.375 (3) A].
+AD  - Hubei Key Laboratory of Pollutant Analysis & Reuse Technology, College of Chemistry and Environmental Engineering, Hubei Normal University, Huangshi, Hubei 435002, People's Republic of China.
+AN  - 21587968
+AU  - Xu, J. J.
+AU  - Li, J.
+AU  - Pi, M.
+AU  - Jin, C. M.
+C2  - PMC3006992
+DA  - Jun 23
+DB  - PubMed-not-MEDLINE
+DO  - 10.1107/s1600536810023329
+DP  - NLM
+ET  - 2010/01/01
+IS  - Pt 7
+J2  - Acta crystallographica. Section E, Structure reports online
+LA  - eng
+N1  - 1600-5368
+Xu, Ji-Jun
+Li, Jun
+Pi, Min
+Jin, Chuan-Ming
+Journal Article
+United States
+Acta Crystallogr Sect E Struct Rep Online. 2010 Jun 23;66(Pt 7):o1752. doi: 10.1107/S1600536810023329.
+PY  - 2010
+SN  - 1600-5368
+SP  - o1752
+ST  - 1-[(Phenyl-iminio)amino]-2-naphtho-late
+T2  - Acta Crystallogr Sect E Struct Rep Online
+TI  - 1-[(Phenyl-iminio)amino]-2-naphtho-late
+VL  - 66
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - In this study, we reported a jellyfish-derived Kazal-type serine protease inhibitor, named CcKPI1, from Cyanea capillata. CcKPI1 has a calculated molecular mass of 19.02kDa and contains three typical Kazal domains. Soluble recombinant CcKPI1 (rCcKPI1) was successfully expressed and purified. rCcKPI1 exhibited significant inhibitory activities against elastase, subtilisin A and proteinase K, but not against trypsin or chymotrypsin. Kinetic studies showed that all of the inhibitory effects of rCcKPI1 were competitive, indicating that it may be a microbial serine protease inhibitor and can exhibit antimicrobial activity. As predicted, rCcKPI1 directly bound to various microorganisms, including the Gram-positive bacteria Staphylococcus aureus and Bacillus subtilis, Gram-negative bacteria Escherichia coli, marine pathogenic vibrios Vibrio vulnificus, Vibrio cholerae, Vibrio natriegens, Vibrio mimicus, Vibrio alginolyticus and Vibrio parahaemolyticus, and fungi Candida albicans, Candida parapsilokis and Candida glabrata. In addition, rCcKPI1 inhibited the growth of most of the tested microorganisms that it bound to. These findings indicate that CcKPI1 possesses marked antibacterial and antifungal activities and may play an important role in the immune defence of C. capillata, providing a novel view for the understanding of the immune system of jellyfish and also facilitating future research on antimicrobial agents from marine natural products.
+AD  - Marine Bio-pharmaceutical Institute, Second Military Medical University, Shanghai 200433, China; Department of Marine Biotechnology, Faculty of Naval Medicine, Second Military Medical University, Shanghai 200433, China.
+Department of Gynecology, Third Affiliated Hospital, Second Military Medical University, Shanghai 200433, China. Electronic address: heqian@smmu.edu.cn.
+Marine Bio-pharmaceutical Institute, Second Military Medical University, Shanghai 200433, China; Department of Marine Biotechnology, Faculty of Naval Medicine, Second Military Medical University, Shanghai 200433, China. Electronic address: lmzhang@smmu.edu.cn.
+AN  - 29054522
+AU  - Zhou, Y.
+AU  - Liu, G.
+AU  - Cheng, X.
+AU  - Wang, Q.
+AU  - Wang, B.
+AU  - Wang, B.
+AU  - Zhang, H.
+AU  - He, Q.
+AU  - Zhang, L.
+DA  - Feb
+DB  - Medline
+DO  - 10.1016/j.ijbiomac.2017.10.069
+DP  - NLM
+ET  - 2017/10/22
+IS  - Pt B
+J2  - International journal of biological macromolecules
+KW  - Amino Acid Sequence
+Animals
+Anti-Infective Agents
+pharmacology
+Bacteria
+drug effects
+growth & development
+Base Sequence
+DNA, Complementary
+genetics
+Gene Expression Profiling
+Kinetics
+Microbial Sensitivity Tests
+Phylogeny
+Recombinant Proteins
+metabolism
+Scyphozoa
+metabolism
+Sequence Analysis, DNA
+Sequence Homology, Amino Acid
+Serine Proteinase Inhibitors
+chemistry
+genetics
+metabolism
+pharmacology
+LA  - eng
+N1  - 1879-0003
+Zhou, Yonghong
+Liu, Guoyan
+Cheng, Xi
+Wang, Qianqian
+Wang, Bo
+Wang, Beilei
+Zhang, Hui
+He, Qian
+Zhang, Liming
+Journal Article
+Netherlands
+Antimicrobial agents
+Cyanea capillata
+Jellyfish
+Kpi
+Int J Biol Macromol. 2018 Feb;107(Pt B):1945-1955. doi: 10.1016/j.ijbiomac.2017.10.069. Epub 2017 Oct 17.
+PY  - 2018
+SN  - 0141-8130
+SP  - 1945-1955
+ST  - Antimicrobial activity of a newly identified Kazal-type serine proteinase inhibitor, CcKPI1, from the jellyfish Cyanea capillata
+T2  - Int J Biol Macromol
+TI  - Antimicrobial activity of a newly identified Kazal-type serine proteinase inhibitor, CcKPI1, from the jellyfish Cyanea capillata
+VL  - 107
+ID  - 31
+ER  - 
+
