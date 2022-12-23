@@ -18,6 +18,7 @@ Imports:
     magrittr,
     purrr,
     quanteda,
+    revtools,
     rlang,
     stats,
     stringr,

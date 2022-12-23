@@ -11,6 +11,7 @@
 #' @importFrom purrr pluck
 #' @importFrom quanteda corpus
 #' @importFrom quanteda docnames
+#' @importFrom revtools [.bibliography
 #' @importFrom rlang set_names
 #' @importFrom stats frequency
 #' @importFrom stats xtabs
