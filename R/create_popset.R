@@ -14,7 +14,7 @@
 #' create_popset(expected.ris)
 #' }
 
-create_popset <- function(risfile, vocabulary){
+create_popset <- function(risfile, vocabulary = "MeSH"){
   popset_ref <- read_bibliography(risfile, return_df = F)
   popset_df <- create_corpus(popset_ref)
   popset_df <- prepare_freq_table(popset_df)
