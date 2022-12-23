@@ -18,5 +18,8 @@ a list of objects
 Process raw Endnote ris file with PubMed data into population norm set
 }
 \examples{
-create_popset(some_file.ris)
+# import a risfile
+\dontrun{
+create_popset(expected.ris)
+}
 }

@@ -15,4 +15,13 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     dplyr,
-    rlang
+    magrittr,
+    purrr,
+    quanteda,
+    rlang,
+    stats,
+    stringr,
+    tidyr,
+    tidyselect,
+    utils,
+    withr

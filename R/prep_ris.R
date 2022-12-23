@@ -72,3 +72,38 @@ prep_ris <- function (z, delimiter)
   z_dframe <- as.data.frame(do.call(rbind, z_split))
   return(z_dframe)
 }
+
+
+detect_delimiter <- function (x)
+{
+  if (any(grepl("^ER", x))) {
+    delimiter <- "endrow"
+  }
+  else {
+    char_list <- strsplit(x, "")
+    char_break_test <- unlist(lapply(char_list, function(a) {
+      length(unique(a)) == 1 & length(a > 6)
+    }))
+    if (any(char_break_test)) {
+      delimiter <- "character"
+    }
+    else {
+      space_break_check <- unlist(lapply(char_list, function(a) {
+        all(a == "" | a == " ")
+      }))
+      if (any(space_break_check)) {
+        delimiter <- "space"
+      }
+      else {
+        stop("import failed: unknown reference delimiter")
+      }
+    }
+  }
+  return(delimiter)
+}
+
+rollingsum <- function (a, n = 2L)
+{
+  tail(cumsum(a) - cumsum(c(rep(0, n), head(a, -n))), -n +
+         1)
+}

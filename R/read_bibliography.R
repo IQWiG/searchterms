@@ -14,7 +14,7 @@ read_bibliography<- function (filename, return_df = TRUE)
   nrows <- min(c(200, length(z)))
   zsub <- z[seq_len(nrows)]
   tag_type <- "ris"
-  z_dframe <- prep_ris(z, revtools:::detect_delimiter(zsub))
+  z_dframe <- prep_ris(z, detect_delimiter(zsub))
   if (any(z_dframe$ris == "PMID")) {
     result <- read_medline(z_dframe)
   }

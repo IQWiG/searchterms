@@ -9,7 +9,11 @@
 #' @importFrom dplyr rename
 #' @importFrom dplyr select
 #' @importFrom rlang set_names
-#' @examples create_popset(some_file.ris)
+#' @examples # import a risfile
+#' \dontrun{
+#' create_popset(expected.ris)
+#' }
+
 create_popset <- function(risfile, vocabulary){
   popset_ref <- read_bibliography(risfile, return_df = F)
   popset_df <- create_corpus(popset_ref)
