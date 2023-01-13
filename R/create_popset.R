@@ -3,16 +3,12 @@
 #' @param risfile a RIS file produced with Endnote
 #' @param vocabulary the name of the controlled vocabularay, usually "MeSH"
 #'
-#' @return a list of objects
-#' @export create_popset
+#' @returns popset a list of objects
+#'
 #' @importFrom dplyr mutate
 #' @importFrom dplyr rename
 #' @importFrom dplyr select
 #' @importFrom rlang set_names
-#' @examples # import a risfile
-#' \dontrun{
-#' create_popset(expected.ris)
-#' }
 
 create_popset <- function(risfile, vocabulary = "MeSH"){
   popset_ref <- read_bibliography(risfile, return_df = F)

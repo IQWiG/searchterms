@@ -12,14 +12,8 @@ create_popset(risfile, vocabulary = "MeSH")
 \item{vocabulary}{the name of the controlled vocabularay, usually "MeSH"}
 }
 \value{
-a list of objects
+popset a list of objects
 }
 \description{
 Process raw Endnote ris file with PubMed data into population norm set
-}
-\examples{
-# import a risfile
-\dontrun{
-create_popset(expected.ris)
-}
 }

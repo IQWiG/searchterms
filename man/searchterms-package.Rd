@@ -9,7 +9,7 @@
 R Package to identify search terms in evidence synthesis with quantitative textual analysis.
 }
 \author{
-\strong{Maintainer}: Claudia Kapp \email{claudia.kapp@outlook.de} (\href{https://orcid.org/0000-0002-7111-1897}{ORCID})
+\strong{Maintainer}: Claudia Kapp \email{claudia.kapp@iqwig.de} (\href{https://orcid.org/0000-0002-7111-1897}{ORCID})
 
 }
 \keyword{internal}

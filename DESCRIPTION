@@ -2,7 +2,7 @@ Package: searchterms
 Title: Identify Search Terms in Evidence Synthesis 
 Version: 0.0.0.9000
 Authors@R: 
-    person("Claudia", "Kapp", , "claudia.kapp@outlook.de", role = c("aut", "cre"),
+    person("Claudia", "Kapp", , "claudia.kapp@iqwig.de", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-7111-1897"))
 Description: R Package to identify search terms in evidence synthesis with quantitative textual analysis.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
