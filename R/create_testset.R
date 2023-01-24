@@ -1,4 +1,4 @@
-create_testset <- function(risfile, vocabulary = "MeSH", dev_set = FALSE, project_name = TRUE, seed = NULL) {
+create_testset <- function(risfile, dev_set = FALSE, project_name = TRUE, seed = NULL) {
   #!!!!!!!!!!!! PRÜFEN###############################
 
   testset_ref <- read_bibliography(risfile, return_df = F)
@@ -57,9 +57,6 @@ create_testset <- function(risfile, vocabulary = "MeSH", dev_set = FALSE, projec
                      "PMIDS" = pmids,
                      "reference.list" = testset_ref,
                      "text_corpus" = testset_corpus)
-  }
-  if(vocabulary != "MeSH"){
-    set_names(testset["MeSH.Terms"], "keywords")
   }
   return(testset)
 }
