@@ -1,0 +1,1367 @@
+﻿TY  - JOUR
+AB  - BACKGROUND AND PURPOSE: Aquatic physical therapy is frequently used in the management of patients with hip and knee osteoarthritis (OA), yet there is little research establishing its efficacy for this population. The purpose of this study was to evaluate the effects of aquatic physical therapy on hip or knee OA. SUBJECTS: A total of 71 volunteers with symptomatic hip OA or knee OA participated in this study. METHODS: The study was designed as a randomized controlled trial in which participants randomly received 6 weeks of aquatic physical therapy or no aquatic physical therapy. Outcome measures included pain, physical function, physical activity levels, quality of life, and muscle strength. RESULTS: The intervention resulted in less pain and joint stiffness and greater physical function, quality of life, and hip muscle strength. Totals of 72% and 75% of participants reported improvements in pain and function, respectively, compared with only 17% (each) of control participants. Benefits were maintained 6 weeks after the completion of physical therapy, with 84% of participants continuing independently. DISCUSSION AND CONCLUSION: Compared with no intervention, a 6-week program of aquatic physical therapy resulted in significantly less pain and improved physical function, strength, and quality of life. It is unclear whether the benefits were attributable to intervention effects or a placebo response.
+AD  - Centre for Health Exercise and Sports Medicine, University of Melbourne, Melbourne, Victoria, Australia. ranash@unimelb.edu.au
+AN  - 17142642
+AU  - Hinman, R. S.
+AU  - Heywood, S. E.
+AU  - Day, A. R.
+DA  - Jan
+DB  - Medline
+DO  - 10.2522/ptj.20060006
+DP  - NLM
+ET  - 2006/12/05
+IS  - 1
+J2  - Physical therapy
+KW  - Exercise Therapy
+methods
+Female
+Gait
+Humans
+Male
+Middle Aged
+Muscle Strength
+Osteoarthritis, Hip
+therapy
+Osteoarthritis, Knee
+therapy
+Pain Management
+Postural Balance
+Quality of Life
+Single-Blind Method
+Water
+LA  - eng
+N1  - Hinman, Rana S
+Heywood, Sophie E
+Day, Anthony R
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Phys Ther. 2007 Jan;87(1):32-43. doi: 10.2522/ptj.20060006. Epub 2006 Dec 1.
+PY  - 2007
+SN  - 0031-9023 (Print)
+0031-9023
+SP  - 32-43
+ST  - Aquatic physical therapy for hip and knee osteoarthritis: results of a single-blind randomized controlled trial
+T2  - Phys Ther
+TI  - Aquatic physical therapy for hip and knee osteoarthritis: results of a single-blind randomized controlled trial
+VL  - 87
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine the effectiveness of a manual therapy program compared with an exercise therapy program in patients with osteoarthritis (OA) of the hip. METHODS: A single-blind, randomized clinical trial of 109 hip OA patients was carried out in the outpatient clinic for physical therapy of a large hospital. The manual therapy program focused on specific manipulations and mobilization of the hip joint. The exercise therapy program focused on active exercises to improve muscle function and joint motion. The treatment period was 5 weeks (9 sessions). The primary outcome was general perceived improvement after treatment. Secondary outcomes included pain, hip function, walking speed, range of motion, and quality of life. RESULTS: Of 109 patients included in the study, 56 were allocated to manual therapy and 53 to exercise therapy. No major differences were found on baseline characteristics between groups. Success rates (primary outcome) after 5 weeks were 81% in the manual therapy group and 50% in the exercise group (odds ratio 1.92, 95% confidence interval 1.30, 2.60). Furthermore, patients in the manual therapy group had significantly better outcomes on pain, stiffness, hip function, and range of motion. Effects of manual therapy on the improvement of pain, hip function, and range of motion endured after 29 weeks. CONCLUSION: The effect of the manual therapy program on hip function is superior to the exercise therapy program in patients with OA of the hip.
+AD  - Leyenburg Hospital, The Hague, The Netherlands. h.hoeksma@antonius.net
+AN  - 15478147
+AU  - Hoeksma, H. L.
+AU  - Dekker, J.
+AU  - Ronday, H. K.
+AU  - Heering, A.
+AU  - van der Lubbe, N.
+AU  - Vel, C.
+AU  - Breedveld, F. C.
+AU  - van den Ende, C. H.
+DA  - Oct 15
+DB  - Medline
+DO  - 10.1002/art.20685
+DP  - NLM
+ET  - 2004/10/13
+IS  - 5
+J2  - Arthritis and rheumatism
+KW  - Aged
+Exercise Therapy
+methods
+Female
+Humans
+Male
+Musculoskeletal Manipulations
+methods
+Osteoarthritis, Hip
+therapy
+Physical Therapy Modalities
+Single-Blind Method
+LA  - eng
+N1  - Hoeksma, Hugo L
+Dekker, Joost
+Ronday, H Karel
+Heering, Annet
+van der Lubbe, Nico
+Vel, Cees
+Breedveld, Ferdinand C
+van den Ende, Cornelia H M
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+Arthritis Rheum. 2004 Oct 15;51(5):722-9. doi: 10.1002/art.20685.
+PY  - 2004
+SN  - 0004-3591 (Print)
+0004-3591
+SP  - 722-9
+ST  - Comparison of manual therapy and exercise therapy in osteoarthritis of the hip: a randomized clinical trial
+T2  - Arthritis Rheum
+TI  - Comparison of manual therapy and exercise therapy in osteoarthritis of the hip: a randomized clinical trial
+VL  - 51
+ID  - 18
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the effects of a hydrotherapy resistance exercise programme with a gym based resistance exercise programme on strength and function in the treatment of osteoarthritis (OA). DESIGN: Single blind, three arm, randomised controlled trial. SUBJECTS: 105 community living participants aged 50 years and over with clinical OA of the hip or knee. METHODS: Participants were randomised into one of three groups: hydrotherapy (n = 35), gym (n = 35), or control (n = 35). The two exercising groups had three exercise sessions a week for six weeks. At six weeks an independent physiotherapist unaware of the treatment allocation performed all outcome assessments (muscle strength dynamometry, six minute walk test, WOMAC OA Index, total drugs, SF-12 quality of life, Adelaide Activities Profile, and the Arthritis Self-Efficacy Scale). RESULTS: In the gym group both left and right quadriceps significantly increased in strength compared with the control group, and right quadriceps strength was also significantly better than in the hydrotherapy group. The hydrotherapy group increased left quadriceps strength only at follow up, and this was significantly different from the control group. The hydrotherapy group was significantly different from the control group for distance walked and the physical component of the SF-12. The gym group was significantly different from the control group for walk speed and self efficacy satisfaction. Compliance rates were similar for both exercise groups, with 84% of hydrotherapy and 75% of gym sessions attended. There were no differences in drug use between groups over the study period. CONCLUSION: Functional gains were achieved with both exercise programmes compared with the control group.
+AD  - Flinders University Department of Rehabilitation and Aged Care, Repatriation General Hospital, South Australia.
+AN  - 14644853
+AU  - Foley, A.
+AU  - Halbert, J.
+AU  - Hewitt, T.
+AU  - Crotty, M.
+C2  - PMC1754378
+DA  - Dec
+DB  - Medline
+DO  - 10.1136/ard.2002.005272
+DP  - NLM
+ET  - 2003/12/04
+IS  - 12
+J2  - Annals of the rheumatic diseases
+KW  - Aged
+Aged, 80 and over
+Exercise Therapy
+methods
+Female
+Humans
+Hydrotherapy
+methods
+Male
+Middle Aged
+Osteoarthritis, Hip
+physiopathology
+rehabilitation
+Osteoarthritis, Knee
+physiopathology
+rehabilitation
+Quality of Life
+Single-Blind Method
+Treatment Outcome
+LA  - eng
+N1  - 1468-2060
+Foley, A
+Halbert, J
+Hewitt, T
+Crotty, M
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Ann Rheum Dis. 2003 Dec;62(12):1162-7. doi: 10.1136/ard.2002.005272.
+PY  - 2003
+SN  - 0003-4967 (Print)
+0003-4967
+SP  - 1162-7
+ST  - Does hydrotherapy improve strength and physical function in patients with osteoarthritis--a randomised controlled trial comparing a gym based and a hydrotherapy based strengthening programme
+T2  - Ann Rheum Dis
+TI  - Does hydrotherapy improve strength and physical function in patients with osteoarthritis--a randomised controlled trial comparing a gym based and a hydrotherapy based strengthening programme
+VL  - 62
+ID  - 2
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: There is limited evidence supporting use of physical therapy for hip osteoarthritis. OBJECTIVE: To determine efficacy of physical therapy on pain and physical function in patients with hip osteoarthritis. DESIGN, SETTING, AND PARTICIPANTS: Randomized, placebo-controlled, participant- and assessor-blinded trial involving 102 community volunteers with hip pain levels of 40 or higher on a visual analog scale of 100 mm (range, 0-100 mm; 100 indicates worst pain possible) and hip osteoarthritis confirmed by radiograph. Forty-nine patients in the active group and 53 in the sham group underwent 12 weeks of intervention and 24 weeks of follow-up (May 2010-February 2013) INTERVENTIONS: Participants attended 10 treatment sessions over 12 weeks. Active treatment included education and advice, manual therapy, home exercise, and gait aid if appropriate. Sham treatment included inactive ultrasound and inert gel. For 24 weeks after treatment, the active group continued unsupervised home exercise while the sham group self-applied gel 3 times weekly. MAIN OUTCOMES AND MEASURES: Primary outcomes were average pain (0 mm, no pain; 100 mm, worst pain possible) and physical function (Western Ontario and McMaster Universities Osteoarthritis Index, 0 no difficulty to 68 extreme difficulty) at week 13. Secondary outcomes were these measures at week 36 and impairments, physical performance, global change, psychological status, and quality of life at weeks 13 and 36. RESULTS: Ninety-six patients (94%) completed week 13 measurements and 83 (81%) completed week 36 measurements. The between-group differences for improvements in pain were not significant. For the active group, the baseline mean (SD) visual analog scale score was 58.8 mm (13.3) and the week-13 score was 40.1 mm (24.6); for the sham group, the baseline score was 58.0 mm (11.6) and the week-13 score was 35.2 mm (21.4). The mean difference was 6.9 mm favoring sham treatment (95% CI, -3.9 to 17.7). The function scores were not significantly different between groups. The baseline mean (SD) physical function score for the active group was 32.3 (9.2) and the week-13 score was 27.5 (12.9) units, whereas the baseline score for the sham treatment group was 32.4 (8.4) units and the week-13 score was 26.4 (11.3) units, for a mean difference of 1.4 units favoring sham (95% CI, -3.8 to 6.5) at week 13. There were no between-group differences in secondary outcomes (except greater week-13 improvement in the balance step test in the active group). Nineteen of 46 patients (41%) in the active group reported 26 mild adverse effects and 7 of 49 (14%) in the sham group reported 9 mild adverse events (P = .003). CONCLUSIONS AND RELEVANCE: Among adults with painful hip osteoarthritis, physical therapy did not result in greater improvement in pain or function compared with sham treatment, raising questions about its value for these patients. TRIAL REGISTRATION: anzctr.org.au Identifier: ACTRN12610000439044.
+AD  - Centre for Health, Exercise and Sports Medicine, School of Health Sciences, University of Melbourne, Melbourne, Victoria, Australia.
+Centre for Musculoskeletal Outcomes Research, Department of Surgical Sciences, Dunedin School of Medicine, University of Otago, Dunedin, New Zealand.
+Cricket Australia Centre of Excellence, Brisbane, Australia.
+Department of Physiotherapy, Singapore General Hospital, Singapore.
+Department of Epidemiology and Preventive Medicine, School of Public Health and Preventive Medicine, Monash University, Melbourne.
+Centre for Health Economics, Monash University, Melbourne.
+Department of Epidemiology and Preventive Medicine, School of Public Health and Preventive Medicine, Monash University, Melbourne8Department of Clinical Epidemiology, Cabrini Health, Melbourne.
+AN  - 24846036
+AU  - Bennell, K. L.
+AU  - Egerton, T.
+AU  - Martin, J.
+AU  - Abbott, J. H.
+AU  - Metcalf, B.
+AU  - McManus, F.
+AU  - Sims, K.
+AU  - Pua, Y. H.
+AU  - Wrigley, T. V.
+AU  - Forbes, A.
+AU  - Smith, C.
+AU  - Harris, A.
+AU  - Buchbinder, R.
+DA  - May 21
+DB  - Medline
+DO  - 10.1001/jama.2014.4591
+DP  - NLM
+ET  - 2014/05/23
+IS  - 19
+J2  - Jama
+KW  - Aged
+Double-Blind Method
+Exercise Therapy
+methods
+Female
+Humans
+Male
+Mental Health
+Middle Aged
+Musculoskeletal Manipulations
+methods
+Osteoarthritis, Hip
+complications
+physiopathology
+therapy
+Pain
+etiology
+Pain Measurement
+Patient Education as Topic
+Physical Therapy Modalities
+Quality of Life
+Treatment Outcome
+LA  - eng
+N1  - 1538-3598
+Bennell, Kim L
+Egerton, Thorlene
+Martin, Joel
+Abbott, J Haxby
+Metcalf, Ben
+McManus, Fiona
+Sims, Kevin
+Pua, Yong-Hao
+Wrigley, Tim V
+Forbes, Andrew
+Smith, Catherine
+Harris, Anthony
+Buchbinder, Rachelle
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+JAMA. 2014 May 21;311(19):1987-97. doi: 10.1001/jama.2014.4591.
+PY  - 2014
+SN  - 0098-7484
+SP  - 1987-97
+ST  - Effect of physical therapy on pain and function in patients with hip osteoarthritis: a randomized clinical trial
+T2  - Jama
+TI  - Effect of physical therapy on pain and function in patients with hip osteoarthritis: a randomized clinical trial
+VL  - 311
+ID  - 17
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To examine the effect of pre-operative physiotherapy before hip arthroplasty in patients with end-stage hip osteoarthritis. DESIGN: A prospective randomized controlled study. SETTING: Physical medicine and rehabilitation and orthopaedic departments of Policlinico Gemelli of Rome. SUBJECTS: Twenty-three patients randomized in study and control groups. INTERVENTION: The study group took part in an educational and physiotherapy programme one month before surgery. Both groups took part in the same inpatient rehabilitation programme after surgery. MAIN OUTCOME MEASURES: Both groups were evaluated one month (T0) and the day before arthroplasty (T1), after 15 days (T2), four weeks (T3) and three months (T4) post surgery, using the Barthel Index, the Short Form-36 (SF-36), the Western Ontario and McMaster Osteoarthritis Index (WOMAC), the Hip Harris Score (HHS), visual analogue scale (VAS), the British Medical Research Council (BMRC) measures of hip abductor and quadriceps strength and range of hip abduction and external rotation. RESULTS: There were no significant differences between groups with regard to the Barthel Index, SF-36, WOMAC and HHS at T4. The study group presented significant improvements of the SF-36 physical composite score at T1. The hip external rotation was significantly higher in the study group at each evaluation and the visual analogue scale values were lower at T1, T3 and T4. CONCLUSION: Pre-operative physiotherapy in patients undergoing hip arthroplasty does not improve impairment and health-related quality of life after intervention. Physiotherapy and educational therapy may be useful for end-stage osteoarthritis.
+AD  - Physical Medicine and Rehabilitation Department, Catholic University, Rome, Italy.
+AN  - 18955429
+AU  - Ferrara, P. E.
+AU  - Rabini, A.
+AU  - Maggi, L.
+AU  - Piazzini, D. B.
+AU  - Logroscino, G.
+AU  - Magliocchetti, G.
+AU  - Amabile, E.
+AU  - Tancredi, G.
+AU  - Aulisa, A. G.
+AU  - Padua, L.
+AU  - Aprile, I.
+AU  - Bertolini, C.
+DA  - Oct-Nov
+DB  - Medline
+DO  - 10.1177/0269215508094714
+DP  - NLM
+ET  - 2008/10/29
+IS  - 10-11
+J2  - Clinical rehabilitation
+KW  - Aged
+Arthroplasty, Replacement, Hip
+rehabilitation
+Exercise Therapy
+methods
+Female
+Health Status
+Humans
+Male
+Middle Aged
+Osteoarthritis, Hip
+surgery
+Patient Education as Topic
+Preoperative Care
+education
+methods
+Prospective Studies
+Quality of Life
+Sensitivity and Specificity
+Treatment Outcome
+LA  - eng
+N1  - Ferrara, P E
+Rabini, A
+Maggi, L
+Piazzini, D B
+Logroscino, G
+Magliocchetti, G
+Amabile, E
+Tancredi, G
+Aulisa, A G
+Padua, L
+Aprile, I
+Bertolini, C
+Journal Article
+Randomized Controlled Trial
+England
+Clin Rehabil. 2008 Oct-Nov;22(10-11):977-86. doi: 10.1177/0269215508094714.
+PY  - 2008
+SN  - 0269-2155 (Print)
+0269-2155
+SP  - 977-86
+ST  - Effect of pre-operative physiotherapy in patients with end-stage osteoarthritis undergoing hip arthroplasty
+T2  - Clin Rehabil
+TI  - Effect of pre-operative physiotherapy in patients with end-stage osteoarthritis undergoing hip arthroplasty
+VL  - 22
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the effect of a short preoperative exercise intervention on the functional status, pain, and muscle strength of patients before and after total joint arthroplasty. METHODS: A total of 108 men and women scheduled for total hip arthroplasty (THA) or total knee arthroplasty (TKA) were randomized to a 6-week exercise or education (control) intervention immediately prior to surgery. We assessed outcomes through questionnaires and performance measures. Analyses examined differences between groups over the preoperative and immediate postoperative periods and at 8 and 26 weeks postsurgery. RESULTS: Among THA patients, the exercise intervention was associated with improvements in preoperative Western Ontario and McMaster Universities Osteoarthritis Index function score (improvement of 2.2 in exercisers versus decline of 3.9 in controls; P = 0.02) and Short Form 36 physical function score (decline of 0.4 in exercisers versus decline of 14.3 in controls; P = 0.003). No significant differences were seen in TKA patients. Exercise participation increased muscle strength preoperatively (18% in THA patients and 20% in TKA patients), whereas the control patients had essentially no change in strength (P > 0.05 for exercise versus education in both THA and TKA groups). Exercise participation prior to total joint arthroplasty substantially reduced the risk of discharge to a rehabilitation facility in THA and TKA patients (adjusted odds ratio 0.27, 95% confidence interval 0.074-0.998). The intervention had no effects on outcomes 8 and 26 weeks postoperatively. CONCLUSION: A 6-week presurgical exercise program can safely improve preoperative functional status and muscle strength levels in persons undergoing THA. Additionally, exercise participation prior to total joint arthroplasty dramatically reduces the odds of inpatient rehabilitation.
+AD  - New England Baptist Hospital, Beth Israel Deaconess Medical Center, and Harvard Medical School, Boston, MA 02215, USA. drooks@bidmc.harvard.edu
+AN  - 17013852
+AU  - Rooks, D. S.
+AU  - Huang, J.
+AU  - Bierbaum, B. E.
+AU  - Bolus, S. A.
+AU  - Rubano, J.
+AU  - Connolly, C. E.
+AU  - Alpert, S.
+AU  - Iversen, M. D.
+AU  - Katz, J. N.
+DA  - Oct 15
+DB  - Medline
+DO  - 10.1002/art.22223
+DP  - NLM
+ET  - 2006/10/03
+IS  - 5
+J2  - Arthritis and rheumatism
+KW  - Aged
+Arthroplasty, Replacement, Hip
+Arthroplasty, Replacement, Knee
+Exercise Therapy
+Health Status
+Humans
+Isometric Contraction
+Male
+Middle Aged
+Muscle Contraction
+Osteoarthritis, Hip
+physiopathology
+surgery
+therapy
+Osteoarthritis, Knee
+physiopathology
+surgery
+therapy
+Pain
+physiopathology
+prevention & control
+Preoperative Care
+Prospective Studies
+Surveys and Questionnaires
+Treatment Outcome
+LA  - eng
+N1  - Rooks, Daniel S
+Huang, Jie
+Bierbaum, Benjamin E
+Bolus, Sarah A
+Rubano, James
+Connolly, Christine E
+Alpert, Sandra
+Iversen, Maura D
+Katz, Jeffrey N
+K23-AR-48305/AR/NIAMS NIH HHS/United States
+K24-AR-02123/AR/NIAMS NIH HHS/United States
+P60-AR-47782/AR/NIAMS NIH HHS/United States
+RR-01032/RR/NCRR NIH HHS/United States
+Journal Article
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Arthritis Rheum. 2006 Oct 15;55(5):700-8. doi: 10.1002/art.22223.
+PY  - 2006
+SN  - 0004-3591 (Print)
+0004-3591
+SP  - 700-8
+ST  - Effect of preoperative exercise on measures of functional status in men and women undergoing total hip and knee arthroplasty
+T2  - Arthritis Rheum
+TI  - Effect of preoperative exercise on measures of functional status in men and women undergoing total hip and knee arthroplasty
+VL  - 55
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To assess the effectiveness of exercise therapy added to general practitioner (GP) care compared with GP care alone, in patients with hip osteoarthritis (OA) during 12 months follow-up. METHODS: We performed a multi-center parallel pragmatic randomized controlled trial in 120 general practices in the Netherlands. 203 patients, aged ≥45 years, with a new episode of hip complaints, complying with the ACR criteria for hip OA were randomized to the intervention group (n = 101; GP care with additional exercise therapy) or the control group (n = 102; GP care only). GP care was given by patient's own GP. The intervention group received, in addition, a maximum of 12 exercise therapy sessions in the first 3 months and hereafter three booster sessions. Blinding was not possible. Primary outcomes were hip pain and hip-related function measured with the HOOS questionnaire (score 0-100). RESULTS: The overall estimates on hip pain and function during the 12-month follow-up showed no between-group difference (intention-to-treat). At 3-months follow-up there was a statistically significant between-group difference for HOOS pain -3.7 (95% CI: -7.3; -0.2), effect size -0.23 and HOOS function -5.3 (95% CI: -8.9; -1.6), effect size -0.31. No adverse events were reported. CONCLUSIONS: No differences were found during 12-months follow-up on pain and function. At 3-months follow-up, pain and function scores differed in favor of patients allocated to the additional exercise therapy compared with GP care alone. TRIAL REGISTRATION: The Netherlands Trial Registry NTR1462.
+AD  - Erasmus MC University Medical Center, Department of General Practice, P.O. Box 2040, 3000 CA Rotterdam, The Netherlands. Electronic address: c.teirlinck@erasmusmc.nl.
+Erasmus MC University Medical Center, Department of General Practice, P.O. Box 2040, 3000 CA Rotterdam, The Netherlands.
+VU University Medical Center, Department of Rehabilitation Medicine, EMGO+ Institute for Health and Care Research, P.O. Box 7057, 1007 MB Amsterdam, The Netherlands.
+Erasmus MC University Medical Center, Department of Orthopedics, P.O. Box 2040, 3000 CA Rotterdam, The Netherlands.
+Erasmus University Rotterdam, Department of Health Policy and Management, P.O. Box 1738, 3000 DR Rotterdam, The Netherlands.
+AN  - 26254237
+AU  - Teirlinck, C. H.
+AU  - Luijsterburg, P. A.
+AU  - Dekker, J.
+AU  - Bohnen, A. M.
+AU  - Verhaar, J. A.
+AU  - Koopmanschap, M. A.
+AU  - van Es, P. P.
+AU  - Koes, B. W.
+AU  - Bierma-Zeinstra, S. M.
+C1  - Ntr/ntr1462
+DA  - Jan
+DB  - Medline
+DO  - 10.1016/j.joca.2015.07.023
+DP  - NLM
+ET  - 2015/08/09
+IS  - 1
+J2  - Osteoarthritis and cartilage
+KW  - Activities of Daily Living
+Aged
+Exercise Therapy
+methods
+Female
+General Practice
+Humans
+Male
+Middle Aged
+Netherlands
+Osteoarthritis, Hip
+therapy
+Pain Measurement
+Surveys and Questionnaires
+Treatment Outcome
+LA  - eng
+N1  - 1522-9653
+Teirlinck, C H
+Luijsterburg, P A J
+Dekker, J
+Bohnen, A M
+Verhaar, J A N
+Koopmanschap, M A
+van Es, P P
+Koes, B W
+Bierma-Zeinstra, S M A
+Journal Article
+Multicenter Study
+Pragmatic Clinical Trial
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Disability
+Exercise therapy
+Hoos
+Hip osteoarthritis
+Pain
+Physiotherapy
+Osteoarthritis Cartilage. 2016 Jan;24(1):82-90. doi: 10.1016/j.joca.2015.07.023. Epub 2015 Aug 5.
+PY  - 2016
+SN  - 1063-4584
+SP  - 82-90
+ST  - Effectiveness of exercise therapy added to general practitioner care in patients with hip osteoarthritis: a pragmatic randomized controlled trial
+T2  - Osteoarthritis Cartilage
+TI  - Effectiveness of exercise therapy added to general practitioner care in patients with hip osteoarthritis: a pragmatic randomized controlled trial
+VL  - 24
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine the effectiveness of exercise therapy in patients with osteoarthritis (OA) of the hip or knee. METHODS: A randomized single blind, clinical trial was conducted in a primary care setting. Patients with hip or knee OA by American College of Rheumatology criteria were selected. Two intervention groups were compared. Both groups received treatment from the patients' general practitioner, including patient education and medication if necessary. The experimental group also received exercise therapy from a physiotherapist in primary care. The treatment period was 12 weeks. The main outcome measures were pain, medication use (nonsteroidal antiinflammatory drugs, NSAID) and observed disability. RESULTS: A total of 201 patients were randomized. Exercise therapy was associated with a reduction of pain in the past week (difference in change -17.0; 95% CI -23.6, -10.4) and observed disability (-0.19; 95% CI -0.38; -0.01). Effect sizes were medium (0.58) and small (0.28), respectively. No effect of exercise therapy was found for the use of NSAID. Additional beneficial effects (p = 0.05) were found for the use of paracetamol (effect size 0.33), global effect as perceived by the patient (effect size 0.68), and muscle strength of the hip (effect size 0.34). CONCLUSION: After 12 weeks, exercise therapy is effective in reducing pain and disability. The size of the effects is medium and small, respectively.
+AD  - Netherlands Institute of Primary Health Care, Utrecht. J.Dekker@nivel.nl
+AN  - 9858441
+AU  - van Baar, M. E.
+AU  - Dekker, J.
+AU  - Oostendorp, R. A.
+AU  - Bijl, D.
+AU  - Voorn, T. B.
+AU  - Lemmens, J. A.
+AU  - Bijlsma, J. W.
+DA  - Dec
+DB  - Medline
+DP  - NLM
+ET  - 1998/12/19
+IS  - 12
+J2  - The Journal of rheumatology
+KW  - Aged
+Anti-Inflammatory Agents, Non-Steroidal
+therapeutic use
+Exercise Therapy
+Female
+Humans
+Male
+Middle Aged
+Multivariate Analysis
+Muscle Contraction
+Osteoarthritis, Hip
+therapy
+Osteoarthritis, Knee
+therapy
+Pain Management
+Patient Dropouts
+Patient Satisfaction
+Range of Motion, Articular
+Single-Blind Method
+Treatment Outcome
+LA  - eng
+N1  - van Baar, M E
+Dekker, J
+Oostendorp, R A
+Bijl, D
+Voorn, T B
+Lemmens, J A
+Bijlsma, J W
+Clinical Trial
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Canada
+J Rheumatol. 1998 Dec;25(12):2432-9.
+PY  - 1998
+SN  - 0315-162X (Print)
+0315-162x
+SP  - 2432-9
+ST  - The effectiveness of exercise therapy in patients with osteoarthritis of the hip or knee: a randomized clinical trial
+T2  - J Rheumatol
+TI  - The effectiveness of exercise therapy in patients with osteoarthritis of the hip or knee: a randomized clinical trial
+VL  - 25
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Evaluation of a self-management program for patients with osteoarthritis (OA) of the hip or knee. The program, which consisted of 6 weekly sessions of 2 hours, included health education by a peer and physical exercises taught by a physical therapist. METHODS: Randomized controlled trial. Inclusion criteria were diagnosis of OA of the hip or knee according to ACR clinical and radiographic criteria and age 55 to 75 years. EXCLUSION CRITERIA: on waiting list for joint replacement. There were pretest, posttest, and followup (6 months) assessments. The experimental group consisted of 56 patients, the control group 49. Outcome variables were pain, quality of life, activity restrictions, knowledge about OA, self-efficacy, body mass index (BMI), and mobility measures. Attention was also paid to effects on health care utilization and lifestyle behavior. RESULTS: Significant MANOVA group x time effects (p < 0.05, one-sided) were found for pain, quality of life, strength of the left M. quadriceps, knowledge, self-efficacy, BMI, physically active lifestyle, and visits to the physical therapist. Most effects were moderate at posttest assessment and smaller at followup. No effects were found for range of motion and functional tasks. CONCLUSION: The program was reasonably effective, but more attention should be paid to proactive followup interventions and to the selection of participants.
+AD  - TNO Prevention and Health, Division of Public Health, Leiden, The Netherlands. m.hopman@pg.tno.nl
+AN  - 10955337
+AU  - Hopman-Rock, M.
+AU  - Westhoff, M. H.
+DA  - Aug
+DB  - Medline
+DP  - NLM
+ET  - 2000/08/24
+IS  - 8
+J2  - The Journal of rheumatology
+KW  - Aged
+Exercise Therapy
+Female
+Health Education
+Health Knowledge, Attitudes, Practice
+Health Promotion
+methods
+Humans
+Male
+Muscle Weakness
+physiopathology
+therapy
+Osteoarthritis, Hip
+physiopathology
+therapy
+Osteoarthritis, Knee
+physiopathology
+therapy
+Pain
+physiopathology
+Pain Measurement
+Patient Education as Topic
+Quality of Life
+Range of Motion, Articular
+physiology
+Treatment Outcome
+LA  - eng
+N1  - Hopman-Rock, M
+Westhoff, M H
+Clinical Trial
+Evaluation Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Canada
+J Rheumatol. 2000 Aug;27(8):1947-54.
+PY  - 2000
+SN  - 0315-162X (Print)
+0315-162x
+SP  - 1947-54
+ST  - The effects of a health educational and exercise program for older adults with osteoarthritis for the hip or knee
+T2  - J Rheumatol
+TI  - The effects of a health educational and exercise program for older adults with osteoarthritis for the hip or knee
+VL  - 27
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: . Evaluation of an 8-week exercise program with strength training and lifestyle advice for older adults with osteoarthritis (OA) of the hip. Outcome measures were pain, hip function, disability, quality of life (QOL), and body mass index (BMI). METHODS: Inclusion criteria for this randomized controlled trial were: age >or=55 years, clinical diagnosis of OA according to American College of Rheumatology criteria, and living independently. Interview and physical data were collected at baseline, post-test, and followup (3 mo) by trained interviewers and physical therapists with validated instruments: Harris Hip Score, Sickness Impact Profile, Groningen Activity Restriction Scale, functional tests (walking, timed Up & Go, ascending and descending stairs, and toe reaching), and visual analog scales (pain and QOL). Data were analyzed on an intention-to-treat basis. Effect sizes were calculated. RESULTS: There were 109 participants (55 experimental, 54 controls). The 15 participants who dropped out were characterized by less tolerance to pain and younger age. The program had a positive effect on pain (moderate effect at post-test and small effect at followup), hip function (small effect at post-test), self-reported disability (small effect at followup), and the timed Up & Go test (small effect at followup). It did not affect QOL, other measures of observed disability, or BMI. CONCLUSION: The exercise program had positive effects on pain and hip function, which are important mediators of disability. This study fulfilled a need for older adults with hip OA and provides evidence of the benefit of exercise in the management of hip OA.
+AD  - TNO Prevention and Health, Department of Physical Activity and Health, Leiden, The Netherlands. ecpm.tak@pg.tno.nl
+AN  - 15940775
+AU  - Tak, E.
+AU  - Staats, P.
+AU  - Van Hespen, A.
+AU  - Hopman-Rock, M.
+DA  - Jun
+DB  - Medline
+DP  - NLM
+ET  - 2005/06/09
+IS  - 6
+J2  - The Journal of rheumatology
+KW  - Activities of Daily Living
+Aged
+Body Mass Index
+Disability Evaluation
+Exercise Therapy
+Female
+Humans
+Male
+Middle Aged
+Osteoarthritis, Hip
+physiopathology
+rehabilitation
+Pain
+prevention & control
+Quality of Life
+Range of Motion, Articular
+physiology
+Treatment Outcome
+LA  - eng
+N1  - Tak, Erwin
+Staats, Patricia
+Van Hespen, Ariëtte
+Hopman-Rock, Marijke
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Canada
+J Rheumatol. 2005 Jun;32(6):1106-13.
+PY  - 2005
+SN  - 0315-162X (Print)
+0315-162x
+SP  - 1106-13
+ST  - The effects of an exercise program for older adults with osteoarthritis of the hip
+T2  - J Rheumatol
+TI  - The effects of an exercise program for older adults with osteoarthritis of the hip
+VL  - 32
+ID  - 12
+ER  - 
+
+TY  - JOUR
+AB  - AIM: To explore the effects of exercise (water-based or land-based) and/or manual therapies on pain in adults with clinically and/or radiographically diagnosed hip osteoarthritis (OA). METHODS: A systematic review and meta-analysis was performed, with patient reported pain assessed using a visual analogue scale (VAS) or the Western Ontario and McMaster Universities Arthritis Index (WOMAC) pain subscale. Data were grouped by follow-up time (0-3 months=short term; 4-12 months=medium term and; >12 months=long term), and standardised mean differences (SMD) with 95% CIs were used to establish intervention effect sizes. Study quality was assessed using modified PEDro scores. RESULTS: 19 trials were included. Four studies showed short-term benefits favouring water-based exercise over minimal control using the WOMAC pain subscale (SMD -0.53, 95% CI -0.96 to -0.10). Six studies supported a short-term benefit of land-based exercise compared to minimal control on VAS assessed pain (SMD -0.49, 95% CI -0.70 to -0.29). There were no medium (SMD -0.23, 95% CI -0.48 to 0.03) or long (SMD -0.22, 95% CI -0.51 to 0.06) term benefits of exercise therapy, or benefit of combining exercise therapy with manual therapy (SMD -0.38, 95% CI -0.88 to 0.13) when compared to minimal control. CONCLUSIONS: Best available evidence indicates that exercise therapy (whether land-based or water-based) is more effective than minimal control in managing pain associated with hip OA in the short term. Larger high-quality RCTs are needed to establish the effectiveness of exercise and manual therapies in the medium and long term.
+AD  - School of Health and Rehabilitation Sciences, The University of Queensland, Brisbane, Queensland, Australia.
+School of Health and Rehabilitation Sciences, Indiana University, Indianapolis, Indiana, USA.
+Australian Centre for Research into Injury and Sport and its Prevention (ACRISP), Federation University Australia, Ballarat, Victoria, Australia.
+School of Health and Rehabilitation Sciences, The University of Queensland, Brisbane, Queensland, Australia School of Allied Health, College of Science, Health and Engineering, La Trobe University, Bundoora, Victoria, Australia.
+AN  - 26612846
+AU  - Beumer, L.
+AU  - Wong, J.
+AU  - Warden, S. J.
+AU  - Kemp, J. L.
+AU  - Foster, P.
+AU  - Crossley, K. M.
+DA  - Apr
+DB  - Medline
+DO  - 10.1136/bjsports-2015-095255
+DP  - NLM
+ET  - 2015/11/28
+IS  - 8
+J2  - British journal of sports medicine
+KW  - Exercise Therapy
+Humans
+Musculoskeletal Manipulations
+Osteoarthritis, Hip
+therapy
+Pain Management
+methods
+Pain Measurement
+Randomized Controlled Trials as Topic
+LA  - eng
+N1  - 1473-0480
+Beumer, Lucy
+Wong, Jennie
+Warden, Stuart J
+Kemp, Joanne L
+Foster, Paul
+Crossley, Kay M
+MR/K006584/1/Medical Research Council/United Kingdom
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+England
+Hip
+Osteoarthritis
+Physiotherapy
+Br J Sports Med. 2016 Apr;50(8):458-63. doi: 10.1136/bjsports-2015-095255. Epub 2015 Nov 26.
+PY  - 2016
+SN  - 0306-3674
+SP  - 458-63
+ST  - Effects of exercise and manual therapy on pain associated with hip osteoarthritis: a systematic review and meta-analysis
+T2  - Br J Sports Med
+TI  - Effects of exercise and manual therapy on pain associated with hip osteoarthritis: a systematic review and meta-analysis
+VL  - 50
+ID  - 20
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To investigate the effects of high-velocity resistance training on muscle function, muscle properties, and physical performance in patients with hip osteoarthritis by comparison with those of low-velocity resistance training. DESIGN: Single-blind randomized controlled trial. SETTING: Home-based exercise programmes. SUBJECTS: A total of 46 women with hip osteoarthritis were randomly assigned to the high-velocity (n = 23) or low-velocity (n = 23) training group. INTERVENTIONS: Both groups underwent an eight-week daily home-based resistance training programme using an elastic band. Exercises involved hip abduction, extension, and flexion and knee extension. Participants in the high-velocity group performed the concentric phase of each repetition as rapidly as possible and returned to the initial position eccentrically in 3 s. Participants in the low-velocity group performed both the concentric and eccentric phases in 3 s. MAIN MEASURES: The following outcome measures were evaluated: isometric muscle strength, muscle power, muscle thickness, muscle echo intensity, maximum walking speed, Timed Up and Go test, 3-minute walking test, Harris Hip Score, and hip pain. RESULTS: Decreases in the time for performing the Timed Up and Go test (mean changes: high-velocity group -0.46 s, low-velocity group -0.23 s) and echo intensity of the gluteus maximus (mean changes: high-velocity group -6.8, low-velocity group -1.0) were significantly greater in the high-velocity group than in the low-velocity group. No significant difference was observed in changes of other outcome measures between the groups. CONCLUSION: This study revealed that high-velocity training for patients with hip osteoarthritis has partially a greater effect on muscle properties and physical performance than low-velocity training.
+AD  - 1Faculty of Rehabilitation, Kobe Gakuin University, Kobe, Japan.
+AN  - 23823710
+AU  - Fukumoto, Y.
+AU  - Tateuchi, H.
+AU  - Ikezoe, T.
+AU  - Tsukagoshi, R.
+AU  - Akiyama, H.
+AU  - So, K.
+AU  - Kuroda, Y.
+AU  - Ichihashi, N.
+DA  - Jan
+DB  - Medline
+DO  - 10.1177/0269215513492161
+DP  - NLM
+ET  - 2013/07/05
+IS  - 1
+J2  - Clinical rehabilitation
+KW  - Female
+Humans
+Middle Aged
+Muscle Strength
+Muscle, Skeletal
+physiopathology
+Osteoarthritis, Hip
+physiopathology
+rehabilitation
+Physical Fitness
+Resistance Training
+methods
+Single-Blind Method
+Walking
+LA  - eng
+N1  - 1477-0873
+Fukumoto, Yoshihiro
+Tateuchi, Hiroshige
+Ikezoe, Tome
+Tsukagoshi, Rui
+Akiyama, Haruhiko
+So, Kazutaka
+Kuroda, Yutaka
+Ichihashi, Noriaki
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Hip osteoarthritis
+high-velocity resistance training
+muscle power
+physical performance
+treatment velocity
+Clin Rehabil. 2014 Jan;28(1):48-58. doi: 10.1177/0269215513492161. Epub 2013 Jul 3.
+PY  - 2014
+SN  - 0269-2155
+SP  - 48-58
+ST  - Effects of high-velocity resistance training on muscle function, muscle properties, and physical performance in individuals with hip osteoarthritis: a randomized controlled trial
+T2  - Clin Rehabil
+TI  - Effects of high-velocity resistance training on muscle function, muscle properties, and physical performance in individuals with hip osteoarthritis: a randomized controlled trial
+VL  - 28
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine whether manual therapy or exercise therapy or both is beneficial for people with hip osteoarthritis in terms of reduced pain, improved physical function and improved quality of life. METHODS: Databases such as Medline, AMED, EMBASE, CINAHL, SPORTSDiscus, PubMed, Cochrane Library, Web of Science, Physiotherapy Evidence Database, and SCOPUS were searched from their inception till September 2015. Two authors independently extracted and assessed the risk of bias in included studies. Standardised mean differences for outcome measures (pain, physical function and quality of life) were used to calculate effect sizes. The Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach was used for assessing the quality of the body of evidence for each outcome of interest. RESULTS: Seven trials (886 participants) that met the inclusion criteria were included in the meta-analysis. There was high quality evidence that exercise therapy was beneficial at post-treatment (pain-SMD-0.27,95%CI-0.5to-0.04;physical function-SMD-0.29,95%CI-0.47to-0.11) and follow-up (pain-SMD-0.24,95%CI- 0.41to-0.06; physical function-SMD-0.33,95%CI-0.5to-0.15). There was low quality evidence that manual therapy was beneficial at post-treatment (pain-SMD-0.71,95%CI-1.08to-0.33; physical function-SMD-0.71,95%CI-1.08to-0.33) and follow-up (pain-SMD-0.43,95%CI-0.8to-0.06; physical function-SMD-0.47,95%CI-0.84to-0.1). Low quality evidence indicated that combined treatment was beneficial at post-treatment (pain-SMD-0.43,95%CI-0.78to-0.08; physical function-SMD-0.38,95%CI-0.73to-0.04) but not at follow-up (pain-SMD0.25,95%CI-0.35to0.84; physical function-SMD0.09,95%CI-0.5to0.68). There was no effect of any interventions on quality of life. CONCLUSION: An Exercise therapy intervention provides short-term as well as long-term benefits in terms of reduction in pain, and improvement in physical function among people with hip osteoarthritis. The observed magnitude of the treatment effect would be considered small to moderate.
+AD  - Centre for Health, Activity, and Rehabilitation Research, School of Physiotherapy, University of Otago, New Zealand kesava.kovanur-sampath@otago.ac.nz.
+Centre for Health, Activity, and Rehabilitation Research, School of Physiotherapy, University of Otago, New Zealand.
+AN  - 26701903
+AU  - Sampath, K. K.
+AU  - Mani, R.
+AU  - Miyamori, T.
+AU  - Tumilty, S.
+DA  - Dec
+DB  - Medline
+DO  - 10.1177/0269215515622670
+DP  - NLM
+ET  - 2015/12/25
+IS  - 12
+J2  - Clinical rehabilitation
+KW  - Exercise Therapy
+Humans
+Musculoskeletal Manipulations
+Osteoarthritis, Hip
+rehabilitation
+LA  - eng
+N1  - 1477-0873
+Sampath, Kesava Kovanur
+Mani, Ramakrishnan
+Miyamori, Takayuki
+Tumilty, Steve
+Journal Article
+Multicenter Study
+Review
+Systematic Review
+England
+*Exercise
+*Hip pain
+*Physiotherapy
+*manipulation
+*meta-analysis
+Clin Rehabil. 2016 Dec;30(12):1141-1155. doi: 10.1177/0269215515622670. Epub 2015 Dec 22.
+PY  - 2016
+SN  - 0269-2155
+SP  - 1141-1155
+ST  - The effects of manual therapy or exercise therapy or both in people with hip osteoarthritis: a systematic review and meta-analysis
+T2  - Clin Rehabil
+TI  - The effects of manual therapy or exercise therapy or both in people with hip osteoarthritis: a systematic review and meta-analysis
+VL  - 30
+ID  - 22
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the efficacy of patient education and supervised exercise with that of patient education alone for the management of pain in patients with hip osteoarthritis (OA). DESIGN: Single blind randomized clinical trial. SETTING: Recruitment of patients from hospitals, primary health care and advertisement, Oslo, Norway. PARTICIPANTS: 109 patients with radiographic and symptomatic hip OA with mild to moderate symptoms. INTERVENTIONS: Patient education (PE). Patient education and supervised exercise (PE+SE). PRIMARY OUTCOME MEASURE: The pain subscale of the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC pain). RESULTS: No significant between group differences were found for WOMAC pain over the 16-month follow-up. Significant improvements were found for the secondary outcome WOMAC physical function (P=0.011) in the group receiving PE+SE compared to the group receiving PE only. No significant differences were found for WOMAC stiffness, the SF-36 subscales or the activity scale. The effect sizes (95% confidence interval) for WOMAC pain were -0.26 (0.11, -0.64), -0.35 (0.07, -0.77), and -0.30 (0.15, -0.75), and for WOMAC physical function -0.29 (0.09, -0.67), -0.48 (-0.06, -0.91), and -0.47 (-0.02, -0.93) at 4, 10 and 16 months, respectively, in favor of the group receiving both PE and SE. All patients attended the three-session PE program, and 75% performed ≥16 sessions of the 12-week SE program. CONCLUSION: The study could not demonstrate a significant difference in pain reduction over time between PE+SE vs PE alone. Adding SE to PE may improve physical function, but the magnitude of possible benefit is unknown as the 95% confidence intervals around the mean difference were wide. TRIAL REGISTRATION: Clinical Trials NCT00319423.
+AD  - Norwegian Research Center for Active Rehabilitation (NAR), Department of Orthopedics, Oslo University Hospital, Oslo, Norway. linda.fernandes@medisin.uio.no
+AN  - 20633669
+AU  - Fernandes, L.
+AU  - Storheim, K.
+AU  - Sandvik, L.
+AU  - Nordsletten, L.
+AU  - Risberg, M. A.
+C1  - ClinicalTrials.gov/NCT00319423
+DA  - Oct
+DB  - Medline
+DO  - 10.1016/j.joca.2010.05.015
+DP  - NLM
+ET  - 2010/07/17
+IS  - 10
+J2  - Osteoarthritis and cartilage
+KW  - Adult
+Aged
+Aged, 80 and over
+Combined Modality Therapy
+Exercise Therapy
+methods
+Female
+Humans
+Male
+Middle Aged
+Osteoarthritis, Hip
+complications
+physiopathology
+rehabilitation
+Pain
+etiology
+rehabilitation
+Pain Measurement
+methods
+Patient Education as Topic
+Severity of Illness Index
+Single-Blind Method
+Treatment Outcome
+LA  - eng
+N1  - 1522-9653
+Fernandes, L
+Storheim, K
+Sandvik, L
+Nordsletten, L
+Risberg, M A
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Osteoarthritis Cartilage. 2010 Oct;18(10):1237-43. doi: 10.1016/j.joca.2010.05.015. Epub 2010 Jul 13.
+PY  - 2010
+SN  - 1063-4584
+SP  - 1237-43
+ST  - Efficacy of patient education and supervised exercise vs patient education alone in patients with hip osteoarthritis: a single blind randomized clinical trial
+T2  - Osteoarthritis Cartilage
+TI  - Efficacy of patient education and supervised exercise vs patient education alone in patients with hip osteoarthritis: a single blind randomized clinical trial
+VL  - 18
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To determine the effectiveness of exercise therapy (ET) compared with ET with adjunctive manual therapy (MT) for people with hip osteoarthritis (OA); and to identify if immediate commencement of treatment (ET or ET+MT) was more beneficial than a 9-week waiting period for either intervention. DESIGN: Assessor-blind randomized controlled trial with a 9-week and 18-week follow-up. SETTING: Four academic teaching hospitals in Dublin, Ireland. PARTICIPANTS: Patients (N=131) with hip OA recruited from general practitioners, rheumatologists, orthopedic surgeons, and other hospital consultants were randomized to 1 of 3 groups: ET (n=45), ET+MT (n=43), and waitlist controls (n=43). INTERVENTIONS: Participants in both the ET and ET+MT groups received up to 8 treatments over 8 weeks. Control group participants were rerandomized into either ET or ET+MT groups after 9 week follow-up. Their data were pooled with original treatment group data: ET (n=66) and ET+MT (n=65). MAIN OUTCOME MEASURES: The primary outcome was the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) physical function (PF) subscale. Secondary outcomes included physical performance, pain severity, hip range of motion (ROM), anxiety/depression, quality of life, medication usage, patient-perceived change, and patient satisfaction. RESULTS: There was no significant difference in WOMAC PF between the ET (n=66) and ET+MT (n=65) groups at 9 weeks (mean difference, .09; 95% confidence interval [CI] -2.93 to 3.11) or 18 weeks (mean difference, .42; 95% CI, -4.41 to 5.25), or between other outcomes, except patient satisfaction with outcomes, which was higher in the ET+MT group (P=.02). Improvements in WOMAC, hip ROM, and patient-perceived change occurred in both treatment groups compared with the control group. CONCLUSIONS: Self-reported function, hip ROM, and patient-perceived improvement occurred after an 8-week program of ET for patients with OA of the hip. MT as an adjunct to exercise provided no further benefit, except for higher patient satisfaction with outcome.
+AD  - School of Physiotherapy, Royal College of Surgeons in Ireland, Dublin, Ireland. hfrench@rcsi.ie
+AN  - 23084955
+AU  - French, H. P.
+AU  - Cusack, T.
+AU  - Brennan, A.
+AU  - Caffrey, A.
+AU  - Conroy, R.
+AU  - Cuddy, V.
+AU  - FitzGerald, O. M.
+AU  - Fitzpatrick, M.
+AU  - Gilsenan, C.
+AU  - Kane, D.
+AU  - O'Connell, P. G.
+AU  - White, B.
+AU  - McCarthy, G. M.
+DA  - Feb
+DB  - Medline
+DO  - 10.1016/j.apmr.2012.09.030
+DP  - NLM
+ET  - 2012/10/23
+IS  - 2
+J2  - Archives of physical medicine and rehabilitation
+KW  - Exercise Therapy
+Female
+Humans
+Male
+Middle Aged
+Osteoarthritis, Hip
+rehabilitation
+Patient Satisfaction
+Physical Therapy Modalities
+Range of Motion, Articular
+LA  - eng
+N1  - 1532-821x
+French, Helen P
+Cusack, Tara
+Brennan, Aisling
+Caffrey, Aoife
+Conroy, Ronán
+Cuddy, Vanessa
+FitzGerald, Oliver M
+Fitzpatrick, Martina
+Gilsenan, Clare
+Kane, David
+O'Connell, Paul G
+White, Breon
+McCarthy, Geraldine M
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+United States
+Arch Phys Med Rehabil. 2013 Feb;94(2):302-14. doi: 10.1016/j.apmr.2012.09.030. Epub 2012 Oct 16.
+PY  - 2013
+SN  - 0003-9993
+SP  - 302-14
+ST  - Exercise and manual physiotherapy arthritis research trial (EMPART) for osteoarthritis of the hip: a multicenter randomized controlled trial
+T2  - Arch Phys Med Rehabil
+TI  - Exercise and manual physiotherapy arthritis research trial (EMPART) for osteoarthritis of the hip: a multicenter randomized controlled trial
+VL  - 94
+ID  - 8
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine the short-term effectiveness of full kinematic chain manual and manipulative therapy (MMT) plus exercise compared with targeted hip MMT plus exercise for symptomatic mild to moderate hip osteoarthritis (OA). DESIGN: Parallel-group randomized trial with 3-month follow-up. SETTING: Two chiropractic outpatient teaching clinics. PARTICIPANTS: Convenience sample of eligible participants (N=111) with symptomatic hip OA were consented and randomly allocated to receive either the experimental or comparison treatment, respectively. INTERVENTIONS: Participants in the experimental group received full kinematic chain MMT plus exercise while those in the comparison group received targeted hip MMT plus exercise. Participants in both groups received 9 treatments over a 5-week period. MAIN OUTCOME MEASURES: Western Ontario and McMasters Osteoarthritis Index (WOMAC), Harris hip score (HHS), and Overall Therapy Effectiveness, alongside estimation of clinically meaningful outcomes. RESULTS: Total dropout was 9% (n=10) with 7% of total data missing, replaced using a multiple imputation method. No statistically significant differences were found between the 2 groups for any of the outcome measures (analysis of covariance, P=.45 and P=.79 for the WOMAC and HHS, respectively). CONCLUSIONS: There were no statistically significant differences in the primary or secondary outcome scores when comparing full kinematic chain MMT plus exercise with targeted hip MMT plus exercise for mild to moderate symptomatic hip OA. Consequently, the nonsignificant findings suggest that there would also be no clinically meaningful difference between the 2 groups. The results of this study provides guidance to musculoskeletal practitioners who regularly use MMT that the full kinematic chain approach does not appear to have any benefit over targeted treatment.
+AD  - Department of Research, Cleveland Chiropractic College, Los Angeles, CA, USA.
+AN  - 22289235
+AU  - Brantingham, J. W.
+AU  - Parkin-Smith, G.
+AU  - Cassa, T. K.
+AU  - Globe, G. A.
+AU  - Globe, D.
+AU  - Pollard, H.
+AU  - deLuca, K.
+AU  - Jensen, M.
+AU  - Mayer, S.
+AU  - Korporaal, C.
+DA  - Feb
+DB  - Medline
+DO  - 10.1016/j.apmr.2011.08.036
+DP  - NLM
+ET  - 2012/02/01
+IS  - 2
+J2  - Archives of physical medicine and rehabilitation
+KW  - Analysis of Variance
+Exercise
+Female
+Humans
+Male
+Manipulation, Chiropractic
+methods
+Middle Aged
+Osteoarthritis, Hip
+therapy
+Pain Measurement
+Severity of Illness Index
+LA  - eng
+N1  - 1532-821x
+Brantingham, James W
+Parkin-Smith, Gregory
+Cassa, Tammy Kay
+Globe, Gary A
+Globe, Denise
+Pollard, Henry
+deLuca, Katie
+Jensen, Muffit
+Mayer, Stephan
+Korporaal, Charmaine
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Arch Phys Med Rehabil. 2012 Feb;93(2):259-67. doi: 10.1016/j.apmr.2011.08.036.
+PY  - 2012
+SN  - 0003-9993
+SP  - 259-67
+ST  - Full kinetic chain manual and manipulative therapy plus exercise compared with targeted manual and manipulative therapy plus exercise for symptomatic osteoarthritis of the hip: a randomized controlled trial
+T2  - Arch Phys Med Rehabil
+TI  - Full kinetic chain manual and manipulative therapy plus exercise compared with targeted manual and manipulative therapy plus exercise for symptomatic osteoarthritis of the hip: a randomized controlled trial
+VL  - 93
+ID  - 19
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine if behavioral graded activity (BGA) results in better long-term effectiveness (5 years after inclusion) than usual exercise therapy (UC; usual care) in patients with osteoarthritis (OA) of the hip or knee. METHOD: Long-term follow-up study of a single blind cluster randomized trial comparing BGA and UC. One hundred and forty-nine patients out of the 200 included were followed until 60 months' follow-up. Primary outcome measures were pain, physical function, and patient global assessment. Furthermore, patient-oriented physical function, physical performance, health care utilization and the number of joint replacement surgeries were assessed. Assessments took place at 3, 9, 15 and 60 months' follow-up. Data were analyzed according to intent-to-treat principle. RESULTS: Both treatments showed beneficial within-groups effects in the long-term. In patients with knee OA no differences between treatments were found on the short-, mid-long and long-term. In patients with hip OA significant differences in favor of BGA were found at 3 months' (pain and physical performance) and 9 months' follow-up (pain, physical function, patients global assessment and patient-oriented physical function). Furthermore, UC resulted in patients with hip OA in more joint replacement surgeries compared to BGA (hazard ratio [HR], 2.87; 95% confidence interval [CI], 1.1; 7.3). CONCLUSION: No differences between treatment groups were found in the long-term on the primary outcome measures. Although more research is needed to confirm the study findings, the results indicate that BGA reduces the risk for joint replacement surgeries compared to UC in patients with hip OA, which probably can be explained by better outcome in favor of BGA in the short- and mid-long-term.
+AD  - Netherlands Institute for Health Services Research, Utrecht, The Netherlands. m.pisters@nivel.nl
+AN  - 20488250
+AU  - Pisters, M. F.
+AU  - Veenhof, C.
+AU  - Schellevis, F. G.
+AU  - De Bakker, D. H.
+AU  - Dekker, J.
+C1  - ClinicalTrials.gov/NCT00522106
+DA  - Aug
+DB  - Medline
+DO  - 10.1016/j.joca.2010.05.008
+DP  - NLM
+ET  - 2010/05/22
+IS  - 8
+J2  - Osteoarthritis and cartilage
+KW  - Aged
+Exercise Therapy
+methods
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Netherlands
+Osteoarthritis, Hip
+therapy
+Osteoarthritis, Knee
+therapy
+Pain Measurement
+Statistics as Topic
+Time Factors
+Treatment Outcome
+LA  - eng
+N1  - 1522-9653
+Pisters, M F
+Veenhof, C
+Schellevis, F G
+De Bakker, D H
+Dekker, J
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Osteoarthritis Cartilage. 2010 Aug;18(8):1019-26. doi: 10.1016/j.joca.2010.05.008. Epub 2010 May 19.
+PY  - 2010
+SN  - 1063-4584
+SP  - 1019-26
+ST  - Long-term effectiveness of exercise therapy in patients with osteoarthritis of the hip or knee: a randomized controlled trial comparing two different physical therapy interventions
+T2  - Osteoarthritis Cartilage
+TI  - Long-term effectiveness of exercise therapy in patients with osteoarthritis of the hip or knee: a randomized controlled trial comparing two different physical therapy interventions
+VL  - 18
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the clinical effectiveness of manual physiotherapy and/or exercise physiotherapy in addition to usual care for patients with osteoarthritis (OA) of the hip or knee. DESIGN: In this 2 × 2 factorial randomized controlled trial, 206 adults (mean age 66 years) who met the American College of Rheumatology criteria for hip or knee OA were randomly allocated to receive manual physiotherapy (n = 54), multi-modal exercise physiotherapy (n = 51), combined exercise and manual physiotherapy (n = 50), or no trial physiotherapy (n = 51). The primary outcome was change in the Western Ontario and McMaster osteoarthritis index (WOMAC) after 1 year. Secondary outcomes included physical performance tests. Outcome assessors were blinded to group allocation. RESULTS: Of 206 participants recruited, 193 (93.2%) were retained at follow-up. Mean (SD) baseline WOMAC score was 100.8 (53.8) on a scale of 0-240. Intention to treat analysis showed adjusted reductions in WOMAC scores at 1 year compared with the usual care group of 28.5 (95% confidence interval (CI) 9.2-47.8) for usual care plus manual therapy, 16.4 (-3.2 to 35.9) for usual care plus exercise therapy, and 14.5 (-5.2 to 34.1) for usual care plus combined exercise therapy and manual therapy. There was an antagonistic interaction between exercise therapy and manual therapy (P = 0.027). Physical performance test outcomes favoured the exercise therapy group. CONCLUSIONS: Manual physiotherapy provided benefits over usual care, that were sustained to 1 year. Exercise physiotherapy also provided physical performance benefits over usual care. There was no added benefit from a combination of the two therapies. TRIAL REGISTRATION NUMBER: Australian New Zealand Clinical Trials Registry ACTRN12608000130369.
+AD  - Centre for Musculoskeletal Outcomes Research, Department of Surgical Sciences, Dunedin School of Medicine, University of Otago, Dunedin, New Zealand. haxby.abbott@mac.com
+AN  - 23313532
+AU  - Abbott, J. H.
+AU  - Robertson, M. C.
+AU  - Chapple, C.
+AU  - Pinto, D.
+AU  - Wright, A. A.
+AU  - Leon de la Barra, S.
+AU  - Baxter, G. D.
+AU  - Theis, J. C.
+AU  - Campbell, A. J.
+DA  - Apr
+DB  - Medline
+DO  - 10.1016/j.joca.2012.12.014
+DP  - NLM
+ET  - 2013/01/15
+IS  - 4
+J2  - Osteoarthritis and cartilage
+KW  - Adult
+Aged
+Aged, 80 and over
+Combined Modality Therapy
+Exercise Therapy
+methods
+Female
+Humans
+Male
+Middle Aged
+Musculoskeletal Manipulations
+methods
+Osteoarthritis, Hip
+rehabilitation
+Osteoarthritis, Knee
+rehabilitation
+Severity of Illness Index
+Single-Blind Method
+Treatment Outcome
+LA  - eng
+N1  - 1522-9653
+Abbott, J H
+Robertson, M C
+Chapple, C
+Pinto, D
+Wright, A A
+Leon de la Barra, S
+Baxter, G D
+Theis, J-C
+Campbell, A J
+MOA Trial team
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Osteoarthritis Cartilage. 2013 Apr;21(4):525-34. doi: 10.1016/j.joca.2012.12.014. Epub 2013 Jan 8.
+PY  - 2013
+SN  - 1063-4584
+SP  - 525-34
+ST  - Manual therapy, exercise therapy, or both, in addition to usual care, for osteoarthritis of the hip or knee: a randomized controlled trial. 1: clinical effectiveness
+T2  - Osteoarthritis Cartilage
+TI  - Manual therapy, exercise therapy, or both, in addition to usual care, for osteoarthritis of the hip or knee: a randomized controlled trial. 1: clinical effectiveness
+VL  - 21
+ID  - 6
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To investigate the effectiveness of a patient education (PE) program with or without the added effect of manual therapy (MT) compared to a minimal control intervention (MCI). METHODS: In a single-center university hospital setting, a total of 118 patients with clinical and radiographic unilateral hip osteoarthritis (OA) from primary care were randomized into one of three groups: PE, PE plus MT or MCI. The PE was taught by a physiotherapist involving five sessions. The MT was delivered by a chiropractor involving 12 sessions and the MCI included a home stretching program. Primary outcome was self-reported pain severity on an 11-box numeric rating scale (NRS) immediately following a 6-week intervention period. Patients were followed for 1 year. RESULTS: Primary analysis included 111 patients (94%). In the combined group (PE + MT), a clinically relevant reduction in pain severity compared to the MCI of 1.90 points (95% confidence interval (CI) 0.9-2.9) was achieved. Effect size (Cohen's d) for the PE + MT minus the MCI was 0.92 (95% CI 0.41-1.42). Number needed to treat for PE + MT was 3 (95% CI 2-7). No difference was found between the PE and MCI groups, with mean difference 0.0 (95% CI -1.0 to 1.0). At 12 months, not including patients receiving hip surgery the statistically significant difference favoring PE + MT was maintained. CONCLUSIONS: For primary care patients with OA of the hip, a combined intervention of MT and PE was more effective than a MCI. PE alone was not superior to the MCI. TRIAL REGISTRATION: clinicaltrials.govNCT01039337.
+AD  - Institute of Sports Science and Clinical Biomechanics, University of Southern Denmark, Odense, Denmark; Nordic Institute of Chiropractic and Clinical Biomechanics, Odense, Denmark. Electronic address: e.poulsen@nikkb.dk.
+AN  - 23792189
+AU  - Poulsen, E.
+AU  - Hartvigsen, J.
+AU  - Christensen, H. W.
+AU  - Roos, E. M.
+AU  - Vach, W.
+AU  - Overgaard, S.
+C1  - ClinicalTrials.gov/NCT01039337
+DA  - Oct
+DB  - Medline
+DO  - 10.1016/j.joca.2013.06.009
+DP  - NLM
+ET  - 2013/06/25
+IS  - 10
+J2  - Osteoarthritis and cartilage
+KW  - Activities of Daily Living
+Aged
+Combined Modality Therapy
+Female
+Follow-Up Studies
+Humans
+Male
+Manipulation, Chiropractic
+adverse effects
+methods
+Middle Aged
+Osteoarthritis, Hip
+rehabilitation
+Pain Measurement
+methods
+Patient Education as Topic
+methods
+Patient Satisfaction
+Primary Health Care
+methods
+Severity of Illness Index
+Treatment Outcome
+LA  - eng
+N1  - 1522-9653
+Poulsen, E
+Hartvigsen, J
+Christensen, H W
+Roos, E M
+Vach, W
+Overgaard, S
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Hip
+Manual therapy
+Osteoarthritis
+Patient education
+Osteoarthritis Cartilage. 2013 Oct;21(10):1494-503. doi: 10.1016/j.joca.2013.06.009. Epub 2013 Jun 21.
+PY  - 2013
+SN  - 1063-4584
+SP  - 1494-503
+ST  - Patient education with or without manual therapy compared to a control group in patients with osteoarthritis of the hip. A proof-of-principle three-arm parallel group randomized clinical trial
+T2  - Osteoarthritis Cartilage
+TI  - Patient education with or without manual therapy compared to a control group in patients with osteoarthritis of the hip. A proof-of-principle three-arm parallel group randomized clinical trial
+VL  - 21
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine whether Tai Chi or hydrotherapy classes for individuals with chronic symptomatic hip or knee osteoarthritis (OA) result in measurable clinical benefits. METHODS: A randomized controlled trial was conducted among 152 older persons with chronic symptomatic hip or knee OA. Participants were randomly allocated for 12 weeks to hydrotherapy classes (n = 55), Tai Chi classes (n = 56), or a waiting list control group (n = 41). Outcomes were assessed 12 and 24 weeks after randomization and included pain and physical function (Western Ontario and McMaster Universities Osteoarthritis Index), general health status (Medical Outcomes Study Short Form 12 Health Survey [SF-12], version 2), psychological well-being, and physical performance (Up and Go test, 50-foot walk time, timed stair climb). RESULTS: At 12 weeks, compared with controls, participants allocated to hydrotherapy classes demonstrated mean improvements (95% confidence interval) of 6.5 (0.4, 12.7) and 10.5 (3.6, 14.5) for pain and physical function scores (range 0-100), respectively, whereas participants allocated to Tai Chi classes demonstrated improvements of 5.2 (-0.8, 11.1) and 9.7 (2.8, 16.7), respectively. Both class allocations achieved significant improvements in the SF-12 physical component summary score, but only allocation to hydrotherapy achieved significant improvements in the physical performance measures. All significant improvements were sustained at 24 weeks. In this almost exclusively white sample, class attendance was higher for hydrotherapy, with 81% attending at least half of the available 24 classes, compared with 61% for Tai Chi. CONCLUSION: Access to either hydrotherapy or Tai Chi classes can provide large and sustained improvements in physical function for many older, sedentary individuals with chronic hip or knee OA.
+AD  - The George Institute for International Health, University of Sydney, Sydney, Australia. mfransen@thegeorgeinstitute.org
+AN  - 17443749
+AU  - Fransen, M.
+AU  - Nairn, L.
+AU  - Winstanley, J.
+AU  - Lam, P.
+AU  - Edmonds, J.
+C1  - ClinicalTrials.gov/NCT00123994
+DA  - Apr 15
+DB  - Medline
+DO  - 10.1002/art.22621
+DP  - NLM
+ET  - 2007/04/20
+IS  - 3
+J2  - Arthritis and rheumatism
+KW  - Aged
+Female
+Humans
+Hydrotherapy
+Male
+Middle Aged
+Motor Activity
+Osteoarthritis, Hip
+physiopathology
+therapy
+Osteoarthritis, Knee
+physiopathology
+therapy
+Pain
+physiopathology
+Tai Ji
+Treatment Outcome
+LA  - eng
+N1  - Fransen, Marlene
+Nairn, Lillias
+Winstanley, Julie
+Lam, Paul
+Edmonds, John
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Arthritis Rheum. 2007 Apr 15;57(3):407-14. doi: 10.1002/art.22621.
+PY  - 2007
+SN  - 0004-3591 (Print)
+0004-3591
+SP  - 407-14
+ST  - Physical activity for osteoarthritis management: a randomized controlled clinical trial evaluating hydrotherapy or Tai Chi classes
+T2  - Arthritis Rheum
+TI  - Physical activity for osteoarthritis management: a randomized controlled clinical trial evaluating hydrotherapy or Tai Chi classes
+VL  - 57
+ID  - 4
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the short- and long-term effectiveness of exercise training in relation to pain, function and direct costs to health care systems attributable to hip osteoarthritis. DESIGN: Prospective, two-year randomized controlled trial. SETTING: An outpatient primary health care setting. SUBJECTS: One hundred and twenty men and women aged from 55 to 80, with radiologically diagnosed hip osteoarthritis with associated clinical symptoms. INTERVENTIONS: The combined exercise and general practitioner (GP) care group received 12 supervised (once per week) exercise sessions at the baseline and four additional booster sessions one year later. Both groups received standard GP care. MAIN MEASURES: The WOMAC Osteoarthritis Index, physical functioning score of RAND-36 (SF-36), the use and health care system costs of doctor visits and physiotherapy associated with hip osteoarthritis, number of total hip replacements, the use of analgesic and non-steroidal anti-inflammatory drugs (NSAIDs), performance-based outcome scores and body mass index (BMI). RESULTS: There were no differences between the groups with respect to WOMAC hip pain, physical functioning score of RAND-36, performance-based outcome scores or BMI. The effect of the exercise intervention on WOMAC function was statistically significant at 6 months (mean = -7.5; 95% confidence interval (CI) -13.9 to -1.0; P = 0.02) and 18 months (mean = -7.9; 95% CI -15.3 to -0.4; P = 0.04). There were no statistically significant differences in the total health care system costs between the groups. CONCLUSION: The mostly home-based exercise training programme provided in this study did not result in reduced hip pain over the two-year follow-up period.
+AD  - Department of Physical and Rehabilitation Medicine, Mikkeli Central Hospital, Mikkeli.
+AN  - 21078702
+AU  - Juhakoski, R.
+AU  - Tenhonen, S.
+AU  - Malmivaara, A.
+AU  - Kiviniemi, V.
+AU  - Anttonen, T.
+AU  - Arokoski, J. P.
+DA  - Apr
+DB  - Medline
+DO  - 10.1177/0269215510388313
+DP  - NLM
+ET  - 2010/11/17
+IS  - 4
+J2  - Clinical rehabilitation
+KW  - Aged
+Aged, 80 and over
+Cost-Benefit Analysis
+Exercise Therapy
+economics
+methods
+Female
+Finland
+Humans
+Male
+Middle Aged
+Osteoarthritis, Hip
+complications
+economics
+rehabilitation
+Outcome Assessment, Health Care
+Pain
+economics
+etiology
+rehabilitation
+Prospective Studies
+LA  - eng
+N1  - 1477-0873
+Juhakoski, Riikka
+Tenhonen, Seppo
+Malmivaara, Antti
+Kiviniemi, Vesa
+Anttonen, Tapio
+Arokoski, Jari P A
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Clin Rehabil. 2011 Apr;25(4):370-83. doi: 10.1177/0269215510388313. Epub 2010 Nov 15.
+PY  - 2011
+SN  - 0269-2155
+SP  - 370-83
+ST  - A pragmatic randomized controlled study of the effectiveness and cost consequences of exercise therapy in hip osteoarthritis
+T2  - Clin Rehabil
+TI  - A pragmatic randomized controlled study of the effectiveness and cost consequences of exercise therapy in hip osteoarthritis
+VL  - 25
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the feasibility and preliminary effectiveness of therapeutic exercise before total hip replacement in frail elderly. DESIGN: A single-blind, randomized clinical pilot trial. SETTING: Outpatient physiotherapy department. SUBJECTS: Frail elderly with hip osteoarthritis awaiting total hip replacement. INTERVENTIONS: A short (3-6 weeks) tailor-made, therapeutic exercise programme was compared with usual care. MAIN MEASURES: Feasibility was assessed through patient satisfaction, adherence, occurrence of adverse events and the number of eligible non-volunteers. Preliminary preoperative effectiveness was assessed with performance and self-reported measures of pain, functioning, physical activity and quality of life. Postoperatively we measured functional recovery and length of hospital stay. RESULTS: Sixty-two eligible patients were approached of whom 21 (mean age 76 years) agreed to participate. Exercisers (n = 10), rated the intervention as very good 8.9 (8-10) (10-point rating scale). No serious adverse events occurred. Forty-one (66%) eligible patients did not participate, mainly because of logistic considerations, resulting in selection bias. The intervention group (trainings sessions participated 91%) showed relevant preoperative improvements on the chair-rise time (delta -2.9 seconds; 95% confidence interval (CI) -6.2 to 0.4) and timed-up-and-go (delta -4.4 seconds; 95% CI -9.3 to 0.5). Postoperatively, no significant differences were seen. CONCLUSIONS: A short, tailor-made, exercise programme is well tolerated and appreciated in elderly patients awaiting total hip replacement. However, a larger randomized clinical trial in the same setting is not warranted, because of the high number of eligible non-volunteers.
+AD  - Department of Rheumatology, Sint Maartenskliniek, Nijmegen, The Netherlands. t.hoogeboom@maartenskliniek.nl
+AN  - 20554640
+AU  - Hoogeboom, T. J.
+AU  - Dronkers, J. J.
+AU  - van den Ende, C. H.
+AU  - Oosting, E.
+AU  - van Meeteren, N. L.
+DA  - Oct
+DB  - Medline
+DO  - 10.1177/0269215510371427
+DP  - NLM
+ET  - 2010/06/18
+IS  - 10
+J2  - Clinical rehabilitation
+KW  - Aged
+Aged, 80 and over
+Arthroplasty, Replacement, Hip
+methods
+rehabilitation
+Exercise Therapy
+methods
+Feasibility Studies
+Female
+Frail Elderly
+Humans
+Length of Stay
+Male
+Osteoarthritis, Hip
+rehabilitation
+surgery
+Patient Compliance
+Patient Satisfaction
+Pilot Projects
+Preoperative Care
+methods
+Recovery of Function
+Single-Blind Method
+LA  - eng
+N1  - 1477-0873
+Hoogeboom, Thomas J
+Dronkers, Jaap J
+van den Ende, Cornelia H M
+Oosting, Ellen
+van Meeteren, Nico L U
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Clin Rehabil. 2010 Oct;24(10):901-10. doi: 10.1177/0269215510371427. Epub 2010 Jun 16.
+PY  - 2010
+SN  - 0269-2155
+SP  - 901-10
+ST  - Preoperative therapeutic exercise in frail elderly scheduled for total hip replacement: a randomized pilot trial
+T2  - Clin Rehabil
+TI  - Preoperative therapeutic exercise in frail elderly scheduled for total hip replacement: a randomized pilot trial
+VL  - 24
+ID  - 13
+ER  - 
+

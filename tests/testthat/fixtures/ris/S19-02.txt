@@ -1,0 +1,2387 @@
+﻿TY  - JOUR
+AB  - BACKGROUND: The National Lung Screening Trial was conducted to determine whether three annual screenings (rounds T0, T1, and T2) with low-dose helical computed tomography (CT), as compared with chest radiography, could reduce mortality from lung cancer. We present detailed findings from the first two incidence screenings (rounds T1 and T2). METHODS: We evaluated the rate of adherence of the participants to the screening protocol, the results of screening and downstream diagnostic tests, features of the lung-cancer cases, and first-line treatments, and we estimated the performance characteristics of both screening methods. RESULTS: At the T1 and T2 rounds, positive screening results were observed in 27.9% and 16.8% of participants in the low-dose CT group and in 6.2% and 5.0% of participants in the radiography group, respectively. In the low-dose CT group, the sensitivity was 94.4%, the specificity was 72.6%, the positive predictive value was 2.4%, and the negative predictive value was 99.9% at T1; at T2, the positive predictive value increased to 5.2%. In the radiography group, the sensitivity was 59.6%, the specificity was 94.1%, the positive predictive value was 4.4%, and the negative predictive value was 99.8% at T1; both the sensitivity and the positive predictive value increased at T2. Among lung cancers of known stage, 87 (47.5%) were stage IA and 57 (31.1%) were stage III or IV in the low-dose CT group at T1; in the radiography group, 31 (23.5%) were stage IA and 78 (59.1%) were stage III or IV at T1. These differences in stage distribution between groups persisted at T2. CONCLUSIONS: Low-dose CT was more sensitive in detecting early-stage lung cancers, but its measured positive predictive value was lower than that of radiography. As compared with radiography, the two annual incidence screenings with low-dose CT resulted in a decrease in the number of advanced-stage cancers diagnosed and an increase in the number of early-stage lung cancers diagnosed. (Funded by the National Cancer Institute; NLST ClinicalTrials.gov number, NCT00047385.).
+AD  - Department of Radiological Sciences, David Geffen School of Medicine at the University of California at Los Angeles (UCLA), Los Angeles, CA 90024, USA. daberle@mednet.ucla.edu
+AN  - 24004119
+AU  - Aberle, D. R.
+AU  - DeMello, S.
+AU  - Berg, C. D.
+AU  - Black, W. C.
+AU  - Brewer, B.
+AU  - Church, T. R.
+AU  - Clingan, K. L.
+AU  - Duan, F.
+AU  - Fagerstrom, R. M.
+AU  - Gareen, I. F.
+AU  - Gatsonis, C. A.
+AU  - Gierada, D. S.
+AU  - Jain, A.
+AU  - Jones, G. C.
+AU  - Mahon, I.
+AU  - Marcus, P. M.
+AU  - Rathmell, J. M.
+AU  - Sicks, J.
+AU  - National Lung Screening Trial Research, Team
+C1  - ClinicalTrials.gov/NCT00047385
+C2  - PMC4307922
+DA  - Sep 5
+DO  - 10.1056/NEJMoa1208962
+ET  - 2013/09/06
+IS  - 10
+KW  - Early Detection of Cancer/methods
+Female
+Follow-Up Studies
+Humans
+Incidence
+Lung/*diagnostic imaging
+Lung Neoplasms/*diagnostic imaging
+Male
+Middle Aged
+Multiple Pulmonary Nodules/diagnostic imaging
+Predictive Value of Tests
+Radiography, Thoracic
+Sensitivity and Specificity
+Solitary Pulmonary Nodule/*diagnostic imaging
+Tomography, Spiral Computed
+N1  - Aberle, Denise R
+DeMello, Sarah
+Berg, Christine D
+Black, William C
+Brewer, Brenda
+Church, Timothy R
+Clingan, Kathy L
+Duan, Fenghai
+Fagerstrom, Richard M
+Gareen, Ilana F
+Gatsonis, Constantine A
+Gierada, David S
+Jain, Amanda
+Jones, Gordon C
+Mahon, Irene
+Marcus, Pamela M
+Rathmell, Joshua M
+Sicks, JoRean
+eng
+N01-CN-25524/CN/NCI NIH HHS/
+U01-CA-79778/CA/NCI NIH HHS/
+N01-CN-25513/CN/NCI NIH HHS/
+N01-CN-25511/CN/NCI NIH HHS/
+N01 CN25514/CA/NCI NIH HHS/
+N01-CN-75022/CN/NCI NIH HHS/
+N01-CN-25514/CN/NCI NIH HHS/
+U01 CA080098/CA/NCI NIH HHS/
+N01-CN-25512/CN/NCI NIH HHS/
+U10 CA079778/CA/NCI NIH HHS/
+N01 CN25524/CA/NCI NIH HHS/
+N02CN63300/CA/NCI NIH HHS/
+N01-CN-25515/CN/NCI NIH HHS/
+N01 CN25513/CA/NCI NIH HHS/
+N02-CN-63300/CN/NCI NIH HHS/
+N01 CN75022/CA/NCI NIH HHS/
+N01 CN25512/CA/NCI NIH HHS/
+U01-CA-80098/CA/NCI NIH HHS/
+U01 CA079778/CA/NCI NIH HHS/
+N01 CN25518/CA/NCI NIH HHS/
+N01-CN-25516/CN/NCI NIH HHS/
+N01 CN25516/CA/NCI NIH HHS/
+N01 CN25511/CA/NCI NIH HHS/
+N01 CN25476/CA/NCI NIH HHS/
+N01-CN-25476/CN/NCI NIH HHS/
+N01 CN25522/CA/NCI NIH HHS/
+N01 CN25515/CA/NCI NIH HHS/
+N01-CN-25518/CN/NCI NIH HHS/
+N01-CN-25522/CN/NCI NIH HHS/
+Comparative Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+N Engl J Med. 2013 Sep 5;369(10):920-31. doi: 10.1056/NEJMoa1208962.
+PY  - 2013
+SN  - 1533-4406 (Electronic)
+0028-4793 (Linking)
+SP  - 920-31
+ST  - Results of the two incidence screenings in the National Lung Screening Trial
+T2  - N Engl J Med
+TI  - Results of the two incidence screenings in the National Lung Screening Trial
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24004119
+VL  - 369
+ID  - 63
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To examine the psychosocial consequences of being allocated to the control group as compared with the screen group in a randomised lung cancer screening trial. METHOD: The Danish Lung Cancer Screening Trial, a randomised controlled trial, ran from 2004 to 2010 with the purpose of investigating the benefits and harms of lung cancer screening. The participants in Danish Lung Cancer Screening Trial were randomised to either the control group or the screen group and were asked to complete the questionnaires Consequences Of Screening and Consequences Of Screening in Lung Cancer (COS-LC). The Consequences Of Screening and the COS-LC were used to examine the psychosocial consequences of participating in the study, by comparing the control and the screen groups' responses at the prevalence and at the incidence round. RESULTS: There was no statistically significant difference in socio-demographic characteristics or smoking habits between the two groups. Responses to the COS-LC collected before the incidence round were statistically significantly different on the scales 'anxiety', 'behaviour', 'dejection', 'self-blame', 'focus on airway symptoms' and 'introvert', with the control group reporting higher negative psychosocial consequences. Furthermore, the participants in both the control and the screen groups exhibited a mean increase in negative psychosocial consequences when their responses from the prevalence round were compared with their responses from the first incidence round. CONCLUSIONS: Participation in a randomised controlled trial on lung cancer screening has negative psychosocial consequences for the apparently healthy participants-both the participants in the screen group and the control group. This negative impact was greatest for the control group.
+AD  - The Research Unit for General Practice and Section of General Practice, Department of Public Health, University of Copenhagen, Copenhagen, Denmark.
+AN  - 22382119
+AU  - Aggestrup, L. M.
+AU  - Hestbech, M. S.
+AU  - Siersma, V.
+AU  - Pedersen, J. H.
+AU  - Brodersen, J.
+C2  - PMC3293139
+DO  - 10.1136/bmjopen-2011-000663
+DP  - NLM
+ET  - 2012/03/03
+IS  - 2
+J2  - BMJ open
+LA  - eng
+N1  - 2044-6055
+Aggestrup, Louise Mosborg
+Hestbech, Mie Sara
+Siersma, Volkert
+Pedersen, Jesper Holst
+Brodersen, John
+Journal Article
+England
+BMJ Open. 2012 Mar 1;2(2):e000663. doi: 10.1136/bmjopen-2011-000663. Print 2012.
+PY  - 2012
+SN  - 2044-6055
+SP  - e000663
+ST  - Psychosocial consequences of allocation to lung cancer screening: a randomised controlled trial
+T2  - BMJ Open
+TI  - Psychosocial consequences of allocation to lung cancer screening: a randomised controlled trial
+VL  - 2
+ID  - 25
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Low-dose multislice-CT (MSCT) detects many early-stage lung cancers with good prognosis, but whether it decreases lung cancer mortality and at which costs is yet insufficiently explored. Scope of the present study is to examine within a common European effort whether MSCT screening is capable to reduce the lung cancer mortality by at least 20 % and at which amount of undesired side effects this could be achieved. METHODS: Overall 4,052 heavy smoking men and women were recruited by a population-based approach and randomized into a screening arm with five annual MSCT screens and an initial quit-smoking counseling, and a control arm with initial quit-smoking counseling and five annual questionnaire inquiries. RESULTS: In the first screening round, 2,029 participants received a MSCT providing 1,488 negative and 540 suspicious screens with early recalls (early recall rate 26.6 %) leading to 31 biopsies (biopsy rate 1.5 %) and 22 confirmed lung cancers (detection rate 1.1 %). Among the lung cancers, 15 were adenocarcinomas, 3 squamous cell carcinomas, one small-cell lung cancer, and 3 others, whereby 18 were in clinical stage I, one in stage II, and 3 in stage III. One interval cancer occurred. CONCLUSIONS: The indicated performance indicators fit into the range observed in comparable trials. The study continues finalizing the second screening round and for the first participants even the last screening round. The unresolved issue of the precise amount of side effects and the high early recall rate precludes currently the recommendation of MSCT as screening tool for lung cancer.
+AD  - Division of Cancer Epidemiology, German Cancer Research Center, Im Neuenheimer Feld 581, 69120, Heidelberg, Germany. n.becker@dkfz.de
+AN  - 22526165
+AU  - Becker, N.
+AU  - Motsch, E.
+AU  - Gross, M. L.
+AU  - Eigentopf, A.
+AU  - Heussel, C. P.
+AU  - Dienemann, H.
+AU  - Schnabel, P. A.
+AU  - Pilz, L.
+AU  - Eichinger, M.
+AU  - Optazaite, D. E.
+AU  - Puderbach, M.
+AU  - Tremper, J.
+AU  - Delorme, S.
+DA  - Sep
+DO  - 10.1007/s00432-012-1228-9
+DP  - NLM
+ET  - 2012/04/25
+IS  - 9
+J2  - Journal of cancer research and clinical oncology
+KW  - Adenocarcinoma/diagnosis
+Adult
+Aged
+Carcinoma, Squamous Cell/diagnosis
+*Early Detection of Cancer
+Female
+Germany
+Humans
+Lung/*diagnostic imaging
+Lung Neoplasms/*diagnosis
+Male
+Mass Screening/methods
+Middle Aged
+Neoplasm Staging
+Reproducibility of Results
+Sensitivity and Specificity
+Small Cell Lung Carcinoma/diagnosis
+Smoking
+Tomography, X-Ray Computed/*methods
+LA  - eng
+N1  - 1432-1335
+Becker, N
+Motsch, E
+Gross, M-L
+Eigentopf, A
+Heussel, C P
+Dienemann, H
+Schnabel, P A
+Pilz, L
+Eichinger, M
+Optazaite, D-E
+Puderbach, M
+Tremper, J
+Delorme, S
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Germany
+J Cancer Res Clin Oncol. 2012 Sep;138(9):1475-86. doi: 10.1007/s00432-012-1228-9. Epub 2012 Apr 21.
+PY  - 2012
+SN  - 0171-5216
+SP  - 1475-86
+ST  - Randomized study on early detection of lung cancer with MSCT in Germany: study design and results of the first screening round
+T2  - J Cancer Res Clin Oncol
+TI  - Randomized study on early detection of lung cancer with MSCT in Germany: study design and results of the first screening round
+VL  - 138
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Lung cancer is the largest contributor to mortality from cancer. The National Lung Screening Trial (NLST) showed that screening with low-dose helical computed tomography (CT) rather than with chest radiography reduced mortality from lung cancer. We describe the screening, diagnosis, and limited treatment results from the initial round of screening in the NLST to inform and improve lung-cancer-screening programs. METHODS: At 33 U.S. centers, from August 2002 through April 2004, we enrolled asymptomatic participants, 55 to 74 years of age, with a history of at least 30 pack-years of smoking. The participants were randomly assigned to undergo annual screening, with the use of either low-dose CT or chest radiography, for 3 years. Nodules or other suspicious findings were classified as positive results. This article reports findings from the initial screening examination. RESULTS: A total of 53,439 eligible participants were randomly assigned to a study group (26,715 to low-dose CT and 26,724 to chest radiography); 26,309 participants (98.5%) and 26,035 (97.4%), respectively, underwent screening. A total of 7191 participants (27.3%) in the low-dose CT group and 2387 (9.2%) in the radiography group had a positive screening result; in the respective groups, 6369 participants (90.4%) and 2176 (92.7%) had at least one follow-up diagnostic procedure, including imaging in 5717 (81.1%) and 2010 (85.6%) and surgery in 297 (4.2%) and 121 (5.2%). Lung cancer was diagnosed in 292 participants (1.1%) in the low-dose CT group versus 190 (0.7%) in the radiography group (stage 1 in 158 vs. 70 participants and stage IIB to IV in 120 vs. 112). Sensitivity and specificity were 93.8% and 73.4% for low-dose CT and 73.5% and 91.3% for chest radiography, respectively. CONCLUSIONS: The NLST initial screening results are consistent with the existing literature on screening by means of low-dose CT and chest radiography, suggesting that a reduction in mortality from lung cancer is achievable at U.S. screening centers that have staff experienced in chest CT. (Funded by the National Cancer Institute; NLST ClinicalTrials.gov number, NCT00047385.).
+AN  - 23697514
+AU  - Church, T. R.
+AU  - Black, W. C.
+AU  - Aberle, D. R.
+AU  - Berg, C. D.
+AU  - Clingan, K. L.
+AU  - Duan, F.
+AU  - Fagerstrom, R. M.
+AU  - Gareen, I. F.
+AU  - Gierada, D. S.
+AU  - Jones, G. C.
+AU  - Mahon, I.
+AU  - Marcus, P. M.
+AU  - Sicks, J. D.
+AU  - Jain, A.
+AU  - Baum, S.
+C1  - ClinicalTrials.gov/NCT00047385
+C2  - PMC3762603
+C6  - NIHMS491916
+DA  - May 23
+DO  - 10.1056/NEJMoa1209120
+DP  - NLM
+ET  - 2013/05/24
+IS  - 21
+J2  - The New England journal of medicine
+KW  - Aged
+Early Detection of Cancer/*methods
+Female
+Humans
+Lung Neoplasms/*diagnostic imaging
+Male
+Middle Aged
+Radiation Dosage
+*Radiography, Thoracic
+Sensitivity and Specificity
+Smoking
+*Tomography, X-Ray Computed/methods
+LA  - eng
+N1  - 1533-4406
+National Lung Screening Trial Research Team
+Church, Timothy R
+Black, William C
+Aberle, Denise R
+Berg, Christine D
+Clingan, Kathy L
+Duan, Fenghai
+Fagerstrom, Richard M
+Gareen, Ilana F
+Gierada, David S
+Jones, Gordon C
+Mahon, Irene
+Marcus, Pamela M
+Sicks, JoRean D
+Jain, Amanda
+Baum, Sarah
+N01-CN-25524/CN/NCI NIH HHS/United States
+U01-CA-79778/CA/NCI NIH HHS/United States
+N01-CN-25513/CN/NCI NIH HHS/United States
+N01-CN-25511/CN/NCI NIH HHS/United States
+N01 CN25514/CA/NCI NIH HHS/United States
+N01-CN-75022/CN/NCI NIH HHS/United States
+N01-CN-25514/CN/NCI NIH HHS/United States
+U01 CA080098/CA/NCI NIH HHS/United States
+N01-CN-25512/CN/NCI NIH HHS/United States
+N01 CN25524/CA/NCI NIH HHS/United States
+N02CN63300/CA/NCI NIH HHS/United States
+N01-CN-25515/CN/NCI NIH HHS/United States
+N01 CN25513/CA/NCI NIH HHS/United States
+N02-CN-63300/CN/NCI NIH HHS/United States
+P30 CA023108/CA/NCI NIH HHS/United States
+N01 CN75022/CA/NCI NIH HHS/United States
+N01 CN25512/CA/NCI NIH HHS/United States
+U01-CA-80098/CA/NCI NIH HHS/United States
+U01 CA079778/CA/NCI NIH HHS/United States
+N01 CN25518/CA/NCI NIH HHS/United States
+N01-CN-25516/CN/NCI NIH HHS/United States
+N01 CN25516/CA/NCI NIH HHS/United States
+U10 CA080098/CA/NCI NIH HHS/United States
+N01 CN25511/CA/NCI NIH HHS/United States
+N01 CN25476/CA/NCI NIH HHS/United States
+N01-CN-25476/CN/NCI NIH HHS/United States
+N01 CN25522/CA/NCI NIH HHS/United States
+N01 CN25515/CA/NCI NIH HHS/United States
+N01-CN-25518/CN/NCI NIH HHS/United States
+N01-CN-25522/CN/NCI NIH HHS/United States
+Journal Article
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+United States
+N Engl J Med. 2013 May 23;368(21):1980-91. doi: 10.1056/NEJMoa1209120.
+PY  - 2013
+SN  - 0028-4793
+SP  - 1980-91
+ST  - Results of initial low-dose computed tomographic screening for lung cancer
+T2  - N Engl J Med
+TI  - Results of initial low-dose computed tomographic screening for lung cancer
+VL  - 368
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Direct-to-consumer promotion of lung cancer screening has increased, especially low-dose computed tomography (CT). However, screening exposes healthy persons to potential harms, and cumulative false-positive rates for low-dose CT have never been formally reported. OBJECTIVE: To quantify the cumulative risk that a person who participated in a 1- or 2-year lung cancer screening examination would receive at least 1 false-positive result, as well as rates of unnecessary diagnostic procedures. DESIGN: Randomized, controlled trial of low-dose CT versus chest radiography. (ClinicalTrials.gov registration number: NCT00006382) SETTING: Feasibility study for the ongoing National Lung Screening Trial. PATIENTS: Current or former smokers, aged 55 to 74 years, with a smoking history of 30 pack-years or more and no history of lung cancer (n = 3190). INTERVENTION: Random assignment to low-dose CT or chest radiography with baseline and 1 repeated annual screening; 1-year follow-up after the final screening. Randomization was centralized and stratified by age, sex, and study center. MEASUREMENTS: False-positive screenings, defined as a positive screening with a completed negative work-up or 12 months or more of follow-up with no lung cancer diagnosis. RESULTS: By using a Kaplan-Meier analysis, a person's cumulative probability of 1 or more false-positive low-dose CT examinations was 21% (95% CI, 19% to 23%) after 1 screening and 33% (CI, 31% to 35%) after 2. The rates for chest radiography were 9% (CI, 8% to 11%) and 15% (CI, 13% to 16%), respectively. A total of 7% of participants with a false-positive low-dose CT examination and 4% with a false-positive chest radiography had a resulting invasive procedure. LIMITATIONS: Screening was limited to 2 rounds. Follow-up after the second screening was limited to 12 months. The false-negative rate is probably an underestimate. CONCLUSION: Risks for false-positive results on lung cancer screening tests are substantial after only 2 annual examinations, particularly for low-dose CT. Further study of resulting economic, psychosocial, and physical burdens of these methods is warranted. PRIMARY FUNDING SOURCE: National Cancer Institute.
+AD  - National Institutes of Health, National Cancer Institute, Bethesda, and Information Management Services, Rockville, Maryland 20892, USA. croswellj@od.nih.gov
+AN  - 20404381
+AU  - Croswell, J. M.
+AU  - Baker, S. G.
+AU  - Marcus, P. M.
+AU  - Clapp, J. D.
+AU  - Kramer, B. S.
+C1  - ClinicalTrials.gov/NCT00006382
+DA  - Apr 20
+DO  - 10.7326/0003-4819-152-8-201004200-00007
+DP  - NLM
+ET  - 2010/04/21
+IS  - 8
+J2  - Annals of internal medicine
+KW  - Aged
+Early Detection of Cancer/methods/*standards
+False Positive Reactions
+Female
+Humans
+Kaplan-Meier Estimate
+Lung Neoplasms/*diagnostic imaging
+Male
+*Mass Chest X-Ray
+Mass Screening/methods/*standards
+Middle Aged
+Patient Compliance
+*Tomography, X-Ray Computed
+Unnecessary Procedures
+LA  - eng
+N1  - 1539-3704
+Croswell, Jennifer M
+Baker, Stuart G
+Marcus, Pamela M
+Clapp, Jonathan D
+Kramer, Barnett S
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+United States
+Ann Intern Med. 2010 Apr 20;152(8):505-12, W176-80. doi: 10.7326/0003-4819-152-8-201004200-00007.
+PY  - 2010
+SN  - 0003-4819
+SP  - 505-12, w176-80
+ST  - Cumulative incidence of false-positive test results in lung cancer screening: a randomized trial
+T2  - Ann Intern Med
+TI  - Cumulative incidence of false-positive test results in lung cancer screening: a randomized trial
+VL  - 152
+ID  - 38
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Lung cancer kills more people than any other cancer in the UK (5-year survival < 13%). Early diagnosis can save lives. The USA-based National Lung Cancer Screening Trial reported a 20% relative reduction in lung cancer mortality and 6.7% all-cause mortality in low-dose computed tomography (LDCT)-screened subjects. OBJECTIVES: To (1) analyse LDCT lung cancer screening in a high-risk UK population, determine optimum recruitment, screening, reading and care pathway strategies; and (2) assess the psychological consequences and the health-economic implications of screening. DESIGN: A pilot randomised controlled trial comparing intervention with usual care. A population-based risk questionnaire identified individuals who were at high risk of developing lung cancer (>/= 5% over 5 years). SETTING: Thoracic centres with expertise in lung cancer imaging, respiratory medicine, pathology and surgery: Liverpool Heart & Chest Hospital, Merseyside, and Papworth Hospital, Cambridgeshire. PARTICIPANTS: Individuals aged 50-75 years, at high risk of lung cancer, in the primary care trusts adjacent to the centres. INTERVENTIONS: A thoracic LDCT scan. Follow-up computed tomography (CT) scans as per protocol. Referral to multidisciplinary team clinics was determined by nodule size criteria. MAIN OUTCOME MEASURES: Population-based recruitment based on risk stratification; management of the trial through web-based database; optimal characteristics of CT scan readers (radiologists vs. radiographers); characterisation of CT-detected nodules utilising volumetric analysis; prevalence of lung cancer at baseline; sociodemographic factors affecting participation; psychosocial measures (cancer distress, anxiety, depression, decision satisfaction); and cost-effectiveness modelling. RESULTS: A total of 247,354 individuals were approached to take part in the trial; 30.7% responded positively to the screening invitation. Recruitment of participants resulted in 2028 in the CT arm and 2027 in the control arm. A total of 1994 participants underwent CT scanning: 42 participants (2.1%) were diagnosed with lung cancer; 36 out of 42 (85.7%) of the screen-detected cancers were identified as stage 1 or 2, and 35 (83.3%) underwent surgical resection as their primary treatment. Lung cancer was more common in the lowest socioeconomic group. Short-term adverse psychosocial consequences were observed in participants who were randomised to the intervention arm and in those who had a major lung abnormality detected, but these differences were modest and temporary. Rollout of screening as a service or design of a full trial would need to address issues of outreach. The health-economic analysis suggests that the intervention could be cost-effective but this needs to be confirmed using data on actual lung cancer mortality. CONCLUSIONS: The UK Lung Cancer Screening (UKLS) pilot was successfully undertaken with 4055 randomised individuals. The data from the UKLS provide evidence that adds to existing data to suggest that lung cancer screening in the UK could potentially be implemented in the 60-75 years age group, selected via the Liverpool Lung Project risk model version 2 and using CT volumetry-based management protocols. FUTURE WORK: The UKLS data will be pooled with the NELSON (Nederlands Leuvens Longkanker Screenings Onderzoek: Dutch-Belgian Randomised Lung Cancer Screening Trial) and other European Union trials in 2017 which will provide European mortality and cost-effectiveness data. For now, there is a clear need for mortality results from other trials and further research to identify optimal methods of implementation and delivery. Strategies for increasing uptake and providing support for underserved groups will be key to implementation. TRIAL REGISTRATION: Current Controlled Trials ISRCTN78513845. FUNDING: This project was funded by the National Institute for Health Research (NIHR) Health Technology Assessment programme and will be published in full in Health Technology Assessment; Vol. 20, No. 40. See the NIHR Journals Library website for further project information.
+AD  - Department of Molecular and Clinical Cancer Medicine, Institute of Translational Medicine, University of Liverpool, Liverpool, UK.
+Centre for Cancer Prevention, Wolfson Institute of Preventive Medicine, Queen Mary University of London, London, UK.
+Respiratory Medicine Unit, David Evans Research Centre, Department of Respiratory Medicine, Nottingham University Hospitals, Nottingham, UK.
+Division of Population Medicine, College of Biomedical and Life Sciences, Cardiff University, Cardiff, UK.
+Department of Radiology, Royal Brompton and Harefield NHS Foundation Trust, London, UK.
+Department of Oncology, University of Cambridge, Cambridge, UK.
+Department of Radiology, Liverpool Heart and Chest Hospital, Liverpool, UK.
+Lung Cancer Patient Advocate, Liverpool, UK.
+Department of Pathology, Aberdeen Royal Infirmary, Aberdeen, UK.
+Department of Respiratory Medicine, Liverpool Heart and Chest Hospital, Liverpool, UK.
+Department of Radiology, Guy's and St Thomas' NHS Foundation Trust, London, UK.
+Department of Thoracic Surgery, Liverpool Heart and Chest Hospital, Liverpool, UK.
+MRC Clinical Trials Unit, University College London, London, UK.
+Department of Thoracic Oncology, Papworth Hospital NHS Foundation Trust, Cambridge, UK.
+Department of Radiology, Papworth Hospital NHS Foundation Trust, Cambridge, UK.
+Centre for Environmental and Preventive Medicine, Wolfson Institute of Preventive Medicine, Queen Mary University of London, London, UK.
+School of Clinical Sciences and Community Health, University of Edinburgh, Edinburgh, UK.
+School of Economics, University of Nottingham, Nottingham, UK.
+Department of Biostatistics, Institute of Translational Medicine, University of Liverpool, Liverpool, UK.
+AN  - 27224642
+AU  - Field, J. K.
+AU  - Duffy, S. W.
+AU  - Baldwin, D. R.
+AU  - Brain, K. E.
+AU  - Devaraj, A.
+AU  - Eisen, T.
+AU  - Green, B. A.
+AU  - Holemans, J. A.
+AU  - Kavanagh, T.
+AU  - Kerr, K. M.
+AU  - Ledson, M.
+AU  - Lifford, K. J.
+AU  - McRonald, F. E.
+AU  - Nair, A.
+AU  - Page, R. D.
+AU  - Parmar, M. K.
+AU  - Rintoul, R. C.
+AU  - Screaton, N.
+AU  - Wald, N. J.
+AU  - Weller, D.
+AU  - Whynes, D. K.
+AU  - Williamson, P. R.
+AU  - Yadegarfar, G.
+AU  - Hansell, D. M.
+C1  - Isrctn/isrctn78513845
+C2  - PMC4904185
+DA  - May
+DO  - 10.3310/hta20400
+DP  - NLM
+ET  - 2016/05/26
+IS  - 40
+J2  - Health technology assessment (Winchester, England)
+KW  - Aged
+Cost-Benefit Analysis
+Early Detection of Cancer/economics/*methods/*psychology
+Female
+Humans
+Lung Neoplasms/*diagnosis/diagnostic imaging/pathology/*psychology
+Male
+Middle Aged
+Neoplasm Staging
+Pilot Projects
+Quality-Adjusted Life Years
+Radiation Dosage
+Risk Factors
+Socioeconomic Factors
+Tomography, X-Ray Computed/economics/*methods
+United Kingdom
+LA  - eng
+N1  - 2046-4924
+Field, John K
+Duffy, Stephen W
+Baldwin, David R
+Brain, Kate E
+Devaraj, Anand
+Eisen, Tim
+Green, Beverley A
+Holemans, John A
+Kavanagh, Terry
+Kerr, Keith M
+Ledson, Martin
+Lifford, Kate J
+McRonald, Fiona E
+Nair, Arjun
+Page, Richard D
+Parmar, Mahesh Kb
+Rintoul, Robert C
+Screaton, Nicholas
+Wald, Nicholas J
+Weller, David
+Whynes, David K
+Williamson, Paula R
+Yadegarfar, Ghasem
+Hansell, David M
+09/61/01/Department of Health/United Kingdom
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Health Technol Assess. 2016 May;20(40):1-146. doi: 10.3310/hta20400.
+PY  - 2016
+SN  - 1366-5278
+SP  - 1-146
+ST  - The UK Lung Cancer Screening Trial: a pilot randomised controlled trial of low-dose computed tomography screening for the early detection of lung cancer
+T2  - Health Technol Assess
+TI  - The UK Lung Cancer Screening Trial: a pilot randomised controlled trial of low-dose computed tomography screening for the early detection of lung cancer
+VL  - 20
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Lung cancer screening using low-dose CT (LDCT) was shown to reduce lung cancer mortality by 20% in the National Lung Screening Trial. METHODS: The pilot UK Lung Cancer Screening (UKLS) is a randomised controlled trial of LDCT screening for lung cancer versus usual care. A population-based questionnaire was used to identify high-risk individuals. CT screen-detected nodules were managed by a pre-specified protocol. Cost effectiveness was modelled with reference to the National Lung Cancer Screening Trial mortality reduction. RESULTS: 247 354 individuals aged 50-75 years were approached; 30.7% expressed an interest, 8729 (11.5%) were eligible and 4055 were randomised, 2028 into the CT arm (1994 underwent a CT). Forty-two participants (2.1%) had confirmed lung cancer, 34 (1.7%) at baseline and 8 (0.4%) at the 12-month scan. 28/42 (66.7%) had stage I disease, 36/42 (85.7%) had stage I or II disease. 35/42 (83.3%) had surgical resection. 536 subjects had nodules greater than 50 mm(3) or 5 mm diameter and 41/536 were found to have lung cancer. One further cancer was detected by follow-up of nodules between 15 and 50 mm(3) at 12 months. The baseline estimate for the incremental cost-effectiveness ratio of once-only CT screening, under the UKLS protocol, was pound8466 per quality adjusted life year gained (CI pound5542 to pound12 569). CONCLUSIONS: The UKLS pilot trial demonstrated that it is possible to detect lung cancer at an early stage and deliver potentially curative treatment in over 80% of cases. Health economic analysis suggests that the intervention would be cost effective-this needs to be confirmed using data on observed lung cancer mortality reduction. TRIAL REGISTRATION: ISRCTN 78513845.
+AD  - Roy Castle Lung Cancer Research Programme, Department of Molecular and Clinical Cancer Medicine, University of Liverpool, Liverpool, UK.
+Queen Mary University of London, London, UK.
+Department of Respiratory Medicine, Nottingham University Hospitals, Nottingham, UK.
+School of Economics, University of Nottingham, Nottingham, UK.
+Royal Brompton and Harefield NHS Foundation Trust, London, UK.
+Cardiff University School of Medicine, Cardiff, UK.
+University of Cambridge, Cambridge Biomedical Research Centre, Cambridge, UK.
+Department of Pathology, Royal Liverpool and Broadgreen University Hospital Trust, Liverpool, UK.
+Liverpool Heart and Chest Hospital, NHS Foundation Trust, Liverpool UK.
+Lung Cancer Patient Advocate, Liverpool, UK.
+Department of Pathology, Aberdeen Royal Infirmary, Aberdeen, UK.
+Guy's and St Thomas' NHS Foundation Trust, London, UK.
+Medical Research Council Clinical Trials Unit at UCL, London, UK.
+Department of Histopathology, Papworth Hospital NHS Foundation Trust, Cambridge, UK.
+Center for Population Health Sciences, University of Edinburgh, Edinburgh, UK.
+AN  - 26645413
+AU  - Field, J. K.
+AU  - Duffy, S. W.
+AU  - Baldwin, D. R.
+AU  - Whynes, D. K.
+AU  - Devaraj, A.
+AU  - Brain, K. E.
+AU  - Eisen, T.
+AU  - Gosney, J.
+AU  - Green, B. A.
+AU  - Holemans, J. A.
+AU  - Kavanagh, T.
+AU  - Kerr, K. M.
+AU  - Ledson, M.
+AU  - Lifford, K. J.
+AU  - McRonald, F. E.
+AU  - Nair, A.
+AU  - Page, R. D.
+AU  - Parmar, M. K.
+AU  - Rassl, D. M.
+AU  - Rintoul, R. C.
+AU  - Screaton, N. J.
+AU  - Wald, N. J.
+AU  - Weller, D.
+AU  - Williamson, P. R.
+AU  - Yadegarfar, G.
+AU  - Hansell, D. M.
+C1  - Isrctn/isrctn78513845
+C2  - PMC4752629
+DA  - Feb
+DO  - 10.1136/thoraxjnl-2015-207140
+DP  - NLM
+ET  - 2015/12/10
+IS  - 2
+J2  - Thorax
+KW  - Aged
+Early Detection of Cancer/*methods
+Female
+Humans
+Lung Neoplasms/*diagnosis/epidemiology
+Male
+Mass Screening/*methods
+Middle Aged
+Pilot Projects
+Prevalence
+Prognosis
+Reproducibility of Results
+Surveys and Questionnaires
+Tomography, X-Ray Computed/*methods
+United Kingdom/epidemiology
+Imaging/CT MRI etc
+Lung Cancer
+LA  - eng
+N1  - 1468-3296
+Field, J K
+Duffy, S W
+Baldwin, D R
+Whynes, D K
+Devaraj, A
+Brain, K E
+Eisen, T
+Gosney, J
+Green, B A
+Holemans, J A
+Kavanagh, T
+Kerr, K M
+Ledson, M
+Lifford, K J
+McRonald, F E
+Nair, A
+Page, R D
+Parmar, M K B
+Rassl, D M
+Rintoul, R C
+Screaton, N J
+Wald, N J
+Weller, D
+Williamson, P R
+Yadegarfar, G
+Hansell, D M
+09/61/01/Department of Health/United Kingdom
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Thorax. 2016 Feb;71(2):161-70. doi: 10.1136/thoraxjnl-2015-207140. Epub 2015 Dec 8.
+PY  - 2016
+SN  - 0040-6376
+SP  - 161-70
+ST  - UK Lung Cancer RCT Pilot Screening Trial: baseline findings from the screening arm provide evidence for the potential implementation of lung cancer screening
+T2  - Thorax
+TI  - UK Lung Cancer RCT Pilot Screening Trial: baseline findings from the screening arm provide evidence for the potential implementation of lung cancer screening
+VL  - 71
+ID  - 70
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Low-dose computed tomography (LDCT) lung screening has been associated with a 20% reduction in lung cancer mortality. A major barrier to the adoption of lung screening is the potential negative psychological impact of a false-positive (FP) screen, occurring in 20% to 50% of those screened. The objective of this study was to assess the impact of abnormal findings on health-related quality of life (HRQoL) and anxiety in the American College of Radiology (ACRIN)/National Lung Screening Trial (NLST). METHODS: The NLST was a randomized screening trial comparing LDCT with chest X-ray screening (CXR). This study was part of the original protocol. A total of 2812 participants at 16 of 23 ACRIN sites who had baseline HRQoL assessments were asked to complete the Short Form-36 and the State Trait Anxiety Inventory (form Y-1) questionnaires to assess short-term (1 month) and long-term (6 months) effects of screening. FP were lung cancer-free at 1 year, and true-positives (TP) were not. RESULTS: Of the total participants, 1024 (36.4%) participants were FP, 63 (2.2%) were TP, 344 (12.2%) had significant incidental findings (SIFs), and 1381 (49.1%) had negative screens. Participants had been randomized to LDCT (n = 1947) and CXR (n = 865). Short-term and long-term HRQoL and state anxiety did not differ across participants with FP, SIF, or negative screens. Short-term and long-term HRQoL were lower and anxiety was higher for TP participants compared to participants with FP, SIF, and negative screens. CONCLUSIONS: In a large multicenter lung screening trial, participants receiving a false-positive or SIF screen result experienced no significant difference in HRQoL or state anxiety at 1 or at 6 months after screening relative to those receiving a negative result.
+AD  - Center for Statistical Sciences, Brown University School of Public Health, Providence, Rhode Island; Department of Epidemiology, Brown University School of Public Health, Providence, Rhode Island.
+AN  - 25065710
+AU  - Gareen, I. F.
+AU  - Duan, F.
+AU  - Greco, E. M.
+AU  - Snyder, B. S.
+AU  - Boiselle, P. M.
+AU  - Park, E. R.
+AU  - Fryback, D.
+AU  - Gatsonis, C.
+C2  - PMC4205265
+C6  - NIHMS618746
+DA  - Nov 1
+DO  - 10.1002/cncr.28833
+DP  - NLM
+ET  - 2014/07/30
+IS  - 21
+J2  - Cancer
+KW  - Adult
+Aged
+Aged, 80 and over
+Anxiety/pathology
+*Early Detection of Cancer
+Female
+Humans
+Lung Neoplasms/*diagnostic imaging/*epidemiology/pathology
+Male
+Mass Screening
+Middle Aged
+Quality of Life
+Tomography, X-Ray Computed/*methods
+anxiety
+clinical trials
+lung cancer
+screening
+LA  - eng
+N1  - 1097-0142
+Gareen, Ilana F
+Duan, Fenghai
+Greco, Erin M
+Snyder, Bradley S
+Boiselle, Phillip M
+Park, Elyse R
+Fryback, Dennis
+Gatsonis, Constantine
+UG1 CA189828/CA/NCI NIH HHS/United States
+U01-CA-80098/CA/NCI NIH HHS/United States
+U01 CA079778/CA/NCI NIH HHS/United States
+U10 CA180794/CA/NCI NIH HHS/United States
+CA-79778/CA/NCI NIH HHS/United States
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+United States
+Cancer. 2014 Nov 1;120(21):3401-9. doi: 10.1002/cncr.28833. Epub 2014 Jul 25.
+PY  - 2014
+SN  - 0008-543x
+SP  - 3401-9
+ST  - Impact of lung cancer screening results on participant health-related quality of life and state anxiety in the National Lung Screening Trial
+T2  - Cancer
+TI  - Impact of lung cancer screening results on participant health-related quality of life and state anxiety in the National Lung Screening Trial
+VL  - 120
+ID  - 64
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To assess the feasibility of conducting a randomized controlled trial for lung cancer screening. MATERIALS AND METHODS: Subjects are being recruited into a randomized controlled trial to undergo either low-dose spiral computed tomography (CT) or observation. Subjects are from a high-risk group with known chronic obstructive pulmonary disease and sputum atypia and a moderate-risk group randomly selected from the general population of a Veterans Affairs Medical Center. All subjects must be 50-80 years of age with 30 or more pack-years of cigarette smoking and must not have undergone chest CT during the previous 3 years. Baseline screening CT is performed with 50 mA, 120 kVp, 5-mm collimation, and a pitch of 2. CT scan interpretation and management of nodules is based on Society of Thoracic Radiology guidelines. The chi(2) test for categoric data was used for statistical analysis. RESULTS: To date, 304 eligible subjects have been contacted, and 239 (79%) have agreed to participate in the trial. One hundred nineteen (88%) of the 136 subjects in the high-risk group and 120 (71%) of the 168 subjects in the moderate-risk group agreed to randomization (P <.001). To date, 190 subjects have been randomized. Of the first 92 subjects examined with CT, 22 (40%) of 55 in the high-risk group and eight (22%) of 37 in the moderate-risk group had one to six noncalcified nodules that required follow-up (P =.07). In all but three subjects, nodules were smaller than 5 mm. Two of the three larger nodules were malignancies. CONCLUSION: Findings of this study indicate that a randomized controlled trial of CT to screen for lung cancer is feasible.
+AD  - Department of Radiology, University of Colorado, Denver Veterans Affairs Medical Center, USA. kavita.garg@uchsc.edu
+AN  - 12409588
+AU  - Garg, K.
+AU  - Keith, R. L.
+AU  - Byers, T.
+AU  - Kelly, K.
+AU  - Kerzner, A. L.
+AU  - Lynch, D. A.
+AU  - Miller, Y. E.
+DA  - Nov
+DO  - 10.1148/radiol.2252011851
+DP  - NLM
+ET  - 2002/11/01
+IS  - 2
+J2  - Radiology
+KW  - Aged
+Aged, 80 and over
+Carcinoma, Bronchogenic/*diagnostic imaging
+Colorado
+Feasibility Studies
+Hospitals, Veterans
+Humans
+Lung Neoplasms/*diagnostic imaging
+*Mass Screening
+Middle Aged
+Pulmonary Disease, Chronic Obstructive/diagnostic imaging
+Radiation Dosage
+Risk
+Sensitivity and Specificity
+Smoking/adverse effects
+Solitary Pulmonary Nodule/diagnostic imaging
+Sputum/cytology
+*Tomography, Spiral Computed
+*Veterans
+LA  - eng
+N1  - Garg, Kavita
+Keith, Robert L
+Byers, Tim
+Kelly, Karen
+Kerzner, Anne L
+Lynch, David A
+Miller, York E
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Radiology. 2002 Nov;225(2):506-10. doi: 10.1148/radiol.2252011851.
+PY  - 2002
+SN  - 0033-8419 (Print)
+0033-8419
+SP  - 506-10
+ST  - Randomized controlled trial with low-dose spiral CT for lung cancer screening: feasibility study and preliminary results
+T2  - Radiology
+TI  - Randomized controlled trial with low-dose spiral CT for lung cancer screening: feasibility study and preliminary results
+VL  - 225
+ID  - 6
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Low-radiation-dose spiral CT (LDCT) scanning is capable of detecting lung neoplasms in asymptomatic individuals. To determine whether such detection can reduce lung cancer mortality, a randomized controlled trial (RCT) of LDCT scanning is necessary. METHODS: The feasibility of conducting an RCT in asymptomatic individuals who are at high risk for lung cancer was explored in the Lung Screening Study (LSS), a 12-month special project of the ongoing Prostate, Lung, Colorectal, and Ovarian (PLCO) cancer screening trial. During the fall of 2000, six PLCO screening centers recruited a total of 3,318 heavy or long-term smokers who were not participants in the PLCO trial and randomized them to receive either a screening LDCT scan (1,660 participants) or screening posteroanterior view chest radiograph (CXR) [1,658 participants]. RESULTS: The screens were completed on 96% of subjects in the LDCT scan arm and 93% of subjects in the CXR arm. A total of 20.5% of screened subjects in the LDCT scan arm and 9.8% of those in the CXR arm had findings that were suspicious for lung cancer. Thirty lung cancers in subjects in the LDCT arm and 7 lung cancers in patients in the CXR arm were diagnosed following a positive screening result. Additional data from the LSS indicated that, among persons who were at elevated risk for lung cancer, CT scan use was not pervasive, interest in participating in an RCT of LDCT scanning was strong, and few subjects randomized to CXR either refused their examination or sought a CT scan after their study CXR. INTERPRETATION: The results of the LSS demonstrated convincingly the feasibility of an RCT of LDCT scanning in the United States.
+AN  - 15249451
+AU  - Gohagan, J.
+AU  - Marcus, P.
+AU  - Fagerstrom, R.
+AU  - Pinsky, P.
+AU  - Kramer, B.
+AU  - Prorok, P.
+DA  - Jul
+DO  - 10.1378/chest.126.1.114
+DP  - NLM
+ET  - 2004/07/14
+IS  - 1
+J2  - Chest
+KW  - Aged
+Female
+Humans
+Lung Neoplasms/*diagnostic imaging/pathology
+Male
+Mass Screening/*methods
+Middle Aged
+National Institutes of Health (U.S.)
+Smoking/adverse effects
+*Tomography, Spiral Computed
+United States
+LA  - eng
+N1  - Gohagan, John
+Marcus, Pamela
+Fagerstrom, Richard
+Pinsky, Paul
+Kramer, Barnett
+Prorok, Philip
+Writing Committee, Lung Screening Study Research Group
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+Chest. 2004 Jul;126(1):114-21. doi: 10.1378/chest.126.1.114.
+PY  - 2004
+SN  - 0012-3692 (Print)
+0012-3692
+SP  - 114-21
+ST  - Baseline findings of a randomized feasibility trial of lung cancer screening with spiral CT scan vs chest radiograph: the Lung Screening Study of the National Cancer Institute
+T2  - Chest
+TI  - Baseline findings of a randomized feasibility trial of lung cancer screening with spiral CT scan vs chest radiograph: the Lung Screening Study of the National Cancer Institute
+VL  - 126
+ID  - 36
+ER  - 
+
+TY  - JOUR
+AB  - The Lung Screening Study (LSS) was a pilot study designed to assess the feasibility of conducting a large scale randomized controlled trial (RCT) of low radiation dose spiral computed tomography (LDCT) versus chest X-ray (CXR) for lung cancer screening. Baseline results of LSS have been previously reported. Here, we report on the findings at the year one screen and on the final results of the LSS study. A total of 1660 subjects were randomized to the LDCT arm and 1658 to the CXR arm. Compliance with screening declined from 96% at baseline to 86% at year one in the LDCT arm and declined from 93% at baseline to 80% at year one in the CXR arm. Positivity rates for the year one screen were 25.8% for LDCT and 8.7% for CXR. Cancer yield was significantly less at year one for LDCT, 0.57%, than at baseline, 1.9%; cancer yield for CXR increased from 0.45% at baseline to 0.68% at year one. Forty lung cancers in the LDCT arm and 20 in the CXR arm were diagnosed over the study period. Stage I cancers comprised 48% of cases in the LDCT arm and 40% in the CXR arm. A total of 16 stage III-IV cancers were observed in the LDCT arm versus nine in the CXR arm. The LSS has established the feasibility of a RCT comparing annual spiral CT to chest X-ray for lung cancer screening.
+AD  - Division of Cancer Prevention, National Cancer Institute, 6130 Executive Blvd., EPN 3064, Bethesda, MD 20892, USA.
+AN  - 15603850
+AU  - Gohagan, J. K.
+AU  - Marcus, P. M.
+AU  - Fagerstrom, R. M.
+AU  - Pinsky, P. F.
+AU  - Kramer, B. S.
+AU  - Prorok, P. C.
+AU  - Ascher, S.
+AU  - Bailey, W.
+AU  - Brewer, B.
+AU  - Church, T.
+AU  - Engelhard, D.
+AU  - Ford, M.
+AU  - Fouad, M.
+AU  - Freedman, M.
+AU  - Gelmann, E.
+AU  - Gierada, D.
+AU  - Hocking, W.
+AU  - Inampudi, S.
+AU  - Irons, B.
+AU  - Johnson, C. C.
+AU  - Jones, A.
+AU  - Kucera, G.
+AU  - Kvale, P.
+AU  - Lappe, K.
+AU  - Manor, W.
+AU  - Moore, A.
+AU  - Nath, H.
+AU  - Neff, S.
+AU  - Oken, M.
+AU  - Plunkett, M.
+AU  - Price, H.
+AU  - Reding, D.
+AU  - Riley, T.
+AU  - Schwartz, M.
+AU  - Spizarny, D.
+AU  - Yoffie, R.
+AU  - Zylak, C.
+DA  - Jan
+DO  - 10.1016/j.lungcan.2004.06.007
+DP  - NLM
+ET  - 2004/12/18
+IS  - 1
+J2  - Lung cancer (Amsterdam, Netherlands)
+KW  - Aged
+Feasibility Studies
+Female
+Humans
+Lung Neoplasms/*diagnostic imaging
+Male
+*Mass Screening
+Middle Aged
+Neoplasm Staging
+*Radiography, Thoracic
+Sensitivity and Specificity
+Tomography, Spiral Computed
+LA  - eng
+N1  - Gohagan, John K
+Marcus, Pamela M
+Fagerstrom, Richard M
+Pinsky, Paul F
+Kramer, Barnett S
+Prorok, Philip C
+Ascher, Susan
+Bailey, William
+Brewer, Brenda
+Church, Timothy
+Engelhard, Deborah
+Ford, Melissa
+Fouad, Mona
+Freedman, Matthew
+Gelmann, Edward
+Gierada, David
+Hocking, William
+Inampudi, Subbarao
+Irons, Brian
+Johnson, Christine Cole
+Jones, Arthur
+Kucera, Gena
+Kvale, Paul
+Lappe, Karen
+Manor, William
+Moore, Alisha
+Nath, Hrudaya
+Neff, Sarah
+Oken, Martin
+Plunkett, Michael
+Price, Helen
+Reding, Douglas
+Riley, Thomas
+Schwartz, Martin
+Spizarny, David
+Yoffie, Roberta
+Zylak, Carl
+Lung screening study research group
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Ireland
+Lung Cancer. 2005 Jan;47(1):9-15. doi: 10.1016/j.lungcan.2004.06.007.
+PY  - 2005
+SN  - 0169-5002 (Print)
+0169-5002
+SP  - 9-15
+ST  - Final results of the Lung Screening Study, a randomized feasibility study of spiral CT versus chest X-ray screening for lung cancer
+T2  - Lung Cancer
+TI  - Final results of the Lung Screening Study, a randomized feasibility study of spiral CT versus chest X-ray screening for lung cancer
+VL  - 47
+ID  - 8
+ER  - 
+
+TY  - JOUR
+AB  - Several medical associations recommended lung cancer screening by low-dose computed tomography scanning for high-risk groups. Counselling of the candidates on the potential harms and benefits and their lung cancer risk is a prerequisite for screening. In the NELSON trial, screenings are considered positive for (part) solid lung nodules with a volume >500 mm3 and for (part) solid or nonsolid nodules with a volume-doubling time <400 days. For this study, the performance of the NELSON strategy in three screening rounds was evaluated and risk calculations were made for a follow-up period of 5.5 years. 458 (6%) of the 7582 participants screened had a positive screen result and 200 (2.6%) were diagnosed with lung cancer. The positive screenings had a predictive value of 40.6% and only 1.2% of all scan results were false-positive. In a period of 5.5 years, the risk of screen-detected lung cancer strongly depends on the result of the first scan: 1.0% after a negative baseline result, 5.7% after an indeterminate baseline and 48.3% after a positive baseline. The screening strategy yielded few positive and false-positive scans with a reasonable positive predictive value. The 5.5-year lung cancer risk calculations aid clinicians in counselling candidates for lung cancer screening with low-dose computed tomography.
+AD  - Erasmus MC, Rotterdam.
+AN  - 23845716
+AU  - Horeweg, N.
+AU  - van der Aalst, C. M.
+AU  - Vliegenthart, R.
+AU  - Zhao, Y.
+AU  - Xie, X.
+AU  - Scholten, E. T.
+AU  - Mali, W.
+AU  - Thunnissen, E.
+AU  - Weenink, C.
+AU  - Groen, H. J.
+AU  - Lammers, J. W.
+AU  - Nackaerts, K.
+AU  - van Rosmalen, J.
+AU  - Oudkerk, M.
+AU  - de Koning, H. J.
+C1  - Isrctn/isrctn63545820
+DA  - Dec
+DO  - 10.1183/09031936.00197712
+DP  - NLM
+ET  - 2013/07/13
+IS  - 6
+J2  - The European respiratory journal
+KW  - Aged
+Cone-Beam Computed Tomography/*methods
+Early Detection of Cancer
+False Positive Reactions
+Female
+Humans
+Lung/diagnostic imaging
+Lung Neoplasms/*diagnosis/*diagnostic imaging
+Male
+Mass Screening
+Middle Aged
+Multiple Pulmonary Nodules/diagnosis
+Predictive Value of Tests
+Risk
+Smoking
+LA  - eng
+N1  - 1399-3003
+Horeweg, Nanda
+van der Aalst, Carlijn M
+Vliegenthart, Rozemarijn
+Zhao, Yingru
+Xie, Xueqian
+Scholten, Ernst Th
+Mali, Willem
+Thunnissen, Erik
+Weenink, Carla
+Groen, Harry J M
+Lammers, Jan-Willem J
+Nackaerts, Kristiaan
+van Rosmalen, Joost
+Oudkerk, Matthijs
+de Koning, Harry J
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Eur Respir J. 2013 Dec;42(6):1659-67. doi: 10.1183/09031936.00197712. Epub 2013 Jul 11.
+PY  - 2013
+SN  - 0903-1936
+SP  - 1659-67
+ST  - Volumetric computed tomography screening for lung cancer: three rounds of the NELSON trial
+T2  - Eur Respir J
+TI  - Volumetric computed tomography screening for lung cancer: three rounds of the NELSON trial
+VL  - 42
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AB  - RATIONALE: Screening for lung cancer with modern imaging technology may decrease lung cancer mortality, but encouraging results have only been obtained in uncontrolled studies. OBJECTIVES: To explore the effect of screening with low-dose spiral computed tomography (LDCT) on lung cancer mortality. Secondary endpoints are incidence, stage at diagnosis, and resectability. METHODS: Male subjects, aged 60 to 75 years, smokers of 20 or more pack-years, were randomized to screening with LDCT or control groups. All participants underwent a baseline, once-only chest X-ray and sputum cytology examination. Screening-arm subjects had LDCT upon accrual to be repeated every year for 4 years, whereas controls had a yearly medical examination only. MEASUREMENTS AND MAIN RESULTS: A total of 2,811 subjects were randomized and 2,472 were enrolled (LDCT, 1,276; control, 1,196). After a median follow-up of 33 months, lung cancer was detected in 60 (4.7%) patients receiving LDCT and 34 (2.8%) control subjects (P = 0.016). Resectability rates were similar in both groups. More patients with stage I disease were detected by LDCT (54 vs. 34%; P = 0.06) and fewer cases were detected in the screening arm due to intercurrent symptoms. However, the number of advanced lung cancer cases was the same as in the control arm. Twenty patients in the LDCT group (1.6%) and 20 controls (1.7%) died of lung cancer, whereas 26 and 25 died of other causes, respectively. CONCLUSIONS: The mortality benefit from lung cancer screening by LDCT might be far smaller than anticipated.
+AD  - Thoracic Surgery Department, Istituto Clinico Humanitas, Milan, Italy. maurizio.infante@humanitas.it
+AN  - 19520905
+AU  - Infante, M.
+AU  - Cavuto, S.
+AU  - Lutman, F. R.
+AU  - Brambilla, G.
+AU  - Chiesa, G.
+AU  - Ceresoli, G.
+AU  - Passera, E.
+AU  - Angeli, E.
+AU  - Chiarenza, M.
+AU  - Aranzulla, G.
+AU  - Cariboni, U.
+AU  - Errico, V.
+AU  - Inzirillo, F.
+AU  - Bottoni, E.
+AU  - Voulaz, E.
+AU  - Alloisio, M.
+AU  - Destro, A.
+AU  - Roncalli, M.
+AU  - Santoro, A.
+AU  - Ravasi, G.
+DA  - Sep 1
+DO  - 10.1164/rccm.200901-0076OC
+DP  - NLM
+ET  - 2009/06/13
+IS  - 5
+J2  - American journal of respiratory and critical care medicine
+KW  - Aged
+Cause of Death
+Follow-Up Studies
+Humans
+Italy/epidemiology
+Lung Neoplasms/*diagnostic imaging/mortality
+Male
+Mass Screening/*methods
+Middle Aged
+Prospective Studies
+Radiography, Thoracic
+Survival Rate
+*Tomography, Spiral Computed
+LA  - eng
+N1  - 1535-4970
+Infante, Maurizio
+Cavuto, Silvio
+Lutman, Fabio Romano
+Brambilla, Giorgio
+Chiesa, Giuseppe
+Ceresoli, Giovanni
+Passera, Eliseo
+Angeli, Enzo
+Chiarenza, Maurizio
+Aranzulla, Giuseppe
+Cariboni, Umberto
+Errico, Valentina
+Inzirillo, Francesco
+Bottoni, Edoardo
+Voulaz, Emanuele
+Alloisio, Marco
+Destro, Anna
+Roncalli, Massimo
+Santoro, Armando
+Ravasi, Gianluigi
+DANTE Study Group
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Am J Respir Crit Care Med. 2009 Sep 1;180(5):445-53. doi: 10.1164/rccm.200901-0076OC. Epub 2009 Jun 11.
+PY  - 2009
+SN  - 1073-449x
+SP  - 445-53
+ST  - A randomized study of lung cancer screening with spiral computed tomography: three-year results from the DANTE trial
+T2  - Am J Respir Crit Care Med
+TI  - A randomized study of lung cancer screening with spiral computed tomography: three-year results from the DANTE trial
+VL  - 180
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The patient population derived from lung cancer screening programs with low-dose spiral computed tomography (LDCT) is different from the general population accessing thoracic surgical services. METHODS: Retrospective review of all surgical cases in the DANTE trial, a randomized study of lung cancer screening with LDCT. Patient characteristics, workup, procedures, resections for benign disease, complications, tumor features, and final outcomes have been analyzed in the LDCT and in the control arm. RESULTS: In the LDCT arm, 77 suspicious lesions were surgically managed in 72 patients. A benign lesion was diagnosed in 17 cases (22%). Major video-assisted thoracoscopic surgery resection was carried out in five lung cancer cases (7%) and segmentectomy in 11 (19%). Complete resection was achieved in 93%, and stage I rate was 73%. Two patients had a local recurrence after open lobectomy, and three had a resectable new primary. In the control group, 28 patients underwent 31 surgical procedures, in five cases (16%) for benign lesions. No major video-assisted thoracoscopic surgery resections were carried out. Resectability rate was 88%, and stage I rate was 52%. Five patients had a local recurrence and two had a second primary. CONCLUSIONS: Surgery for benign lesions is a relevant issue in screening-derived patients. Local control may be achieved by minimally invasive techniques or segmentectomy; however, developing the necessary skills requires an effort by the surgical team. Long-term survivors have a noticeable chance of developing second primary cancers or resectable recurrences and may benefit from a second resection.
+AD  - Thoracic Surgery Department, IRCCS Istituto Clinico Humanitas, Rozzano (Milano), Italy. maurizio.infante@humanitas.it
+AN  - 21178639
+AU  - Infante, M.
+AU  - Chiesa, G.
+AU  - Solomon, D.
+AU  - Morenghi, E.
+AU  - Passera, E.
+AU  - Lutman, F. R.
+AU  - Bottoni, E.
+AU  - Cariboni, U.
+AU  - Errico, V.
+AU  - Voulaz, E.
+AU  - Ferraroli, G.
+AU  - Testori, A.
+AU  - Inzirillo, F.
+AU  - Chiarenza, M.
+AU  - Roncalli, M.
+AU  - Cavuto, S.
+AU  - Chiti, A.
+AU  - Alloisio, M.
+AU  - Ravasi, G.
+DA  - Feb
+DO  - 10.1097/JTO.0b013e318200f523
+DP  - NLM
+ET  - 2010/12/24
+IS  - 2
+J2  - Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer
+KW  - Aged
+Case-Control Studies
+Early Detection of Cancer
+Humans
+Lung Neoplasms/*diagnosis/*surgery
+Male
+*Mass Screening
+Middle Aged
+Neoplasm Staging
+Pneumonectomy
+Prognosis
+Prospective Studies
+Survival Rate
+Thoracic Surgery, Video-Assisted
+*Tomography, Spiral Computed
+LA  - eng
+N1  - 1556-1380
+Infante, Maurizio
+Chiesa, Giuseppe
+Solomon, Daniel
+Morenghi, Emanuela
+Passera, Eliseo
+Lutman, Fabio Romano
+Bottoni, Edoardo
+Cariboni, Umberto
+Errico, Valentina
+Voulaz, Emanuele
+Ferraroli, Giorgio
+Testori, Alberto
+Inzirillo, Francesco
+Chiarenza, Maurizio
+Roncalli, Massimo
+Cavuto, Silvio
+Chiti, Arturo
+Alloisio, Marco
+Ravasi, Gianluigi
+DANTE Study Group
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Thorac Oncol. 2011 Feb;6(2):327-35. doi: 10.1097/JTO.0b013e318200f523.
+PY  - 2011
+SN  - 1556-0864
+SP  - 327-35
+ST  - Surgical procedures in the DANTE trial, a randomized study of lung cancer early detection with spiral computed tomography: comparative analysis in the screening and control arm
+T2  - J Thorac Oncol
+TI  - Surgical procedures in the DANTE trial, a randomized study of lung cancer early detection with spiral computed tomography: comparative analysis in the screening and control arm
+VL  - 6
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Despite the high survival rates reported for screening-detected cases, the potential of screening of high-risk subjects for reducing lung cancer mortality is still unproven. We herewith present the baseline results of a randomized trial comparing screening for lung cancer with annual spiral computed tomography (CT) versus a yearly clinical review. METHODS: Male subjects, 60-74 years old, and smokers of 20+ pack-years were enrolled. All participants received a baseline medical examination, chest X-rays (CXR) and sputum cytology upon accrual. Subjects randomized in the spiral CT group received a spiral CT scan at baseline, then yearly for the following 4 years. For controls, a yearly clinical examination was scheduled for the following 4 years. RESULTS: 2472 subjects were randomized (1276 spiral CT arm, 1196 controls). Age, smoking exposure and co-morbid conditions were similar in the two groups. In the spiral CT group, 28 lung cancers were detected, 13 of which were visible in the baseline chest X-rays (overall prevalence 2.2%). Sixteen out of 28 tumours (57%) were stage I, and 19 (68%) were resectable. In the control group, eight cases were detected by the baseline chest X-rays (prevalence rate 0.67%), four (50%) were stage I, and six (75%) were resectable. CONCLUSIONS: Baseline lung cancer detection rate in the spiral CT arm was higher than in most published studies. The stage I detection rate was increased four-fold by spiral CT versus chest X-rays. However, more tumours in an advanced stage were also detected by CT. The high resection rate of screening-detected patients suggests a possible increase in cure rate. However, longer follow-up is required for definitive conclusions. This trial has been registered at www.Clinicaltrials.gov, registration No. NCT00420862.
+AD  - Thoracic Surgery Department, Istituto Clinico Humanitas, Rozzano, Milano, Italy. maurizio.infante@humanitas.it
+AN  - 17936405
+AU  - Infante, M.
+AU  - Lutman, F. R.
+AU  - Cavuto, S.
+AU  - Brambilla, G.
+AU  - Chiesa, G.
+AU  - Passera, E.
+AU  - Angeli, E.
+AU  - Chiarenza, M.
+AU  - Aranzulla, G.
+AU  - Cariboni, U.
+AU  - Alloisio, M.
+AU  - Incarbone, M.
+AU  - Testori, A.
+AU  - Destro, A.
+AU  - Cappuzzo, F.
+AU  - Roncalli, M.
+AU  - Santoro, A.
+AU  - Ravasi, G.
+C1  - ClinicalTrials.gov/NCT00420862
+DA  - Mar
+DO  - 10.1016/j.lungcan.2007.08.040
+DP  - NLM
+ET  - 2007/10/16
+IS  - 3
+J2  - Lung cancer (Amsterdam, Netherlands)
+KW  - Aged
+Humans
+Incidence
+Italy/epidemiology
+Lung Neoplasms/*diagnostic imaging/epidemiology/therapy
+Male
+Mass Screening/methods
+Middle Aged
+Prevalence
+Prospective Studies
+Smoking/adverse effects
+Survival Rate
+*Tomography, Spiral Computed
+LA  - eng
+N1  - Infante, Maurizio
+Lutman, Fabio Romano
+Cavuto, Silvio
+Brambilla, Giorgio
+Chiesa, Giuseppe
+Passera, Eliseo
+Angeli, Enzo
+Chiarenza, Maurizio
+Aranzulla, Giuseppe
+Cariboni, Umberto
+Alloisio, Marco
+Incarbone, Matteo
+Testori, Alberto
+Destro, Anna
+Cappuzzo, Federico
+Roncalli, Massimo
+Santoro, Armando
+Ravasi, Gianluigi
+DANTE Study Group
+Journal Article
+Randomized Controlled Trial
+Ireland
+Lung Cancer. 2008 Mar;59(3):355-63. doi: 10.1016/j.lungcan.2007.08.040. Epub 2007 Oct 23.
+PY  - 2008
+SN  - 0169-5002 (Print)
+0169-5002
+SP  - 355-63
+ST  - Lung cancer screening with spiral CT: baseline results of the randomized DANTE trial
+T2  - Lung Cancer
+TI  - Lung cancer screening with spiral CT: baseline results of the randomized DANTE trial
+VL  - 59
+ID  - 23
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The National Lung Screening Trial (NLST) is a multicenter randomized controlled trial comparing low-dose helical CT with chest radiography in the screening of older current and former heavy smokers for early detection of lung cancer. Recruitment was launched in September 2002 and ended in April 2004, when 53,454 participants had been randomized at 33 screening sites. The objective of this study was to determine the effective radiation dose associated with individual chest radiographic screening examinations. SUBJECTS AND METHODS: A total of 73,733 chest radiographic examinations were performed with 92 chest imaging systems. The entrance skin air kerma (ESAK) of participants' chest radiographic examinations was estimated and used in this analysis. The effective dose per ESAK for each examination was determined with a Monte Carlo-based program. The examination effective dose was calculated as the product of the examination ESAK and the Monte Carlo estimate of the ratio of effective dose per ESAK. RESULTS: This study showed that the mean effective dose assessed from 66,157 postero-anterior chest examinations was 0.052 mSv. Additional findings were a median effective dose of 0.038 mSv, a 95th percentile value of 0.136 mSv, and a fifth percentile value of 0.013 mSv. CONCLUSION: The effective dose for participant NLST chest radiographic examinations was determined and is of specific interest in relation to that associated with the previously published NLST low-dose CT examinations conducted during the trial.
+AD  - Department of Radiology, Medical Physics Section, Marshfield Clinic, 1000 N Oak Ave, Marshfield, WI 54449-5777, USA. kruger.randell@marshfieldclinic.org
+AN  - 23789668
+AU  - Kruger, R.
+AU  - Flynn, M. J.
+AU  - Judy, P. F.
+AU  - Cagnon, C. H.
+AU  - Seibert, J. A.
+C2  - PMC3743238
+C6  - NIHMS497492
+DA  - Jul
+DO  - 10.2214/ajr.12.9181
+DP  - NLM
+ET  - 2013/06/26
+IS  - 1
+J2  - AJR. American journal of roentgenology
+KW  - Aged
+Female
+Humans
+Lung Neoplasms/*diagnostic imaging/epidemiology
+Male
+*Mass Screening
+Middle Aged
+Monte Carlo Method
+*Radiation Dosage
+Radiography, Thoracic/*methods
+Randomized Controlled Trials as Topic
+Risk Assessment
+Smoking/epidemiology
+*Tomography, Spiral Computed
+United States/epidemiology
+LA  - eng
+N1  - 1546-3141
+Kruger, Randell
+Flynn, Michael J
+Judy, Phillip F
+Cagnon, Christopher H
+Seibert, J Anthony
+CA79778/CA/NCI NIH HHS/United States
+U01 CA080098/CA/NCI NIH HHS/United States
+U10 CA079778/CA/NCI NIH HHS/United States
+CA80098/CA/NCI NIH HHS/United States
+U01 CA80098/CA/NCI NIH HHS/United States
+U01 CA079778/CA/NCI NIH HHS/United States
+U10 CA080098/CA/NCI NIH HHS/United States
+Journal Article
+Multicenter Study
+Research Support, N.I.H., Extramural
+United States
+AJR Am J Roentgenol. 2013 Jul;201(1):142-6. doi: 10.2214/AJR.12.9181.
+PY  - 2013
+SN  - 0361-803x
+SP  - 142-6
+ST  - Effective dose assessment for participants in the National Lung Screening Trial undergoing posteroanterior chest radiographic examinations
+T2  - AJR Am J Roentgenol
+TI  - Effective dose assessment for participants in the National Lung Screening Trial undergoing posteroanterior chest radiographic examinations
+VL  - 201
+ID  - 66
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The objective of our study was to determine the distribution of effective dose associated with a single low-dose CT chest examination of average-size participants in the National Lung Screening Trial. Organ doses were also investigated. MATERIALS AND METHODS: Thirty-three sites nationwide provided volume CT dose index (CTDI(vol)) data annually for the 97 MDCT scanners used to image 26,724 participants during the trial. The dose data were representative of the imaging protocols used by the sites for average-size participants. Effective doses were estimated first using the product of the dose-length product (CTDI(vol) x 35-cm scan length) and a published conversion factor, "k." The commercial software product CT-Expo was then used to estimate organ doses to males and females from the average CTDI(vol). Applying tissue-weighting factors from both publication 60 and the more recent publication 103 of the International Commission on Radiological Protection (ICRP) allowed comparisons of effective doses to males and to females. RESULTS: The product of DLP and the k factor resulted in a mean effective dose of 1.4 mSv (SD = 0.5 mSv) for a low-dose chest examination across all scanners. The CT-Expo results based on ICRP 60 tissue-weighting factors yielded effective doses of 1.6 and 2.1 mSv for males and females, respectively, whereas CT-Expo results based on ICRP 103 tissue-weighting factors resulted in effective doses of 1.6 and 2.4 mSv, respectively. CONCLUSION: Acceptable chest CT screening can be accomplished at an overall average effective dose of approximately 2 mSv as compared with an average effective dose of 7 mSv for a typical standard-dose chest CT examination.
+AD  - Department of Radiology, University of Colorado at Denver, Aurora, 80045, USA. Fred.larke@ucdenver.edu
+AN  - 22021510
+AU  - Larke, F. J.
+AU  - Kruger, R. L.
+AU  - Cagnon, C. H.
+AU  - Flynn, M. J.
+AU  - McNitt-Gray, M. M.
+AU  - Wu, X.
+AU  - Judy, P. F.
+AU  - Cody, D. D.
+DA  - Nov
+DO  - 10.2214/ajr.11.6533
+DP  - NLM
+ET  - 2011/10/25
+IS  - 5
+J2  - AJR. American journal of roentgenology
+KW  - Aged
+Female
+Humans
+Lung Neoplasms/*diagnostic imaging
+Male
+Middle Aged
+Phantoms, Imaging
+*Radiation Dosage
+Radiography, Thoracic/*methods
+Radiometry/*methods
+Tomography, X-Ray Computed/*methods
+United States
+LA  - eng
+N1  - 1546-3141
+Larke, Frederick J
+Kruger, Randell L
+Cagnon, Christopher H
+Flynn, Michael J
+McNitt-Gray, Michael M
+Wu, Xizeng
+Judy, Phillip F
+Cody, Dianna D
+N01 CN75022/CN/WHI NIH HHS/United States
+N01 CN25516/CN/WHI NIH HHS/United States
+CA79778/CA/NCI NIH HHS/United States
+N01 CN25522/CN/WHI NIH HHS/United States
+U01 CA80098/CA/NCI NIH HHS/United States
+U10 CA080098/CA/NCI NIH HHS/United States
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+United States
+AJR Am J Roentgenol. 2011 Nov;197(5):1165-9. doi: 10.2214/AJR.11.6533.
+PY  - 2011
+SN  - 0361-803x
+SP  - 1165-9
+ST  - Estimated radiation dose associated with low-dose chest CT of average-size participants in the National Lung Screening Trial
+T2  - AJR Am J Roentgenol
+TI  - Estimated radiation dose associated with low-dose chest CT of average-size participants in the National Lung Screening Trial
+VL  - 197
+ID  - 65
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Recruitment and nodule management are critical issues of lung cancer screening with low-dose computed tomography (LDCT). We report subjects' compliance and results of LDCT screening and management protocol in the active arm of the ITALUNG trial. METHODS: Three thousand two hundred six smokers or former smokers invited by mail were randomized to receive four annual LDCT (n = 1613) or usual care (n = 1593). Management protocol included follow-up LDCT, 2-[18F]fluoro-2-deoxy-D glucose positron emission tomography (FDG-PET), and CT-guided fine-needle aspiration biopsy (FNAB). RESULTS: One thousand four hundred six subjects (87%) underwent baseline LDCT, and 1263 (79%) completed four screening rounds. LDCT was positive in 30.3% of the subjects at baseline and 15.8% subsequently. Twenty-one lung tumors in 20 subjects (1.5% detection) were found at baseline, and 20 lung tumors in 18 subjects (0.5% detection) in subsequent screening rounds. Ten of 18 prevalent (55%) and 13 of 17 incident (76%) non-small-cell cancers were in stage I. Interval growth enabled diagnosis of lung cancer in 16 subjects (42%), but at least one follow-up LDCT was obtained in 741 subjects (52.7%) over the screening period. FDG-PET obtained in 6.5% of subjects had 84% sensitivity and 90% specificity for malignant lesions. FNAB obtained in 2.4% of subjects showed 90% sensitivity and 88% specificity. Positivity of both FDG-PET and FNAB invariably predicted malignancy. Surgery for benign lesions was performed on four subjects (10% of procedures) but followed protocol violations on three subjects. CONCLUSIONS: High-risk subjects recruited by mail who entered LDCT screening showed a high and stable compliance. Efficacy of screening is, however, weakened by low detection rate and specificity. Adhesion to management protocol might lessen surgery for benign lesions.
+AD  - Pneumonology Department, Careggi Hospital, Florence, Italy.
+AN  - 23612465
+AU  - Lopes Pegna, A.
+AU  - Picozzi, G.
+AU  - Falaschi, F.
+AU  - Carrozzi, L.
+AU  - Falchini, M.
+AU  - Carozzi, F. M.
+AU  - Pistelli, F.
+AU  - Comin, C.
+AU  - Deliperi, A.
+AU  - Grazzini, M.
+AU  - Innocenti, F.
+AU  - Maddau, C.
+AU  - Vella, A.
+AU  - Vaggelli, L.
+AU  - Paci, E.
+AU  - Mascalchi, M.
+DA  - Jul
+DO  - 10.1097/JTO.0b013e31828f68d6
+DP  - NLM
+ET  - 2013/04/25
+IS  - 7
+J2  - Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer
+KW  - Adenocarcinoma/*diagnosis/surgery
+Aged
+Biopsy, Fine-Needle
+Carcinoma, Non-Small-Cell Lung/*diagnosis/surgery
+Case-Control Studies
+*Early Detection of Cancer
+Female
+Fluorodeoxyglucose F18
+Follow-Up Studies
+Humans
+Lung Neoplasms/*diagnosis/surgery
+Lymph Nodes/*pathology/surgery
+Male
+Middle Aged
+Neoplasm Staging
+Positron-Emission Tomography
+Prognosis
+Radiopharmaceuticals
+Small Cell Lung Carcinoma/*diagnosis/surgery
+Time Factors
+*Tomography, X-Ray Computed
+LA  - eng
+N1  - 1556-1380
+Lopes Pegna, Andrea
+Picozzi, Giulia
+Falaschi, Fabio
+Carrozzi, Laura
+Falchini, Massimo
+Carozzi, Francesca Maria
+Pistelli, Francesco
+Comin, Camilla
+Deliperi, Annalisa
+Grazzini, Michela
+Innocenti, Florio
+Maddau, Cristina
+Vella, Alessandra
+Vaggelli, Luca
+Paci, Eugenio
+Mascalchi, Mario
+ITALUNG Study Research Group
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Thorac Oncol. 2013 Jul;8(7):866-75. doi: 10.1097/JTO.0b013e31828f68d6.
+PY  - 2013
+SN  - 1556-0864
+SP  - 866-75
+ST  - Four-year results of low-dose CT screening and nodule management in the ITALUNG trial
+T2  - J Thorac Oncol
+TI  - Four-year results of low-dose CT screening and nodule management in the ITALUNG trial
+VL  - 8
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Prior analyses of X-ray exposures in lung cancer screening with CT considered the basic acquisition technique in single-detector scanners and the effects of a lifetime screening regimen, whereas the potential benefit in terms of lives saved was not addressed. MATERIALS AND METHODS: We determined the total-body effective dose of different acquisition techniques for one single-detector and one MDCT scanner and made projections about the cumulative radiation exposure to smokers undergoing four annual CT examinations on the same scanners in the Italung-CT Trial. Combining these data with estimates of radiation-induced fatal cancer and of the benefit of screening, we calculated the risk-benefit ratio for participants in the trial, ex-smokers, and never-smokers. RESULTS: The cumulative effective doses per 1,000 subjects were 3.3 Sv using an MDCT scanner and 5.8 or 7.1 Sv using a single-detector scanner. Potential fatal cancers associated with radiation exposure were 0.11 per 1,000 subjects for MDCT scanners and 0.20 or 0.24 for single-detector scanners, which is about 10-100 times lower than the number of expected lives saved by screening assuming a 20-30% lung cancer-specific mortality reduction in current smokers. They were, however, of similar magnitude to the lives saved by screening in never-smokers and former smokers assuming a 10% efficacy of screening. CONCLUSION: MDCT is associated with lower radiation doses than single-detector CT technology. The risk of radiation dose in the Italung-CT Trial is compensated for by the expected benefit. CT screening for lung cancer should not be offered to never-smokers, whereas its recommendation in former smokers is debatable.
+AD  - Sezione di Radiodiagnostica, Dipartimento di Fisiopatologia Clinica, Universita di Firenze, Viale Morgagni 85, 50134 Firenze, Italia. m.mascalchi@dfc.unifi.it
+AN  - 16861547
+AU  - Mascalchi, M.
+AU  - Belli, G.
+AU  - Zappa, M.
+AU  - Picozzi, G.
+AU  - Falchini, M.
+AU  - Della Nave, R.
+AU  - Allescia, G.
+AU  - Masi, A.
+AU  - Pegna, A. L.
+AU  - Villari, N.
+AU  - Paci, E.
+DA  - Aug
+DO  - 10.2214/ajr.05.0088
+DP  - NLM
+ET  - 2006/07/25
+IS  - 2
+J2  - AJR. American journal of roentgenology
+KW  - Aged
+Clinical Trials as Topic
+Female
+Humans
+Lung Neoplasms/complications/*diagnostic imaging
+Male
+Middle Aged
+Pilot Projects
+Radiation Dosage
+Risk Assessment
+Smoking
+Tomography, X-Ray Computed/*adverse effects
+LA  - eng
+N1  - 1546-3141
+Mascalchi, Mario
+Belli, Giacomo
+Zappa, Marco
+Picozzi, Giulia
+Falchini, Massimo
+Della Nave, Riccardo
+Allescia, Germana
+Masi, Andrea
+Pegna, Andrea Lopes
+Villari, Natale
+Paci, Eugenio
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+AJR Am J Roentgenol. 2006 Aug;187(2):421-9. doi: 10.2214/AJR.05.0088.
+PY  - 2006
+SN  - 0361-803x
+SP  - 421-9
+ST  - Risk-benefit analysis of X-ray exposure associated with lung cancer screening in the Italung-CT trial
+T2  - AJR Am J Roentgenol
+TI  - Risk-benefit analysis of X-ray exposure associated with lung cancer screening in the Italung-CT trial
+VL  - 187
+ID  - 34
+ER  - 
+
+TY  - JOUR
+AB  - Few data are available on the effective dose received by participants in lung cancer screening programmes with low-dose CT (LDCT). We report the collective effective dose delivered to 1406 current or former smokers enrolled in the ITALUNG trial who completed 4 annual LDCT examinations and related further investigations including follow-up LDCT, 2-[(18)F]flu-2-deoxy-d-glucose positron emission tomography (FDG-PET) or CT-guided fine needle aspiration biopsy (FNAB). Using the air CT dose index and Monte Carlo simulations on an anthropomorphic phantom, the whole-body effective dose associated with LDCT was determined for the eight CT scanners used in the trial. A value of 7 mSv was assigned to FDG-PET while the measured mean effective dose of CT-guided FNAB was 1.5 mSv. The mean collective effective dose in the 1406 subjects ranged between 8.75 and 9.36 Sv and the mean effective dose to the single subject over 4 years was between 6.2 and 6.8 mSv (range 1.7-21.5 mSv) according to the cranial-caudal length of the LDCT volume. 77.4% of the dose was owing to annual LDCT and 22.6% to further investigations. Considering the nominal risk coefficients for stochastic effects after exposure to low-dose radiation according to the National Radiological Protection Board, International Commission on Radiological Protection (ICRP) 60, ICRP103 and Biological Effects of Ionizing Radiation VII, the mean number of radiation-induced cancers ranged between 0.12 and 0.33 per 1000 subjects. The individual effective dose to participants in a 4-year lung cancer screening programme with annual LDCT is very low and about one-third of the effective dose that is associated with natural background radiation and diagnostic radiology in the same time period.
+AD  - Radiodiagnostic Section, Department of Clinical Physiopathology, University of Florence, Florence, Italy. m.mascalchi@dfc.unifi.it
+AN  - 21976631
+AU  - Mascalchi, M.
+AU  - Mazzoni, L. N.
+AU  - Falchini, M.
+AU  - Belli, G.
+AU  - Picozzi, G.
+AU  - Merlini, V.
+AU  - Vella, A.
+AU  - Diciotti, S.
+AU  - Falaschi, F.
+AU  - Lopes Pegna, A.
+AU  - Paci, E.
+C2  - PMC3587091
+DA  - Aug
+DO  - 10.1259/bjr/20711289
+DP  - NLM
+ET  - 2011/10/07
+IS  - 1016
+J2  - The British journal of radiology
+KW  - Aged
+Biopsy, Fine-Needle/methods
+Early Detection of Cancer/*methods
+Female
+Fluorodeoxyglucose F18
+Humans
+Lung Neoplasms/*diagnosis
+Male
+Middle Aged
+Neoplasms, Radiation-Induced/etiology
+Phantoms, Imaging
+Positron-Emission Tomography/methods
+Radiation Dosage
+Radiography, Interventional
+Radiopharmaceuticals
+Risk Assessment
+Smoking/pathology
+Tomography Scanners, X-Ray Computed
+Tomography, X-Ray Computed/methods
+LA  - eng
+N1  - 1748-880x
+Mascalchi, M
+Mazzoni, L N
+Falchini, M
+Belli, G
+Picozzi, G
+Merlini, V
+Vella, A
+Diciotti, S
+Falaschi, F
+Lopes Pegna, A
+Paci, E
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Br J Radiol. 2012 Aug;85(1016):1134-9. doi: 10.1259/bjr/20711289. Epub 2011 Oct 5.
+PY  - 2012
+SN  - 0007-1285
+SP  - 1134-9
+ST  - Dose exposure in the ITALUNG trial of lung cancer screening with low-dose CT
+T2  - Br J Radiol
+TI  - Dose exposure in the ITALUNG trial of lung cancer screening with low-dose CT
+VL  - 85
+ID  - 33
+ER  - 
+
+TY  - JOUR
+AB  - The NELSON trial is the first randomised lung cancer screening trial in which pulmonary nodule management is based on volumetry. This led to considerably less false-positive referrals compared to other lung cancer screening trials, with very high negative predictive values found in the first and second screening rounds. Mortality results are still pending, but the knowledge already gained in the NELSON trial and its side-studies provide valuable information in the field of screening for lung cancer.
+AD  - University of Groningen, University Medical Center Groningen, Center for Medical Imaging--North East Netherlands, Department of Radiology, Groningen, the Netherlands.
+AN  - 23971173
+AU  - Oudkerk, M.
+AU  - Heuvelmans, M. A.
+DA  - May-Jun
+DP  - NLM
+ET  - 2013/08/27
+IS  - 3
+J2  - JBR-BTR : organe de la Societe royale belge de radiologie (SRBR) = orgaan van de Koninklijke Belgische Vereniging voor Radiologie (KBVR)
+KW  - Aged
+Humans
+Incidence
+Lung Neoplasms/*diagnostic imaging/*epidemiology/prevention & control
+Male
+Mass Screening/methods/*statistics & numerical data
+Middle Aged
+Netherlands/epidemiology
+Reproducibility of Results
+Risk Assessment
+Sensitivity and Specificity
+Tomography, X-Ray Computed/*statistics & numerical data
+LA  - eng
+N1  - Oudkerk, M
+Heuvelmans, M A
+Journal Article
+Randomized Controlled Trial
+Belgium
+JBR-BTR. 2013 May-Jun;96(3):163-6.
+PY  - 2013
+SN  - 0302-7430 (Print)
+0302-7430
+SP  - 163-6
+ST  - Screening for lung cancer by imaging: the Nelson study
+T2  - Jbr-btr
+TI  - Screening for lung cancer by imaging: the Nelson study
+VL  - 96
+ID  - 48
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Screening for lung cancer has the potential to reduce mortality, but in addition to detecting aggressive tumors, screening will also detect indolent tumors that otherwise may not cause clinical symptoms. These overdiagnosis cases represent an important potential harm of screening because they incur additional cost, anxiety, and morbidity associated with cancer treatment. OBJECTIVE: To estimate overdiagnosis in the National Lung Screening Trial (NLST). DESIGN, SETTING, AND PARTICIPANTS: We used data from the NLST, a randomized trial comparing screening using low-dose computed tomography (LDCT) vs chest radiography (CXR) among 53 452 persons at high risk for lung cancer observed for 6.4 years, to estimate the excess number of lung cancers in the LDCT arm of the NLST compared with the CXR arm. MAIN OUTCOMES AND MEASURES: We calculated 2 measures of overdiagnosis: the probability that a lung cancer detected by screening with LDCT is an overdiagnosis (PS), defined as the excess lung cancers detected by LDCT divided by all lung cancers detected by screening in the LDCT arm; and the number of cases that were considered overdiagnosis relative to the number of persons needed to screen to prevent 1 death from lung cancer. RESULTS: During follow-up, 1089 lung cancers were reported in the LDCT arm and 969 in the CXR arm of the NLST. The probability is 18.5% (95% CI, 5.4%-30.6%) that any lung cancer detected by screening with LDCT was an overdiagnosis, 22.5% (95% CI, 9.7%-34.3%) that a non-small cell lung cancer detected by LDCT was an overdiagnosis, and 78.9% (95% CI, 62.2%-93.5%) that a bronchioalveolar lung cancer detected by LDCT was an overdiagnosis. The number of cases of overdiagnosis found among the 320 participants who would need to be screened in the NLST to prevent 1 death from lung cancer was 1.38. CONCLUSIONS AND RELEVANCE: More than 18% of all lung cancers detected by LDCT in the NLST seem to be indolent, and overdiagnosis should be considered when describing the risks of LDCT screening for lung cancer.
+AD  - Department of Radiology, Duke University Medical Center, Durham, North Carolina2Department of Pharmacology and Cancer Biology, Duke University Medical Center, Durham, North Carolina.
+Division of Cancer Prevention, National Cancer Institute, Bethesda, Maryland.
+Center for Statistical Sciences, Brown School of Public Health, Providence, Rhode Island5Department of Biostatistics, Brown School of Public Health, Providence, Rhode Island.
+Center for Statistical Sciences, Brown School of Public Health, Providence, Rhode Island.
+Department of Community Health Sciences, Brock University, St Catharines, Ontario, Canada.
+Department of Radiology, Wake Forest University Health Sciences Center, Winston-Salem, North Carolina.
+Department of Radiology, Dartmouth Medical School, Hanover, New Hampshire9Department of Community and Family Medicine, Dartmouth Medical School, Hanover, New Hampshire.
+Department of Radiology, University of California, Los Angeles.
+AN  - 24322569
+AU  - Patz, E. F., Jr.
+AU  - Pinsky, P.
+AU  - Gatsonis, C.
+AU  - Sicks, J. D.
+AU  - Kramer, B. S.
+AU  - Tammemagi, M. C.
+AU  - Chiles, C.
+AU  - Black, W. C.
+AU  - Aberle, D. R.
+C2  - PMC4040004
+C6  - NIHMS588996
+DA  - Feb 1
+DO  - 10.1001/jamainternmed.2013.12738
+DP  - NLM
+ET  - 2013/12/11
+IS  - 2
+J2  - JAMA internal medicine
+KW  - Aged
+Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/mortality
+Diagnosis, Differential
+*Diagnostic Errors
+Dose-Response Relationship, Radiation
+Female
+Follow-Up Studies
+Humans
+Lung Neoplasms/*diagnostic imaging/mortality
+Male
+Mass Screening/*methods
+Middle Aged
+Probability
+Prospective Studies
+Reproducibility of Results
+Survival Rate/trends
+Time Factors
+Tomography, X-Ray Computed/*methods
+United States/epidemiology
+LA  - eng
+N1  - 2168-6114
+Patz, Edward F Jr
+Pinsky, Paul
+Gatsonis, Constantine
+Sicks, Jorean D
+Kramer, Barnett S
+Tammemagi, Martin C
+Chiles, Caroline
+Black, William C
+Aberle, Denise R
+NLST Overdiagnosis Manuscript Writing Team
+N01-CN-25524/CN/NCI NIH HHS/United States
+N01-CN-25513/CN/NCI NIH HHS/United States
+N01-CN-25511/CN/NCI NIH HHS/United States
+N01 CN25514/CA/NCI NIH HHS/United States
+N01-CN-75022/CN/NCI NIH HHS/United States
+N01-CN-25514/CN/NCI NIH HHS/United States
+U01 CA080098/CA/NCI NIH HHS/United States
+N01-CN-25512/CN/NCI NIH HHS/United States
+N01 CN25524/CA/NCI NIH HHS/United States
+N02CN63300/CA/NCI NIH HHS/United States
+N01-CN-25515/CN/NCI NIH HHS/United States
+N01 CN25513/CA/NCI NIH HHS/United States
+N02-CN-63300/CN/NCI NIH HHS/United States
+N01 CN75022/CA/NCI NIH HHS/United States
+N01 CN25512/CA/NCI NIH HHS/United States
+U01 CA079778/CA/NCI NIH HHS/United States
+N01 CN25518/CA/NCI NIH HHS/United States
+N01-CN-25516/CN/NCI NIH HHS/United States
+N01 CN25516/CA/NCI NIH HHS/United States
+N01 CN25511/CA/NCI NIH HHS/United States
+N01 CN25476/CA/NCI NIH HHS/United States
+N01-CN-25476/CN/NCI NIH HHS/United States
+N01 CN25522/CA/NCI NIH HHS/United States
+N01 CN25515/CA/NCI NIH HHS/United States
+N01-CN-25518/CN/NCI NIH HHS/United States
+N01-CN-25522/CN/NCI NIH HHS/United States
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+United States
+JAMA Intern Med. 2014 Feb 1;174(2):269-74. doi: 10.1001/jamainternmed.2013.12738.
+PY  - 2014
+SN  - 2168-6106
+SP  - 269-74
+ST  - Overdiagnosis in low-dose computed tomography screening for lung cancer
+T2  - JAMA Intern Med
+TI  - Overdiagnosis in low-dose computed tomography screening for lung cancer
+VL  - 174
+ID  - 68
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Diagnosis of lung cancer frequently occurs in its later stages. Low-dose computed tomography (LDCT) could detect lung cancer early. OBJECTIVES: To estimate the clinical effectiveness and cost-effectiveness of LDCT lung cancer screening in high-risk populations. DATA SOURCES: Bibliographic sources included MEDLINE, EMBASE, Web of Science and The Cochrane Library. METHODS: Clinical effectiveness - a systematic review of randomised controlled trials (RCTs) comparing LDCT screening programmes with usual care (no screening) or other imaging screening programmes [such as chest X-ray (CXR)] was conducted. Bibliographic sources included MEDLINE, EMBASE, Web of Science and The Cochrane Library. Meta-analyses, including network meta-analyses, were performed. Cost-effectiveness - an independent economic model employing discrete event simulation and using a natural history model calibrated to results from a large RCT was developed. There were 12 different population eligibility criteria and four intervention frequencies [(1) single screen, (2) triple screen, (3) annual screening and (4) biennial screening] and a no-screening control arm. RESULTS: Clinical effectiveness - 12 RCTs were included, four of which currently contribute evidence on mortality. Meta-analysis of these demonstrated that LDCT, with </= 9.80 years of follow-up, was associated with a non-statistically significant decrease in lung cancer mortality (pooled relative risk 0.94, 95% confidence interval 0.74 to 1.19). The findings also showed that LDCT screening demonstrated a non-statistically significant increase in all-cause mortality. Given the considerable heterogeneity detected between studies for both outcomes, the results should be treated with caution. Network meta-analysis, including six RCTs, was performed to assess the relative clinical effectiveness of LDCT, CXR and usual care. The results showed that LDCT was ranked as the best screening strategy in terms of lung cancer mortality reduction. CXR had a 99.7% probability of being the worst intervention and usual care was ranked second. Cost-effectiveness - screening programmes are predicted to be more effective than no screening, reduce lung cancer mortality and result in more lung cancer diagnoses. Screening programmes also increase costs. Screening for lung cancer is unlikely to be cost-effective at a threshold of pound20,000/quality-adjusted life-year (QALY), but may be cost-effective at a threshold of pound30,000/QALY. The incremental cost-effectiveness ratio for a single screen in smokers aged 60-75 years with at least a 3% risk of lung cancer is pound28,169 per QALY. Sensitivity and scenario analyses were conducted. Screening was only cost-effective at a threshold of pound20,000/QALY in only a minority of analyses. LIMITATIONS: Clinical effectiveness - the largest of the included RCTs compared LDCT with CXR screening rather than no screening. Cost-effectiveness - a representative cost to the NHS of lung cancer has not been recently estimated according to key variables such as stage at diagnosis. Certain costs associated with running a screening programme have not been included. CONCLUSIONS: LDCT screening may be clinically effective in reducing lung cancer mortality, but there is considerable uncertainty. There is evidence that a single round of screening could be considered cost-effective at conventional thresholds, but there is significant uncertainty about the effect on costs and the magnitude of benefits. FUTURE WORK: Clinical effectiveness and cost-effectiveness estimates should be updated with the anticipated results from several ongoing RCTs [particularly the NEderlands Leuvens Longkanker Screenings ONderzoek (NELSON) screening trial]. STUDY REGISTRATION: This study is registered as PROSPERO CRD42016048530. FUNDING: The National Institute for Health Research Health Technology Assessment programme.
+AD  - Peninsula Technology Assessment Group (PenTAG), University of Exeter Medical School, Exeter, UK.
+Exeter Test Group, University of Exeter Medical School, Exeter, UK.
+AN  - 30518460
+AU  - Snowsill, T.
+AU  - Yang, H.
+AU  - Griffin, E.
+AU  - Long, L.
+AU  - Varley-Campbell, J.
+AU  - Coelho, H.
+AU  - Robinson, S.
+AU  - Hyde, C.
+C2  - PMC6304730
+DA  - Nov
+DO  - 10.3310/hta22690
+DP  - NLM
+ET  - 2018/12/07
+IS  - 69
+J2  - Health technology assessment (Winchester, England)
+LA  - eng
+N1  - 2046-4924
+Snowsill, Tristan
+Yang, Huiqin
+Griffin, Ed
+Long, Linda
+Varley-Campbell, Jo
+Coelho, Helen
+Robinson, Sophie
+Hyde, Chris
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+England
+Health Technol Assess. 2018 Nov;22(69):1-276. doi: 10.3310/hta22690.
+PY  - 2018
+SN  - 1366-5278
+SP  - 1-276
+ST  - Low-dose computed tomography for lung cancer screening in high-risk populations: a systematic review and economic evaluation
+T2  - Health Technol Assess
+TI  - Low-dose computed tomography for lung cancer screening in high-risk populations: a systematic review and economic evaluation
+VL  - 22
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AB  - UNLABELLED: Low-dose CT screening for lung cancer is effective but expensive. Therefore, cheaper or more focused screening strategies may be required. LungSEARCH is a randomised prospective trial of 1568 high-risk individuals (ie, current or former moderate to heavy smokers with mild/moderate COPD) who undergo either annual sputum cytology/cytometry testing or no screening. Those with abnormal sputum then receive annual CT and fluorescent bronchoscopy for the remainder of 5 years, to identify early stage lung cancer. It is hoped that these simple initial tests could identify those requiring expensive CT scans, and the aim is to demonstrate a stage shift towards early stage cancers.Trial registration numbers ISRCTN: ISRCTN80745975, clinicaltrials.gov: NCT00512746.
+AD  - Department of Thoracic Medicine, University College London Hospitals, and The Royal Brompton Hospital, London, UK.
+Deputy Director Clinical Trials Unit, University College London, London, UK.
+AN  - 26138736
+AU  - Spiro, S. G.
+AU  - Hackshaw, A.
+C1  - Isrctn/isrctn80745975
+ClinicalTrials.gov/NCT00512746
+C2  - PMC4717418
+DA  - Jan
+DO  - 10.1136/thoraxjnl-2015-207433
+DP  - NLM
+ET  - 2015/07/04
+IS  - 1
+J2  - Thorax
+KW  - Bronchoscopy
+*Early Detection of Cancer
+Flow Cytometry
+Humans
+Lung Neoplasms/*diagnosis/epidemiology/pathology
+Mass Screening/*methods
+Neoplasm Staging
+Population Surveillance
+Prospective Studies
+Pulmonary Disease, Chronic Obstructive/complications
+Sputum/chemistry
+Tomography, X-Ray Computed
+Lung Cancer
+LA  - eng
+N1  - 1468-3296
+Spiro, Stephen G
+Hackshaw, Allan
+LungSEARCH Collaborative Group
+Journal Article
+Randomized Controlled Trial
+England
+Thorax. 2016 Jan;71(1):91-3. doi: 10.1136/thoraxjnl-2015-207433. Epub 2015 Jul 2.
+PY  - 2016
+SN  - 0040-6376
+SP  - 91-3
+ST  - Research in progress--LungSEARCH: a randomised controlled trial of surveillance for the early detection of lung cancer in a high-risk group
+T2  - Thorax
+TI  - Research in progress--LungSEARCH: a randomised controlled trial of surveillance for the early detection of lung cancer in a high-risk group
+VL  - 71
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AB  - The long-term effects of lung cancer computed tomography (CT) screening on health-related quality of life (HRQoL) have not yet been investigated. In the Dutch-Belgian Randomised Lung Cancer Screening Trial (NELSON trial), 1,466 participants received questionnaires before randomisation (T0), 2 months after baseline screening (screen group only; T1) and at 2-yr follow-up (T2). HRQoL was measured as generic HRQoL (12-item short-form questionnaire and EuroQoL questionnaire), anxiety (Spielberger State-Trait Anxiety Inventory) and lung cancer-specific distress (impact of event scale (IES)). Repeated measures of ANOVA were used to analyse differences between the screen and control groups, and between indeterminate (requiring a follow-up CT) and negative screening result groups. At T0 and T2 there were no significant differences in HRQoL scores over time between the screen and control groups, or between the indeterminate or negative second-round screening result group. There was a temporary increase in IES scores after an indeterminate baseline result (T0: mean 4.0 (95% CI 2.8-5.3); T1: mean 7.8 (95% CI 6.5-9.0); T2: mean 4.5 (95% CI 3.3-5.8)). At 2-yr follow-up, the HRQoL of screened subjects was similar to that of control subjects, the unfavourable short-term effects of an indeterminate baseline screening result had resolved and an indeterminate result at the second screening round had no impact on HRQoL.
+AD  - Dept of Public Health, Erasmus MC, University Medical Centre Rotterdam, PO Box 2040, 3000 CA Rotterdam, the Netherlands. k.vandenbergh@erasmusmc.nl
+AN  - 21148229
+AU  - van den Bergh, K. A.
+AU  - Essink-Bot, M. L.
+AU  - Borsboom, G. J.
+AU  - Scholten, E. T.
+AU  - van Klaveren, R. J.
+AU  - de Koning, H. J.
+C1  - Isrctn/isrctn63545820
+DA  - Jul
+DO  - 10.1183/09031936.00123410
+DP  - NLM
+ET  - 2010/12/15
+IS  - 1
+J2  - The European respiratory journal
+KW  - Belgium
+Early Detection of Cancer/*methods
+Female
+Humans
+Lung Neoplasms/*diagnosis/*diagnostic imaging
+Male
+Mass Screening/methods
+Middle Aged
+Netherlands
+Quality of Life
+Surveys and Questionnaires
+Time Factors
+Tomography, X-Ray Computed/*methods
+Treatment Outcome
+LA  - eng
+N1  - 1399-3003
+van den Bergh, K A M
+Essink-Bot, M L
+Borsboom, G J J M
+Scholten, E T
+van Klaveren, R J
+de Koning, H J
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Eur Respir J. 2011 Jul;38(1):154-61. doi: 10.1183/09031936.00123410. Epub 2010 Dec 9.
+PY  - 2011
+SN  - 0903-1936
+SP  - 154-61
+ST  - Long-term effects of lung cancer computed tomography screening on health-related quality of life: the NELSON trial
+T2  - Eur Respir J
+TI  - Long-term effects of lung cancer computed tomography screening on health-related quality of life: the NELSON trial
+VL  - 38
+ID  - 51
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In lung cancer CT screening, participants often have an indeterminate screening result at baseline requiring a follow-up CT. In subjects with either an indeterminate or a negative result after screening, we investigated whether health-related quality of life (HRQoL) changed over time and differed between groups in the short term. METHODS: A total of 733 participants in the NELSON trial received four questionnaires: T0, before randomisation; T1, 1 week before the baseline screening; T2, 1 day after the screening; and T3, 2 months after the screening results but before the 3-month follow-up CT. HRQoL was measured as generic HRQoL (the 12-item Short Form, SF-12; the EuroQol questionnaire, EQ-5D), anxiety (the Spielberger State-Trait Anxiety Inventory, STAI-6), and lung-cancer-specific distress (the Impact of Event Scale, IES). For analyses, repeated-measures analysis of variance was used, adjusted for covariates. RESULTS: Response to each questionnaire was 88% or higher. Scores on SF-12, EQ-5D, and STAI-6 showed no clinically relevant changes over time. At T3, IES scores that were clinically relevant increased after an indeterminate result, whereas these scores showed a significant decrease after a negative result. At T3, differences in IES scores between the two baseline result groups were both significant and clinically relevant (P<0.01). CONCLUSION: This longitudinal study among participants of a lung cancer screening programme showed that in the short term recipients of an indeterminate result experienced increased lung-cancer-specific distress, whereas the HRQoL changes after a negative baseline screening result may be interpreted as a relief.
+AD  - Department of Public Health, Erasmus MC, University Medical Centre Rotterdam, 3000 CA Rotterdam, The Netherlands. k.vandenbergh@erasmusmc.nl
+AN  - 19935789
+AU  - van den Bergh, K. A.
+AU  - Essink-Bot, M. L.
+AU  - Borsboom, G. J.
+AU  - Th Scholten, E.
+AU  - Prokop, M.
+AU  - de Koning, H. J.
+AU  - van Klaveren, R. J.
+C2  - PMC2813757
+DA  - Jan 5
+DO  - 10.1038/sj.bjc.6605459
+DP  - NLM
+ET  - 2009/11/26
+IS  - 1
+J2  - British journal of cancer
+KW  - Aged
+Belgium
+Educational Status
+Female
+Follow-Up Studies
+Humans
+Lung Neoplasms/*diagnostic imaging
+Male
+Mass Screening/*psychology
+Middle Aged
+Netherlands
+*Quality of Life
+Smoking/epidemiology
+Solitary Pulmonary Nodule/diagnostic imaging/*psychology
+Stress, Psychological/etiology/*psychology
+Surveys and Questionnaires
+Tomography, X-Ray Computed/*psychology
+Uncertainty
+LA  - eng
+N1  - 1532-1827
+van den Bergh, K A M
+Essink-Bot, M L
+Borsboom, G J J M
+Th Scholten, E
+Prokop, M
+de Koning, H J
+van Klaveren, R J
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+Br J Cancer. 2010 Jan 5;102(1):27-34. doi: 10.1038/sj.bjc.6605459. Epub 2009 Nov 24.
+PY  - 2010
+SN  - 0007-0920
+SP  - 27-34
+ST  - Short-term health-related quality of life consequences in a lung cancer CT screening trial (NELSON)
+T2  - Br J Cancer
+TI  - Short-term health-related quality of life consequences in a lung cancer CT screening trial (NELSON)
+VL  - 102
+ID  - 50
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Computed tomography (CT) screening is an important new tool for the early detection of lung cancer. In the current study, the authors assessed the discomfort associated with CT scanning and the subsequent wait for results and health-related quality of life (HRQoL) over time. METHODS: A total of 351 participants in the Dutch-Belgian randomized controlled trial for lung cancer screening in high-risk subjects (the NELSON trial) who had an appointment for a baseline CT scan were asked to complete questionnaires regarding their experienced discomfort and HRQoL before, 1 day after, and approximately 6 months after the CT scan. HRQoL was measured as generic HRQoL (12-item Short Form [SF-12] and EuroQol questionnaire [EQ-5D]), generic anxiety (State-Trait Anxiety Inventory [STAI-6]), and lung cancer-specific distress (Impact of Event Scale [IES]). Approximately 76.9% of the participants completed all 3 questionnaires. RESULTS: Approximately 87% to 99% of participants reported experiencing no discomfort related to the CT scan. The median SF-12, EQ-5D, STAI-6, and IES scores did not appear to change relevantly over time. Approximately 46.0% and 51.3%, respectively, of the participants reported discomfort in connection with having to wait for the results of the CT scan and dreading those results. These patients had relevantly higher STAI-6 and IES scores (P < .01) (unfavorable) at all 3 assessments. CONCLUSIONS: The current evaluation of the potential adverse effects of CT screening for lung cancer on HRQoL demonstrated no negative effects. However, waiting for the CT scan results was reported to be discomforting by approximately half of the participants. Minimizing the waiting time for the test results is therefore recommended.
+AD  - Department of Public Health, Erasmus MC-University Medical Centre Rotterdam, Rotterdam, the Netherlands. k.vandenbergh@erasmusmc.nl
+AN  - 18484588
+AU  - van den Bergh, K. A.
+AU  - Essink-Bot, M. L.
+AU  - Bunge, E. M.
+AU  - Scholten, E. T.
+AU  - Prokop, M.
+AU  - van Iersel, C. A.
+AU  - van Klaveren, R. J.
+AU  - de Koning, H. J.
+DA  - Jul 15
+DO  - 10.1002/cncr.23590
+DP  - NLM
+ET  - 2008/05/20
+IS  - 2
+J2  - Cancer
+KW  - Female
+Health
+Humans
+Lung Neoplasms/*diagnosis
+Male
+Mass Screening/*methods
+Middle Aged
+Quality of Life
+Time Factors
+Tomography, X-Ray Computed/*methods
+LA  - eng
+N1  - van den Bergh, Karien A M
+Essink-Bot, Marie-Louise
+Bunge, Eveline M
+Scholten, Ernst Th
+Prokop, Mathias
+van Iersel, Carola A
+van Klaveren, Rob J
+de Koning, Harry J
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Cancer. 2008 Jul 15;113(2):396-404. doi: 10.1002/cncr.23590.
+PY  - 2008
+SN  - 0008-543X (Print)
+0008-543x
+SP  - 396-404
+ST  - Impact of computed tomography screening for lung cancer on participants in a randomized controlled trial (NELSON trial)
+T2  - Cancer
+TI  - Impact of computed tomography screening for lung cancer on participants in a randomized controlled trial (NELSON trial)
+VL  - 113
+ID  - 49
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Lung cancer screening might be a teachable moment for smoking cessation intervention. The objective was to investigate whether a tailored self-help smoking cessation intervention is more effective in inducing smoking cessation compared to a standard brochure in male smokers who participate in the Dutch-Belgian randomised controlled lung cancer screening trial (NELSON trial). METHODS: Two random samples of male smokers who had received either a standard brochure (n=642) or a tailoring questionnaire for computer-tailored smoking cessation information (n=642) were sent a questionnaire to measure smoking behaviour two years after randomisation. RESULTS: Twenty-three percent of the male smokers in the tailored information group returned a completed tailoring questionnaire and thus received the tailored advice. The prolonged smoking abstinence was slightly, but not statistically significant, lower amongst those randomised in the tailored information group (12.5%) compared with the brochure group (15.6%) (OR=0.77 (95%-CI: 0.56-1.06). The level of education and intention to quit smoking significantly predicted smoking cessation at follow-up (p<0.05). The majority of the respondents did not recall whether and which smoking cessation intervention they had received at randomisation after 2-years of follow-up. CONCLUSION: The current study showed no advantage of tailored smoking cessation information over standard self-help information amongst male smokers with a long term smoking history who participate in a lung cancer screening trial after two years of follow-up. However, the low percentage participants who actually received the tailored advice limited the ability to find an advantage.
+AD  - Department of Public Health, Erasmus MC - University Medical Centre Rotterdam, Dr. Molewaterplein 50, 3015 GE Rotterdam, The Netherlands. c.vanderaalst@erasmusmc.nl
+AN  - 22054915
+AU  - van der Aalst, C. M.
+AU  - de Koning, H. J.
+AU  - van den Bergh, K. A.
+AU  - Willemsen, M. C.
+AU  - van Klaveren, R. J.
+DA  - May
+DO  - 10.1016/j.lungcan.2011.10.006
+DP  - NLM
+ET  - 2011/11/08
+IS  - 2
+J2  - Lung cancer (Amsterdam, Netherlands)
+KW  - Early Detection of Cancer/methods
+Educational Status
+Follow-Up Studies
+Health Behavior
+Health Promotion/*methods
+Humans
+Lung Neoplasms/diagnosis/*psychology
+Male
+Middle Aged
+Program Evaluation
+Smoking/adverse effects
+Smoking Cessation/*methods/*psychology
+Surveys and Questionnaires
+LA  - eng
+N1  - 1872-8332
+van der Aalst, Carlijn M
+de Koning, Harry J
+van den Bergh, Karien A M
+Willemsen, Marc C
+van Klaveren, Rob J
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Ireland
+Lung Cancer. 2012 May;76(2):204-10. doi: 10.1016/j.lungcan.2011.10.006. Epub 2011 Nov 4.
+PY  - 2012
+SN  - 0169-5002
+SP  - 204-10
+ST  - The effectiveness of a computer-tailored smoking cessation intervention for participants in lung cancer screening: a randomised controlled trial
+T2  - Lung Cancer
+TI  - The effectiveness of a computer-tailored smoking cessation intervention for participants in lung cancer screening: a randomised controlled trial
+VL  - 76
+ID  - 52
+ER  - 
+
+TY  - JOUR
+AB  - Receiving a lung cancer computed tomography screening result might be a teachable moment for smoking cessation, but it might also unintentionally reassure smokers to continue smoking. The objective of the present study was to investigate whether test results were associated with smoking abstinence in the Dutch-Belgian Randomised Controlled Lung Cancer Screening Trial (NELSON trial). Two random samples of male smokers who had received either only negative test results (n=550) or one or more indeterminate test result (n=440) were sent a questionnaire 2 yrs after randomisation. Smokers with an indeterminate result reported more quit attempts (p=0.02), but the prolonged abstinence rate in smokers receiving a negative test (46 (8.9%) out of 519 subjects) was comparable with the abstinence rate in smokers with one or more indeterminate results (48 (11.5%) out of 419 subjects) (p=0.19). A statistically insignificant increase was found after one or more indeterminate test result (10.9 and 15.0%, respectively) compared with receiving only negative test results (8.9%) (p=0.26). In conclusion, the outcome of the screening test had no impact on future smoking abstinence in male smokers, although all results suggest more favourable implications after one or more follow-up recommendations. Screening test outcomes could be used as a teachable moment for smoking cessation.
+AD  - Department of Public Health, Erasmus MC, University Medical Centre Rotterdam, PO Box 2040, 3000 CA Rotterdam, The Netherlands. c.vanderaalst@erasmusmc.nl
+AN  - 21148233
+AU  - van der Aalst, C. M.
+AU  - van Klaveren, R. J.
+AU  - van den Bergh, K. A.
+AU  - Willemsen, M. C.
+AU  - de Koning, H. J.
+DA  - Jun
+DO  - 10.1183/09031936.00035410
+DP  - NLM
+ET  - 2010/12/15
+IS  - 6
+J2  - The European respiratory journal
+KW  - Aged
+Cohort Studies
+*Early Detection of Cancer
+Female
+Humans
+Lung Neoplasms/*diagnostic imaging/*psychology
+Male
+Middle Aged
+Randomized Controlled Trials as Topic
+Smoking/epidemiology
+Smoking Cessation/*psychology
+Tomography, X-Ray Computed
+LA  - eng
+N1  - 1399-3003
+van der Aalst, C M
+van Klaveren, R J
+van den Bergh, K A M
+Willemsen, M C
+de Koning, H J
+Journal Article
+England
+Eur Respir J. 2011 Jun;37(6):1466-73. doi: 10.1183/09031936.00035410. Epub 2010 Dec 9.
+PY  - 2011
+SN  - 0903-1936
+SP  - 1466-73
+ST  - The impact of a lung cancer computed tomography screening result on smoking abstinence
+T2  - Eur Respir J
+TI  - The impact of a lung cancer computed tomography screening result on smoking abstinence
+VL  - 37
+ID  - 53
+ER  - 
+
+TY  - JOUR
+AB  - A method to obtain the optimal selection criteria, taking into account available resources and capacity and the impact on power, is presented for the Dutch-Belgian randomised lung cancer screening trial (NELSON). NELSON investigates whether 16-detector multi-slice computed tomography screening will decrease lung cancer mortality compared to no screening. A questionnaire was sent to 335,441 (mainly) men, aged 50-75. Smoking exposure (years smoked, cigarettes/day, years quit) was determined, and expected lung cancer mortality was estimated for different selection scenarios for the 106,931 respondents, using lung cancer mortality data by level of smoking exposure (US Cancer Prevention Study I and II). Selection criteria were chosen so that the required response among eligible subjects to reach sufficient sample size was minimised and the required sample size was within our capacity. Inviting current and former smokers (quit <or= 10 years ago) who smoked >15 cigarettes/day during >25 years or >10 cigarettes/day during >30 years was most optimal. With a power of 80%, 17,300-27,900 participants are needed to show a 20-25% lung cancer mortality reduction 10 years after randomisation. Until October 18, 2005 11,103 (first recruitment round) and 4,325 (second recruitment round) (total = 15,428) participants have been randomised. Selecting participants for lung cancer screening trials based on risk estimates is feasible and helpful to minimize sample size and costs. When pooling with Danish trial data (n = +/-4,000) NELSON is the only trial without screening in controls that is expected to have 80% power to show a lung cancer mortality reduction of at least 25% 10 years after randomisation.
+AD  - Department of Public Health, Erasmus MC, Rotterdam, The Netherlands. c.vaniersel@erasmusmc.nl
+AN  - 17131307
+AU  - van Iersel, C. A.
+AU  - de Koning, H. J.
+AU  - Draisma, G.
+AU  - Mali, W. P.
+AU  - Scholten, E. T.
+AU  - Nackaerts, K.
+AU  - Prokop, M.
+AU  - Habbema, J. D.
+AU  - Oudkerk, M.
+AU  - van Klaveren, R. J.
+DA  - Feb 15
+DO  - 10.1002/ijc.22134
+DP  - NLM
+ET  - 2006/11/30
+IS  - 4
+J2  - International journal of cancer
+KW  - Aged
+Belgium/epidemiology
+Clinical Protocols
+Control Groups
+Female
+Follow-Up Studies
+Humans
+Lung Neoplasms/*diagnostic imaging/prevention & control
+Male
+Mass Screening
+Middle Aged
+Neoplasm Staging
+Netherlands/epidemiology
+*Patient Selection
+Risk Factors
+Sample Size
+*Tomography, X-Ray Computed
+LA  - eng
+N1  - van Iersel, Carola A
+de Koning, Harry J
+Draisma, Gerrit
+Mali, Willem P T M
+Scholten, Ernst Th
+Nackaerts, Kristiaan
+Prokop, Mathias
+Habbema, J Dik F
+Oudkerk, Mathijs
+van Klaveren, Rob J
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Int J Cancer. 2007 Feb 15;120(4):868-74. doi: 10.1002/ijc.22134.
+PY  - 2007
+SN  - 0020-7136 (Print)
+0020-7136
+SP  - 868-74
+ST  - Risk-based selection from the general population in a screening trial: selection criteria, recruitment and power for the Dutch-Belgian randomised lung cancer multi-slice CT screening trial (NELSON)
+T2  - Int J Cancer
+TI  - Risk-based selection from the general population in a screening trial: selection criteria, recruitment and power for the Dutch-Belgian randomised lung cancer multi-slice CT screening trial (NELSON)
+VL  - 120
+ID  - 54
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To assess the complication rate in participants of the screen arm of the NELSON lung cancer screening trial who underwent surgical resection and to investigate, based on a literature review, whether the complication rate, length of hospital stay, re-thoracotomy and mortality rates after a surgical procedure were different from those of the non-screening series, taking co-morbidity into account. METHODS: Between April 2004 and December 2008, 198 subjects underwent thoracic surgery. Co-morbid conditions were retrieved from the medical records. Postoperative complications were classified as minor and major. RESULTS: In total, 182 thoracotomies, 5 thoracotomies after video-assisted thoracoscopic surgery (VATS) and 11 VATS procedures were performed. In these patients, 36% had chronic obstructive lung disease, 16% coronary artery disease, 14% diabetes mellitus and 11% peripheral vascular disease. Following thoracotomy, 47% (88/187) had >/=1 minor (7-57% in literature) and 10% (18/187) >/=1 major complication (2-26% in literature); following VATS, 38% (6/16) had >/=1 minor complication, but no major complications. Seventeen per cent (3/18) of major complications and 21% (20/96) of minor complications were seen in subjects operated for benign disease. The re-thoracotomy rate was 3% and there was no 30-day mortality after thoracotomy or VATS (0-8.3% in literature). The mortality rate of 0% after surgical procedures is low when compared with the non-screening series (0-8.3%); the rate of complications (53%) is within range when compared with the non-screening series (8.5-58%). CONCLUSIONS: In conclusion, mortality rates after surgical procedures are lower in the NELSON lung cancer screening trial than those in the non-screening series. The rate of complications is within the same range as in the non-screening series. TRIAL REGISTRATION NUMBER: ISR CTN 63545820.
+AD  - Department of Pulmonology, Erasmus MC Rotterdam, Rotterdam, Netherlands. s.vantwesteinde@erasmusmc.nl
+AN  - 22491665
+AU  - Van't Westeinde, S. C.
+AU  - Horeweg, N.
+AU  - De Leyn, P.
+AU  - Groen, H. J.
+AU  - Lammers, J. W.
+AU  - Weenink, C.
+AU  - Nackaerts, K.
+AU  - van Klaveren, R. J.
+C1  - Isrctn/isrctn63545820
+DA  - Sep
+DO  - 10.1093/ejcts/ezs081
+DP  - NLM
+ET  - 2012/04/12
+IS  - 3
+J2  - European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery
+KW  - Adult
+Aged
+Aged, 80 and over
+*Cause of Death
+Chi-Square Distribution
+Confidence Intervals
+Disease-Free Survival
+Early Detection of Cancer/*methods
+Female
+Humans
+Linear Models
+Lung Neoplasms/diagnosis/*epidemiology/*surgery
+Male
+Middle Aged
+Multidetector Computed Tomography/methods
+Neoplasm Invasiveness/pathology
+Neoplasm Staging
+Netherlands
+Pneumonectomy/*methods/*mortality
+Positron-Emission Tomography/methods
+Postoperative Complications/mortality/physiopathology/surgery
+Prognosis
+Reoperation/methods/mortality
+Risk Assessment
+Survival Analysis
+Thoracic Surgery, Video-Assisted/adverse effects/methods
+Thoracotomy/adverse effects/methods
+Treatment Outcome
+LA  - eng
+N1  - 1873-734x
+Van't Westeinde, Susan C
+Horeweg, Nanda
+De Leyn, Paul
+Groen, Harry J M
+Lammers, Jan-Willem J
+Weenink, Carla
+Nackaerts, Kristiaan
+van Klaveren, Rob J
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Germany
+Eur J Cardiothorac Surg. 2012 Sep;42(3):420-9. doi: 10.1093/ejcts/ezs081. Epub 2012 Apr 5.
+PY  - 2012
+SN  - 1010-7940
+SP  - 420-9
+ST  - Complications following lung surgery in the Dutch-Belgian randomized lung cancer screening trial
+T2  - Eur J Cardiothorac Surg
+TI  - Complications following lung surgery in the Dutch-Belgian randomized lung cancer screening trial
+VL  - 42
+ID  - 56
+ER  - 
+
+TY  - JOUR
+AB  - RATIONALE: As of April 2015, participants in the Danish Lung Cancer Screening Trial had been followed for at least 5 years since their last screening. OBJECTIVES: Mortality, causes of death, and lung cancer findings are reported to explore the effect of computed tomography (CT) screening. METHODS: A total of 4,104 participants aged 50-70 years at the time of inclusion and with a minimum 20 pack-years of smoking were randomized to have five annual low-dose CT scans (study group) or no screening (control group). MEASUREMENTS AND MAIN RESULTS: Follow-up information regarding date and cause of death, lung cancer diagnosis, cancer stage, and histology was obtained from national registries. No differences between the two groups in lung cancer mortality (hazard ratio, 1.03; 95% confidence interval, 0.66-1.6; P = 0.888) or all-cause mortality (hazard ratio, 1.02; 95% confidence interval, 0.82-1.27; P = 0.867) were observed. More cancers were found in the screening group than in the no-screening group (100 vs. 53, respectively; P < 0.001), particularly adenocarcinomas (58 vs. 18, respectively; P < 0.001). More early-stage cancers (stages I and II, 54 vs. 10, respectively; P < 0.001) and stage IIIa cancers (15 vs. 3, respectively; P = 0.009) were found in the screening group than in the control group. Stage IV cancers were nonsignificantly more frequent in the control group than in the screening group (32 vs. 23, respectively; P = 0.278). For the highest-stage cancers (T4N3M1, 21 vs. 8, respectively; P = 0.025), this difference was statistically significant, indicating an absolute stage shift. Older participants, those with chronic obstructive pulmonary disease, and those with more than 35 pack-years of smoking had a significantly increased risk of death due to lung cancer, with nonsignificantly fewer deaths in the screening group. CONCLUSIONS: No statistically significant effects of CT screening on lung cancer mortality were found, but the results of post hoc high-risk subgroup analyses showed nonsignificant trends that seem to be in good agreement with the results of the National Lung Screening Trial. Clinical trial registered with www.clinicaltrials.gov (NCT00496977).
+AD  - 1 Department of Respiratory Medicine and.
+2 Department of Imaging, Nordsjaellands Hospital, Hillerod, Denmark.
+3 Department of Radiology, Akershus University Hospital, Lorenskog, Norway.
+4 Department of Respiratory Medicine and.
+5 Department of Radiology, Gentofte University Hospital, University of Copenhagen, Hellerup, Denmark.
+6 Research Unit for General Practice, Faculty of Health Science, University of Copenhagen, Copenhagen, Denmark.
+7 Center for Clinical Education.
+8 Department of Radiology, Bispebjerg Hospital, University of Copenhagen, Copenhagen, Denmark.
+9 Department of Clinical Physiology, Nuclear Medicine and PET, and.
+10 Department of Pathology, Rigshospitalet and Bispebjerg Hospital, Copenhagen, Denmark; and.
+11 Danish Center for Sleep Medicine, Glostrup Hospital, Glostrup, Denmark.
+12 Department of Thoracic Surgery, Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+AN  - 26485620
+AU  - Wille, M. M.
+AU  - Dirksen, A.
+AU  - Ashraf, H.
+AU  - Saghir, Z.
+AU  - Bach, K. S.
+AU  - Brodersen, J.
+AU  - Clementsen, P. F.
+AU  - Hansen, H.
+AU  - Larsen, K. R.
+AU  - Mortensen, J.
+AU  - Rasmussen, J. F.
+AU  - Seersholm, N.
+AU  - Skov, B. G.
+AU  - Thomsen, L. H.
+AU  - Tonnesen, P.
+AU  - Pedersen, J. H.
+C1  - ClinicalTrials.gov/NCT00496977
+DA  - Mar 1
+DO  - 10.1164/rccm.201505-1040OC
+DP  - NLM
+ET  - 2015/10/21
+IS  - 5
+J2  - American journal of respiratory and critical care medicine
+KW  - Adenocarcinoma/*diagnostic imaging/mortality/pathology
+Aged
+Carcinoma, Non-Small-Cell Lung/*diagnostic imaging/mortality/pathology
+Carcinoma, Squamous Cell/*diagnostic imaging/mortality/pathology
+Comorbidity
+Denmark/epidemiology
+Early Detection of Cancer
+Female
+Humans
+Lung/*diagnostic imaging/pathology
+Lung Neoplasms/*diagnostic imaging/mortality/pathology
+Male
+Middle Aged
+Proportional Hazards Models
+Pulmonary Disease, Chronic Obstructive/epidemiology
+Risk Assessment
+Small Cell Lung Carcinoma/*diagnostic imaging/mortality/pathology
+Smoking
+Tomography, X-Ray Computed
+chronic obstructive pulmonary disease
+computed tomography
+lung cancer
+screening
+LA  - eng
+N1  - 1535-4970
+Wille, Mathilde M W
+Dirksen, Asger
+Ashraf, Haseem
+Saghir, Zaigham
+Bach, Karen S
+Brodersen, John
+Clementsen, Paul F
+Hansen, Hanne
+Larsen, Klaus R
+Mortensen, Jann
+Rasmussen, Jakob F
+Seersholm, Niels
+Skov, Birgit G
+Thomsen, Laura H
+Tonnesen, Philip
+Pedersen, Jesper H
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Am J Respir Crit Care Med. 2016 Mar 1;193(5):542-51. doi: 10.1164/rccm.201505-1040OC.
+PY  - 2016
+SN  - 1073-449x
+SP  - 542-51
+ST  - Results of the Randomized Danish Lung Cancer Screening Trial with Focus on High-Risk Profiling
+T2  - Am J Respir Crit Care Med
+TI  - Results of the Randomized Danish Lung Cancer Screening Trial with Focus on High-Risk Profiling
+VL  - 193
+ID  - 30
+ER  - 
+
+TY  - JOUR
+AB  - In December 2003, the Dutch-Belgian NELSON trial, a Dutch acronym for "Nederlands-Leuvens Longkanker Screenings ONderzoek", has been launched. Primary objective of the NELSON trial is to investigate whether screening for lung cancer by 16-detector multi-slice CT with 16 mm x 0.75 mm collimation and 15 mm table feed per rotation (pitch=1.5) in year 1, 2 and 4 will lead to a decrease in lung cancer mortality in high risk subjects of at least 25% compared to a control group which receives no screening. In this paper, the screening regimen and the classification and management of the screen-detected nodules at baseline and incidence screening is presented. This is the first large lung cancer screening trial in which the nodule management protocol is based on volumetric nodule assessment and the presence or absence of growth. Furthermore, the quality assurance measures and the NELSON management system (NMS) are presented.
+AD  - Department of Radiology, University Medical Centre Groningen, University of Groningen, Hanzeplein 1, 9700 RB Groningen, The Netherlands.
+AN  - 16989922
+AU  - Xu, D. M.
+AU  - Gietema, H.
+AU  - de Koning, H.
+AU  - Vernhout, R.
+AU  - Nackaerts, K.
+AU  - Prokop, M.
+AU  - Weenink, C.
+AU  - Lammers, J. W.
+AU  - Groen, H.
+AU  - Oudkerk, M.
+AU  - van Klaveren, R.
+DA  - Nov
+DO  - 10.1016/j.lungcan.2006.08.006
+DP  - NLM
+ET  - 2006/09/23
+IS  - 2
+J2  - Lung cancer (Amsterdam, Netherlands)
+KW  - Clinical Protocols
+Humans
+Lung Neoplasms/*diagnosis/diagnostic imaging/pathology/surgery
+Mass Screening
+Neoplasm Staging
+Quality Control
+Radiographic Image Interpretation, Computer-Assisted
+Solitary Pulmonary Nodule/*diagnosis/diagnostic imaging/pathology/surgery
+Tomography, X-Ray Computed/instrumentation
+LA  - eng
+N1  - Xu, Dong Ming
+Gietema, Hester
+de Koning, Harry
+Vernhout, Rene
+Nackaerts, Kristiaan
+Prokop, Mathias
+Weenink, Carla
+Lammers, Jan-Willem
+Groen, Harry
+Oudkerk, Matthijs
+van Klaveren, Rob
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Ireland
+Lung Cancer. 2006 Nov;54(2):177-84. doi: 10.1016/j.lungcan.2006.08.006. Epub 2006 Sep 20.
+PY  - 2006
+SN  - 0169-5002 (Print)
+0169-5002
+SP  - 177-84
+ST  - Nodule management protocol of the NELSON randomised lung cancer screening trial
+T2  - Lung Cancer
+TI  - Nodule management protocol of the NELSON randomised lung cancer screening trial
+VL  - 54
+ID  - 55
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Individuals who are younger, have a high socioeconomic background and/or have a healthy lifestyle are more inclined to participate in screening trials. This form of bias may affect the generalizability of study results to the target population. This study aimed to investigate the generalizability of the NELSON lung cancer screening trial to the Dutch population. METHODS: People at high risk for developing lung cancer were identified by sending a health questionnaire to 606,409 persons aged 50-74 years, based on population registries. Eligible subjects received an invitation to participate (n = 30,051). 15,822 subjects agreed to participate and were randomized, whereas 15,137 did not respond (so-called eligible nonresponders). Baseline characteristics and mortality profiles were compared between control group participants and eligible nonresponders. RESULTS: Participants had better self-reported health (p = 0.02), were younger, more physically active, higher educated, and more often former smokers compared with eligible nonresponders (all p < 0.001). No differences were seen in self-reported outcomes of pulmonary tests, history of lung cancer, and smoked pack-years. Mortality due to all-causes (p < 0.001) and mortality classification separately was lower among participants. However, the proportion of subjects death due to cancer was higher among participants (62.4% vs. 54.9%). CONCLUSION: Modest differences in baseline characteristics between participants and eligible nonresponders, led to minor differences in mortality profiles. However, group sizes were large and therefore it seems unlikely that these small differences will influence the generalizability of the NELSON trial. Results of the NELSON trial can roughly be used to predict the effect of population-based lung cancer screening.
+AD  - *Department of Public Health, Erasmus Medical Center, Rotterdam, The Netherlands; and daggerDepartment of Radiology, University Medical Center Groningen, Groningen, The Netherlands.
+AN  - 25664626
+AU  - Yousaf-Khan, U.
+AU  - Horeweg, N.
+AU  - van der Aalst, C.
+AU  - Ten Haaf, K.
+AU  - Oudkerk, M.
+AU  - de Koning, H.
+C1  - Isrctn/isrctn63545820
+DA  - May
+DO  - 10.1097/jto.0000000000000488
+DP  - NLM
+ET  - 2015/02/11
+IS  - 5
+J2  - Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer
+KW  - Age Factors
+Aged
+*Control Groups
+Early Detection of Cancer
+Educational Status
+Exercise
+Female
+*Health Status
+Humans
+Lung Neoplasms/*diagnostic imaging/*epidemiology
+Male
+Middle Aged
+*Mortality
+Netherlands/epidemiology
+Selection Bias
+Smoking/epidemiology
+Socioeconomic Factors
+Tomography, X-Ray Computed/methods
+LA  - eng
+N1  - 1556-1380
+Yousaf-Khan, Uraujh
+Horeweg, Nanda
+van der Aalst, Carlijn
+Ten Haaf, Kevin
+Oudkerk, Mathijs
+de Koning, Harry
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Thorac Oncol. 2015 May;10(5):747-53. doi: 10.1097/JTO.0000000000000488.
+PY  - 2015
+SN  - 1556-0864
+SP  - 747-53
+ST  - Baseline Characteristics and Mortality Outcomes of Control Group Participants and Eligible Non-Responders in the NELSON Lung Cancer Screening Study
+T2  - J Thorac Oncol
+TI  - Baseline Characteristics and Mortality Outcomes of Control Group Participants and Eligible Non-Responders in the NELSON Lung Cancer Screening Study
+VL  - 10
+ID  - 57
+ER  - 
+

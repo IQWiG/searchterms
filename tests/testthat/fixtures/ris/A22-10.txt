@@ -1,0 +1,3289 @@
+﻿TY  - JOUR
+AB  - OBJECTIVE: To compare the efficacy of dexmedetomidine versus morphine as a sedative/analgesic among post-operative cardiac surgery patients. METHOD: A randomized controlled open-label study was performed at the cardiothoracic intensive care unit of Penang Hospital, Malaysia. A total of 28 patients who underwent cardiac surgeries were randomly assigned to receive either dexmedetomidine or morphine. Both groups were similar in terms of preoperative baseline characteristics. Efficacy measures included sedation scores and pain intensity and requirements for additional sedative/analgesic. Mean heart rate and arterial blood pressure were used as safety measures. Other measures were additional inotropes, extubation time and other concurrent medications. RESULTS: The mean dose of dexmedetomidine infused was 0.12 [SD 0.03] μg kg⁻¹ h⁻¹, while that of morphine was 13.2 [SD 5.84] μg kg⁻¹ h⁻¹. Dexmedetomidine group showed more benefits in sedation and pain levels, additional sedative/analgesic requirements, and extubation time. No significant differences between the two groups for the outcome measures, except heart rate, which was significantly lower in the dexmedetomidine group. CONCLUSION: This preliminary study suggests that dexmedetomidine was at least comparable to morphine in terms of efficacy and safety among cardiac surgery patients. Further studies with larger samples are recommended in order to determine the significant effects of the outcome measures.
+AD  - Department of Clinical Pharmacy, School of Pharmaceutical Sciences, Universiti Sains Malaysia, Minden, 11800, Penang, Malaysia. naa@usm.my
+AN  - 21744187
+AU  - Abd Aziz, N.
+AU  - Chue, M. C.
+AU  - Yong, C. Y.
+AU  - Hassan, Y.
+AU  - Awaisu, A.
+AU  - Hassan, J.
+AU  - Kamarulzaman, M. H.
+DA  - Apr
+DB  - Medline
+DO  - 10.1007/s11096-011-9480-7
+DP  - NLM
+ET  - 2011/07/12
+IS  - 2
+J2  - International journal of clinical pharmacy
+KW  - Aged
+Blood Pressure
+drug effects
+Cardiac Surgical Procedures
+adverse effects
+Dexmedetomidine
+administration & dosage
+adverse effects
+Female
+Heart Rate
+drug effects
+Humans
+Hypnotics and Sedatives
+administration & dosage
+adverse effects
+Infusions, Intravenous
+Malaysia
+Male
+Middle Aged
+Morphine
+administration & dosage
+adverse effects
+Narcotics
+administration & dosage
+adverse effects
+Pain Measurement
+Pain, Postoperative
+etiology
+prevention & control
+Pilot Projects
+Sleep
+drug effects
+Time Factors
+Treatment Outcome
+LA  - eng
+N1  - 2210-7711
+Abd Aziz, Noorizan
+Chue, Mui Ching
+Yong, Chow Yen
+Hassan, Yahaya
+Awaisu, Ahmed
+Hassan, Jahizah
+Kamarulzaman, Mohd Hamzah
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Netherlands
+Int J Clin Pharm. 2011 Apr;33(2):150-4. doi: 10.1007/s11096-011-9480-7. Epub 2011 Jan 28.
+PY  - 2011
+SP  - 150-4
+ST  - Efficacy and safety of dexmedetomidine versus morphine in post-operative cardiac surgery patients
+T2  - Int J Clin Pharm
+TI  - Efficacy and safety of dexmedetomidine versus morphine in post-operative cardiac surgery patients
+VL  - 33
+ID  - 56
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Sedation after open heart surgery is important in preventing stress on the heart. The unique sedative features of propofol prompted us to evaluate its potential clinical role in the sedation of post-CABG patients. OBJECTIVES: To compare propofol-based sedation to midazolam-based sedation after coronary artery bypass graft (CABG) surgery in the intensive care unit (ICU). PATIENTS AND METHODS: Fifty patients who were admitted to the ICU after CABG surgery was randomized into two groups to receive sedation with either midazolam or propofol infusions; and additional analgesia was administered if required. Inclusion criteria were as follows: patients 40-60 years old, hemodynamic stability, ejection fraction (EF) more than 40%; exclusion criteria included patients who required intra-aortic balloon pump or inotropic drugs post-bypass. The same protocol of anesthetic medications was used in both groups. Depth of sedation was monitored using the Ramsay sedation score (RSS). Invasive mean arterial pressure (MAP) and heart rate (HR), arterial blood gas (ABG) and ventilatory parameters were monitored continuously after the start of study drug and until the patients were extubated. RESULTS: The depth of sedation was almost the same in the two groups (RSS=4.5 in midazolam group vs 4.7 in propofol group; P = 0.259) but the total dose of fentanyl in the midazolam group was significantly more than the propofol group (12.5 mg/hr vs 4 mg/hr) (P = 0.0039). No significant differences were found in MAP (P = 0.51) and HR (P = 0.41) between the groups. The mean extubation time in patients sedated with propofol was shorter than those sedated with midazolam (102 ± 27 min vs 245 ± 42 min, respectively; P < 0.05) but the ICU discharge time was not shorter (47.5 hr vs 36.3 hr, respectively; P = 0.24). CONCLUSIONS: Propofol provided a safe and acceptable sedation for post-CABG surgical patients, significantly reduced the requirement for analgesics, and allowed for more rapid tracheal extubation than midazolam but did not result in earlier ICU discharge.
+AD  - Rajaei Cardiovascular, Medical and Research Center, Iran University of Medical Sciences, Tehran, Iran.
+AN  - 24660162
+AU  - Aghdaii, N.
+AU  - Yazdanian, F.
+AU  - Faritus, S. Z.
+C2  - PMC3961039
+DA  - Feb
+DB  - PubMed-not-MEDLINE
+DO  - 10.5812/aapm.17109
+DP  - NLM
+ET  - 2014/03/25
+IS  - 1
+J2  - Anesthesiology and pain medicine
+LA  - eng
+N1  - 2228-7531
+Aghdaii, Nahid
+Yazdanian, Frouzan
+Faritus, Seyedeh Zahra
+Journal Article
+Airway Extubation
+Analgesics
+Coronary Artery Bypass
+Deep Sedation
+Length of Stay
+Midazolam
+Propofol
+Anesth Pain Med. 2014 Feb 28;4(1):e17109. doi: 10.5812/aapm.17109. eCollection 2014 Feb.
+PY  - 2014
+SN  - 2228-7523 (Print)
+2228-7523
+SP  - e17109
+ST  - Sedative efficacy of propofol in patients intubated/ventilated after coronary artery bypass graft surgery
+T2  - Anesth Pain Med
+TI  - Sedative efficacy of propofol in patients intubated/ventilated after coronary artery bypass graft surgery
+VL  - 4
+ID  - 57
+ER  - 
+
+TY  - JOUR
+AB  - 101 critically ill patients admitted to five intensive-care units were allocated randomly to receive a continuous intravenous infusion of either propofol or midazolam for sedation for up to 24 h. In addition, morphine was given to provide analgesia. The mean duration of infusion was 20.2 h (range 3.0-24.5) in the propofol group and 21.3 h (4.0-47.0) in the midazolam group and infusion rates were 1.77 mg/kg/h (range 0.40-5.00) and 0.10 mg/kg/h (0.01-0.26), respectively. The infusion rates were adjusted as necessary, and the desired level of sedation was achieved easily in most patients in both groups. There were slight falls in arterial pressure, but there were no significant differences between the groups. Heart rate was lower in patients who received propofol. Some small changes occurred in biochemical and haematological variables in both groups, but they were not clinically significant. There was no indication that either drug substantially impaired adrenal steroidogenesis. When the infusion was discontinued, there was less variability in recovery of consciousness in patients who had received propofol. In a subgroup of patients, weaning from mechanical ventilation was achieved significantly faster after discontinuation of propofol than of midazolam. Propofol proved to be a satisfactory agent for sedation of these critically ill patients and compared favourably with midazolam.
+AD  - Department of Anaesthesia, Leicester Royal Infirmary.
+AN  - 2570958
+AU  - Aitkenhead, A. R.
+AU  - Pepperman, M. L.
+AU  - Willatts, S. M.
+AU  - Coates, P. D.
+AU  - Park, G. R.
+AU  - Bodenham, A. R.
+AU  - Collins, C. H.
+AU  - Smith, M. B.
+AU  - Ledingham, I. M.
+AU  - Wallace, P. G.
+DA  - Sep 23
+DB  - Medline
+DO  - 10.1016/s0140-6736(89)90770-8
+DP  - NLM
+ET  - 1989/09/23
+IS  - 8665
+J2  - Lancet (London, England)
+KW  - Adolescent
+Adult
+Aged
+Blood Pressure
+drug effects
+Critical Care
+Drug Evaluation
+Female
+Humans
+Hydrocortisone
+blood
+Hypnotics and Sedatives
+administration & dosage
+therapeutic use
+Infusions, Intravenous
+Injections
+Male
+Midazolam
+administration & dosage
+therapeutic use
+Middle Aged
+Morphine
+administration & dosage
+therapeutic use
+Multicenter Studies as Topic
+Phenols
+administration & dosage
+therapeutic use
+Propofol
+Random Allocation
+Severity of Illness Index
+Time Factors
+Ventilator Weaning
+LA  - eng
+N1  - Aitkenhead, A R
+Pepperman, M L
+Willatts, S M
+Coates, P D
+Park, G R
+Bodenham, A R
+Collins, C H
+Smith, M B
+Ledingham, I M
+Wallace, P G
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Lancet. 1989 Sep 23;2(8665):704-9. doi: 10.1016/s0140-6736(89)90770-8.
+PY  - 1989
+SN  - 0140-6736 (Print)
+0140-6736
+SP  - 704-9
+ST  - Comparison of propofol and midazolam for sedation in critically ill patients
+T2  - Lancet
+TI  - Comparison of propofol and midazolam for sedation in critically ill patients
+VL  - 2
+ID  - 58
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The study aim was to compare the efficacy of dexmedetomidine vs midazolam for sedation during the early postoperative period in adolescents who underwent scoliosis surgery. METHODS: We performed a prospective, randomized trial in an intensive care unit (ICU) in a tertiary care center. In this study, 42 patients (American Society of Anesthesiology physical status I and II) who underwent scoliosis surgery were divided into two groups according to sedation protocols: group dexmedetomidine (DEX) (n = 22) and group midazolam (MDZ) (n = 20). Adolescents (12-18 years) requiring mechanical ventilation underwent a continuous infusion of either dexmedetomidine (group DEX; starting dose, 0.4 μg·kg(-1) ·h(-1)) or midazolam (group MDZ; starting dose, 0.1 mg·kg(-1) ·h(-1)) with intermittent fentanyl, as needed. The efficacy of sedation was assessed using the Richmond Agitation Sedation Scale (RASS). Quality of pain relief was measured using the Numeric Visual Analog Scale (NVAS). Delirium was determined in patients in the RASS range of -2 to +1 using the Confusion Assessment Method for the ICU (CAM-ICU). Fentanyl consumption, incidence of delirium, NVAS scores, and hemodynamics were recorded postoperatively at 2, 4, 6, and 24 h in the ICU. RESULTS: The NVAS pain scores and fentanyl consumption at all the evaluation time points were significantly higher in group MDZ than those in group DEX (P < 0.05). Further, total fentanyl consumption in group MDZ was significantly higher than that in group DEX (P < 0.05). Delirium was significantly higher in the group MDZ than that in group DEX (31.3% vs 12.5%) when analyzed as the endpoint of CAM-ICU (P < 0.05). The heart rate was significantly lower in group DEX compared with that in group MDZ at all the evaluation time points (P < 0.05). CONCLUSION: Dexmedetomidine was associated with the decreased postoperative fentanyl consumption, NVAS scores, and a decreased incidence of delirium. These findings may be beneficial for managing sedation protocols in adolescents who have undergone scoliosis surgery.
+AD  - Department of Anesthesiology and Reanimation, Faculty of Medicine, Inonu University, Malatya, Turkey. dr_mustafasaid@hotmail.com
+AN  - 23448434
+AU  - Aydogan, M. S.
+AU  - Korkmaz, M. F.
+AU  - Ozgül, U.
+AU  - Erdogan, M. A.
+AU  - Yucel, A.
+AU  - Karaman, A.
+AU  - Togal, T.
+AU  - Durmus, M.
+AU  - Colak, C.
+DA  - May
+DB  - Medline
+DO  - 10.1111/pan.12128
+DP  - NLM
+ET  - 2013/03/02
+IS  - 5
+J2  - Paediatric anaesthesia
+KW  - Adolescent
+Analgesics, Opioid
+administration & dosage
+therapeutic use
+Anesthesia, General
+Arterial Pressure
+drug effects
+Child
+Conscious Sedation
+methods
+Critical Care
+Delirium
+etiology
+Dexmedetomidine
+adverse effects
+therapeutic use
+Female
+Fentanyl
+administration & dosage
+therapeutic use
+Heart Rate
+drug effects
+Humans
+Hypnotics and Sedatives
+adverse effects
+therapeutic use
+Male
+Midazolam
+adverse effects
+therapeutic use
+Orthopedic Procedures
+Pain Management
+methods
+Pain Measurement
+Pain, Postoperative
+drug therapy
+psychology
+Prospective Studies
+Psychomotor Agitation
+psychology
+Scoliosis
+surgery
+LA  - eng
+N1  - 1460-9592
+Aydogan, Mustafa S
+Korkmaz, Mehmet F
+Ozgül, Ulkü
+Erdogan, Mehmet A
+Yucel, Aytac
+Karaman, Abdurrahman
+Togal, Turkan
+Durmus, Mahmut
+Colak, Cemil
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+France
+Paediatr Anaesth. 2013 May;23(5):446-52. doi: 10.1111/pan.12128. Epub 2013 Feb 28.
+PY  - 2013
+SN  - 1155-5645
+SP  - 446-52
+ST  - Pain, fentanyl consumption, and delirium in adolescents after scoliosis surgery: dexmedetomidine vs midazolam
+T2  - Paediatr Anaesth
+TI  - Pain, fentanyl consumption, and delirium in adolescents after scoliosis surgery: dexmedetomidine vs midazolam
+VL  - 23
+ID  - 59
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Acute kidney failure after coronary artery bypass grafting (CABG) is a serious complication that increases morbidity and mortality rates. Early detection and prevention of this complication are very important. A novel biomarker named neutrophil gelatinase-associated lipocalin (NGAL) can play an important role in early diagnosis of acute kidney injury. Recent studies on the favourable effects of Dexmedetomidine on cardiac surgery have been published. The aim of this study is to investigate whether there is a dose-dependent positive effect of Dexmedetomidine on neutrophil gelatinase-associated lipocalin levels and renal functions when used after CABG. METHODS: Our randomized, triple-blinded, placebo-controlled study was conducted among 295 patients scheduled for CABG surgery between August 2009 and March 2011 in a tertiary cardiac and vascular surgery clinic. A total of 90 consecutive patients who met inclusion criteria were randomized and divided into three groups. The first group received a placebo. The second and the third groups received 4 and 8 µg/cc concentration of the Dexmedetomidine infusion, respectively. Infusion rates were regulated to obtain sedation with a Ramsey sedation score of 2 or 3. Patients were regrouped according to the total Dexmedetomidine dose. Statistical analyses of variables including serum neutrophil gelatinase-associated lipocalin values and conventional renal function tests were made for all six possibilities before the blind was broken. RESULTS: Results of conventional renal function tests were not significantly different. However, neutrophil gelatinase-associated lipocalin levels for the first postoperative day for placebo, low-dose and high-dose Dexmedetomidine groups were 176.8 ± 145.9, 97.7 ± 63.4 and 67.3 ± 10.9 ng/ml, respectively. These values were significantly different among the groups (P <0.001). CONCLUSIONS: In our study, we found that Dexmedetomidine infusion for sedation after CABG under cardiopulmonary bypass can be useful in the prevention of kidney injury. Conventional renal function tests, including blood urea nitrogen, serum creatinine, urine output and creatinine clearance rate measurements typically may not detect the development of acute kidney dysfunction in the first 48-h postoperative period. Differences were detected in renal function in the early postoperative period and the development of acute kidney injury, as determined by measurements of blood NGAL levels, was significant and dose-dependent.
+AD  - Department of Cardiovascular Surgery, Manisa State Hospital, Manisa, Turkey balkanay@doctor.com.
+Department of Cardiovascular Surgery, Cerrahpasa Medical Faculty, Istanbul University, Istanbul, Turkey.
+AN  - 25392341
+AU  - Balkanay, O. O.
+AU  - Goksedef, D.
+AU  - Omeroglu, S. N.
+AU  - Ipek, G.
+DA  - Feb
+DB  - Medline
+DO  - 10.1093/icvts/ivu367
+DP  - NLM
+ET  - 2014/11/14
+IS  - 2
+J2  - Interactive cardiovascular and thoracic surgery
+KW  - Acute Kidney Injury
+blood
+diagnosis
+etiology
+physiopathology
+prevention & control
+Acute-Phase Proteins
+Aged
+Biomarkers
+blood
+Blood Urea Nitrogen
+Coronary Artery Bypass
+adverse effects
+Coronary Artery Disease
+diagnosis
+surgery
+Creatinine
+blood
+Cytoprotection
+Dexmedetomidine
+administration & dosage
+therapeutic use
+Dose-Response Relationship, Drug
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+therapeutic use
+Infusions, Intravenous
+Kidney
+drug effects
+physiopathology
+Lipocalin-2
+Lipocalins
+blood
+Male
+Middle Aged
+Predictive Value of Tests
+Proto-Oncogene Proteins
+blood
+Tertiary Care Centers
+Time Factors
+Treatment Outcome
+Turkey
+LA  - eng
+N1  - 1569-9285
+Balkanay, Ozan Onur
+Goksedef, Deniz
+Omeroglu, Suat Nail
+Ipek, Gokhan
+Journal Article
+Randomized Controlled Trial
+England
+Coronary artery bypass grafting
+Dexmedetomidine
+Kidney injury
+Neutrophil gelatinase-associated lipocalin
+Interact Cardiovasc Thorac Surg. 2015 Feb;20(2):209-14. doi: 10.1093/icvts/ivu367. Epub 2014 Nov 12.
+PY  - 2015
+SN  - 1569-9285
+SP  - 209-14
+ST  - The dose-related effects of dexmedetomidine on renal functions and serum neutrophil gelatinase-associated lipocalin values after coronary artery bypass grafting: a randomized, triple-blind, placebo-controlled study
+T2  - Interact Cardiovasc Thorac Surg
+TI  - The dose-related effects of dexmedetomidine on renal functions and serum neutrophil gelatinase-associated lipocalin values after coronary artery bypass grafting: a randomized, triple-blind, placebo-controlled study
+VL  - 20
+ID  - 60
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the effectiveness of sedation, the time required for weaning, and the costs of prolonged sedation of critically ill mechanically ventilated patients with midazolam and propofol. DESIGN: Open-label, randomized, prospective, phase IV clinical trial. SETTING: Medical and surgical intensive care unit (ICU) in a community hospital. PATIENTS: All ICU admissions (medical, surgical and trauma) requiring mechanical ventilation for > 24 hrs. A total of 108 patients were included in the study. INTERVENTIONS: Patients were randomized to receive midazolam or propofol. The dose range allowed for each drug was 0.1 to 0.5 mg/kg/hr for midazolam and 1 to 6 mg/kg/hr for propofol. The lowest dose that achieved an adequate patient-ventilator synchrony was infused. All patients received 0.5 mg/kg/24 hrs of morphine chloride. MEASUREMENTS AND MAIN RESULTS: The level of sedation was quantified by the Ramsay scale every 2 hrs until weaning from mechanical ventilation was started. If sedation could not be achieved by infusing the highest dose of midazolam or propofol, the case was recorded as a therapeutic failure. In the propofol group, serum triglycerides were determined every 72 hrs. Concentrations of > 500 mg/dL were also recorded as a therapeutic failure. When the patient was ready for weaning according to defined criteria, sedation was interrupted abruptly and the time from interruption of sedation to the first T-bridge trial and to extubation was measured. Cost analysis was performed based on the cost of intensive care in our unit ($54/hr). In the midazolam group (n = 54), 15 (27.8%) patients died; 11 (20.4%) patients had therapeutic failure; and 28 (51.8%) patients were subjected to a T-bridge trial. In the propofol group (n = 54), these proportions were 11 (20.4%), 18 (33.4% [including seven due to inadequate sedation, and 11 due to hypertriglyceridemia]), and 25 (46.2%), respectively. None of these values was significantly different between the two groups. Duration of sedation was 141.7 +/- 89.4 (SD) hrs and 139.7 +/- 84.7 hrs (p = NS), and cost (US dollars) attributed to sedation was $378 +/- 342 and $1,047 +/- 794 (p = .0001) for the midazolam and propofol groups, respectively. In the midazolam group, time from discontinuation of the drug infusion to extubation was 97.9 +/- 54.6 hrs (48.9 +/- 47.2 hrs to the first disconnection, and 49.0 +/- 23.7 hrs to extubation). In the propofol group, time from discontinuation of the drug infusion to extubation was 34.8 +/- 29.4 hrs (4.0 +/- 3.9 hrs to the first disconnection, and 30.8 +/- 29.2 hrs to extubation). The difference between the two groups in the weaning time was 63.1 +/- 12.5 (SEM) hrs (p < .0001). Cost per patient in the midazolam group (including ICU therapy and sedation with midazolam) was $10,828 +/- 5,734. Cost per patient in the propofol group was $9,466 +/- 5,820, $1,362 less than in the midazolam group. CONCLUSIONS: In our population of critically ill patients sedated with midazolam or propofol over prolonged periods, midazolam and propofol were equally effective as sedative agents. However, despite remarkable differences in the cost of sedation with these two agents, the economic profile is more favorable for propofol than for midazolam due to a shorter weaning time associated with propofol administration.
+AD  - Intensive Care Unit, Hospital Virgen de Salud, Toledo, Spain.
+AN  - 8989173
+AU  - Barrientos-Vega, R.
+AU  - Mar Sánchez-Soria, M.
+AU  - Morales-García, C.
+AU  - Robas-Gómez, A.
+AU  - Cuena-Boy, R.
+AU  - Ayensa-Rincon, A.
+DA  - Jan
+DB  - Medline
+DO  - 10.1097/00003246-199701000-00009
+DP  - NLM
+ET  - 1997/01/01
+IS  - 1
+J2  - Critical care medicine
+KW  - Adult
+Aged
+Critical Care
+economics
+Critical Illness
+economics
+therapy
+Drug Costs
+Female
+Hospitals, Community
+Humans
+Hypertriglyceridemia
+chemically induced
+Hypnotics and Sedatives
+administration & dosage
+economics
+Intensive Care Units
+economics
+statistics & numerical data
+Length of Stay
+Male
+Midazolam
+administration & dosage
+economics
+Middle Aged
+Propofol
+administration & dosage
+adverse effects
+economics
+Respiration, Artificial
+Spain
+Time Factors
+Ventilator Weaning
+LA  - eng
+N1  - Barrientos-Vega, R
+Mar Sánchez-Soria, M
+Morales-García, C
+Robas-Gómez, A
+Cuena-Boy, R
+Ayensa-Rincon, A
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Crit Care Med. 1997 Jan;25(1):33-40. doi: 10.1097/00003246-199701000-00009.
+PY  - 1997
+SN  - 0090-3493 (Print)
+0090-3493
+SP  - 33-40
+ST  - Prolonged sedation of critically ill patients with midazolam or propofol: impact on weaning and costs
+T2  - Crit Care Med
+TI  - Prolonged sedation of critically ill patients with midazolam or propofol: impact on weaning and costs
+VL  - 25
+ID  - 61
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To evaluate and compare the clinical efficacy, impact on hemodynamics, safety profiles, and cost of combined administration of propofol and midazolam (synergistic sedation) vs. midazolam and propofol administered as sole agents, for sedation of mechanically ventilated patients after coronary artery bypass grafting. DESIGN: Prospective, controlled, randomized, double-blind clinical trial. SETTING: Intensive care unit of SCIAS-Hospital de Barcelona. PATIENTS: Seventy-five mechanically ventilated patients who underwent coronary artery bypass graft surgery under low-dose opioid anesthesia. INTERVENTIONS: According to the double-blind method, patients were randomly assigned to receive propofol (n = 25), midazolam (n = 25), or propofol combined with midazolam (n = 25). Infusion rates were adjusted to stay between 8 and 11 points on Glasgow Coma Score modified by Cook and Palma. MEASUREMENTS AND MAIN RESULTS: Mean +/- SD duration of sedation was 14.4 +/- 1.5 hrs, 14.1 +/- 1.1 hrs, and 14.7 +/- 1.9 hrs for the propofol, midazolam, and synergistic groups, respectively. The induction dose was 0.55 +/- 0.05 mg/kg for propofol as sole agent, 0.05 +/- 0.01 mg/kg for midazolam as sole agent, and 0.22 +/- 0.03 mg/kg for propofol administered in combination with 0.02 +/- 0.00 mg/kg of midazolam (p = .001). The maintenance dose was 1.20 +/- 0.03 mg/kg/hr for propofol as sole agent, 0.08 +/- 0.01 mg/kg/hr for midazolam as sole agent, and 0.50 +/- 0.09 mg/kg/hr for propofol administered in combination with 0.03 +/- 0.01 mg/kg/hr of midazolam (p < .001). All sedative regimens achieved similar efficacy in percentage of hours of adequate sedation (93% for propofol, 88% for midazolam, and 90% for the synergistic group, respectively). After induction, both propofol and midazolam groups had significant decreases in systolic blood pressure, diastolic blood pressure, left atrial pressure, and heart rate. Patients in the synergistic group had significant bradycardia throughout the study, without impairment in other hemodynamic parameters. Patients sedated with propofol or synergistic regimen awoke sooner and could be extubated before those patients sedated with midazolam (0.9 +/- 0.3 hrs and 1.2 +/- 0.6 hrs vs. 2.3 +/- 0.8 hrs, respectively, p = .01). Synergistic sedation produced cost savings of 28% with respect to midazolam and 68% with respect to propofol. CONCLUSIONS: In the study conditions, the new synergistic treatment with propofol and midazolam administered together is an effective and safe alternative for sedation, with some advantages over the conventional regimen with propofol or midazolam administered as sole agents, such as absence of hemodynamic impairment, >68% reduction in maintenance dose, and lower pharmaceutical cost.
+AD  - Intensive Care Service, SCIAS-Hospital de Barcelona, Spain.
+AN  - 9590313
+AU  - Carrasco, G.
+AU  - Cabré, L.
+AU  - Sobrepere, G.
+AU  - Costa, J.
+AU  - Molina, R.
+AU  - Cruspinera, A.
+AU  - Lacasa, C.
+DA  - May
+DB  - Medline
+DO  - 10.1097/00003246-199805000-00015
+DP  - NLM
+ET  - 1998/05/20
+IS  - 5
+J2  - Critical care medicine
+KW  - Adult
+Aged
+Aged, 80 and over
+Anti-Anxiety Agents
+administration & dosage
+Conscious Sedation
+Coronary Artery Bypass
+Critical Care
+Double-Blind Method
+Drug Combinations
+Drug Synergism
+Drug Therapy, Combination
+Economics, Pharmaceutical
+Female
+Glasgow Coma Scale
+Hemodynamics
+Humans
+Hypnotics and Sedatives
+administration & dosage
+Male
+Midazolam
+administration & dosage
+Middle Aged
+Postoperative Period
+Propofol
+administration & dosage
+Respiration, Artificial
+LA  - eng
+N1  - Carrasco, G
+Cabré, L
+Sobrepere, G
+Costa, J
+Molina, R
+Cruspinera, A
+Lacasa, C
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Crit Care Med. 1998 May;26(5):844-51. doi: 10.1097/00003246-199805000-00015.
+PY  - 1998
+SN  - 0090-3493 (Print)
+0090-3493
+SP  - 844-51
+ST  - Synergistic sedation with propofol and midazolam in intensive care patients after coronary artery bypass grafting
+T2  - Crit Care Med
+TI  - Synergistic sedation with propofol and midazolam in intensive care patients after coronary artery bypass grafting
+VL  - 26
+ID  - 62
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare duration of mechanical ventilation for patients randomized to receive lorazepam by intermittent bolus administration vs. continuous infusions of propofol using protocols that include scheduled daily interruption of sedation. DESIGN: A randomized open-label trial enrolling patients from October 2001 to March 2004. SETTING: Medical intensive care units of two tertiary care medical centers. PATIENTS: Adult patients expected to require mechanical ventilation for >48 hrs and who required > or =10 mg of lorazepam or a continuous infusion of a sedative to achieve adequate sedation. INTERVENTIONS: Patients were randomized to receive lorazepam by intermittent bolus administration or propofol by continuous infusion to maintain a Ramsay score of 2-3. Sedation was interrupted on a daily basis for both groups. MEASUREMENTS AND MAIN RESULTS: The primary outcome was median ventilator days. Secondary outcomes included 28-day ventilator-free survival, intensive care unit and hospital length of stay, and hospital mortality. Median ventilator days were significantly lower in the daily interruption propofol group compared with the intermittent bolus lorazepam group (5.8 vs. 8.4, p = .04). The difference was largest for hospital survivors (4.4 vs. 9.0, p = .006). There was a trend toward greater ventilator-free survival for patients in the daily interruption propofol group (median 18.5 days for propofol vs. 10.2 for lorazepam, p = .06). Hospital mortality was not different. CONCLUSIONS: For medical patients requiring >48 hrs of mechanical ventilation, sedation with propofol results in significantly fewer ventilator days compared with intermittent lorazepam when sedatives are interrupted daily.
+AD  - Division of Pulmonary and Critical Care, Department of Medicine, University of North Carolina at Chapel Hill, 4134 Bioinformatics Building, Chapel Hill, NC 27599-7020, USA. scarson@med.unc.edu
+AN  - 16540958
+AU  - Carson, S. S.
+AU  - Kress, J. P.
+AU  - Rodgers, J. E.
+AU  - Vinayak, A.
+AU  - Campbell-Bright, S.
+AU  - Levitt, J.
+AU  - Bourdet, S.
+AU  - Ivanova, A.
+AU  - Henderson, A. G.
+AU  - Pohlman, A.
+AU  - Chang, L.
+AU  - Rich, P. B.
+AU  - Hall, J.
+DA  - May
+DB  - Medline
+DO  - 10.1097/01.Ccm.0000215513.63207.7f
+DP  - NLM
+ET  - 2006/03/17
+IS  - 5
+J2  - Critical care medicine
+KW  - Drug Administration Schedule
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+Infusions, Intravenous
+Intensive Care Units
+Length of Stay
+Lorazepam
+administration & dosage
+Male
+Middle Aged
+Propofol
+administration & dosage
+Respiration, Artificial
+Ventilator Weaning
+LA  - eng
+N1  - Carson, Shannon S
+Kress, John P
+Rodgers, Jo Ellen
+Vinayak, Ajeet
+Campbell-Bright, Stacy
+Levitt, Joseph
+Bourdet, Sharya
+Ivanova, Anastasia
+Henderson, Ashley G
+Pohlman, Anne
+Chang, Lydia
+Rich, Preston B
+Hall, Jesse
+5T32 HL 07106-27/HL/NHLBI NIH HHS/United States
+K08 HL 72836-01/HL/NHLBI NIH HHS/United States
+K23 GM 63906/GM/NIGMS NIH HHS/United States
+K23 HL 067068-03/HL/NHLBI NIH HHS/United States
+K30 HL 04127/HL/NHLBI NIH HHS/United States
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+Crit Care Med. 2006 May;34(5):1326-32. doi: 10.1097/01.CCM.0000215513.63207.7F.
+PY  - 2006
+SN  - 0090-3493 (Print)
+0090-3493
+SP  - 1326-32
+ST  - A randomized trial of intermittent lorazepam versus propofol with daily interruption in mechanically ventilated patients
+T2  - Crit Care Med
+TI  - A randomized trial of intermittent lorazepam versus propofol with daily interruption in mechanically ventilated patients
+VL  - 34
+ID  - 63
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To evaluate and compare the clinical efficacy, impact on hemodynamic and oxygen transport variables, safety profiles, and cost efficiency of sedation and anxiolysis with lorazepam vs. continuous infusion of midazolam in critically ill, intensive care unit patients. DESIGN: Multicenter, prospective, randomized, open-label study. SETTING: Teaching hospitals. PATIENTS: Ninety-five critically ill, mechanically ventilated patients with fiberoptic pulmonary artery catheters in place were randomly assigned to receive short-term (8 hrs) sedation with either intermittent intravenous injection lorazepam (group A, n = 50) or continuous intravenous infusion midazolam (group B, n = 45) titrated to clinical response. MEASUREMENTS AND MAIN RESULTS: The severity of illness, demographic characteristics, levels of anxiety and agitation, hemodynamic parameters, oxygen transport variables, quality of sedation, nursing acceptance, and laboratory chemistries reflecting drug safety were recorded. There were no significant differences with regard to demographic data, hemodynamic and oxygen transport variables, or levels of anxiety/agitation between the two groups at baseline, 5 mins, 30 mins, and 4 and 8 hrs after administration of sedation. There were no significant differences in the quality of sedation or anxiolysis. Midazolam-treated patients used significantly larger amounts of drug for similar levels of sedation and anxiolysis (14.4 +/- 1.2 mg/8 hrs vs. 1.6 +/- 0.1 mg/8 hrs, p = .001). Both drugs were safely administered and patient and nurse satisfaction was similar. CONCLUSIONS: Sedation and anxiolysis with lorazepam and midazolam in critically ill patients is safe and clinically effective. Hemodynamic and oxygen transport variables are similarly affected by both drugs. The dose of midazolam required for sedation is much larger than the dose of lorazepam required for sedation, and midazolam is therefore less cost-efficient.
+AD  - Department of Surgery, University of Medicine and Dentistry of New Jersey, Robert Wood Johnson Medical School, Cooper Hospital/University Medical Center, Camden, USA.
+AN  - 8605792
+AU  - Cernaianu, A. C.
+AU  - DelRossi, A. J.
+AU  - Flum, D. R.
+AU  - Vassilidze, T. V.
+AU  - Ross, S. E.
+AU  - Cilley, J. H.
+AU  - Grosso, M. A.
+AU  - Boysen, P. G.
+DA  - Feb
+DB  - Medline
+DO  - 10.1097/00003246-199602000-00007
+DP  - NLM
+ET  - 1996/02/01
+IS  - 2
+J2  - Critical care medicine
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anti-Anxiety Agents
+economics
+therapeutic use
+Cost-Benefit Analysis
+Critical Illness
+Drug Costs
+Female
+Hemodynamics
+drug effects
+Humans
+Hypnotics and Sedatives
+economics
+therapeutic use
+Intensive Care Units
+Lorazepam
+economics
+therapeutic use
+Male
+Midazolam
+economics
+therapeutic use
+Middle Aged
+Oxygen Consumption
+drug effects
+Prospective Studies
+Respiration, Artificial
+LA  - eng
+N1  - Cernaianu, A C
+DelRossi, A J
+Flum, D R
+Vassilidze, T V
+Ross, S E
+Cilley, J H
+Grosso, M A
+Boysen, P G
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Crit Care Med. 1996 Feb;24(2):222-8. doi: 10.1097/00003246-199602000-00007.
+PY  - 1996
+SN  - 0090-3493 (Print)
+0090-3493
+SP  - 222-8
+ST  - Lorazepam and midazolam in the intensive care unit: a randomized, prospective, multicenter study of hemodynamics, oxygen transport, efficacy, and cost
+T2  - Crit Care Med
+TI  - Lorazepam and midazolam in the intensive care unit: a randomized, prospective, multicenter study of hemodynamics, oxygen transport, efficacy, and cost
+VL  - 24
+ID  - 64
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To compare the effectiveness, characteristics, duration of action, hemodynamic and biochemical effects, and side effects of propofol and midazolam used for continuous intravenous sedation of ventilated critically ill patients. DESIGN: Multicenter, prospective, randomized, nonblinded study. SETTING: Nine Spanish general intensive care units (ICUs). PATIENTS: Ninety-eight patients admitted to the ICU who were mechanically ventilated and required sedation for a minimum of 48 hrs. INTERVENTIONS: Propofol or midazolam was used for induction and maintenance of continuous intravenous sedation for a maximum of 5 days. The effectiveness of those two regimens was assessed according to their effects on ventilatory management and the presence of agitation. MEASUREMENTS AND MAIN RESULTS: In 93% of the patients studied, there was a medical cause necessitating mechanical ventilation. The mean (+/-SD) duration of sedation was 81 +/- 25 hrs and 88 +/- 27 hrs for the propofol and midazolam groups, respectively. The induction dose was 2.24 +/- 0.43 mg/kg over 318 +/- 363 secs for propofol, and 0.22 +/-0.07 mg/kg over 33 +/-29 secs for midazolam. The maintenance dose was 2.8 +/-1.1 mg/kg/hr for propofol and 0.14 +/- 0.10 mg/kg/hr for midazolam. There was no difference regarding the opiate and muscle relaxant requirements between the two groups. Sedation with propofol was more effective in achieving patient-ventilator synchrony than that with midazolam after the first hour of treatment (p < .01). Patients sedated with propofol awoke more rapidly and with less variability that those patients sedated with midazolam (23 +/- 16 mins vs. 137 +/- 185 mins, respectively, p < .05), particularly in those patients requiring deep sedation (27 +/- 16 mins vs. 237 +/- 222 mins, respectively, p < .01). No hemodynamic or biochemical changes were detected in any of the treatment groups. During induction, five patients in the propofol group and two patients in the midazolam group had hypotension. CONCLUSIONS: In this population of critically ill patients, propofol is an effective and safe alternative for sedation, with some advantages, such as short duration of action and high effectiveness over the conventional regimen with benzodiazepines and opiates.
+AD  - Intensive Care Units, Clínica Puerta de Hierro, Madrid, Spain.
+AN  - 8681594
+AU  - Chamorro, C.
+AU  - de Latorre, F. J.
+AU  - Montero, A.
+AU  - Sánchez-Izquierdo, J. A.
+AU  - Jareño, A.
+AU  - Moreno, J. A.
+AU  - Gonzalez, E.
+AU  - Barrios, M.
+AU  - Carpintero, J. L.
+AU  - Martín-Santos, F.
+AU  - Otero, B.
+AU  - Ginestal, R.
+DA  - Jun
+DB  - Medline
+DO  - 10.1097/00003246-199606000-00010
+DP  - NLM
+ET  - 1996/06/01
+IS  - 6
+J2  - Critical care medicine
+KW  - Adolescent
+Adult
+Aged
+Conscious Sedation
+classification
+Critical Care
+Critical Illness
+Female
+Hemodynamics
+drug effects
+Humans
+Hypnotics and Sedatives
+pharmacology
+therapeutic use
+Infusions, Intravenous
+Male
+Midazolam
+pharmacology
+therapeutic use
+Middle Aged
+Propofol
+pharmacology
+therapeutic use
+Prospective Studies
+Respiration, Artificial
+LA  - eng
+N1  - Chamorro, C
+de Latorre, F J
+Montero, A
+Sánchez-Izquierdo, J A
+Jareño, A
+Moreno, J A
+Gonzalez, E
+Barrios, M
+Carpintero, J L
+Martín-Santos, F
+Otero, B
+Ginestal, R
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Crit Care Med. 1996 Jun;24(6):932-9. doi: 10.1097/00003246-199606000-00010.
+PY  - 1996
+SN  - 0090-3493 (Print)
+0090-3493
+SP  - 932-9
+ST  - Comparative study of propofol versus midazolam in the sedation of critically ill patients: results of a prospective, randomized, multicenter trial
+T2  - Crit Care Med
+TI  - Comparative study of propofol versus midazolam in the sedation of critically ill patients: results of a prospective, randomized, multicenter trial
+VL  - 24
+ID  - 65
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Postoperative delirium (POD) is a serious complication after cardiac surgery. Use of dexmedetomidine to prevent delirium is controversial. The authors hypothesized that dexmedetomidine sedation after cardiac surgery would reduce the incidence of POD. METHODS: After institutional ethics review board approval, and informed consent, a single-blinded, prospective, randomized controlled trial was conducted in patients 60 yr or older undergoing cardiac surgery. Patients with a history of serious mental illness, delirium, and severe dementia were excluded. Upon admission to intensive care unit (ICU), patients received either dexmedetomidine (0.4 μg/kg bolus followed by 0.2 to 0.7 μg kg h infusion) or propofol (25 to 50 μg kg min infusion) according to a computer-generated randomization code in blocks of four. Assessment of delirium was performed with confusion assessment method for ICU or confusion assessment method after discharge from ICU at 12-h intervals during the 5 postoperative days. Primary outcome was the incidence of POD. RESULTS: POD was present in 16 of 91 (17.5%) and 29 of 92 (31.5%) patients in dexmedetomidine and propofol groups, respectively (odds ratio, 0.46; 95% CI, 0.23 to 0.92; P = 0.028). Median onset of POD was on postoperative day 2 (1 to 4 days) versus 1 (1 to 4 days), P = 0.027, and duration of POD 2 days (1 to 4 days) versus 3 days (1 to 5 days), P = 0.04, in dexmedetomidine and propofol groups, respectively. CONCLUSIONS: When compared with propofol, dexmedetomidine sedation reduced incidence, delayed onset, and shortened duration of POD in elderly patients after cardiac surgery. The absolute risk reduction for POD was 14%, with a number needed to treat of 7.1.
+AD  - From the Department of Anesthesia and Pain Management (G.D., N.S., L.F., J.C., R.K.), Department of Psychiatry (R.S.), and Division of Cardiovascular Surgery (V.R.), Toronto General Hospital, University Health Network, University of Toronto, Toronto, Ontario, Canada.
+AN  - 26575144
+AU  - Djaiani, G.
+AU  - Silverton, N.
+AU  - Fedorko, L.
+AU  - Carroll, J.
+AU  - Styra, R.
+AU  - Rao, V.
+AU  - Katznelson, R.
+DA  - Feb
+DB  - Medline
+DO  - 10.1097/aln.0000000000000951
+DP  - NLM
+ET  - 2015/11/18
+IS  - 2
+J2  - Anesthesiology
+KW  - Aged
+Cardiac Surgical Procedures
+Delirium
+prevention & control
+Dexmedetomidine
+pharmacology
+Female
+Humans
+Hypnotics and Sedatives
+pharmacology
+Male
+Postoperative Complications
+prevention & control
+Propofol
+pharmacology
+Prospective Studies
+Single-Blind Method
+LA  - eng
+N1  - 1528-1175
+Djaiani, George
+Silverton, Natalie
+Fedorko, Ludwik
+Carroll, Jo
+Styra, Rima
+Rao, Vivek
+Katznelson, Rita
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Anesthesiology. 2016 Feb;124(2):362-8. doi: 10.1097/ALN.0000000000000951.
+PY  - 2016
+SN  - 0003-3022
+SP  - 362-8
+ST  - Dexmedetomidine versus Propofol Sedation Reduces Delirium after Cardiac Surgery: A Randomized Controlled Trial
+T2  - Anesthesiology
+TI  - Dexmedetomidine versus Propofol Sedation Reduces Delirium after Cardiac Surgery: A Randomized Controlled Trial
+VL  - 124
+ID  - 67
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Propofol is often used for sedation in the intensive care unit. The aim of this study was to compare the efficacy and endocrine response of propofol vs. the new alpha2-agonist dexmedetomidine for sedation in surgical intensive care patients who need postoperative short-term ventilation. METHODS: Our work is a randomized clinical study conducted on sixty adult patients who required postoperative short term ventilation and sedation. The patients were allocated randomly, to receive IV infusion of either dexmedetomidine 0.2-0.5 microg/kg/h or propofol 0.5-1 mg/kg/h. Hemodynamic parameters, Ramsay sedation score, extubation time and serum cortisol and interleukin-6 (IL-6) levels were measured. RESULTS: Ramsay sedation score was 4.1+/-1 and 4+/-0.9 for propofol and dexmedetomidine, respectively, (p=0.59.) Total fentanyl dose in the propofol group was 75+/-15 microg compared to 15+/-10.5 microg in the dexmedetomidine group, (p=0.0045). Patients who received dexmedetomidine infusion had significantly lower heart rates compared to patients who received propofol infusion, (p=0.041). Pre-infusion serum concentrations of IL-6 were comparable in both groups, while the 24 h post-infusion levels were insignificantly decreased in both groups compared to pre-infusion level, (p=0.36). There were no intergroup differences in serum cortisol concentrations (p=0.231). CONCLUSIONS: Dexmedetomidine and propofol are safe sedative drugs for postoperative mechanichally ventilated patients. Patients were easily aroused to co-operate without showing signs of irritations with less fentanyl analgesia in the dexmedetomidine group. Dexmedetomidine and propofol do not inhibit adrenal function, but they may influence the inflammatory response.
+AD  - The Department of Anaesthesia, ICU & Pain Relief, National Cancer Institute, Cairo University. elbaradie3@hotmail.com
+AN  - 15959548
+AU  - Elbaradie, S.
+AU  - El Mahalawy, F. H.
+AU  - Solyman, A. H.
+DA  - Sep
+DB  - PubMed-not-MEDLINE
+DP  - NLM
+ET  - 2005/06/17
+IS  - 3
+J2  - Journal of the Egyptian National Cancer Institute
+LA  - eng
+N1  - Elbaradie, Samia
+El Mahalawy, Faten H
+Solyman, Amira H
+Journal Article
+England
+J Egypt Natl Canc Inst. 2004 Sep;16(3):153-8.
+PY  - 2004
+SN  - 1110-0362 (Print)
+1110-0362
+SP  - 153-8
+ST  - Dexmedetomidine vs. propofol for short-term sedation of postoperative mechanically ventilated patients
+T2  - J Egypt Natl Canc Inst
+TI  - Dexmedetomidine vs. propofol for short-term sedation of postoperative mechanically ventilated patients
+VL  - 16
+ID  - 68
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE OF THE STUDY: To compare the efficacy of Dexmedetomidine and Propofol for short-term controlled sedation and analgesia in the early postoperative period after cardiac surgery. METHODS: We performed open randomized prospective comparative study in 55 cardiovascular surgery patients. In the early postoperative period 28 patients received infusion of Dexmedetomidine (0.2-0.7 microg/kg per hour) while 27 patients--Propofol (0.3-2(system text of symbol)). Analgesia was carried out with Ketoprofen 100 mg/12h and additional 20 mg of Trimeperidine in case of pain intensity > or = 3 points (5-level verbal pain score). Sedation and agitation level (RASS scale), speed of awakening (Aldrete score), duration of mechanical ventilation and stay in the ICU, need for additional opioid injections, type and frequency of side effects were evaluated. RESULTS: We didn't find any significant differences in the duration of mechanical ventilation or rate of awakening after the end of infusion between the groups. Dexmedetomidine in the majority of cases resulted in mild or moderate sedation, Propofol--in deeper level of sedation. Retrograde amnesia was reached significantly more often (p < 0.05) in Dexmetomedine group. The daily dose of Trimeperidine in Propofol group was significantly higher (8 mg and 18 mg on average, p = 0.02). Differences in side effects between the groups were noted--bradycardia (Dexmetomedine--10 (39%), Propofol--3 (11%), p = 0.004) arterial hypotension (Dexmetomedine--9 (32%), Propofol--15 (59%), p = 0.002) and general malaise (Dexmetomedine--2 (7%), Propofol--6 (24%), p = 0.001). The length of stay in the ICU in Dexmetomedine group was significantly lower (1,1 days vs 2,6 days respectively, p = 0.006). CONCLUSIONS: To compare with Propofol Dexmetomedine induces less sedation level and more often provides retrograde amnesia with the same duration of mechanical ventilation and awakening rate. Dexmetomedine provides its own analgesic effect and shortens the length of patient's stay in ICU. Bradycardia was noted more frequently in Dexmedetomidine while arterial hypotension, general malaise and delirium--in Propofol group.
+AN  - 25055491
+AU  - Eremenko, A. A.
+AU  - Chemova, E. V.
+DA  - Mar-Apr
+DB  - Medline
+DP  - NLM
+ET  - 2014/07/25
+IS  - 2
+J2  - Anesteziologiia i reanimatologiia
+KW  - Analgesics
+administration & dosage
+therapeutic use
+Cardiac Surgical Procedures
+Conscious Sedation
+methods
+Dexmedetomidine
+administration & dosage
+adverse effects
+therapeutic use
+Dose-Response Relationship, Drug
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+adverse effects
+therapeutic use
+Intensive Care Units
+Length of Stay
+Male
+Pain, Postoperative
+drug therapy
+Postoperative Period
+Propofol
+administration & dosage
+adverse effects
+therapeutic use
+Prospective Studies
+Respiration, Artificial
+methods
+Time Factors
+LA  - rus
+N1  - Eremenko, A A
+Chemova, E V
+Comparative Study
+English Abstract
+Journal Article
+Randomized Controlled Trial
+Russia (Federation)
+Anesteziol Reanimatol. 2014 Mar-Apr;(2):37-41.
+PY  - 2014
+SN  - 0201-7563 (Print)
+0201-7563
+SP  - 37-41
+ST  - [Comparison of dexmedetomidine and propofol for short-term sedation in early postoperative period after cardiac surgery]
+T2  - Anesteziol Reanimatol
+TI  - [Comparison of dexmedetomidine and propofol for short-term sedation in early postoperative period after cardiac surgery]
+ID  - 69
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: This study compares the effectiveness of midazolam and dexmedetomidine for the sedation of eclampsia patients admitted to our intensive care unit (ICU). PATIENTS AND METHODS: Forty women with eclampsia requiring termination of pregnancy by caesarean delivery were randomized in to 2 groups of 20 to receive either midazolam or dexmedetomidine. The midazolam group received a loading dose of 0.05 mg/kg followed by an infusion of 0.1 mg kg(-1) h(-1). The dexmedetomidine group loading dose was 1 microg/kg per 20 minutes, followed by continuous infusion at 0.7 microg kg(-1) h(-1). Heart rate, blood pressure, Ramsey sedation score, antihypertensive need, convulsion fits, and duration in ICU were monitored and recorded all through the ICU stay. RESULTS: Dexmedetomidine markedly reduced heart rates for the first 24 hours (P < .05) compared with midazolam, but there were no differences at 48 and 72 hours. Mean arterial blood pressures were similar in the 2 groups (P > .05), although in the dexmedetomidine group, it was lower at 5, 6, 12, and 24 hours compared with the first 4 hours (P < .05). Moreover, fewer patients given dexmedetomidine required nitroglycerine and nitroprusside (P < .05). The duration of ICU stay was less in the dexmedetomidine group, 45.5 hours (range, 15-118 hours), than in the midazolam group, 83 hours (minimum-maximum, 15-312 hours). CONCLUSION: Dexmedetomidine sedation in eclampsia patients is effective in reducing the demand for antihypertensive medicine and duration of ICU stay.
+AD  - Department of Anesthesiology and Intensive Care, University of Erciyes, Kayseri, Turkey 38039. aliye@operamail.com
+AN  - 19327948
+AU  - Esmaoglu, A.
+AU  - Ulgey, A.
+AU  - Akin, A.
+AU  - Boyaci, A.
+DA  - Dec
+DB  - Medline
+DO  - 10.1016/j.jcrc.2009.02.001
+DP  - NLM
+ET  - 2009/03/31
+IS  - 4
+J2  - Journal of critical care
+KW  - Adult
+Blood Pressure
+drug effects
+Dexmedetomidine
+Eclampsia
+physiopathology
+Female
+Heart Rate
+drug effects
+Humans
+Hypnotics and Sedatives
+Intensive Care Units
+Midazolam
+Pregnancy
+Prospective Studies
+Seizures
+drug therapy
+LA  - eng
+N1  - 1557-8615
+Esmaoglu, Aliye
+Ulgey, Ayşe
+Akin, Aynur
+Boyaci, Adem
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+J Crit Care. 2009 Dec;24(4):551-5. doi: 10.1016/j.jcrc.2009.02.001. Epub 2009 Mar 27.
+PY  - 2009
+SN  - 0883-9441
+SP  - 551-5
+ST  - Comparison between dexmedetomidine and midazolam for sedation of eclampsia patients in the intensive care unit
+T2  - J Crit Care
+TI  - Comparison between dexmedetomidine and midazolam for sedation of eclampsia patients in the intensive care unit
+VL  - 24
+ID  - 70
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND AIMS: Patients on ventilatory support in intensive care unit (ICU) require sedation and analgesia to facilitate mechanical ventilation and endotracheal tube tolerance. The selection of the agent should be such that it does not interfere with the early extubation of the patients. We compared the efficacy of dexmedetomidine with midazolam to facilitate extubation of patients from mechanical ventilation in terms of the sedative properties, cardiovascular responses, ventilation, and extubation characteristics and safety profile. MATERIALS AND METHODS: A total of 40 adult, mechanically ventilated patients of either sex, aged 18-60 years, meeting the standard criteria for weaning, randomized into 2 groups of 20 patients each, received intravenous infusion of dexmedetomidine (0.2-0.7 mcg/kg/h) or midazolam (0.04-0.2 mg/kg/h) as needed for Ramsay sedation scale 2-4. Extubation following standard extubation protocol was done. Time for extubation and vital parameters were regularly recorded. RESULTS: The time to extubation in the dexmedetomidine group was significantly lower than in the midazolam group. Heart rate and blood pressure was significantly lower in dexmedetomidine group than the midazolam group at most of the times. CONCLUSIONS: Dexmedetomidine has clinically relevant benefits compared with midazolam in facilitating extubation due to its shorter time to extubation, more hemodynamic stability, easy arousability, and lack of respiratory depression.
+AD  - Department of Anaesthesiology, Dayanand Medical College and Hospital, Ludhiana, Punjab, India.
+AN  - 25788780
+AU  - Gupta, S.
+AU  - Singh, D.
+AU  - Sood, D.
+AU  - Kathuria, S.
+C2  - PMC4353161
+DA  - Jan-Mar
+DB  - PubMed-not-MEDLINE
+DO  - 10.4103/0970-9185.150554
+DP  - NLM
+ET  - 2015/03/20
+IS  - 1
+J2  - Journal of anaesthesiology, clinical pharmacology
+LA  - eng
+N1  - 2231-2730
+Gupta, Shikha
+Singh, Dupinder
+Sood, Dinesh
+Kathuria, Suneet
+Journal Article
+Dexmedetomidine
+extubation
+intensive care unit
+midazolam
+sedation
+J Anaesthesiol Clin Pharmacol. 2015 Jan-Mar;31(1):92-8. doi: 10.4103/0970-9185.150554.
+PY  - 2015
+SN  - 0970-9185 (Print)
+0970-9185
+SP  - 92-8
+ST  - Role of dexmedetomidine in early extubation of the intensive care unit patients
+T2  - J Anaesthesiol Clin Pharmacol
+TI  - Role of dexmedetomidine in early extubation of the intensive care unit patients
+VL  - 31
+ID  - 71
+ER  - 
+
+TY  - JOUR
+AB  - STUDY OBJECTIVES: To determine whether sedation with propofol would lead to shorter times to tracheal extubation and ICU length of stay than sedation with midazolam. DESIGN: Multicenter, randomized, open label. SETTING: Four academic tertiary-care ICUs in Canada. PATIENTS: Critically ill patients requiring continuous sedation while receiving mechanical ventilation. INTERVENTIONS: Random allocation by predicted requirement for mechanical ventilation (short sedation stratum, < 24 h; medium sedation stratum, > or = 24 and < 72 h; and long sedation stratum, > or = 72 h) to sedation regimens utilizing propofol or midazolam. MEASUREMENTS AND RESULTS: Using an intention-to-treat analysis, patients randomized to receive propofol in the short sedation stratum (propofol, 21 patients; midazolam, 26 patients) and the long sedation stratum (propofol, 4 patients; midazolam, 10 patients) were extubated earlier (short sedation stratum: propofol, 5.6 h; midazolam, 11.9 h; long sedation stratum: propofol, 8.4 h; midazolam, 46.8 h; p < 0.05). Pooled results showed that patients treated with propofol (n = 46) were extubated earlier than those treated with midazolam (n = 53) (6.7 vs 24.7 h, respectively; p < 0.05) following discontinuation of the sedation but were not discharged from ICU earlier (94.0 vs 63.7 h, respectively; p = 0.26). Propofol-treated patients spent a larger percentage of time at the target Ramsay sedation level than midazolam-treated patients (60.2% vs 44.0%, respectively; p < 0.05). Using a treatment-received analysis, propofol sedation either did not differ from midazolam sedation in time to tracheal extubation or ICU discharge (sedation duration, < 24 h) or was associated with earlier tracheal extubation but longer time to ICU discharge (sedation duration, > or = 24 h, < 72 h, or > or = 72 h). CONCLUSIONS: The use of propofol sedation allowed for more rapid tracheal extubation than when midazolam sedation was employed. This did not result in earlier ICU discharge.
+AD  - Department of Anesthesia, Queen Elizabeth II Health Sciences Centre, Halifax, Nova Scotia, Canada. rihall@is.dal.ca
+AN  - 11296183
+AU  - Hall, R. I.
+AU  - Sandham, D.
+AU  - Cardinal, P.
+AU  - Tweeddale, M.
+AU  - Moher, D.
+AU  - Wang, X.
+AU  - Anis, A. H.
+DA  - Apr
+DB  - Medline
+DO  - 10.1378/chest.119.4.1151
+DP  - NLM
+ET  - 2001/04/11
+IS  - 4
+J2  - Chest
+KW  - Aged
+Critical Care
+Female
+Humans
+Hypnotics and Sedatives
+Intensive Care Units
+Intubation, Intratracheal
+Length of Stay
+Male
+Midazolam
+Middle Aged
+Propofol
+Respiration, Artificial
+Time Factors
+LA  - eng
+N1  - Hall, R I
+Sandham, D
+Cardinal, P
+Tweeddale, M
+Moher, D
+Wang, X
+Anis, A H
+Study Investigators
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Chest. 2001 Apr;119(4):1151-9. doi: 10.1378/chest.119.4.1151.
+PY  - 2001
+SN  - 0012-3692 (Print)
+0012-3692
+SP  - 1151-9
+ST  - Propofol vs midazolam for ICU sedation : a Canadian multicenter randomized trial
+T2  - Chest
+TI  - Propofol vs midazolam for ICU sedation : a Canadian multicenter randomized trial
+VL  - 119
+ID  - 72
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Intravenous sedation in the intensive care unit (ICU) may contribute to altered consciousness and prolonged mechanical ventilation. We tested the hypothesis that replacing intravenous propofol with inhaled sevoflurane for sedation after cardiac surgery would lead to shorter wake-up times, quicker patient cooperation, and less delusional memories. DESIGN: Following coronary artery bypass surgery with cardiopulmonary bypass, 100 patients were randomized to sedation with sevoflurane via the anesthetic conserving device or propofol. Study drugs were administered for a minimum of 2 hours until criteria for extubation were met. Primary endpoints were time from drug stop to extubation and to adequate verbal response. Secondary endpoints were adverse recovery events, memories reported in the ICU Memory Tool test, and ICU/hospital stay. RESULTS: Median time from drug stop to extubation (interquartile range/total range) was shorter after sevoflurane compared to propofol sedation; 10 (10/100) minutes versus 25 (21/240) minutes (p <0.001). Time from extubation to adequate verbal response was shorter (p =0.036). No differences were found in secondary endpoints. CONCLUSIONS: Sevoflurane sedation after cardiac surgery leads to shorter wake-up times and quicker cooperation compared to propofol. No differences were seen in ICU-stay, adverse memories or recovery events in our short-term sedation.
+AD  - Institution of Molecular Medicine and Surgery, Section of Cardiothoracic Surgery and Anesthesiology, Karolinska Institutet, Stockholm, Sweden. jan.hellstrom@karolinska.se
+AN  - 22420466
+AU  - Hellström, J.
+AU  - Öwall, A.
+AU  - Sackey, P. V.
+DA  - Oct
+DB  - Medline
+DO  - 10.3109/14017431.2012.676209
+DP  - NLM
+ET  - 2012/03/17
+IS  - 5
+J2  - Scandinavian cardiovascular journal : SCJ
+KW  - Aged
+Anesthesia Recovery Period
+Anesthetics, Inhalation
+administration & dosage
+adverse effects
+Cardiac Surgical Procedures
+Critical Care
+methods
+Delusions
+chemically induced
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+adverse effects
+Male
+Methyl Ethers
+administration & dosage
+adverse effects
+Middle Aged
+Propofol
+administration & dosage
+adverse effects
+Sevoflurane
+LA  - eng
+N1  - 1651-2006
+Hellström, Jan
+Öwall, Anders
+Sackey, Peter V
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Scand Cardiovasc J. 2012 Oct;46(5):262-8. doi: 10.3109/14017431.2012.676209. Epub 2012 Mar 29.
+PY  - 2012
+SN  - 1401-7431
+SP  - 262-8
+ST  - Wake-up times following sedation with sevoflurane versus propofol after cardiac surgery
+T2  - Scand Cardiovasc J
+TI  - Wake-up times following sedation with sevoflurane versus propofol after cardiac surgery
+VL  - 46
+ID  - 73
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare dexmedetomidine-based to propofol-based sedation after coronary artery bypass graft (CABG) surgery in the intensive care unit (ICU). DESIGN: Randomized, open label. SETTING: Twenty-five centers in the United States and Canada. PARTICIPANTS: Two hundred ninety-five adults undergoing CABG surgery. INTERVENTIONS: At sternal closure, patients in group A received 1.0 microg/kg of dexmedetomidine over 20 minutes and then 0.2 to 0.7 microg/kg/h to maintain a Ramsay sedation score > or =3 during assisted ventilation and > or =2 after extubation. Patients could be given propofol for additional sedation if necessary; group B patients received propofol-based care according to each investigator's standard practice. MEASUREMENTS AND MAIN RESULTS: Mean sedation levels were within target ranges in both groups. Mean times to weaning and extubation were similar, although fewer dexmedetomidine patients remained on the ventilator beyond 8 hours. Morphine use was significantly reduced in the dexmedetomidine group. Only 28% of the dexmedetomidine patients required morphine for pain relief while ventilated versus 69% of propofol-based patients (p < 0.001). Propofol patients required 4 times the mean dose of morphine while in the ICU. Mean blood pressure increased initially in both groups, then decreased to 3 mmHg below baseline in dexmedetomidine patients; mean arterial pressure remained at 9 mmHg above baseline in propofol patients. No ventricular tachycardia occurred in the dexmedetomidine-sedated patients compared with 5% of the propofol patients (p = 0.007). Respiratory rates and blood gases were similar. Fewer dexmedetomidine patients received beta-blockers (p = 0.014), antiemetics (p = 0.015), nonsteroidal anti-inflammatory drugs (p < 0.001), epinephrine (p = 0.030), or high-dose diuretics (p < 0.001). CONCLUSION: Dexmedetomidine provided safe and effective sedation for post-CABG surgical patients and significantly reduced the use of analgesics, beta-blockers, antiemetics, epinephrine, and diuretics.
+AD  - Washington Hospital Center, Washington, DC 2010, USA. Daniel.L.Herr@medstar.net
+AN  - 14579210
+AU  - Herr, D. L.
+AU  - Sum-Ping, S. T.
+AU  - England, M.
+DA  - Oct
+DB  - Medline
+DO  - 10.1016/s1053-0770(03)00200-3
+DP  - NLM
+ET  - 2003/10/28
+IS  - 5
+J2  - Journal of cardiothoracic and vascular anesthesia
+KW  - Adrenergic beta-Antagonists
+therapeutic use
+Adult
+Aged
+Analgesics, Opioid
+Anti-Arrhythmia Agents
+therapeutic use
+Biomarkers
+blood
+Blood Pressure
+physiology
+Blood Urea Nitrogen
+Canada
+epidemiology
+Conscious Sedation
+Coronary Artery Bypass
+Coronary Artery Disease
+blood
+physiopathology
+therapy
+Dexmedetomidine
+Diuretics
+therapeutic use
+Female
+Heart Rate
+physiology
+Humans
+Hypnotics and Sedatives
+Incidence
+Infusions, Intravenous
+Intensive Care Units
+Male
+Middle Aged
+Morphine
+Postoperative Care
+Postoperative Complications
+chemically induced
+drug therapy
+physiopathology
+Propofol
+Respiration, Artificial
+Systole
+physiology
+Time Factors
+Treatment Outcome
+United States
+epidemiology
+Vasodilator Agents
+therapeutic use
+gamma-Glutamyltransferase
+blood
+LA  - eng
+N1  - Herr, Daniel L
+Sum-Ping, S T John
+England, Michael
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+United States
+J Cardiothorac Vasc Anesth. 2003 Oct;17(5):576-84. doi: 10.1016/s1053-0770(03)00200-3.
+PY  - 2003
+SN  - 1053-0770 (Print)
+1053-0770
+SP  - 576-84
+ST  - ICU sedation after coronary artery bypass graft surgery: dexmedetomidine-based versus propofol-based sedation regimens
+T2  - J Cardiothorac Vasc Anesth
+TI  - ICU sedation after coronary artery bypass graft surgery: dexmedetomidine-based versus propofol-based sedation regimens
+VL  - 17
+ID  - 74
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the safety and effectiveness of propofol (2,6-diisopropylphenol) to midazolam for sedation of mechanically ventilated patients after coronary artery bypass grafting. DESIGN: Open, randomized, prospective trial. SETTING: Cardiothoracic intensive care unit (ICU), Cleveland Clinic Foundation. PATIENTS: Eighty-four patients with normal or moderately impaired left ventricular function who underwent elective coronary artery bypass graft surgery under high-dose opioid anesthesia. INTERVENTIONS: Patients were randomly selected to receive either propofol (mean loading dose 0.24 mg/kg; mean maintenance dose 0.76 mg/kg/hr) or midazolam (mean loading dose 0.012 mg/kg; mean maintenance dose 0.018 mg/kg/hr). Infusion rates were titrated to keep patients comfortable, drowsy, and responsive to verbal stimulation. Study duration, 8 to 12 hrs; infusions were started in the ICU when patients were awake and hemodynamically stable. MEASUREMENTS AND MAIN RESULTS: During therapy, both groups had lower mean arterial pressures and heart rates compared with baseline measurements; however, the propofol group had significantly lower heart rates than the midazolam group during the first 2 hrs of infusion. The propofol group also had significantly lower blood pressure measurements 5 and 10 mins after the initial dose, although there was no difference during infusion. Baseline cardiac output was measured before starting the infusion, and measurements were repeated during continuous infusion at 4, 8, and 12 hrs. Cardiac output values were similar. Propofol maintenance infusions ranged from 3 to 30 micrograms/kg/min and midazolam infusions ranged from 0.1 to 0.7 micrograms/kg/min. At these infusion rates. both groups had adequate sedation, based on nurse and patient evaluations; however, the propofol group used significantly lower total doses of sodium nitroprusside and supplemental opioids. CONCLUSIONS: Both propofol and midazolam provided safe and effective sedation of coronary artery bypass graft patients recovering from high-dose opioid anesthesia. The reduced need for both antihypertensive medication and opioids seen in the propofol group may be advantageous. However, the hypotension seen after the initial bolus dose of propofol may be a concern. No difference between the two drugs could be demonstrated in time to extubation or ICU discharge, although it is probable that time to extubation was governed more by residual operative opioids than the study agents.
+AD  - Department of Cardiothoracic Anesthesia, Cleveland Clinic Foundation, OH 44195-5080.
+AN  - 8062564
+AU  - Higgins, T. L.
+AU  - Yared, J. P.
+AU  - Estafanous, F. G.
+AU  - Coyle, J. P.
+AU  - Ko, H. K.
+AU  - Goodale, D. B.
+DA  - Sep
+DB  - Medline
+DO  - 10.1097/00003246-199409000-00011
+DP  - NLM
+ET  - 1994/09/01
+IS  - 9
+J2  - Critical care medicine
+KW  - Adult
+Aged
+Blood Pressure
+drug effects
+Conscious Sedation
+methods
+Coronary Artery Bypass
+Coronary Disease
+blood
+Drug Administration Schedule
+Female
+Heart Rate
+drug effects
+Humans
+Intensive Care Units
+Male
+Midazolam
+administration & dosage
+therapeutic use
+Middle Aged
+Postoperative Care
+methods
+Propofol
+administration & dosage
+therapeutic use
+Prospective Studies
+LA  - eng
+N1  - Higgins, T L
+Yared, J P
+Estafanous, F G
+Coyle, J P
+Ko, H K
+Goodale, D B
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Crit Care Med. 1994 Sep;22(9):1415-23. doi: 10.1097/00003246-199409000-00011.
+PY  - 1994
+SN  - 0090-3493 (Print)
+0090-3493
+SP  - 1415-23
+ST  - Propofol versus midazolam for intensive care unit sedation after coronary artery bypass grafting
+T2  - Crit Care Med
+TI  - Propofol versus midazolam for intensive care unit sedation after coronary artery bypass grafting
+VL  - 22
+ID  - 75
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the efficacy and safety of dexmedetomidine for post-operative elder patients on mechanical ventilation (MV). METHODS: For this randomized controlled trial, 108 cases of post-operative patients on MV were enrolled and assigned into either dexmedetomidine group (n = 54) or propofol group (n = 54) for sedation. And propofol was used for rescue. The dose of sedation was regulated by Ramsay score for maintaining a sedative score of 3-4. In both groups, fentanyl was provided intravenously continually for analgesia. The amount of fentanyl was adjusted according to the numerical rating scale (NRS) score for maintaining an analgesic score of 0-3. The average Ramsay score, the frequency of propofol, the highest score of NRS, the total dosage of fentanyl and recovery time were compared. Additional outcomes included duration of mechanical ventilation and intensive care unit (ICU) length. And the incidence of delirium and cardiovascular adverse events were compared for two groups. RESULTS: No significant inter-group difference existed in the effectiveness of sedation. Compare with propofol group, the highest score of NRS decreased (1.8 ± 1.12 vs 3.1 ± 1.24, P < 0.05), the total dosage of fentanyl significantly decreased (427.6 ± 14.1 vs 658.4 ± 27.3 µg, P < 0.05) and recovery time became significantly shortened (0.3 ± 0.02 h vs 1.1 ± 0.3 h, P < 0.05) in dexmedetomidine group. Median duration of mechanical ventilation in dexmedetomidine group (21.0 h, 95%CI: 18.6-21.4 h) was significantly shorter than that in propofol group (28.0 h, 95%CI: 25.6-30.4 h) (P < 0.05). No inter-group differences existed in the ICU length of stay and the incidence of delirium. Two cases in dexmedetomidine group developed bradycardia while hypotension occurred in two cases of propofol group. CONCLUSION: Sedative effects of dexmedetomidine are safe and effective for post-operative elder patients on MV. And it offers a better efficacy of analgesia and shorter durations of MV and recovery time. But dexmedetomidine had no significant influence on the ICU length of stay or the incidence of delirium.
+AD  - Department of Intensive Care Unit, The First Affiliated Hospital of Soochow University, Suzhou 215006, China.
+Department of Intensive Care Unit, The First Affiliated Hospital of Soochow University, Suzhou 215006, China. Email: jinjundoctor@163.com.
+AN  - 25604219
+AU  - Huang, F.
+AU  - Wang, J.
+AU  - Yang, X.
+AU  - Xu, H.
+AU  - Kong, J.
+AU  - Liu, S.
+AU  - Jin, J.
+DA  - Nov 11
+DB  - Medline
+DP  - NLM
+ET  - 2015/01/22
+IS  - 41
+J2  - Zhonghua yi xue za zhi
+KW  - Aged
+Analgesics
+Delirium
+Dexmedetomidine
+Fentanyl
+Humans
+Hypnotics and Sedatives
+Intensive Care Units
+Pain
+Postoperative Care
+methods
+Postoperative Period
+Propofol
+Respiration, Artificial
+Time Factors
+LA  - chi
+N1  - Huang, Fang
+Wang, Jun
+Yang, Xinjing
+Xu, Hua
+Kong, Jindan
+Liu, Shenglan
+Jin, Jun
+Journal Article
+Randomized Controlled Trial
+China
+Zhonghua Yi Xue Za Zhi. 2014 Nov 11;94(41):3211-5.
+PY  - 2014
+SN  - 0376-2491 (Print)
+0376-2491
+SP  - 3211-5
+ST  - [Sedative effects of dexmedetomidine in post-operative elder patients on mechanical ventilation]
+T2  - Zhonghua Yi Xue Za Zhi
+TI  - [Sedative effects of dexmedetomidine in post-operative elder patients on mechanical ventilation]
+VL  - 94
+ID  - 77
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the efficacy and safety of sedation with dexmedetomidine vs. midazolam for patients with acute cardiogenic pulmonary edema and hypoxemia during the treatment of non-invasive ventilation (NIV). METHODS: The intensive care unit (ICU) patients treated in our hospital between March 2008 and August 2011 who had acute pulmonary edema and hyoxemia in NIV failure due to patient refusal to continue the NIV sessions (due to discomfort) were enrolled in this study. The patients were divided into two groups by the random numerical table method. They were treated with either midazolam (29 cases) or dexmedetomidine (33 cases). The patients were sedated (Ramsay scale 2-3) by a continuous perfusion of midazolam or dexmedetomidine during the NIV session. Cardiorespiratory and ventilatory parameters, the results of the blood gas analysis, and adverse events were prospectively recorded. The main outcome measure was the percentage of endotracheal intubation during NIV. Secondary endpoints included the duration of non-invasive mechanical ventilation, length of ICU stay, and adverse events. RESULTS: In both groups of patients, the expected sedative scores were obtained. The cardiorespiratory symptoms and signs (oxygenation index, pH value, and respiratory rate) were significantly improved in both groups. In the dexmedetomidine-treated group, the patients had a further decreased percentage of failure of NIV requiring endotracheal intubation (ETI) and a more prolonged mean time to ETI (p=0.042, p=0.024). Furthermore, when compared with the group treated with midazolam, the overall duration of mechanical ventilation and the duration of ICU hospitalization in the group treated with dexmedetomidine were markedly decreased, and weaning from mechanical ventilation was easier (p=0.010, p=0.042). Despite the fact that more dexmedetomidine-treated patients developed bradycardia (18.2% vs. 0, p=0.016), no patients required an intervention or interruption of study drug infusion. Conversely, the incidence of respiratory infections and vomiting was lower in the dexmedetomidine-treated patients (p=0.026, p=0.010). CONCLUSION: Dexmedetomidine led to a more desired level of awaking sedation, shortened the duration of mechanical ventilation and the length of the ICU stay, and further reduced the prevalence of nosocomial infection for NIV sedation in patients with acute cardiogenic pulmonary edema. It appears to provide several advantages and safe control compared with the γ-amino butyric acid (GABA) agonist midazolam.
+AD  - Department of Intensive Care Unit, Guangzhou First Municipal People's Hospital Affiliated to Guangzhou Medical College, PR China. zhaozi6688@gmail.com
+AN  - 22975538
+AU  - Huang, Z.
+AU  - Chen, Y. S.
+AU  - Yang, Z. L.
+AU  - Liu, J. Y.
+DB  - Medline
+DO  - 10.2169/internalmedicine.51.7810
+DP  - NLM
+ET  - 2012/09/15
+IS  - 17
+J2  - Internal medicine (Tokyo, Japan)
+KW  - Aged
+Cohort Studies
+Cross Infection
+epidemiology
+Dexmedetomidine
+administration & dosage
+therapeutic use
+Female
+Humans
+Hypnotics and Sedatives
+adverse effects
+therapeutic use
+Hypoxia
+therapy
+Intensive Care Units
+Length of Stay
+Male
+Midazolam
+administration & dosage
+therapeutic use
+Middle Aged
+Noninvasive Ventilation
+methods
+Prevalence
+Pulmonary Edema
+therapy
+Treatment Failure
+Treatment Outcome
+Treatment Refusal
+LA  - eng
+N1  - 1349-7235
+Huang, Zhao
+Chen, Yu-sheng
+Yang, Zi-li
+Liu, Ji-yun
+Journal Article
+Randomized Controlled Trial
+Japan
+Intern Med. 2012;51(17):2299-305. doi: 10.2169/internalmedicine.51.7810. Epub 2012 Sep 1.
+PY  - 2012
+SN  - 0918-2918
+SP  - 2299-305
+ST  - Dexmedetomidine versus midazolam for the sedation of patients with non-invasive ventilation failure
+T2  - Intern Med
+TI  - Dexmedetomidine versus midazolam for the sedation of patients with non-invasive ventilation failure
+VL  - 51
+ID  - 76
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: Long-term sedation with midazolam or propofol in intensive care units (ICUs) has serious adverse effects. Dexmedetomidine, an α(2)-agonist available for ICU sedation, may reduce the duration of mechanical ventilation and enhance patient comfort. OBJECTIVE: To determine the efficacy of dexmedetomidine vs midazolam or propofol (preferred usual care) in maintaining sedation; reducing duration of mechanical ventilation; and improving patients' interaction with nursing care. DESIGN, SETTING, AND PATIENTS: Two phase 3 multicenter, randomized, double-blind trials carried out from 2007 to 2010. The MIDEX trial compared midazolam with dexmedetomidine in ICUs of 44 centers in 9 European countries; the PRODEX trial compared propofol with dexmedetomidine in 31 centers in 6 European countries and 2 centers in Russia. Included were adult ICU patients receiving mechanical ventilation who needed light to moderate sedation for more than 24 hours (midazolam, n = 251, vs dexmedetomidine, n = 249; propofol, n = 247, vs dexmedetomidine, n = 251). INTERVENTIONS: Sedation with dexmedetomidine, midazolam, or propofol; daily sedation stops; and spontaneous breathing trials. MAIN OUTCOME MEASURES: For each trial, we tested whether dexmedetomidine was noninferior to control with respect to proportion of time at target sedation level (measured by Richmond Agitation-Sedation Scale) and superior to control with respect to duration of mechanical ventilation. Secondary end points were patients' ability to communicate pain (measured using a visual analogue scale [VAS]) and length of ICU stay. Time at target sedation was analyzed in per-protocol population (midazolam, n = 233, vs dexmedetomidine, n = 227; propofol, n = 214, vs dexmedetomidine, n = 223). RESULTS: Dexmedetomidine/midazolam ratio in time at target sedation was 1.07 (95% CI, 0.97-1.18) and dexmedetomidine/propofol, 1.00 (95% CI, 0.92-1.08). Median duration of mechanical ventilation appeared shorter with dexmedetomidine (123 hours [IQR, 67-337]) vs midazolam (164 hours [IQR, 92-380]; P = .03) but not with dexmedetomidine (97 hours [IQR, 45-257]) vs propofol (118 hours [IQR, 48-327]; P = .24). Patients' interaction (measured using VAS) was improved with dexmedetomidine (estimated score difference vs midazolam, 19.7 [95% CI, 15.2-24.2]; P < .001; and vs propofol, 11.2 [95% CI, 6.4-15.9]; P < .001). Length of ICU and hospital stay and mortality were similar. Dexmedetomidine vs midazolam patients had more hypotension (51/247 [20.6%] vs 29/250 [11.6%]; P = .007) and bradycardia (35/247 [14.2%] vs 13/250 [5.2%]; P < .001). CONCLUSIONS: Among ICU patients receiving prolonged mechanical ventilation, dexmedetomidine was not inferior to midazolam and propofol in maintaining light to moderate sedation. Dexmedetomidine reduced duration of mechanical ventilation compared with midazolam and improved patients' ability to communicate pain compared with midazolam and propofol. More adverse effects were associated with dexmedetomidine. TRIAL REGISTRATION: clinicaltrials.gov Identifiers: NCT00481312, NCT00479661.
+AD  - Department of Intensive Care Medicine, Bern University Hospital and University of Bern, Bern, Switzerland.
+AN  - 22436955
+AU  - Jakob, S. M.
+AU  - Ruokonen, E.
+AU  - Grounds, R. M.
+AU  - Sarapohja, T.
+AU  - Garratt, C.
+AU  - Pocock, S. J.
+AU  - Bratty, J. R.
+AU  - Takala, J.
+C1  - ClinicalTrials.gov/NCT00479661
+ClinicalTrials.gov/NCT00481312
+DA  - Mar 21
+DB  - Medline
+DO  - 10.1001/jama.2012.304
+DP  - NLM
+ET  - 2012/03/23
+IS  - 11
+J2  - Jama
+KW  - Aged
+Communication
+Conscious Sedation
+classification
+methods
+Dexmedetomidine
+adverse effects
+therapeutic use
+Double-Blind Method
+Female
+Humans
+Hypnotics and Sedatives
+adverse effects
+therapeutic use
+Intensive Care Units
+Length of Stay
+Male
+Midazolam
+adverse effects
+therapeutic use
+Middle Aged
+Nurse-Patient Relations
+Pain
+Pain Measurement
+Propofol
+adverse effects
+therapeutic use
+Respiration, Artificial
+Time Factors
+LA  - eng
+N1  - 1538-3598
+Jakob, Stephan M
+Ruokonen, Esko
+Grounds, R Michael
+Sarapohja, Toni
+Garratt, Chris
+Pocock, Stuart J
+Bratty, J Raymond
+Takala, Jukka
+Dexmedetomidine for Long-Term Sedation Investigators
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+JAMA. 2012 Mar 21;307(11):1151-60. doi: 10.1001/jama.2012.304.
+PY  - 2012
+SN  - 0098-7484
+SP  - 1151-60
+ST  - Dexmedetomidine vs midazolam or propofol for sedation during prolonged mechanical ventilation: two randomized controlled trials
+T2  - Jama
+TI  - Dexmedetomidine vs midazolam or propofol for sedation during prolonged mechanical ventilation: two randomized controlled trials
+VL  - 307
+ID  - 78
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Alpha 2-adrenergic agonists decrease sympathetic tone with ensuing attenuation of neuroendocrine and hemodynamic responses to anesthesia and surgery. The effects of dexmedetomidine, a highly specific alpha 2-adrenergic agonist, on these responses have not been reported in patients undergoing coronary artery bypass grafting. METHODS: Eighty patients scheduled for elective coronary artery bypass grafting received, in a double-blind manner, either a saline placebo or a dexmedetomidine infusion, initially 50 ng.kg-1.min-1 for 30 min before induction of anesthesia with fentanyl, and then 7 ng.kg-1.min-1 unit the end of surgery. Filling pressures, blood pressure, and heart rate were controlled by intravenous fluid and by supplemental anesthetics and vasoactive drugs. RESULTS: Compared with placebo, dexmedetomidine decreased plasma norepinephrine concentrations by 90%, attenuated the increase of blood pressure during anesthesia (3 vs. 24 mmHg) and surgery (2 vs. 14 mmHg), but increased slightly the need for intravenous fluid challenge (29 vs. 20 patients) and induced more hypotension during cardiopulmonary bypass (9 vs. 0 patients). Dexmedetomidine decreased the incidence of intraoperative (2 vs. 13 patients) and postoperative (5 vs. 16 patients) tachycardia. Dexmedetomidine also decreased the need for additional doses of fentanyl (3.1 vs. 5.4), the increments of enflurane (4.4 vs. 5.6), the need for beta blockers (3 vs. 11 patients), and the incidence of fentanyl-induced muscle rigidity (15 vs. 33 patients) and postoperative shivering (13 vs. 23 patients). CONCLUSIONS: Intraoperative intravenous infusion of dexmedetomidine to patients undergoing coronary artery revascularization decreased intraoperative sympathetic tone and attenuated hyperdynamic responses to anesthesia and surgery but increased the propensity toward hypotension.
+AD  - Department of Anesthesiology, Turku University Hospital, Finland.
+AN  - 9054252
+AU  - Jalonen, J.
+AU  - Hynynen, M.
+AU  - Kuitunen, A.
+AU  - Heikkilä, H.
+AU  - Perttilä, J.
+AU  - Salmenperä, M.
+AU  - Valtonen, M.
+AU  - Aantaa, R.
+AU  - Kallio, A.
+DA  - Feb
+DB  - Medline
+DO  - 10.1097/00000542-199702000-00009
+DP  - NLM
+ET  - 1997/02/01
+IS  - 2
+J2  - Anesthesiology
+KW  - Adjuvants, Anesthesia
+pharmacology
+Adrenergic alpha-Agonists
+pharmacology
+Aged
+Blood Pressure
+drug effects
+Catecholamines
+blood
+Coronary Artery Bypass
+Double-Blind Method
+Female
+Heart Rate
+drug effects
+Humans
+Imidazoles
+pharmacology
+Male
+Medetomidine
+Middle Aged
+Muscle Rigidity
+prevention & control
+Myocardial Ischemia
+prevention & control
+Shivering
+drug effects
+LA  - eng
+N1  - Jalonen, J
+Hynynen, M
+Kuitunen, A
+Heikkilä, H
+Perttilä, J
+Salmenperä, M
+Valtonen, M
+Aantaa, R
+Kallio, A
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Anesthesiology. 1997 Feb;86(2):331-45. doi: 10.1097/00000542-199702000-00009.
+PY  - 1997
+SN  - 0003-3022 (Print)
+0003-3022
+SP  - 331-45
+ST  - Dexmedetomidine as an anesthetic adjunct in coronary artery bypass grafting
+T2  - Anesthesiology
+TI  - Dexmedetomidine as an anesthetic adjunct in coronary artery bypass grafting
+VL  - 86
+ID  - 79
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Previous studies have reported the cardioprotective effect of dexmedetomidine and lidocaine. We compared the effect of lidocaine and dexmedetomidine infusion during off-pump coronary artery bypass graft (OPCAB). METHODS: 153 patients undergoing OPCAB were enrolled. The lidocaine group (n=36, Group LIDO) received an infusion of lidocaine 2 mg/kg/h after bolus 1.5 mg/kg; the dexmedetomidine group (n=40, Group DEX) received dexmedetomidine 0.3-0.7 μg/kg/h; the combined group (n=39, Group Combined) received infusion of both drugs; and the control group (n=38) received nothing. We measured serum creatinine kinase-myocardial band (CK-MB) and cardiac troponin I (cTnI) concentration before and immediately after the surgery, postoperative day (POD)#1 and #2. The complication rate and clinical outcomes were compared. RESULTS: The concentration of cTnI was significantly lower in the Group LIDO and Group Combined than the control group on POD#2. The concentration of CK-MB was significantly lower in the Group LIDO and Group Combined compared to the control group on POD#1 and #2 [CK-MB on POD#1: 7.67 (5.78-11.92) vs. 7.18 (5.01-11.72) vs. 13.19 (6.85-23.87) in the Group LIDO, combined and control, respectively, Group LIDO vs. control: p=0.003, Group Combined vs. control: p=0.015]. The AUC of CK-MB was significantly lower in the Group LIDO and Group Combined than the control group. However, clinical variables including complication rate, ICU stay and one-year mortality were not different. CONCLUSIONS: Lidocaine infused at 2 mg/kg/h, but not dexmedetomidine infused at 0.3-0.7 μg/kg/h reduced postoperative myocardial injury marker levels compared with the control group. However, no other clinical benefits were observed.
+AD  - Department of Anesthesiology and Pain Medicine, Samsung Changwon Hospital, Sungkyunkwan University School of Medicine, Changwon, Republic of Korea; Department of Anesthesiology and Pain Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea.
+Department of Anesthesiology and Pain Medicine, Samsung Changwon Hospital, Sungkyunkwan University School of Medicine, Changwon, Republic of Korea. Electronic address: wonhokim.ane@gmail.com.
+Department of Anesthesiology and Pain Medicine, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea.
+Department of Thoracic and Cardiovascular Surgery, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea.
+AN  - 25447444
+AU  - Kim, H. J.
+AU  - Kim, W. H.
+AU  - Kim, G.
+AU  - Kim, E.
+AU  - Park, M. H.
+AU  - Shin, B. S.
+AU  - Sim, W. S.
+AU  - Kim, C. S.
+AU  - Lee, Y. T.
+AU  - Cho, H. S.
+DA  - Nov
+DB  - Medline
+DO  - 10.1016/j.cct.2014.10.005
+DP  - NLM
+ET  - 2014/12/03
+IS  - 2
+J2  - Contemporary clinical trials
+KW  - Aged
+Anesthetics, Local
+administration & dosage
+therapeutic use
+Biomarkers
+Coronary Artery Bypass, Off-Pump
+methods
+Dexmedetomidine
+administration & dosage
+therapeutic use
+Drug Therapy, Combination
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+therapeutic use
+Infusions, Intravenous
+Lidocaine
+administration & dosage
+therapeutic use
+Male
+Middle Aged
+Postoperative Complications
+Prospective Studies
+Single-Blind Method
+Troponin I
+LA  - eng
+N1  - 1559-2030
+Kim, Hyo-Jin
+Kim, Won Ho
+Kim, Gahyun
+Kim, Eunhee
+Park, Mi-Hye
+Shin, Byung Seop
+Sim, Woo Seog
+Kim, Chung Su
+Lee, Young Tak
+Cho, Hyun Sung
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+Anesthesia
+Coronary artery bypass graft
+Dexmedetomidine
+Lidocaine
+Myocardial injury
+Contemp Clin Trials. 2014 Nov;39(2):303-9. doi: 10.1016/j.cct.2014.10.005. Epub 2014 Oct 18.
+PY  - 2014
+SN  - 1551-7144
+SP  - 303-9
+ST  - A comparison among infusion of lidocaine and dexmedetomidine alone and in combination in subjects undergoing coronary artery bypass graft: a randomized trial
+T2  - Contemp Clin Trials
+TI  - A comparison among infusion of lidocaine and dexmedetomidine alone and in combination in subjects undergoing coronary artery bypass graft: a randomized trial
+VL  - 39
+ID  - 80
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Sedation with dexmedetomidine may facilitate ventilator liberation and limit the occurrence of delirium. No trial has assessed patient recall or the development of psychological outcomes after dexmedetomidine sedation. This pilot study evaluated whether transitioning benzodiazepine sedation to dexmedetomidine alters patient recall and the incidence of anxiety, depression, or acute stress disorder (ASD). METHODS: This investigation was a randomized, double-blind, single-center study. Existing continuous benzodiazepine sedation was converted to dexmedetomidine or midazolam when patients qualified for daily awakenings. Sedation was titrated to achieve Riker sedation agitation scores of 3 to 4. The intensive care unit (ICU) Stressful Experiences Questionnaire, hospital anxiety and depression scale, and the impact of event scale-revised were administered before hospital discharge to assess recall, anxiety, depression, and manifestations of ASD. RESULTS: A total of 11 patients received dexmedetomidine, and 12 patients received midazolam. Median dosing was 0.61 µg/kg/h for 3.5 days for dexmedetomidine and 3.7 mg/h for 3 days for midazolam. Attainment of goal sedation and analgesia was similar; however, more dexmedetomidine patients experienced agitation and pain. The median duration of mechanical ventilation from study drug initiation to extubation was 3.4 days in dexmedetomidine patients and 2.9 days in midazolam patients. Dexmedetomidine patients remembered 18.5 experiences compared with 8.5 in midazolam patients (P = .015). Rates of anxiety and depression were similar. In all, 5 (62.5%) dexmedetomidine patients and 1 (12.5%) midazolam patient manifested ASD (P = .063), and 1 dexmedetomidine patient and 5 midazolam patients developed new-onset delirium (P = .07). Hypotension occurred in 10 (90.9%) dexmedotomidine patients and 6 (50%) midazolam patients (P = .069). CONCLUSIONS: Transitioning benzodiazepine sedation to dexmedetomidine when patients qualify for daily awakenings may reduce the development of delirium and facilitate remembrance of ICU experiences but may lead to manifestations of ASD. Monitoring hypotension is required for both the sedatives. Additional comparative studies focusing on the long-term impact of ICU recall and psychological outcomes are needed.
+AD  - Department of Clinical Pharmacy, University of Colorado Skaggs School of Pharmacy and Pharmaceutical Sciences, Aurora, CO, USA rob.maclaren@ucdenver.edu.
+Department of Pharmacy, Denver Health Medical Center, Denver, CO, USA.
+Department of Clinical Pharmacy, University of Colorado Skaggs School of Pharmacy and Pharmaceutical Sciences, Aurora, CO, USA.
+Division of Pulmonary and Critical Care Medicine, University of Colorado School of Medicine Aurora, CO, USA.
+AN  - 24227448
+AU  - MacLaren, R.
+AU  - Preslaski, C. R.
+AU  - Mueller, S. W.
+AU  - Kiser, T. H.
+AU  - Fish, D. N.
+AU  - Lavelle, J. C.
+AU  - Malkoski, S. P.
+C1  - ClinicalTrials.gov/NCT00744380
+DA  - Mar
+DB  - Medline
+DO  - 10.1177/0885066613510874
+DP  - NLM
+ET  - 2013/11/15
+IS  - 3
+J2  - Journal of intensive care medicine
+KW  - Adult
+Aged
+Anxiety
+chemically induced
+Conscious Sedation
+methods
+psychology
+Critical Care
+methods
+Depression
+chemically induced
+Dexmedetomidine
+administration & dosage
+adverse effects
+Double-Blind Method
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+adverse effects
+Intensive Care Units
+Male
+Mental Recall
+drug effects
+Midazolam
+administration & dosage
+adverse effects
+Middle Aged
+Pilot Projects
+Stress Disorders, Traumatic, Acute
+chemically induced
+Surveys and Questionnaires
+LA  - eng
+N1  - 1525-1489
+MacLaren, Robert
+Preslaski, Candice R
+Mueller, Scott W
+Kiser, Tyree H
+Fish, Douglas N
+Lavelle, James C
+Malkoski, Stephen P
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+acute stress disorder
+anxiety
+benzodiazepine
+depression
+dexmedetomidine
+intensive care
+posttraumatic stress disorder
+recall
+sedation
+J Intensive Care Med. 2015 Mar;30(3):167-75. doi: 10.1177/0885066613510874. Epub 2013 Nov 12.
+PY  - 2015
+SN  - 0885-0666
+SP  - 167-75
+ST  - A randomized, double-blind pilot study of dexmedetomidine versus midazolam for intensive care unit sedation: patient recall of their experiences and short-term psychological outcomes
+T2  - J Intensive Care Med
+TI  - A randomized, double-blind pilot study of dexmedetomidine versus midazolam for intensive care unit sedation: patient recall of their experiences and short-term psychological outcomes
+VL  - 30
+ID  - 81
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Delirium is a neurobehavioral syndrome caused by the transient disruption of normal neuronal activity secondary to systemic disturbances. OBJECTIVE: The authors investigated the effects of postoperative sedation on the development of delirium in patients undergoing cardiac-valve procedures. METHODS: Patients underwent elective cardiac surgery with a standardized intraoperative anesthesia protocol, followed by random assignment to one of three postoperative sedation protocols: dexmedetomidine, propofol, or midazolam. RESULTS: The incidence of delirium for patients receiving dexmedetomidine was 3%, for those receiving propofol was 50%, and for patients receiving midazolam, 50%. Patients who developed postoperative delirium experienced significantly longer intensive-care stays and longer total hospitalization. CONCLUSION: The findings of this open-label, randomized clinical investigation suggest that postoperative sedation with dexmedetomidine was associated with significantly lower rates of postoperative delirium and lower care costs.
+AD  - Dept. of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, 401 Quarry Rd., Suite 2317, Stanford, CA 94305-5546, USA. jrm@stanford.edu
+AN  - 19567759
+AU  - Maldonado, J. R.
+AU  - Wysong, A.
+AU  - van der Starre, P. J.
+AU  - Block, T.
+AU  - Miller, C.
+AU  - Reitz, B. A.
+DA  - May-Jun
+DB  - Medline
+DO  - 10.1176/appi.psy.50.3.206
+DP  - NLM
+ET  - 2009/07/02
+IS  - 3
+J2  - Psychosomatics
+KW  - Adult
+Aged
+Cardiopulmonary Bypass
+Delirium
+chemically induced
+diagnosis
+drug therapy
+Dexmedetomidine
+adverse effects
+therapeutic use
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Follow-Up Studies
+Heart Valve Diseases
+surgery
+Heart Valve Prosthesis Implantation
+Humans
+Hypnotics and Sedatives
+adverse effects
+therapeutic use
+Intensive Care Units
+Male
+Midazolam
+adverse effects
+therapeutic use
+Middle Aged
+Neuropsychological Tests
+Postoperative Complications
+diagnosis
+drug therapy
+Propofol
+adverse effects
+therapeutic use
+LA  - eng
+N1  - 1545-7206
+Maldonado, José R
+Wysong, Ashley
+van der Starre, Pieter J A
+Block, Thaddeus
+Miller, Craig
+Reitz, Bruce A
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+England
+Psychosomatics. 2009 May-Jun;50(3):206-17. doi: 10.1176/appi.psy.50.3.206.
+PY  - 2009
+SN  - 0033-3182
+SP  - 206-17
+ST  - Dexmedetomidine and the reduction of postoperative delirium after cardiac surgery
+T2  - Psychosomatics
+TI  - Dexmedetomidine and the reduction of postoperative delirium after cardiac surgery
+VL  - 50
+ID  - 82
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: We aimed to select the sedative drug with the least impact on hepatic blood flow in sedation-administered patients. In our study, we aimed to establish whether dexmedetomidine and propofol affect liver function during early septic shock. The hepatic blood flow is evaluated by the transcutaneous assessment of indocyanine green plasma disappearance rate (ICG-PDR) in critically ill patients. METHODS: Forty early septic shock patients were included in the study and administered either the loading dose infusion of propofol (n = 20, group P) of 1 mg/kg over 15 minutes followed by a maintenance dose of 1 to 3 mg/kg per hour (n = 20, group P), or a loading dose of dexmedetomidine 1 microg/kg over 10 minutes followed by a maintenance of 0.2 to 2.5 microgg/kg per hour (n = 20, group D) (24-hour infusion). Indocyanine green (ICG) elimination tests were conducted concurrently using the noninvasive liver function monitoring system (LiMON; Pulsion Medical Systems, Munich, Germany). A dose of 0.3 mg/kg of ICG was given through a cubital fossa vein as a bolus and immediately flushed with 10 mL of normal saline. We calculated ICG-PDR. Indocyanine green plasma disappearance rate measurements were obtained at baseline (before start of the propofol or dexmedetomidine infusion) and were repeated at the 24th hour. Biochemical and hemodynamic parameters and ICG-PDR were recorded before start of the study and at 24th hour. RESULTS: Biochemical and hemodynamic parameters did not differ significantly between the groups (P < .05). Baseline ICG-PDR levels of group P compared to group D were 24.7 +/- 14.4 vs 22.2 +/- 10.7, respectively, and after the study, ICG-PDR levels (26.5 +/- 13.7 vs 23.7 +/- 12.4) did not differ in groups (P > .05). When we examined ICG-PDR changes between groups before and after administration, there was no significant difference (P > .05). CONCLUSION: In our study, we found that neither propofol nor dexmedetomidine infusion affected hepatic blood flow.
+AD  - Medical Faculty, Department of Anaesthesiology and Reanimation, Trakya University, Edirne 22030, Turkey. dilmemis@mynet.com
+AN  - 19931154
+AU  - Memiş, D.
+AU  - Kargi, M.
+AU  - Sut, N.
+DA  - Dec
+DB  - Medline
+DO  - 10.1016/j.jcrc.2008.10.005
+DP  - NLM
+ET  - 2009/11/26
+IS  - 4
+J2  - Journal of critical care
+KW  - Adult
+Aged
+Aged, 80 and over
+Coloring Agents
+pharmacokinetics
+Critical Illness
+Dexmedetomidine
+adverse effects
+Female
+Hemodynamics
+drug effects
+Humans
+Hypnotics and Sedatives
+adverse effects
+Indocyanine Green
+pharmacokinetics
+Liver Circulation
+drug effects
+Liver Function Tests
+Male
+Middle Aged
+Pilot Projects
+Propofol
+adverse effects
+Respiration, Artificial
+Shock, Septic
+drug therapy
+LA  - eng
+N1  - 1557-8615
+Memiş, Dilek
+Kargi, M
+Sut, N
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+J Crit Care. 2009 Dec;24(4):603-8. doi: 10.1016/j.jcrc.2008.10.005.
+PY  - 2009
+SN  - 0883-9441
+SP  - 603-8
+ST  - Effects of propofol and dexmedetomidine on indocyanine green elimination assessed with LIMON to patients with early septic shock: a pilot study
+T2  - J Crit Care
+TI  - Effects of propofol and dexmedetomidine on indocyanine green elimination assessed with LIMON to patients with early septic shock: a pilot study
+VL  - 24
+ID  - 83
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Although clinical use of dexmedetomidine (DEX), an alpha2-adrenergic receptor agonist, has increased, its role in patients admitted to intensive care units secondary to toxicological sequelae has not been well established. OBJECTIVES: The primary objective of this study was to describe clinical and adverse effects observed in poisoned patients receiving DEX for sedation. METHODS: This was an observational case series with retrospective chart review of poisoned patients who received DEX for sedation at an academic medical center. The primary endpoint was incidence of adverse effects of DEX therapy including bradycardia, hypotension, seizures, and arrhythmias. For comparison, vital signs were collected hourly for the 5 h preceding the DEX therapy and every hour during DEX therapy until the therapy ended. Additional endpoints included therapy duration; time within target Richmond Agitation Sedation Score (RASS); and concomitant sedation, analgesia, and vasopressor requirements. RESULTS: Twenty-two patients were included. Median initial and median DEX infusion rates were similar to the commonly used rates for sedation. Median heart rate was lower during the therapy (82 vs. 93 beats/minute, p < 0.05). Median systolic blood pressure before and during therapy was similar (111 vs. 109 mmHg, p = 0.745). Five patients experienced an adverse effect per study definitions during therapy. No additional adverse effects were noted. Median time within target RASS and duration of therapy was 6.5 and 44.5 h, respectively. Seventeen patients (77%) had concomitant use of other sedation and/or analgesia with four (23%) of these patients requiring additional agents after DEX initiation. Seven patients (32%) had concomitant vasopressor support with four (57%) of these patients requiring vasopressor support after DEX initiation. CONCLUSION: Common adverse effects of DEX were noted in this study. The requirement for vasopressor support during therapy warrants further investigation into the safety of DEX in poisoned patients. Larger, comparative studies need to be performed before the use of DEX can be routinely recommended in poisoned patients.
+AD  - Department of Clinical Pharmacy and Outcomes Sciences, South Carolina College of Pharmacy, University of South Carolina , Columbia, SC , USA.
+AN  - 24792780
+AU  - Mohorn, P. L.
+AU  - Vakkalanka, J. P.
+AU  - Rushton, W.
+AU  - Hardison, L.
+AU  - Woloszyn, A.
+AU  - Holstege, C.
+AU  - Corbett, S. M.
+DA  - Jun
+DB  - Medline
+DO  - 10.3109/15563650.2014.913175
+DP  - NLM
+ET  - 2014/05/06
+IS  - 5
+J2  - Clinical toxicology (Philadelphia, Pa.)
+KW  - Academic Medical Centers
+Adolescent
+Adrenergic alpha-2 Receptor Agonists
+adverse effects
+therapeutic use
+Adult
+Blood Pressure
+Dexmedetomidine
+adverse effects
+therapeutic use
+Female
+Heart Rate
+Humans
+Hypnotics and Sedatives
+adverse effects
+therapeutic use
+Intensive Care Units
+Male
+Middle Aged
+Poisoning
+therapy
+Retrospective Studies
+Time Factors
+Young Adult
+LA  - eng
+N1  - 1556-9519
+Mohorn, P L
+Vakkalanka, J P
+Rushton, W
+Hardison, L
+Woloszyn, A
+Holstege, C
+Corbett, S M
+Journal Article
+England
+Adverse effects
+Alpha2-adrenergic receptor agonist
+Overdose
+Safety
+Clin Toxicol (Phila). 2014 Jun;52(5):525-30. doi: 10.3109/15563650.2014.913175. Epub 2014 May 5.
+PY  - 2014
+SN  - 1556-3650
+SP  - 525-30
+ST  - Evaluation of dexmedetomidine therapy for sedation in patients with toxicological events at an academic medical center
+T2  - Clin Toxicol (Phila)
+TI  - Evaluation of dexmedetomidine therapy for sedation in patients with toxicological events at an academic medical center
+VL  - 52
+ID  - 66
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: Lorazepam is currently recommended for sustained sedation of mechanically ventilated intensive care unit (ICU) patients, but this and other benzodiazepine drugs may contribute to acute brain dysfunction, ie, delirium and coma, associated with prolonged hospital stays, costs, and increased mortality. Dexmedetomidine induces sedation via different central nervous system receptors than the benzodiazepine drugs and may lower the risk of acute brain dysfunction. OBJECTIVE: To determine whether dexmedetomidine reduces the duration of delirium and coma in mechanically ventilated ICU patients while providing adequate sedation as compared with lorazepam. DESIGN, SETTING, PATIENTS, AND INTERVENTION: Double-blind, randomized controlled trial of 106 adult mechanically ventilated medical and surgical ICU patients at 2 tertiary care centers between August 2004 and April 2006. Patients were sedated with dexmedetomidine or lorazepam for as many as 120 hours. Study drugs were titrated to achieve the desired level of sedation, measured using the Richmond Agitation-Sedation Scale (RASS). Patients were monitored twice daily for delirium using the Confusion Assessment Method for the ICU (CAM-ICU). MAIN OUTCOME MEASURES: Days alive without delirium or coma and percentage of days spent within 1 RASS point of the sedation goal. RESULTS: Sedation with dexmedetomidine resulted in more days alive without delirium or coma (median days, 7.0 vs 3.0; P = .01) and a lower prevalence of coma (63% vs 92%; P < .001) than sedation with lorazepam. Patients sedated with dexmedetomidine spent more time within 1 RASS point of their sedation goal compared with patients sedated with lorazepam (median percentage of days, 80% vs 67%; P = .04). The 28-day mortality in the dexmedetomidine group was 17% vs 27% in the lorazepam group (P = .18) and cost of care was similar between groups. More patients in the dexmedetomidine group (42% vs 31%; P = .61) were able to complete post-ICU neuropsychological testing, with similar scores in the tests evaluating global cognitive, motor speed, and attention functions. The 12-month time to death was 363 days in the dexmedetomidine group vs 188 days in the lorazepam group (P = .48). CONCLUSION: In mechanically ventilated ICU patients managed with individualized targeted sedation, use of a dexmedetomidine infusion resulted in more days alive without delirium or coma and more time at the targeted level of sedation than with a lorazepam infusion. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00095251.
+AD  - Department of Anesthesiology/Division of Critical Care, Vanderbilt University School of Medicine, Nashville, Tennessee, USA. pratik.pandharipande@vanderbilt.edu
+AN  - 18073360
+AU  - Pandharipande, P. P.
+AU  - Pun, B. T.
+AU  - Herr, D. L.
+AU  - Maze, M.
+AU  - Girard, T. D.
+AU  - Miller, R. R.
+AU  - Shintani, A. K.
+AU  - Thompson, J. L.
+AU  - Jackson, J. C.
+AU  - Deppen, S. A.
+AU  - Stiles, R. A.
+AU  - Dittus, R. S.
+AU  - Bernard, G. R.
+AU  - Ely, E. W.
+C1  - ClinicalTrials.gov/NCT00095251
+DA  - Dec 12
+DB  - Medline
+DO  - 10.1001/jama.298.22.2644
+DP  - NLM
+ET  - 2007/12/13
+IS  - 22
+J2  - Jama
+KW  - Aged
+Coma
+chemically induced
+diagnosis
+Conscious Sedation
+economics
+Delirium
+chemically induced
+diagnosis
+Dexmedetomidine
+administration & dosage
+adverse effects
+economics
+Double-Blind Method
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+adverse effects
+economics
+Intensive Care Units
+economics
+Lorazepam
+administration & dosage
+adverse effects
+economics
+Male
+Middle Aged
+Neuropsychological Tests
+Respiration, Artificial
+economics
+LA  - eng
+N1  - 1538-3598
+Pandharipande, Pratik P
+Pun, Brenda T
+Herr, Daniel L
+Maze, Mervyn
+Girard, Timothy D
+Miller, Russell R
+Shintani, Ayumi K
+Thompson, Jennifer L
+Jackson, James C
+Deppen, Stephen A
+Stiles, Renee A
+Dittus, Robert S
+Bernard, Gordon R
+Ely, E Wesley
+AG0727201/AG/NIA NIH HHS/United States
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+JAMA. 2007 Dec 12;298(22):2644-53. doi: 10.1001/jama.298.22.2644.
+PY  - 2007
+SN  - 0098-7484
+SP  - 2644-53
+ST  - Effect of sedation with dexmedetomidine vs lorazepam on acute brain dysfunction in mechanically ventilated patients: the MENDS randomized controlled trial
+T2  - Jama
+TI  - Effect of sedation with dexmedetomidine vs lorazepam on acute brain dysfunction in mechanically ventilated patients: the MENDS randomized controlled trial
+VL  - 298
+ID  - 84
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Effective therapy has not been established for patients with agitated delirium receiving mechanical ventilation. OBJECTIVE: To determine the effectiveness of dexmedetomidine when added to standard care in patients with agitated delirium receiving mechanical ventilation. DESIGN, SETTING, AND PARTICIPANTS: The Dexmedetomidine to Lessen ICU Agitation (DahLIA) study was a double-blind, placebo-controlled, parallel-group randomized clinical trial involving 74 adult patients in whom extubation was considered inappropriate because of the severity of agitation and delirium. The study was conducted at 15 intensive care units in Australia and New Zealand from May 2011 until December 2013. Patients with advanced dementia or traumatic brain injury were excluded. INTERVENTIONS: Bedside nursing staff administered dexmedetomidine (or placebo) initially at a rate of 0.5 µg/kg/h and then titrated to rates between 0 and 1.5 µg/kg/h to achieve physician-prescribed sedation goals. The study drug or placebo was continued until no longer required or up to 7 days. All other care was at the discretion of the treating physician. MAIN OUTCOMES AND MEASURES: Ventilator-free hours in the 7 days following randomization. There were 21 reported secondary outcomes that were defined a priori. RESULTS: Of the 74 randomized patients (median age, 57 years; 18 [24%] women), 2 withdrew consent later and 1 was found to have been randomized incorrectly, leaving 39 patients in the dexmedetomidine group and 32 patients in the placebo group for analysis. Dexmedetomidine increased ventilator-free hours at 7 days compared with placebo (median, 144.8 hours vs 127.5 hours, respectively; median difference between groups, 17.0 hours [95% CI, 4.0 to 33.2 hours]; P = .01). Among the 21 a priori secondary outcomes, none were significantly worse with dexmedetomidine, and several showed statistically significant benefit, including reduced time to extubation (median, 21.9 hours vs 44.3 hours with placebo; median difference between groups, 19.5 hours [95% CI, 5.3 to 31.1 hours]; P < .001) and accelerated resolution of delirium (median, 23.3 hours vs 40.0 hours; median difference between groups, 16.0 hours [95% CI, 3.0 to 28.0 hours]; P = .01). Using hierarchical Cox modeling to adjust for imbalanced baseline characteristics, allocation to dexmedetomidine was significantly associated with earlier extubation (hazard ratio, 0.47 [95% CI, 0.27-0.82]; P = .007). CONCLUSIONS AND RELEVANCE: Among patients with agitated delirium receiving mechanical ventilation in the intensive care unit, the addition of dexmedetomidine to standard care compared with standard care alone (placebo) resulted in more ventilator-free hours at 7 days. The findings support the use of dexmedetomidine in patients such as these. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01151865.
+AD  - Burns, Trauma, and Critical Care Research Centre, University of Queensland and Joint Health Command, Australian Defence Force, Brisbane, Australia.
+Austin Hospital, Melbourne, Australia.
+School of Medicine, University of Melbourne and Austin Hospital, Melbourne, Australia.
+Australian and New Zealand Intensive Care Research Centre, School of Public Health and Preventive Medicine, Monash University, Melbourne, Australia.
+Flinders Medical Centre, Adelaide, Australia.
+Toowoomba Hospital, Toowoomba, Australia.
+Peninsula Health, Melbourne, Australia.
+Royal North Shore Hospital of Sydney, Sydney, Australia.
+Northern Hospital, Melbourne, Australia.
+Canberra Hospital, Canberra, Australia.
+Royal Melbourne Hospital, Melbourne, Australia.
+Christchurch Hospital, Christchurch, New Zealand.
+Auckland City Hospital, Auckland, New Zealand.
+Western Hospital, Melbourne, Australia.
+Royal Brisbane and Women's Hospital, Brisbane, Australia.
+Geelong Hospital, Geelong, Australia.
+Wellington Hospital, Wellington, New Zealand18Medical Research Institute of New Zealand, Wellington.
+AN  - 26975647
+AU  - Reade, M. C.
+AU  - Eastwood, G. M.
+AU  - Bellomo, R.
+AU  - Bailey, M.
+AU  - Bersten, A.
+AU  - Cheung, B.
+AU  - Davies, A.
+AU  - Delaney, A.
+AU  - Ghosh, A.
+AU  - van Haren, F.
+AU  - Harley, N.
+AU  - Knight, D.
+AU  - McGuiness, S.
+AU  - Mulder, J.
+AU  - O'Donoghue, S.
+AU  - Simpson, N.
+AU  - Young, P.
+C1  - ClinicalTrials.gov/NCT01151865
+DA  - Apr 12
+DB  - Medline
+DO  - 10.1001/jama.2016.2707
+DP  - NLM
+ET  - 2016/03/16
+IS  - 14
+J2  - Jama
+KW  - Aged
+Australia
+Contraindications
+Delirium
+complications
+drug therapy
+Dexmedetomidine
+administration & dosage
+Double-Blind Method
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+Male
+Middle Aged
+New Zealand
+Proportional Hazards Models
+Psychomotor Agitation
+drug therapy
+Respiration, Artificial
+statistics & numerical data
+Time Factors
+Treatment Outcome
+Ventilator Weaning
+LA  - eng
+N1  - 1538-3598
+Reade, Michael C
+Eastwood, Glenn M
+Bellomo, Rinaldo
+Bailey, Michael
+Bersten, Andrew
+Cheung, Benjamin
+Davies, Andrew
+Delaney, Anthony
+Ghosh, Angaj
+van Haren, Frank
+Harley, Nerina
+Knight, David
+McGuiness, Shay
+Mulder, John
+O'Donoghue, Steve
+Simpson, Nicholas
+Young, Paul
+DahLIA Investigators
+Australian and New Zealand Intensive Care Society Clinical Trials Group
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+JAMA. 2016 Apr 12;315(14):1460-8. doi: 10.1001/jama.2016.2707.
+PY  - 2016
+SN  - 0098-7484
+SP  - 1460-8
+ST  - Effect of Dexmedetomidine Added to Standard Care on Ventilator-Free Time in Patients With Agitated Delirium: A Randomized Clinical Trial
+T2  - Jama
+TI  - Effect of Dexmedetomidine Added to Standard Care on Ventilator-Free Time in Patients With Agitated Delirium: A Randomized Clinical Trial
+VL  - 315
+ID  - 86
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Agitated delirium is common in patients undergoing mechanical ventilation, and is often treated with haloperidol despite concerns about safety and efficacy. Use of conventional sedatives to control agitation can preclude extubation. Dexmedetomidine, a novel sedative and anxiolytic agent, may have particular utility in these patients. We sought to compare the efficacy of haloperidol and dexmedetomidine in facilitating extubation. METHODS: We conducted a randomised, open-label, parallel-groups pilot trial in the medical and surgical intensive care unit of a university hospital. Twenty patients undergoing mechanical ventilation in whom extubation was not possible solely because of agitated delirium were randomised to receive an infusion of either haloperidol 0.5 to 2 mg/hour or dexmedetomidine 0.2 to 0.7 microg/kg/hr, with or without loading doses of 2.5 mg haloperidol or 1 mug/kg dexmedetomidine, according to clinician preference. RESULTS: Dexmedetomidine significantly shortened median time to extubation from 42.5 (IQR 23.2 to 117.8) to 19.9 (IQR 7.3 to 24) hours (P = 0.016). Dexmedetomidine significantly decreased ICU length of stay, from 6.5 (IQR 4 to 9) to 1.5 (IQR 1 to 3) days (P = 0.004) after study drug commencement. Of patients who required ongoing propofol sedation, the proportion of time propofol was required was halved in those who received dexmedetomidine (79.5% (95% CI 61.8 to 97.2%) vs. 41.2% (95% CI 0 to 88.1%) of the time intubated; P = 0.05). No patients were reintubated; three receiving haloperidol could not be successfully extubated and underwent tracheostomy. One patient prematurely discontinued haloperidol due to QTc interval prolongation. CONCLUSIONS: In this preliminary pilot study, we found dexmedetomidine a promising agent for the treatment of ICU-associated delirious agitation, and we suggest this warrants further testing in a definitive double-blind multi-centre trial. TRIAL REGISTRATION: Clinicaltrials.gov NCT00505804.
+AD  - Department of Intensive Care Medicine, Austin Hospital and the University of Melbourne, 145 Studley Road, Heidelberg, Victoria 3084, Australia. Michael.READE@austin.org.au
+AN  - 19454032
+AU  - Reade, M. C.
+AU  - O'Sullivan, K.
+AU  - Bates, S.
+AU  - Goldsmith, D.
+AU  - Ainslie, W. R.
+AU  - Bellomo, R.
+C1  - ClinicalTrials.gov/NCT00505804
+C2  - PMC2717438
+DB  - Medline
+DO  - 10.1186/cc7890
+DP  - NLM
+ET  - 2009/05/21
+IS  - 3
+J2  - Critical care (London, England)
+KW  - Adult
+Aged
+Delirium
+drug therapy
+etiology
+Dexmedetomidine
+adverse effects
+therapeutic use
+Dopamine Antagonists
+adverse effects
+therapeutic use
+Drug-Related Side Effects and Adverse Reactions
+Female
+Haloperidol
+adverse effects
+therapeutic use
+Humans
+Hypnotics and Sedatives
+adverse effects
+therapeutic use
+Intubation, Intratracheal
+Male
+Middle Aged
+Pilot Projects
+Psychomotor Agitation
+drug therapy
+etiology
+Respiration, Artificial
+LA  - eng
+N1  - 1466-609x
+Reade, Michael C
+O'Sullivan, Kim
+Bates, Samantha
+Goldsmith, Donna
+Ainslie, William R S T J
+Bellomo, Rinaldo
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Crit Care. 2009;13(3):R75. doi: 10.1186/cc7890. Epub 2009 May 19.
+PY  - 2009
+SN  - 1364-8535 (Print)
+1364-8535
+SP  - R75
+ST  - Dexmedetomidine vs. haloperidol in delirious, agitated, intubated patients: a randomised open-label trial
+T2  - Crit Care
+TI  - Dexmedetomidine vs. haloperidol in delirious, agitated, intubated patients: a randomised open-label trial
+VL  - 13
+ID  - 85
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this study was to observe the impact of dexmedetomidine on postoperative myocardial injury in patients undergoing off-pump coronary artery bypass (OPCAB) grafting. One hundred and sixty-two patients who were undergoing OPCAB surgery were randomly divided into control and dexmedetomidine groups (groups C and Dex, respectively). Following the first vascular anastomosis grafting, the patients in group Dex received a continuous intravenous infusion of 0.2-0.5 μg/kg/h dexmedetomidine, until they were transferred to the Cardiac Surgery intensive care unit (ICU) for 12 h. Patients in group C received physiological saline intraoperatively and an intravenous infusion of 2-4 mg/kg/h isopropylphenol for postoperative sedation. Invasive arterial pressure and heart rate were continuously monitored for 5 min subsequent to entry into the operating theatre (T0), immediately following surgery (T1), 12 h post-surgery (T2), 24 h post-surgery(T3), 48 h post-surgery(T4) and 72 h post-surgery (T5). Blood samples were taken to determine the plasma levels of cardiac troponin I (cTnI) and creatine kinase-MB (CK-MB) at each time point. At 72 h post-surgery, a dynamic electrocardiogram was monitored. The blood pressure, heart rate, levels of cTnI, CK-MB, norepinephrine and cortisol, and postoperative arrhythmic events in the patients in group Dex all decreased compared with those in group C. The duration of mechanical ventilation and ICU residence time were also shorter than those in the control group (P<0.05). Dexmedetomidine reduced post-surgical myocardial injury in patients who had undergone OPCAB surgery.
+AD  - Department of Anesthesiology, The Second Affiliated Hospital, Hebei Medical University, Shijiazhuang, Hebei 050000;
+AN  - 24137215
+AU  - Ren, J.
+AU  - Zhang, H.
+AU  - Huang, L.
+AU  - Liu, Y.
+AU  - Liu, F.
+AU  - Dong, Z.
+C2  - PMC3786847
+DA  - Aug
+DB  - PubMed-not-MEDLINE
+DO  - 10.3892/etm.2013.1183
+DP  - NLM
+ET  - 2013/10/19
+IS  - 2
+J2  - Experimental and therapeutic medicine
+LA  - eng
+N1  - 1792-1015
+Ren, Jianjun
+Zhang, Huijun
+Huang, Lining
+Liu, Yue
+Liu, Fengqin
+Dong, Zhenming
+Journal Article
+cardiac function
+coronary artery bypass grafting
+dexmedetomidine
+hemodynamics
+myocardial reperfusion injury
+off-pump
+Exp Ther Med. 2013 Aug;6(2):497-502. doi: 10.3892/etm.2013.1183. Epub 2013 Jun 25.
+PY  - 2013
+SN  - 1792-0981 (Print)
+1792-0981
+SP  - 497-502
+ST  - Protective effect of dexmedetomidine in coronary artery bypass grafting surgery
+T2  - Exp Ther Med
+TI  - Protective effect of dexmedetomidine in coronary artery bypass grafting surgery
+VL  - 6
+ID  - 87
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: Gamma-aminobutyric acid receptor agonist medications are the most commonly used sedatives for intensive care unit (ICU) patients, yet preliminary evidence indicates that the alpha(2) agonist dexmedetomidine may have distinct advantages. OBJECTIVE: To compare the efficacy and safety of prolonged sedation with dexmedetomidine vs midazolam for mechanically ventilated patients. DESIGN, SETTING, AND PATIENTS: Prospective, double-blind, randomized trial conducted in 68 centers in 5 countries between March 2005 and August 2007 among 375 medical/surgical ICU patients with expected mechanical ventilation for more than 24 hours. Sedation level and delirium were assessed using the Richmond Agitation-Sedation Scale (RASS) and the Confusion Assessment Method for the ICU. INTERVENTIONS: Dexmedetomidine (0.2-1.4 microg/kg per hour [n = 244]) or midazolam (0.02-0.1 mg/kg per hour [n = 122]) titrated to achieve light sedation (RASS scores between -2 and +1) from enrollment until extubation or 30 days. MAIN OUTCOME MEASURES: Percentage of time within target RASS range. Secondary end points included prevalence and duration of delirium, use of fentanyl and open-label midazolam, and nursing assessments. Additional outcomes included duration of mechanical ventilation, ICU length of stay, and adverse events. RESULTS: There was no difference in percentage of time within the target RASS range (77.3% for dexmedetomidine group vs 75.1% for midazolam group; difference, 2.2% [95% confidence interval {CI}, -3.2% to 7.5%]; P = .18). The prevalence of delirium during treatment was 54% (n = 132/244) in dexmedetomidine-treated patients vs 76.6% (n = 93/122) in midazolam-treated patients (difference, 22.6% [95% CI, 14% to 33%]; P < .001). Median time to extubation was 1.9 days shorter in dexmedetomidine-treated patients (3.7 days [95% CI, 3.1 to 4.0] vs 5.6 days [95% CI, 4.6 to 5.9]; P = .01), and ICU length of stay was similar (5.9 days [95% CI, 5.7 to 7.0] vs 7.6 days [95% CI, 6.7 to 8.6]; P = .24). Dexmedetomidine-treated patients were more likely to develop bradycardia (42.2% [103/244] vs 18.9% [23/122]; P < .001), with a nonsignificant increase in the proportion requiring treatment (4.9% [12/244] vs 0.8% [1/122]; P = .07), but had a lower likelihood of tachycardia (25.4% [62/244] vs 44.3% [54/122]; P < .001) or hypertension requiring treatment (18.9% [46/244] vs 29.5% [36/122]; P = .02). CONCLUSIONS: There was no difference between dexmedetomidine and midazolam in time at targeted sedation level in mechanically ventilated ICU patients. At comparable sedation levels, dexmedetomidine-treated patients spent less time on the ventilator, experienced less delirium, and developed less tachycardia and hypertension. The most notable adverse effect of dexmedetomidine was bradycardia. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00216190 Published online February 2, 2009 (doi:10.1001/jama.2009.56).
+AD  - University of Vermont College of Medicine, USA. rikerr@mmc.org
+AN  - 19188334
+AU  - Riker, R. R.
+AU  - Shehabi, Y.
+AU  - Bokesch, P. M.
+AU  - Ceraso, D.
+AU  - Wisemandle, W.
+AU  - Koura, F.
+AU  - Whitten, P.
+AU  - Margolis, B. D.
+AU  - Byrne, D. W.
+AU  - Ely, E. W.
+AU  - Rocha, M. G.
+C1  - ClinicalTrials.gov/NCT00216190
+DA  - Feb 4
+DB  - Medline
+DO  - 10.1001/jama.2009.56
+DP  - NLM
+ET  - 2009/02/04
+IS  - 5
+J2  - Jama
+KW  - APACHE
+Adrenergic alpha-Agonists
+administration & dosage
+adverse effects
+Aged
+Conscious Sedation
+methods
+Critical Illness
+Delirium
+epidemiology
+Dexmedetomidine
+administration & dosage
+adverse effects
+Double-Blind Method
+Female
+GABA Modulators
+administration & dosage
+adverse effects
+Humans
+Hypnotics and Sedatives
+administration & dosage
+adverse effects
+Intensive Care Units
+Kaplan-Meier Estimate
+Length of Stay
+Male
+Midazolam
+administration & dosage
+adverse effects
+Middle Aged
+Prospective Studies
+Respiration, Artificial
+LA  - eng
+N1  - 1538-3598
+Riker, Richard R
+Shehabi, Yahya
+Bokesch, Paula M
+Ceraso, Daniel
+Wisemandle, Wayne
+Koura, Firas
+Whitten, Patrick
+Margolis, Benjamin D
+Byrne, Daniel W
+Ely, E Wesley
+Rocha, Marcelo G
+SEDCOM (Safety and Efficacy of Dexmedetomidine Compared With Midazolam) Study Group
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+JAMA. 2009 Feb 4;301(5):489-99. doi: 10.1001/jama.2009.56. Epub 2009 Feb 2.
+PY  - 2009
+SN  - 0098-7484
+SP  - 489-99
+ST  - Dexmedetomidine vs midazolam for sedation of critically ill patients: a randomized trial
+T2  - Jama
+TI  - Dexmedetomidine vs midazolam for sedation of critically ill patients: a randomized trial
+VL  - 301
+ID  - 88
+ER  - 
+
+TY  - JOUR
+AB  - The use and the hemodynamic effects of propofol and midazolam were studied during titrated continuous infusions to deep sedation (sedation level 5: asleep, sluggish response to light glabellar tap or loud auditory stimulus) following coronary artery surgery. The drugs were compared in 30 ventilated patients in an open randomized study. The duration of infusion was approximately 570 minutes in both groups. After a loading dose of propofol (1 mg/kg) or midazolam (0.07 mg/kg), the infusion rates were 2.71 +/- 1.13 mg/kg/h and 0.092 +/- 0.028 mg/kg/h, respectively. An analgesic infusion of sufentanil was also given in both groups. In the midazolam group, to maintain the predetermined level of sedation, more frequent additional bolus doses (4.7 +/- 1.8; P < 0.001) and infusion rate adjustments (5.3 +/- 1.6; P < 0.001) were required than for similar sedation in the propofol group (2.3 +/- 1.0 bolus doses and 3.3 +/- 1.2 adjustments). The time from stopping sedation to patient responsiveness was 11 +/- 8 minutes in the propofol group and 72 +/- 70 minutes in the midazolam group (P < 0.001), and the time from stopping sedation to extubation was 250 +/- 135 minutes and 391 +/- 128 minutes (P < 0.014), respectively. Following the loading dose of propofol, there was a fall in blood pressure (BP) (mean from 80 +/- 11 mmHg to 67.5 +/- 10 mmHg; P < 0.05). After approximately 15 minutes, BP started to rise but remained below pretreatment level throughout sedation.(ABSTRACT TRUNCATED AT 250 WORDS)
+AD  - Department of Anesthesiology, University Hospital of Maastricht, The Netherlands.
+AN  - 8477016
+AU  - Roekaerts, P. M.
+AU  - Huygen, F. J.
+AU  - de Lange, S.
+DA  - Apr
+DB  - Medline
+DO  - 10.1016/1053-0770(93)90206-z
+DP  - NLM
+ET  - 1993/04/01
+IS  - 2
+J2  - Journal of cardiothoracic and vascular anesthesia
+KW  - Adult
+Aged
+Blood Pressure
+drug effects
+Coronary Artery Bypass
+Female
+Heart Rate
+drug effects
+Hemodynamics
+drug effects
+Humans
+Hypnotics and Sedatives
+Infusions, Intravenous
+Intensive Care Units
+Intubation, Intratracheal
+Male
+Midazolam
+administration & dosage
+Middle Aged
+Postoperative Care
+Postoperative Period
+Propofol
+administration & dosage
+Sufentanil
+administration & dosage
+Time Factors
+Ventilator Weaning
+LA  - eng
+N1  - Roekaerts, P M
+Huygen, F J
+de Lange, S
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Cardiothorac Vasc Anesth. 1993 Apr;7(2):142-7. doi: 10.1016/1053-0770(93)90206-z.
+PY  - 1993
+SN  - 1053-0770 (Print)
+1053-0770
+SP  - 142-7
+ST  - Infusion of propofol versus midazolam for sedation in the intensive care unit following coronary artery surgery
+T2  - J Cardiothorac Vasc Anesth
+TI  - Infusion of propofol versus midazolam for sedation in the intensive care unit following coronary artery surgery
+VL  - 7
+ID  - 89
+ER  - 
+
+TY  - JOUR
+AB  - Delirium and transient neurologic dysfunctions (TND) often complicate the postoperative course after surgery for acute type-A aortic dissection (AAD). We evaluated the role of clonidine on neurological outcome and respiratory function in 30 consecutive patients undergoing surgery for AAD. Patients were prospectively randomized to receive either clonidine (0.5 microg/kg bolus, followed by continuous infusion at 1-2 microg/kg/h) or placebo (NaCl 0.9%) in on starting and throughout the weaning period from the mechanical ventilation. Incidence of delirium and TND, Delirium Detection Score (DDS), weaning parameters [respiratory rate to tidal volume ratio - f/VT; pressure-frequency product (PFP); partial pressure of arterial oxygen to fractional inspired oxygen concentration (PaO(2)/FiO(2)); partial pressure of carbon dioxide (PaCO(2))], weaning duration and intensive care unit (ICU) length of stay were recorded. The two groups were similar for preoperative and operative variables and also for the incidence of postoperative complications. DDS was lower in the clonidine group (P<0.001). Patients weaned with clonidine showed lower f/VT and PFP, higher PaO(2)/FiO(2) and PaCO(2), lower DDS, weaning period and the related ICU length of stay (P<0.001). This was further confirmed in patients developing delirium/TND. Intravenous clonidine after surgery for AAD reduces the severity of delirium, improves the respiratory function, shortens the weaning duration and the ICU length of stay.
+AD  - Cardiac Surgery Unit, Magna Graecia University of Catanzaro, Viale Europa, Località Germaneto, 88100 Catanzaro, Italy. antonio.rubino@hotmail.com
+AN  - 19854793
+AU  - Rubino, A. S.
+AU  - Onorati, F.
+AU  - Caroleo, S.
+AU  - Galato, E.
+AU  - Nucera, S.
+AU  - Amantea, B.
+AU  - Santini, F.
+AU  - Renzulli, A.
+DA  - Jan
+DB  - Medline
+DO  - 10.1510/icvts.2009.217562
+DP  - NLM
+ET  - 2009/10/27
+IS  - 1
+J2  - Interactive cardiovascular and thoracic surgery
+KW  - Acute Disease
+Adrenergic alpha-Agonists
+administration & dosage
+Aged
+Aneurysm, Dissecting
+surgery
+Aortic Aneurysm
+surgery
+Central Nervous System Diseases
+etiology
+physiopathology
+prevention & control
+Clonidine
+administration & dosage
+Delirium
+etiology
+prevention & control
+Female
+Humans
+Infusions, Intravenous
+Intensive Care Units
+Length of Stay
+Male
+Middle Aged
+Pilot Projects
+Prospective Studies
+Pulmonary Gas Exchange
+drug effects
+Respiration, Artificial
+Respiratory Mechanics
+drug effects
+Severity of Illness Index
+Tidal Volume
+drug effects
+Time Factors
+Treatment Outcome
+Vascular Surgical Procedures
+adverse effects
+LA  - eng
+N1  - 1569-9285
+Rubino, Antonino S
+Onorati, Francesco
+Caroleo, Santo
+Galato, Edwige
+Nucera, Sergio
+Amantea, Bruno
+Santini, Francesco
+Renzulli, Attilio
+Journal Article
+Randomized Controlled Trial
+England
+Interact Cardiovasc Thorac Surg. 2010 Jan;10(1):58-62. doi: 10.1510/icvts.2009.217562. Epub 2009 Oct 23.
+PY  - 2010
+SN  - 1569-9285
+SP  - 58-62
+ST  - Impact of clonidine administration on delirium and related respiratory weaning after surgical correction of acute type-A aortic dissection: results of a pilot study
+T2  - Interact Cardiovasc Thorac Surg
+TI  - Impact of clonidine administration on delirium and related respiratory weaning after surgical correction of acute type-A aortic dissection: results of a pilot study
+VL  - 10
+ID  - 90
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To compare dexmedetomidine (DEX) with standard care (SC, either propofol or midazolam) for long-term sedation in terms of maintaining target sedation and length of intensive care unit (ICU) stay. METHODS: A pilot, phase III, double-blind multicenter study in randomized medical and surgical patients (n = 85) within the first 72 h of ICU stay with an expected ICU stay of >or=48 h and sedation need for >or=24 h after randomization. Patients were assigned to either DEX (<or=1.4 microg kg(-1) h(-1); n = 41) or SC (n = 44), with daily sedation stops. RESULTS: Non-inferiority of DEX versus SC was not confirmed. Target Richmond agitation-sedation score (RASS) was reached a median of 64% (DEX) and 63% (SC) of the sedation time (ns). The length of ICU stay was similar in DEX and SC. Patients with RASS target 0-3 (DEX 78%, SC 80%) were at target sedation 74% (DEX) and 64% (SC) of the time (ns), whereas those with RASS target -4 or less reached the target 42% (DEX) and 62% (SC) of the time (P = .006). Post hoc analyses suggested shorter duration of mechanical ventilation for DEX (P = 0.025). CONCLUSIONS: This pilot study suggests that in long-term sedation, DEX is comparable to SC in maintaining sedation targets of RASS 0 to -3 but not suitable for deep sedation (RASS -4 or less). DEX had no effect on length of ICU stay. Its effects on other relevant clinical outcomes, such as duration of mechanical ventilation, should be tested further.
+AD  - Department of Anesthesiology and Intensive Care Medicine, Kuopio University Hospital, P.O. Box 1777, 70211, Kuopio, Finland.
+AN  - 18795253
+AU  - Ruokonen, E.
+AU  - Parviainen, I.
+AU  - Jakob, S. M.
+AU  - Nunes, S.
+AU  - Kaukonen, M.
+AU  - Shepherd, S. T.
+AU  - Sarapohja, T.
+AU  - Bratty, J. R.
+AU  - Takala, J.
+C1  - ClinicalTrials.gov/NCT00226785
+DA  - Feb
+DB  - Medline
+DO  - 10.1007/s00134-008-1296-0
+DP  - NLM
+ET  - 2008/09/17
+IS  - 2
+J2  - Intensive care medicine
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Dexmedetomidine
+administration & dosage
+Double-Blind Method
+Female
+Humans
+Hypnotics and Sedatives
+administration & dosage
+Intensive Care Units
+Male
+Midazolam
+administration & dosage
+Middle Aged
+Pilot Projects
+Propofol
+administration & dosage
+Respiration, Artificial
+psychology
+Time Factors
+Young Adult
+LA  - eng
+N1  - 1432-1238
+Ruokonen, Esko
+Parviainen, Ilkka
+Jakob, Stephan M
+Nunes, Silvia
+Kaukonen, Maija
+Shepherd, Stephen T
+Sarapohja, Toni
+Bratty, J Raymond
+Takala, Jukka
+"Dexmedetomidine for Continuous Sedation" Investigators
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Intensive Care Med. 2009 Feb;35(2):282-90. doi: 10.1007/s00134-008-1296-0. Epub 2008 Sep 16.
+PY  - 2009
+SN  - 0342-4642
+SP  - 282-90
+ST  - Dexmedetomidine versus propofol/midazolam for long-term sedation during mechanical ventilation
+T2  - Intensive Care Med
+TI  - Dexmedetomidine versus propofol/midazolam for long-term sedation during mechanical ventilation
+VL  - 35
+ID  - 102
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: Critically ill patients requiring mechanical ventilation frequently need sedatives and analgesics to facilitate their care. Dexmedetomidine, a short-acting alpha-2-agonist, possesses anxiolytic, anesthetic, hypnotic, and analgesic properties. AIMS: The objective of this study was to evaluate the efficacy and safety of dexmedetomidine in comparison to propofol in the management of sedation for post-operative intensive care unit (ICU) patients, as a sedative agent. SETTINGS AND DESIGN: Teaching hospital, A phase III, prospective, open, randomized and comparative. MATERIALS AND METHODS: Thirty patients who were ambulatory and who required the post-operative mechanical ventilation or post-operative sedation were enrolled, in which 15 patients received Dexmedetomidine and remaining 15 patients received propofol. All these patients were treated for the period of 8 to 24 h. STATISTICAL ANALYSIS USED: Data were analyzed using Student's t-test and Chi-square test. The value of P < 0.05 was considered as statistically significant. RESULTS: Demographic data were comparable. Pulse rate, respiratory rate and blood pressure were comparable. Depth of sedation and extubation time were similar. To maintain analgesia throughout the study period, patients receiving propofol infusions required significantly more analgesics than patients receiving Dexmedetomidine. CONCLUSIONS: Dexmedetomidine appears to be a safe and acceptable ICU sedative agent when both the clinician's and patient's perspectives are considered.
+AD  - Department of Anaesthesiology, Seth G S Medical College & KEM Hospital, Mumbai, India.
+Medical Services, Macleods Pharmaceuticals Ltd, Mumbai, India.
+AN  - 24914257
+AU  - Shah, P. N.
+AU  - Dongre, V.
+AU  - Patil, V.
+AU  - Pandya, S.
+AU  - Mungantiwar, A.
+AU  - Choulwar, A.
+C2  - PMC4047690
+DA  - May
+DB  - PubMed-not-MEDLINE
+DO  - 10.4103/0972-5229.132485
+DP  - NLM
+ET  - 2014/06/11
+IS  - 5
+J2  - Indian journal of critical care medicine : peer-reviewed, official publication of Indian Society of Critical Care Medicine
+LA  - eng
+N1  - 1998-359x
+Shah, Prerana N
+Dongre, Vaibhao
+Patil, Vijay
+Pandya, Sarla
+Mungantiwar, Ashish
+Choulwar, Amol
+Journal Article
+Dexmedetomidine
+intensive care unit sedation
+propofol
+Indian J Crit Care Med. 2014 May;18(5):291-6. doi: 10.4103/0972-5229.132485.
+PY  - 2014
+SN  - 0972-5229 (Print)
+0972-5229
+SP  - 291-6
+ST  - Comparison of post-operative ICU sedation between dexmedetomidine and propofol in Indian population
+T2  - Indian J Crit Care Med
+TI  - Comparison of post-operative ICU sedation between dexmedetomidine and propofol in Indian population
+VL  - 18
+ID  - 91
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To assess the feasibility and safety of delivering early goal-directed sedation compared with standard sedation. DESIGN: Pilot prospective, multicenter, randomized, controlled trial. SETTING: Six ICUs. PATIENTS: Critically ill adults mechanically ventilated for greater than 24 hours. INTERVENTIONS: Patients randomized to early goal-directed sedation received a dexmedetomidine-based algorithm targeted to light sedation (Richmond Agitation Sedation Score of -2 to 1). Patients randomized to standard sedation received propofol and/or midazolam-based sedation as clinically appropriate. MEASUREMENTS AND MAIN RESULTS: The main feasibility outcomes were time to randomization and proportion of Richmond Agitation Sedation Score assessments in the first 48 hours in the light and deep sedation range. Safety outcomes were delirium-free days, vasopressor and physical restraints use, and device removal. Randomization occurred within a median (interquartile range) of 1.1 hours (0.46-1.9) after intubation or ICU admission for out of ICU intubation. Patients in the early goal-directed sedation (n = 21) mean (SD) Acute Physiology and Chronic Health Evaluation II score was 20.2 (6.2) versus 18.6 (8.8; p = 0.53) in the standard sedation (n = 16). A significantly higher proportion of patients was lightly sedated on days 1, 2, and 3 (12/19 [63.2%], 19/21 [90.5%], and 18/20 [90%] vs 2/14 [14.3%], 8/15 [53.3%], and 9/15 [60%]; p = 0.005, 0.011, 0.036) and more Richmond Agitation Sedation Scale assessments between (-2 and 1), in the first 48 hours (203/307 [66%] versus (74/197 [38%]; p = 0.01) in the early goal-directed sedation versus standard sedation, respectively. Early goal-directed sedation patients received midazolam on 6 of 173 (3.5%) versus 4 of 114 (3.5%) standard sedation patient-days when dexmedetomidine was given. Propofol was given to 16 of 21 (76%) of early goal-directed sedation versus 16 of 16 (100%) of standard sedation patients (p = 0.04). Early goal-directed sedation patients had 101 of 175 (58%) versus 54 of 114 (47%; p = 0.27) delirium-free days and required significantly less physical restraints 1 (5%) versus 5 (31%; p = 0.03) than standard sedation patients. There were no differences in vasopressor use and self-extubation. CONCLUSIONS: Delivery of early goal-directed sedation was feasible, appeared safe, achieved early light sedation, minimized benzodiazepines and propofol, and decreased the need for physical restraints. The findings of this pilot study justify further investigation of early goal-directed sedation.
+AD  - University New South Wales, Clinical School of Medicine, Prince of Wales Hospital, Randwick, New South Wales, Australia. y.shehabi@unsw.edu.au
+AN  - 23863230
+AU  - Shehabi, Y.
+AU  - Bellomo, R.
+AU  - Reade, M. C.
+AU  - Bailey, M.
+AU  - Bass, F.
+AU  - Howe, B.
+AU  - McArthur, C.
+AU  - Murray, L.
+AU  - Seppelt, I. M.
+AU  - Webb, S.
+AU  - Weisbrodt, L.
+DA  - Aug
+DB  - Medline
+DO  - 10.1097/CCM.0b013e31828a437d
+DP  - NLM
+ET  - 2013/07/19
+IS  - 8
+J2  - Critical care medicine
+KW  - APACHE
+Adrenergic alpha-2 Receptor Agonists
+therapeutic use
+Aged
+Airway Extubation
+statistics & numerical data
+Algorithms
+Benzodiazepines
+therapeutic use
+Conscious Sedation
+methods
+Critical Care
+methods
+Critical Illness
+therapy
+Delirium
+epidemiology
+Dexmedetomidine
+therapeutic use
+Drug Utilization
+Feasibility Studies
+Female
+Humans
+Hypnotics and Sedatives
+therapeutic use
+Intensive Care Units
+Male
+Midazolam
+therapeutic use
+Middle Aged
+Pilot Projects
+Propofol
+therapeutic use
+Prospective Studies
+Respiration, Artificial
+Restraint, Physical
+statistics & numerical data
+LA  - eng
+N1  - 1530-0293
+Shehabi, Yahya
+Bellomo, Rinaldo
+Reade, Michael C
+Bailey, Michael
+Bass, Frances
+Howe, Belinda
+McArthur, Colin
+Murray, Lynne
+Seppelt, Ian M
+Webb, Steve
+Weisbrodt, Leonie
+Sedation Practice in Intensive Care Evaluation Study Investigators
+Australian and New Zealand Intensive Care Society Clinical Trials Group
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Crit Care Med. 2013 Aug;41(8):1983-91. doi: 10.1097/CCM.0b013e31828a437d.
+PY  - 2013
+SN  - 0090-3493
+SP  - 1983-91
+ST  - Early goal-directed sedation versus standard sedation in mechanically ventilated critically ill patients: a pilot study*
+T2  - Crit Care Med
+TI  - Early goal-directed sedation versus standard sedation in mechanically ventilated critically ill patients: a pilot study*
+VL  - 41
+ID  - 92
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Commonly used sedatives/analgesics can increase the risk of postoperative complications, including delirium. This double-blinded study assessed the neurobehavioral, hemodynamic, and sedative characteristics of dexmedetomidine compared with morphine-based regimen after cardiac surgery at equivalent levels of sedation and analgesia. METHODS: A total of 306 patients at least 60 yr old were randomized to receive dexmedetomidine (0.1-0.7 microg x kg(-1) x h(-1)) or morphine (10-70 microg x kg(-1) x h(-1)) with open-label propofol titrated to a target Motor Activity Assessment Scale of 2-4. Primary outcome was the prevalence of delirium measured daily via Confusion Assessment Method for intensive care. Secondary outcomes included ventilation time, additional sedation/analgesia, and hemodynamic and adverse effects. RESULTS: Of all sedation assessments, 75.2% of dexmedetomidine and 79.6% (P = 0.516) of morphine treatment were in the target range. Delirium incidence was comparable between dexmedetomidine 13 (8.6%) and morphine 22 (15.0%) (relative risk 0.571, 95% confidence interval [CI] 0.256-1.099, P = 0.088), however, dexmedetomidine-managed patients spent 3 fewer days (2 [1-7] versus 5 [2-12]) in delirium (95% CI 1.09-6.67, P = 0.0317). The incidence of delirium was significantly less in a small subgroup requiring intraaortic balloon pump and treated with dexmedetomidine (3 of 20 [15%] versus 9 of 25 [36%]) (relative risk 0.416, 95% CI 0.152-0.637, P = 0.001). Dexmedetomidine-treated patients were more likely to be extubated earlier (relative risk 1.27, 95% CI 1.01-1.60, P = 0.040, log-rank P = 0.036), experienced less systolic hypotension (23% versus 38.1%, P = 0.006), required less norepinephrine (P < 0.001), but had more bradycardia (16.45% versus 6.12%, P = 0.006) than morphine treatment. CONCLUSION: Dexmedetomidine reduced the duration but not the incidence of delirium after cardiac surgery with effective analgesia/sedation, less hypotension, less vasopressor requirement, and more bradycardia versus morphine regimen.
+AD  - University of New South Wales Clinical School, Sydney, Australia. y.shehabi@unsw.edu.au
+AN  - 19786862
+AU  - Shehabi, Y.
+AU  - Grant, P.
+AU  - Wolfenden, H.
+AU  - Hammond, N.
+AU  - Bass, F.
+AU  - Campbell, M.
+AU  - Chen, J.
+DA  - Nov
+DB  - Medline
+DO  - 10.1097/ALN.0b013e3181b6a783
+DP  - NLM
+ET  - 2009/09/30
+IS  - 5
+J2  - Anesthesiology
+KW  - Adrenergic alpha-Agonists
+adverse effects
+Aged
+Analgesics, Opioid
+adverse effects
+Delirium
+chemically induced
+Dexmedetomidine
+adverse effects
+Double-Blind Method
+Female
+Humans
+Hypnotics and Sedatives
+adverse effects
+Intensive Care Units
+Intra-Aortic Balloon Pumping
+Male
+Morphine
+adverse effects
+Pain, Postoperative
+drug therapy
+Postoperative Care
+Propofol
+administration & dosage
+LA  - eng
+N1  - 1528-1175
+Shehabi, Yahya
+Grant, Peter
+Wolfenden, Hugh
+Hammond, Naomi
+Bass, Frances
+Campbell, Michelle
+Chen, Jack
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+Anesthesiology. 2009 Nov;111(5):1075-84. doi: 10.1097/ALN.0b013e3181b6a783.
+PY  - 2009
+SN  - 0003-3022
+SP  - 1075-84
+ST  - Prevalence of delirium with dexmedetomidine compared with morphine based therapy after cardiac surgery: a randomized controlled trial (DEXmedetomidine COmpared to Morphine-DEXCOM Study)
+T2  - Anesthesiology
+TI  - Prevalence of delirium with dexmedetomidine compared with morphine based therapy after cardiac surgery: a randomized controlled trial (DEXmedetomidine COmpared to Morphine-DEXCOM Study)
+VL  - 111
+ID  - 93
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the sedative effect and safety of dexmedetomidine and midazolam in the intensive care unit (ICU) patients undergoing ventilator bundle treatment. METHODS: A prospective single-blind randomized controlled trial (RCT) was conducted. Ninety patients receiving ICU ventilator-assisted therapy and ventilator bundle treatments for more than 3 days in the First Department of Critical Care Medicine of the Second Hospital of Lanzhou University from January 2013 to December 2014 were enrolled. The patients were randomly divided into two groups for sedative treatment. The patients in dexmedetomidine group (n = 42) were given dexmedetomidine 0.2-0.7 μg x kg(-1) x h(-1) to achieve a goal of satisfactory sedation [Richmond agitation-sedation scale (RASS) score 0 to - 2 during the day, and -1 to -3 at night). The patients in midazolam group (n = 48) were given midazolam 2-3 mg intravenously first, and then 0.05 mg x kg(-1) x h(-1) for maintenance. The drug dose was adjusted according to RASS every 4 hours to maintain the appropriate sedation depth. The patients in both groups received continuous intravenous infusion of fentanyl for analgesia. Ventilator bundle treatments included the head of a bed up 30 degrees to 45 degrees, awaken and extubation appraisal, daily use of proton pump inhibitors for peptic ulcer prevention, prevention of deep vein thrombosis (DVT), chlorhexidine mouth nursing, and removal of sputum by suction from subglottic area. When the patients in both groups obtained satisfactory target sedation, daily awakening was conducted, and spontaneous breathing test (SBT) was carried out to determine optional weaning time. When the condition was optimal, weaning was conducted, otherwise ventilator bundle treatments were continued. The systolic blood pressure (SBP), diastolic blood pressure (DBP), mean arterial pressure (MAP), heart rate (HR), respiratory frequency (RR) were monitored before and 15, 30, 60, 120, 180 minutes after the treatment, and at the moment of extubation and 30 minutes after extubation. The duration of mechanical ventilation, extubation time, length of ICU stay, and the incidence of adverse events were also recorded. RESULTS: Both dexmedetomidine and midazolam could give rise to sedation with same score of analgesia in patients in both groups, and similar effect of sedation and analgesia could be achieved. Compared with midazolam, dexmedetomidine could significantly reduce the duration of mechanical ventilation (hours: 108.33 ± 21.96 vs. 119.85 ± 20.29, t = -2.586, P = 0.011), earlier extubation time (hours: 112.95 ± 22.20 vs. 128.58 ± 26.18, = -3.031, P = 0.003), length of ICU stay (hours: 149.21 ± 20.47 vs. 163.88 ± 33.59, = -2.457, P = 0.016), the incidence of delirium [9.5% (4/42) vs. 31.2% (15/48 ), χ2 = 6.349, P = 0.012], but it would elevate the incidence of severe hypotension [28.6% (12/42) vs. 8.3% (4/48), χ2 = 6.277, P = 0.012] and severe bradycardia [19.0% (8/42) vs. 8.3% (4/48), χ2 = 2.225, P = 0.136]. Both drugs could lower SBP, DBP, MAP, and HR, and the effect in dexmedetomidine group was more significant from 60 minutes after treatment [SBP (mmHg, 1 mmHg = 0.133 kPa): 113.12 ± 14.42 vs. 124.40 ± 15.79, DBP (mmHg): 69.02 ± 9.62 vs. 76.94 ± 10.41, MAP (mmHg): 83.76 ± 10.50 vs. 92.77 ± 11.87, HR (bpm): 79.19 ± 12.28 vs. 87.42 ± 17.77, P < 0.05 or P < 0.01]. Both sedatives could significantly lower the rate of spontaneous breathing, and the effect of midazolam group was more significant from 60 minutes after treatment compared with dexmedetomidine group (times/min: 18.27 ± 4.29 vs. 20.07 ± 4.11, P < 0.05). CONCLUSIONS: The sedative effects of dexmedetomidine in the ICU patients treated with ventilator bundle treatment are satisfactory, and it can shorten the duration of mechanical ventilation, extubation time and length of ICU stay, reduce the incidence of delirium. However, monitoring should be strengthened in order to prevented and control the adverse effects such as severe hypotension and severe bradycardia.
+AN  - 27132448
+AU  - Song, R.
+AU  - Li, J.
+AU  - Dong, C.
+AU  - Yang, J.
+DA  - Oct
+DB  - Medline
+DP  - NLM
+ET  - 2016/05/03
+IS  - 10
+J2  - Zhonghua wei zhong bing ji jiu yi xue
+KW  - Arterial Pressure
+Blood Pressure
+Delirium
+diagnosis
+Dexmedetomidine
+therapeutic use
+Fentanyl
+Humans
+Hypnotics and Sedatives
+therapeutic use
+Intensive Care Units
+Length of Stay
+Midazolam
+therapeutic use
+Pain
+drug therapy
+Prospective Studies
+Respiration, Artificial
+Single-Blind Method
+LA  - chi
+N1  - Song, Ruixia
+Li, Junyan
+Dong, Chenming
+Yang, Jing
+Journal Article
+Randomized Controlled Trial
+China
+Zhonghua Wei Zhong Bing Ji Jiu Yi Xue. 2015 Oct;27(10):836-40.
+PY  - 2015
+SN  - 2095-4352 (Print)
+SP  - 836-40
+ST  - [A study of using dexmedetomidine in ventilator bundle treatment in an ICU]
+T2  - Zhonghua Wei Zhong Bing Ji Jiu Yi Xue
+TI  - [A study of using dexmedetomidine in ventilator bundle treatment in an ICU]
+VL  - 27
+ID  - 94
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: Volatile anaesthetics may have direct cardioprotective properties due to effects similar to ischaemic preconditioning and postconditioning. Clinical results in cardiac surgery patients are controversial and may be related to the timing of administration of anaesthetics intraoperatively. OBJECTIVE: We hypothesised that the cardioprotective effect of sevoflurane in coronary bypass graft surgical patients would be greater if administration during anaesthesia continued in the ICU for at least 4 h postoperatively until weaning from mechanical ventilation. DESIGN: Double-blind, double-dummy, prospective, randomised and controlled clinical trial. SETTING: In a single centre between June 2006 and June 2007. PATIENTS: Seventy-five adult patients were assigned randomly to receive anaesthesia and postoperative sedation either with propofol (control, n = 37) or sevoflurane (n = 36). INTERVENTIONS: Myocardial biomarkers were measured before surgery, at the time of admission to the intensive care unit and at 6, 24, 48 and 72 h. The need for inotropic support, and lengths of stay in the intensive care unit and hospital were also recorded. MAIN OUTCOME MEASURES: Elevation of myocardial biomarkers was the primary endpoint. The secondary endpoints were haemodynamic events and lengths of stay in the intensive care unit and hospital. RESULTS: Necrosis biomarkers increased significantly in the postoperative period in both groups with no significant differences at any time. Inotropic support was needed in 72.7 and 54.3% of patients in the propofol and sevoflurane groups, respectively (P = 0.086). There were no significant differences in haemodynamic variables, incidence of arrhythmias, myocardial ischaemia or and lengths of stay in the ICU and hospital between the two groups. CONCLUSION: In patients undergoing coronary bypass graft surgery, continuous administration of sevoflurane as a sedative in the ICU for at least 4 h postoperatively did not yield significant improvements in the extent and time course of myocardial damage biomarkers compared to propofol.
+AD  - Department of Anaesthesia and Critical Care, Hospital Clínico Universitario de Valencia, Valencia, Spain.
+AN  - 22965457
+AU  - Soro, M.
+AU  - Gallego, L.
+AU  - Silva, V.
+AU  - Ballester, M. T.
+AU  - Lloréns, J.
+AU  - Alvariño, A.
+AU  - García-Perez, M. L.
+AU  - Pastor, E.
+AU  - Aguilar, G.
+AU  - Martí, F. J.
+AU  - Carratala, A.
+AU  - Belda, F. J.
+DA  - Dec
+DB  - Medline
+DO  - 10.1097/EJA.0b013e3283560aea
+DP  - NLM
+ET  - 2012/09/12
+IS  - 12
+J2  - European journal of anaesthesiology
+KW  - Aged
+Anesthesia
+methods
+Anesthetics, Inhalation
+pharmacology
+Biomarkers
+metabolism
+Cardiac Surgical Procedures
+Coronary Artery Bypass
+methods
+Critical Care
+methods
+Double-Blind Method
+Female
+Heart
+drug effects
+Hemodynamics
+Humans
+Ischemic Preconditioning
+methods
+Male
+Methyl Ethers
+pharmacology
+Middle Aged
+Myocardium
+metabolism
+Postoperative Period
+Propofol
+pharmacology
+Prospective Studies
+Respiration, Artificial
+Sevoflurane
+Time Factors
+LA  - eng
+N1  - 1365-2346
+Soro, Marina
+Gallego, Lucía
+Silva, Vanessa
+Ballester, María T
+Lloréns, Julio
+Alvariño, Ana
+García-Perez, María L
+Pastor, Ernesto
+Aguilar, Gerardo
+Martí, Francisco J
+Carratala, Arturo
+Belda, F Javier
+Journal Article
+Randomized Controlled Trial
+England
+Eur J Anaesthesiol. 2012 Dec;29(12):561-9. doi: 10.1097/EJA.0b013e3283560aea.
+PY  - 2012
+SN  - 0265-0215
+SP  - 561-9
+ST  - Cardioprotective effect of sevoflurane and propofol during anaesthesia and the postoperative period in coronary bypass graft surgery: a double-blind randomised study
+T2  - Eur J Anaesthesiol
+TI  - Cardioprotective effect of sevoflurane and propofol during anaesthesia and the postoperative period in coronary bypass graft surgery: a double-blind randomised study
+VL  - 29
+ID  - 95
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND OBJECTIVES: Patients on mechanical ventilation in intensive care unit (ICU) are often uncomfortable because of anxiety, pain, and endotracheal intubation; therefore, require sedation. Alpha-2 agonists are known to produce sedation. We compared clonidine and dexmedetomidine as sole agents for sedation. STUDY DESIGN: Prospective, randomized, controlled open-label study. MATERIALS AND METHODS: A total of 70 patients requiring a minimum of 12 h of mechanical ventilation with concomitant sedation, were randomly allocated into two groups. Group C (n = 35) received intravenous (IV) clonidine (1 μg/kg/h titrated up to 2 μg/kg/h to attain target sedation), and Group D (n = 35) received IV dexmedetomidine for sedation (loading 0.7 μg/kg and maintenance 0.2 μg/kg/h titrated up to 0.7 μg/kg/h to achieve target sedation). A Ramsay Sedation Score of 3-4 was considered as target sedation. Additional sedation with diazepam was given when required to achieve target sedation. The quality of sedation, hemodynamic changes and adverse effects were noted and compared between the two groups. RESULTS: Target sedation was achieved in 86% observations in Group D and 62% in Group C (P = 0.04). Additional sedation was needed by more patients in Group C compared with Group D (14 and 8 in Groups C and D, respectively, P = 0.034), mainly due to concomitant hypotension on increasing the dose of clonidine. Hypotension was the most common side-effect in Group C, occurring in 11/35 patients of Group C and 3/35 patients of Group D (P = 0.02). Rebound hypertension was seen in four patients receiving clonidine, but none in receiving dexmedetomidine. CONCLUSION: Both clonidine and dexmedetomidine produced effective sedation; however, the hemodynamic stability provided by dexmedetomidine gives it an edge over clonidine for short-term sedation of ICU patients.
+AD  - Department of Anaesthesia and Critical Care, S N Medical College, Agra, Uttar Pradesh, India.
+AN  - 25097355
+AU  - Srivastava, U.
+AU  - Sarkar, M. E.
+AU  - Kumar, A.
+AU  - Gupta, A.
+AU  - Agarwal, A.
+AU  - Singh, T. K.
+AU  - Badada, V.
+AU  - Dwivedi, Y.
+C2  - PMC4118508
+DA  - Jul
+DB  - PubMed-not-MEDLINE
+DO  - 10.4103/0972-5229.136071
+DP  - NLM
+ET  - 2014/08/07
+IS  - 7
+J2  - Indian journal of critical care medicine : peer-reviewed, official publication of Indian Society of Critical Care Medicine
+LA  - eng
+N1  - 1998-359x
+Srivastava, Uma
+Sarkar, Mita Eunice
+Kumar, Aditya
+Gupta, Amrita
+Agarwal, Archana
+Singh, Tapas Kumar
+Badada, Vivek
+Dwivedi, Yogita
+Journal Article
+Clonidine
+dexmedetomidine
+intensive care unit sedation
+Indian J Crit Care Med. 2014 Jul;18(7):431-6. doi: 10.4103/0972-5229.136071.
+PY  - 2014
+SN  - 0972-5229 (Print)
+0972-5229
+SP  - 431-6
+ST  - Comparison of clonidine and dexmedetomidine for short-term sedation of intensive care unit patients
+T2  - Indian J Crit Care Med
+TI  - Comparison of clonidine and dexmedetomidine for short-term sedation of intensive care unit patients
+VL  - 18
+ID  - 96
+ER  - 
+
+TY  - JOUR
+AB  - STUDY OBJECTIVE: To compare the effects of an intravenous infusion of propofol and the alpha-2 adrenoceptor, dexmedetomidine, on inflammatory responses and intraabdominal pressure (IAP) in severe sepsis after abdominal surgery, specifically, serum cytokine levels (interleukin [IL]-1, IL-6, and tumor necrosis factor [TNF]-alpha) and IAP. DESIGN: Prospective, single-center study. SETTING: University hospital. PATIENTS: 40 adult ICU patients who had undergone ileus surgery and who were expected to require postoperative sedation and ventilation. INTERVENTIONS: Patients received either a loading dose infusion of propofol (Group P; n = 20) one mg/kg over 15 minutes followed by a maintenance dose of one to three mg/kg/hr (n = 20, Group P) or a loading dose of dexmedetomidine of one microg/kg over 10 minutes followed by a maintenance dose of 0.2-2.5 microg/kg/h (n = 20, Group D) at the 24th hour. MEASUREMENTS: Biochemical and hemodynamic parameters, cytokine levels, and IAP were recorded before the start of the study and at the 24th and 48th hours. MAIN RESULTS: TNF-alpha levels were significantly lower at the 24th hour (14.66 +/- 4.40 pg/mL vs. 21.21 +/- 11.37 pg/mL, respectively) and at the 48th hour (21.25 +/- 15.85 pg/mL vs. 46.55 +/- 35.99 pg/mL, respectively) in Group D. IL-1 levels were significantly lower at the 24th hour (5.03 +/- 0.15 pg/mL vs. 6.23 +/- 2.09 pg/mL, respectively) and the 48th hour (5.01 +/- 0.37 pg/mL vs. 6.42 +/- 2.76 pg/mL, respectively) in Group D. IL-6 levels were significantly lower at the 24th hour (253.1 +/- 303.6 pg/mL and 511.3 +/- 374.8 pg/mL, respectively) and at the 48th hour (343.5 +/- 393.4 pg/mL and 503.7 +/- 306.4 pg/mL, respectively) in Group D. Intraabdominal pressure also was significantly lower at the 24th hour (12.35 +/- 5.84 mmHg vs. 18.1 +/- 2.84 mmHg, respectively) and the 48th hour (13.9 +/- 6.15 mmHg vs. 18.7 +/- 3.46 mmHg, respectively) in Group D. CONCLUSION: Dexmedetomidine infusion decreases TNF-a, IL-1, and IL-6 levels and IAP more than a propofol infusion.
+AD  - Department of Anaesthesiology and Reanimation, Trakya University Medical Faculty, 22030 Edirne, Turkey.
+AN  - 19833271
+AU  - Tasdogan, M.
+AU  - Memis, D.
+AU  - Sut, N.
+AU  - Yuksel, M.
+DA  - Sep
+DB  - Medline
+DO  - 10.1016/j.jclinane.2008.10.010
+DP  - NLM
+ET  - 2009/10/17
+IS  - 6
+J2  - Journal of clinical anesthesia
+KW  - Abdomen
+surgery
+Adrenergic alpha-Agonists
+pharmacology
+therapeutic use
+Adult
+Aged
+Dexmedetomidine
+pharmacology
+therapeutic use
+Female
+Hospitals, University
+Humans
+Hypnotics and Sedatives
+pharmacology
+therapeutic use
+Inflammation
+drug therapy
+etiology
+physiopathology
+Infusions, Intravenous
+Interleukin-1
+blood
+Interleukin-6
+blood
+Male
+Middle Aged
+Pilot Projects
+Pressure
+Propofol
+pharmacology
+therapeutic use
+Prospective Studies
+Respiration, Artificial
+Sepsis
+drug therapy
+etiology
+physiopathology
+Severity of Illness Index
+Tumor Necrosis Factor-alpha
+blood
+drug effects
+Young Adult
+LA  - eng
+N1  - 1873-4529
+Tasdogan, Muhittin
+Memis, Dilek
+Sut, Necdet
+Yuksel, Mahmut
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Clin Anesth. 2009 Sep;21(6):394-400. doi: 10.1016/j.jclinane.2008.10.010.
+PY  - 2009
+SN  - 0952-8180
+SP  - 394-400
+ST  - Results of a pilot study on the effects of propofol and dexmedetomidine on inflammatory responses and intraabdominal pressure in severe sepsis
+T2  - J Clin Anesth
+TI  - Results of a pilot study on the effects of propofol and dexmedetomidine on inflammatory responses and intraabdominal pressure in severe sepsis
+VL  - 21
+ID  - 97
+ER  - 
+
+TY  - JOUR
+AB  - The alpha2 agonist dexmedetomidine is a new sedative and analgesic agent which is licensed in the USA for post-operative intensive care sedation. We compared dexmedetomidine with propofol in patients requiring sedation in intensive care. Twenty adult patients expected to require a minimum of 8 h artificial ventilation after surgery were randomized to receive sedation with either dexmedetomidine or propofol infusions. Additional analgesia, if required, was provided by an alfentanil infusion. Depth of sedation was monitored using both the Ramsay sedation score (RSS) and the bispectral index (BIS). Cardiovascular, respiratory, biochemical and haematological data were obtained. Patients' perceptions of their intensive care stay were assessed using the Hewitt questionnaire. Sedation was equivalent in the two groups [median (interquartile range): RSS, propofol group 5 (4-5), dexmedetomidine group 5 (4-6) (P=0.68); BIS, propofol group 53 (41-64), dexmedetomidine group 46 (36-58); P=0.32], but the propofol group received three times more alfentanil compared with patients sedated with dexmedetomidine [2.5 (2.2-2.9) mg h(-1) versus 0.8 (0.65-1.2) mg h(-1) (P=0.004)]. No differences were found in arterial pressures between the groups, but heart rate was significantly lower in the dexmedetomidine group [mean (SD) 75 (6) vs 90 (4) beats min(-1)]. Extubation times were similar and rapid with the use of both sedative agents [median (range) 28 (20-50) and 29 (15-50) min (P=0.63) respectively for the propofol and dexmedetomidine groups]. No adverse events related to the sedative infusions occurred in either group. Despite ventilation and intubation, patients sedated with dexmedetomidine could be easily roused to cooperate with procedures (e.g. physiotherapy, radiology) without showing irritation. From the clinician's and patient's perspectives, dexmedetomidine is a safe and acceptable sedative agent for those requiring intensive care. The rate pressure product is reduced in patients receiving dexmedetomidine, which may protect against myocardial ischaemia. Dexmedetomidine reduces the requirement for opioid analgesia.
+AD  - Department of Anaesthesia & Intensive Care, Worthing Hospital, West Sussex, UK.
+AN  - 11878517
+AU  - Venn, R. M.
+AU  - Grounds, R. M.
+DA  - Nov
+DB  - Medline
+DO  - 10.1093/bja/87.5.684
+DP  - NLM
+ET  - 2002/03/07
+IS  - 5
+J2  - British journal of anaesthesia
+KW  - Adrenergic alpha-Agonists
+Aged
+Alfentanil
+administration & dosage
+Analgesics, Opioid
+administration & dosage
+Conscious Sedation
+methods
+Critical Care
+methods
+Dexmedetomidine
+Drug Administration Schedule
+Hemodynamics
+drug effects
+Hospital Mortality
+Humans
+Hypnotics and Sedatives
+Intensive Care Units
+Intubation, Intratracheal
+Middle Aged
+Patient Satisfaction
+Postoperative Care
+methods
+Propofol
+Respiration, Artificial
+Surveys and Questionnaires
+LA  - eng
+N1  - Venn, R M
+Grounds, R M
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Br J Anaesth. 2001 Nov;87(5):684-90. doi: 10.1093/bja/87.5.684.
+PY  - 2001
+SN  - 0007-0912 (Print)
+0007-0912
+SP  - 684-90
+ST  - Comparison between dexmedetomidine and propofol for sedation in the intensive care unit: patient and clinician perceptions
+T2  - Br J Anaesth
+TI  - Comparison between dexmedetomidine and propofol for sedation in the intensive care unit: patient and clinician perceptions
+VL  - 87
+ID  - 98
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To study sedative effect and safety of dexmedetomidine and midazolam for post-operative patients undergoing mechanical ventilation(MV) in surgical intensive care unit(SICU). METHODS: Two hundred cases of post-operative patients undergoing MV with tracheal intubation in SICU were enrolled and divided into two groups by random numerical table method. They were treated either with midazolam (98 cases) or dexmedetomidine (102 cases). In both groups fentanyl was given intravenously continually for analgesia. The amount of fentanyl was adjusted according to Prince-Henry analgesic score to keep on 1-2 analgesic score; the dose of sedation was regulated by Riker sedative and restless score (SAS) maintain 2-4 sedative score. During the course, parameters of the ventilator, electrocardiogram, heart rate(HR), blood pressure, respiratory rate, pulse oxygen saturation (SpO(2)), blood gas analysis were observed and registered continuously. The amount of the drug, duration of MV, and incidence of side-effects such as hypotension, bradycardia, delirium, nausea, etc. were recorded in two groups. RESULTS: In all the patients in two groups taking dexmedetomidine or midazolam expected sedative and analgesia scores were obtained. In the group with dexmedetomidine, the patients were aroused easier with adequate sedation, and when compared with the group with midazolam, dose of fentanyl (μg× kg(-1)×h(-1) ) was significantly smaller (0.23±0.13 vs. 0.41±0.12, P<0.01), duration of MV (hours) was clearly shorter (7.20±6.29 vs. 12.44±8.96, P<0.01), the rates of hypotension (27.45% vs. 11.22%) and bradycardia (24.51% vs. 10.20%) were significantly higher (both P<0.05), the rate of delirium was clearly lower (3.92% vs. 31.63%, P<0.01), the rate of nausea showed a slight decrease (9.80% vs. 11.22%, P>0.05). The patients in the group with dexmedetomidine were divided into two subgroups of hypotension and non-hypotension. The quantity of blood loss during operation (ml/kg), amount of fluid infusion during operation (ml× kg(-1)×h(-1) ), blood lactic acid concentration (mmol/L) on the day of surgical operation and the 1st day post-operative showed no significant difference between these subgroups (quantity of blood loss on the day of surgical operation: 12.79±12.13 vs. 13.52±11.62; amount of fluid infusion during surgical operation: 11.91±4.59 vs. 13.09±7.05;blood lactic acid concentration on the day of operation: 1.88±1.07 vs. 1.71±0.87, blood lactic acid concentration on the 1st day post-operative:1.43±0.98 vs. 1.37±0.79, all P>0.05). CONCLUSION: Sedative effect of dexmedetomidine is satisfactory for patients undergoing MV after operation, with the property of easier arousal, lower delirium rate, and it helps to shorten the duration of MV with reduction the dosage of fentanyl by 50%. However, it is necessary to enhance observation in order to prevent and control hypotension and bradycardia.
+AD  - Department of Surgical Intensive Care Unit, Kunming Medical University, Kunming, Yunnan, China. wanlj2003@yahoo.com.cn
+AN  - 21944176
+AU  - Wan, L. J.
+AU  - Huang, Q. Q.
+AU  - Yue, J. X.
+AU  - Lin, L.
+AU  - Li, S. H.
+DA  - Sep
+DB  - Medline
+DP  - NLM
+ET  - 2011/09/29
+IS  - 9
+J2  - Zhongguo wei zhong bing ji jiu yi xue = Chinese critical care medicine = Zhongguo weizhongbing jijiuyixue
+KW  - Adolescent
+Adult
+Aged
+Critical Care
+Dexmedetomidine
+therapeutic use
+Female
+Humans
+Hypnotics and Sedatives
+therapeutic use
+Intensive Care Units
+Male
+Midazolam
+therapeutic use
+Middle Aged
+Postoperative Period
+Respiration, Artificial
+methods
+Young Adult
+LA  - chi
+N1  - Wan, Lin-jun
+Huang, Qing-qing
+Yue, Jin-xi
+Lin, Lan
+Li, Si-hong
+Comparative Study
+English Abstract
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+China
+Zhongguo Wei Zhong Bing Ji Jiu Yi Xue. 2011 Sep;23(9):543-6.
+PY  - 2011
+SN  - 1003-0603 (Print)
+1003-0603
+SP  - 543-6
+ST  - [Comparison of sedative effect of dexmedetomidine and midazolam for post-operative patients undergoing mechanical ventilation in surgical intensive care unit]
+T2  - Zhongguo Wei Zhong Bing Ji Jiu Yi Xue
+TI  - [Comparison of sedative effect of dexmedetomidine and midazolam for post-operative patients undergoing mechanical ventilation in surgical intensive care unit]
+VL  - 23
+ID  - 99
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the efficacy, safety, and cost of midazolam and propofol in prolonged sedation of critically ill patients. DESIGN: Randomized, prospective study. SETTING: General intensive care unit (ICU) in a 1100-bed teaching hospital. PATIENTS: 67 critically ill, mechanically ventilated patients. INTERVENTIONS: Patients were invasively monitored and mechanically ventilated. A loading dose [midazolam 0.11 +/- 0.02 (SEM) mg.kg-1, propofol 1.3 +/- 0.2 mg.kg-1] was administered, followed by continuous infusion, titrated to achieve a predetermined sedation score. Sedation was continued as long as clinically indicated. MEASUREMENTS AND RESULTS: Mean duration of sedation was 141 and 99 h (NS) for midazolam and propofol, respectively, at mean hourly doses of 0.070 +/- 0.003 mg.kg-1 midazolam and 1.80 +/- 0.08 mg.kg-1 propofol. Overall, 68% of propofol patients versus 31% of midazolam (p < 0.001) patients had a > 20% decrease in systolic blood pressure after the loading dose, and 26 versus 45% (p < 0.01) showed a 25% decrease in spontaneous minute volume. Propofol required more daily dose adjustments (2.1 +/- 0.1 vs 1.4 +/- 0.1, p < 0.001). Nurse-rated quality of sedation with midazolam was higher (8.2 +/- 0.1 vs 7.3 +/- 0.1 on a 10-cm visual analog scale, p < 0.001). Resumption of spontaneous respiration was equally rapid. Recovery was faster after propofol (p < 0.02), albeit with a higher degree of agitation. Amnesia was evident in all midazolam patients but in only a third of propofol patients. The cost of propofol was 4-5 times higher. CONCLUSIONS: Both drugs afforded reliable, safe, and controllable long-term sedation in ICU patients and rapid weaning from mechanical ventilation. Midazolam depressed respiration, allowed better maintenance of sedation, and yielded complete amnesia at a lower cost, while propofol caused more cardiovascular depression during induction.
+AD  - Departments of Anesthesiology and Critical Care Medicine, Tel-Aviv Sourasky Medical Center, Tel-Aviv University, Israel.
+AN  - 9470082
+AU  - Weinbroum, A. A.
+AU  - Halpern, P.
+AU  - Rudick, V.
+AU  - Sorkine, P.
+AU  - Freedman, M.
+AU  - Geller, E.
+DA  - Dec
+DB  - Medline
+DO  - 10.1007/s001340050495
+DP  - NLM
+ET  - 1998/02/21
+IS  - 12
+J2  - Intensive care medicine
+KW  - Adult
+Critical Illness
+Female
+Humans
+Hypnotics and Sedatives
+adverse effects
+economics
+therapeutic use
+Intensive Care Units
+Male
+Midazolam
+adverse effects
+economics
+therapeutic use
+Middle Aged
+Propofol
+adverse effects
+economics
+therapeutic use
+Prospective Studies
+Respiration, Artificial
+Treatment Outcome
+Ventilator Weaning
+LA  - eng
+N1  - Weinbroum, A A
+Halpern, P
+Rudick, V
+Sorkine, P
+Freedman, M
+Geller, E
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Intensive Care Med. 1997 Dec;23(12):1258-63. doi: 10.1007/s001340050495.
+PY  - 1997
+SN  - 0342-4642 (Print)
+0342-4642
+SP  - 1258-63
+ST  - Midazolam versus propofol for long-term sedation in the ICU: a randomized prospective comparison
+T2  - Intensive Care Med
+TI  - Midazolam versus propofol for long-term sedation in the ICU: a randomized prospective comparison
+VL  - 23
+ID  - 100
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: We evaluated the use of dexmedetomidine to facilitate the weaning of delirious postoperative patients from mechanical ventilation. METHODS: We included 72 consecutive patients who underwent elective cardiac surgery in this prospective observational study. Each patient had failed at least 1 trial of continuous positive airway pressure (CPAP) and had agitation. Patients were assessed with the Richmond Agitation-Sedation Scale (RASS) and the Confusion Assessment Method for the Intensive Care Unit (CAMICU) 12 to 18 hours after their admission to the ICU. Midazolam and fentanyl were then given to all patients according to the sedation protocol. At 36 hours in the ICU, patients who had agitation and an inability to wean were randomly divided into 2 groups: group M, 34 patients who continued to follow the routine sedative protocol; and group D, 38 patients who were given dexmedetomidine. Arterial blood gas measurements, hemodynamic parameters, and time to extubation were recorded. Statistical analysis was performed with GraphPad InStat (version 2.02 for DOS). RESULTS: All patients tested positive in the CAM-ICU assessment, and all had a delirium diagnosis. The 38 patients in group D tolerated a spontaneous breathing trial with CPAP and were extubated after a mean (±SD) of 49.619 ± 6.96 hours. The 2 groups had significantly different extubation times (58.389 ± 3.958 hours versus 49.619 ± 6.96 hours). The 2 groups had significantly different RASS scores at 48 and 60 hours and significantly different heart rates and PO2 values at 12 and 24 hours. The 2 groups showed no significant differences with regard to hemodynamic parameters. CONCLUSIONS: Dexmedetomidine may help to eliminate the emergence of agitation and can be a good treatment choice for the delirium state after cardiac surgery.
+AD  - Anesthesiology and Reanimation Clinic, Siyami Ersek Thoracic and Cardiovascular Surgery Center, Istanbul, Turkey. nihanyapici@gmail.com
+AN  - 21521683
+AU  - Yapici, N.
+AU  - Coruh, T.
+AU  - Kehlibar, T.
+AU  - Yapici, F.
+AU  - Tarhan, A.
+AU  - Can, Y.
+AU  - Ozler, A.
+AU  - Aykac, Z.
+DA  - Apr
+DB  - Medline
+DO  - 10.1532/hsf98.201011102
+DP  - NLM
+ET  - 2011/04/28
+IS  - 2
+J2  - The heart surgery forum
+KW  - Adrenergic alpha-2 Receptor Agonists
+therapeutic use
+Anti-Anxiety Agents
+therapeutic use
+Cardiac Surgical Procedures
+methods
+Continuous Positive Airway Pressure
+Delirium
+drug therapy
+Dexmedetomidine
+therapeutic use
+Female
+Fentanyl
+therapeutic use
+Health Status Indicators
+Hemodynamics
+Humans
+Intensive Care Units
+Male
+Midazolam
+therapeutic use
+Middle Aged
+Psychometrics
+Psychomotor Agitation
+drug therapy
+Respiration, Artificial
+Ventilator Weaning
+adverse effects
+LA  - eng
+N1  - 1522-6662
+Yapici, Nihan
+Coruh, Turkan
+Kehlibar, Tamer
+Yapici, Fikri
+Tarhan, Arif
+Can, Yesim
+Ozler, Azmi
+Aykac, Zuhal
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+Heart Surg Forum. 2011 Apr;14(2):E93-8. doi: 10.1532/HSF98.201011102.
+PY  - 2011
+SN  - 1098-3511
+SP  - E93-8
+ST  - Dexmedetomidine in cardiac surgery patients who fail extubation and present with a delirium state
+T2  - Heart Surg Forum
+TI  - Dexmedetomidine in cardiac surgery patients who fail extubation and present with a delirium state
+VL  - 14
+ID  - 101
+ER  - 
+
+TY  - JOUR
+AB  - Sedatives are commonly used for mechanically ventilated patients in intensive care units (ICU). However, a variety of sedatives are available and their efficacy and safety have been compared in numerous trials with inconsistent results. To resolve uncertainties regarding usefulness of these sedatives, we performed a systematic review and network meta-analysis. Randomized controlled trials comparing sedatives in mechanically ventilated ICU patients were included. Graph-theoretical methods were employed for network meta-analysis. A total of 51 citations comprising 52 RCTs were included in our analysis. Dexmedetomidine showed shorter MV duration than lorazepam (mean difference (MD): 68.7; 95% CI: 18.2-119.3 hours), midazolam (MD: 10.2; 95% CI: 7.7-12.7 hours) and propofol (MD: 3.4; 95% CI: 0.9-5.9 hours). Compared with dexmedetomidine, midazolam was associated with significantly increased risk of delirium (OR: 2.47; 95% CI: 1.17-5.19). Our study shows that dexmedetomidine has potential benefits in reducing duration of MV and lowering the risk of delirium.
+AD  - Department of emergency medicine, Sir Run-Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, 310016, China.
+Department of critical care medicine, Jinhua municipal central hospital, Jinhua hospital of Zhejiang university, Zhejiang, P. R. China.
+AN  - 28322337
+AU  - Zhang, Z.
+AU  - Chen, K.
+AU  - Ni, H.
+AU  - Zhang, X.
+AU  - Fan, H.
+C2  - PMC5359583
+DA  - Mar 21
+DB  - Medline
+DO  - 10.1038/srep44979
+DP  - NLM
+ET  - 2017/03/23
+KW  - *Critical Care/methods
+Humans
+Hypnotics and Sedatives/adverse effects/*therapeutic use
+*Intensive Care Units
+Odds Ratio
+Outcome Assessment, Health Care
+Publication Bias
+*Respiration, Artificial
+L1  - internal-pdf://3766382872/Zhang-2017-Sedation of mechanically ventilated.pdf
+N1  - Zhang, Zhongheng
+Chen, Kun
+Ni, Hongying
+Zhang, Xiaoling
+Fan, Haozhe
+eng
+Meta-Analysis
+Review
+Systematic Review
+England
+Sci Rep. 2017 Mar 21;7:44979. doi: 10.1038/srep44979.
+PY  - 2017
+SN  - 2045-2322 (Electronic)
+2045-2322 (Linking)
+SP  - 44979
+ST  - Sedation of mechanically ventilated adults in intensive care unit: a network meta-analysis
+T2  - Sci Rep
+TI  - Sedation of mechanically ventilated adults in intensive care unit: a network meta-analysis
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/28322337
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359583/pdf/srep44979.pdf
+VL  - 7
+ID  - 54
+ER  - 
+
