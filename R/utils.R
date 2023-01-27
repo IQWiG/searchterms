@@ -16,9 +16,12 @@ return_pmids <- function(testset_ref, validationset_ref = NULL, validation_set =
   }
   return(result)
 }
-calculate_z_scores <- function (testset, popset, key) {
+calculate_z_scores <- function (testset, popset_norms, key_testset = "MeSH", key_popset) {
+  key <- eval(key_popset)
+  names(key) <- eval(key_testset)
+
   z_table <- testset %>%
-    left_join(popset, by = key)%>%
+    left_join(popset_norms, by = {{ key }}) %>%
     mutate(#n = sum(frequency, na.rm = T),
       E = n*p,
       var = E*(1-p),

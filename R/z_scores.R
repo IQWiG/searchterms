@@ -18,9 +18,9 @@ z_scores <- function(risfile, risfile_population, load_popset = TRUE,dev_set = F
   testset <- create_MeSH_qualifier_lists(testset)
 
 
-  zscore_freetext <- calculate_z_scores(testset[["freetext"]], popset[["freetext"]], key = "feature")
-  zscore_MeSH <- calculate_z_scores(testset[["MeSH.Terms"]][["MeSH"]], popset[["MeSH.Terms"]], key = "MeSH")
-  zscore_qualifier <- calculate_z_scores(testset[["MeSH.Terms"]][["qualifier"]], popset[["qualifier"]], key = c("MeSH" ="qualifier"))
+  zscore_freetext <- calculate_z_scores(testset[["freetext"]], popset[["freetext"]], key_testset = "feature", key_popset = "feature")
+  zscore_MeSH <- calculate_z_scores(testset[["MeSH.Terms"]][["MeSH"]], popset[["MeSH.Terms"]], key_popset = "MeSH")
+  zscore_qualifier <- calculate_z_scores(testset[["MeSH.Terms"]][["qualifier"]], popset[["qualifier"]], key_popset = "qualifier")
 
   zscore_freetext_csv <- zscore_freetext %>%
     select(feature, frequency, docfreq, E, z, approx_criteria) %>%
@@ -38,7 +38,7 @@ z_scores <- function(risfile, risfile_population, load_popset = TRUE,dev_set = F
             `Approximationskriterium zutreffend?` = approx_criteria)
 
   zscore_qualifier_csv <- zscore_qualifier %>%
-    select(qualifier, frequency, E, z, approx_criteria) %>%
+    select(MeSH, frequency, E, z, approx_criteria) %>%
     rename( "frequenz" = frequency,
             `erwartete frequenz` = E,
             "Z-Score" = z,
