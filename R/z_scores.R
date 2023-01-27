@@ -3,12 +3,11 @@
 #' @param risfile a data frame containing a testset
 #' @param risfile_population a dataframe containing a population set
 #' @param load_popset logical, should internal population set be applied (default) or should a customized population set be calculated
-#' @param MeSH logical, deprecated currently only TRUE available
 #' @param dev_set logical, if testset should be randomly divided into a development and validation set select TRUE?
 #' @param seed should be included, to reproduce a created development set from a previous session
 #'
 #' @returns a list
-z_scores <- function(risfile, risfile_population, load_popset = TRUE, MeSH = TRUE, dev_set = FALSE, seed = NULL){
+z_scores <- function(risfile, risfile_population, load_popset = TRUE,dev_set = FALSE, seed = NULL){
 
   #load population set
   if(load_popset == F){
@@ -16,14 +15,8 @@ z_scores <- function(risfile, risfile_population, load_popset = TRUE, MeSH = TRU
   }
   # calculate frequency table for testset
   testset <- create_testset(risfile, dev_set = dev_set, seed = seed)
+  testset <- create_MeSH_qualifier_lists(testset)
 
-  testset[["MeSH.Terms"]][["qualifier"]]<- testset[["MeSH.Terms"]][["all_keywords"]] %>%
-    filter(MeSH %in% popset[["qualifier"]][["qualifier"]])%>%
-    mutate(n = sum(frequency, na.rm = T))
-
-  testset[["MeSH.Terms"]][["MeSH"]] <-  testset[["MeSH.Terms"]][["all_keywords"]] %>%
-    filter(MeSH %in% popset[["MeSH.Terms"]][["MeSH"]]) %>%
-    mutate(n = sum(frequency, na.rm = T))
 
   zscore_freetext <- calculate_z_scores(testset[["freetext"]], popset[["freetext"]], key = "feature")
   zscore_MeSH <- calculate_z_scores(testset[["MeSH.Terms"]][["MeSH"]], popset[["MeSH.Terms"]], key = "MeSH")
