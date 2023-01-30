@@ -7,6 +7,8 @@
 #' @param seed should be included, to reproduce a created development set from a previous session
 #'
 #' @returns a list
+#' @export
+#' @examples
 z_scores <- function(risfile, risfile_population, load_popset = TRUE,dev_set = FALSE, seed = NULL){
 
   #load population set
@@ -21,28 +23,6 @@ z_scores <- function(risfile, risfile_population, load_popset = TRUE,dev_set = F
   zscore_freetext <- calculate_z_scores(testset[["freetext"]], popset[["freetext"]], key_testset = "feature", key_popset = "feature")
   zscore_MeSH <- calculate_z_scores(testset[["MeSH.Terms"]][["MeSH"]], popset[["MeSH.Terms"]], key_popset = "MeSH")
   zscore_qualifier <- calculate_z_scores(testset[["MeSH.Terms"]][["qualifier"]], popset[["qualifier"]], key_popset = "qualifier")
-
-  zscore_freetext_csv <- zscore_freetext %>%
-    select(feature, frequency, docfreq, E, z, approx_criteria) %>%
-    rename("Wort" = feature,
-           `Anzahl Referenzen` = docfreq,
-           "Wortfrequenz" = frequency,
-           `erwartete frequenz` = E,
-           "Z-Score" = z,
-           `Approximationskriterium zutreffend?` = approx_criteria)
-  zscore_MeSH_csv <- zscore_MeSH %>%
-    select(frequency, E, z, approx_criteria) %>%
-    rename( "frequenz" = frequency,
-            `erwartete frequenz` = E,
-            "Z-Score" = z,
-            `Approximationskriterium zutreffend?` = approx_criteria)
-
-  zscore_qualifier_csv <- zscore_qualifier %>%
-    select(MeSH, frequency, E, z, approx_criteria) %>%
-    rename( "frequenz" = frequency,
-            `erwartete frequenz` = E,
-            "Z-Score" = z,
-            `Approximationskriterium zutreffend?` = approx_criteria)
 
   #revtools::write_bibliography(testset[["validation_set"]],
   #                             filename = paste0(here::here(),
