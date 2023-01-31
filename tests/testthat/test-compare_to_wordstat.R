@@ -11,22 +11,47 @@ test_that("Comparison to Wordstat-files is as expected", {
 
 
 test_that("All tokens from Wordstat are found", {
+joined_results <- create_joined_results()
 
+all_tokens <- joined_results %>%
+    group_by(project) %>%
+    summarise( combined_tokens = length(feature),
+               tokens = length(z)-sum(is.na(z)),
+               tokens_wordstat = length(z_wordstat)-sum(is.na(z_wordstat))) %>%
+    ungroup
+  # add expectation
 })
 
 test_that("All tokens from Wordstat with Z-score >20 are have a Z-score >20", {
+  joined_results <- create_joined_results()
+  z20_ws <- joined_results %>%
+    dplyr::filter(z_wordstat >= 20)
+  z20_r <- joined_results %>%
+    dplyr::filter(z >= 20)
+  z20 <- dplyr::full_join(z20_r, z20_ws, by = c("feature", "project", "z_wordstat", "z"))
 
-})
+  token_count <- z20 %>%
+    group_by(project) %>%
+    summarise( all = length(feature),
+               z = length(z)-sum(is.na(z)),
+               z_wordstat = length(z_wordstat)-sum(is.na(z_wordstat))) %>%
+    ungroup %>%
+    mutate(diff = all - z,
+           overlap = 100 - diff /all*100)
+
+  token_count %>%
+    summarise(`Median Canditates Wordstat` = median(z_wordstat),
+              `SD (Wordstat)` = sd(z_wordstat),
+              `Median Canditates R` = median(z),
+              `SD (R)` = sd(z))
+# add expectation
+  })
 
 test_that("The amount of tokens with Z-score >20 is larger than in Wordstat", {
 
 })
 
-#wrap analysis in tests
 
-#z20_r <- lapply(results, function(x) {x[[c("freetext")]]})
-#names(z20_r) <- NULL
-#
 ##1.	Wie viele Tokens Überschneiden sich bei z>20?
 #z20_r <- z20_r %>%
 #  bind_rows() %>%
