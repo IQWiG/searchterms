@@ -16,5 +16,5 @@ wordstat <- wordstat %>%
   dplyr::select(feature, Z_Score,project) %>%
   dplyr::rename(z_wordstat = Z_Score)
 
-joined_results <- dplyr::full_join(results, wordstat, by = c("feature", "project"))
+joined_results <- full_join(results, wordstat, by = c("feature", "project"))
 }

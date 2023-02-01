@@ -22,9 +22,8 @@ import_wordstats <- function(csv2){
                                              "NULL",
                                              "Z_Score",
                                              "NULL"),
-                               #  encoding = "utf-8"# ,some special characters (like french accents) cause trouble in csv-files created by Excel, e.g.import_wordstats(wordstat_files[4])[1031,]
+                                 #encoding = "utf-8" #some special characters (like french accents) cause trouble in csv-files created by Excel, e.g.import_wordstats(wordstat_files[4])[1031,]
   )
-
   # change tokens to lower case
   zscore_wordstat$feature <- tolower(zscore_wordstat$feature)
 
@@ -37,10 +36,10 @@ import_wordstats <- function(csv2){
 }
 
 #import all wordstat_files and create a list
-wordstat_files <- list.files(paste0(
-  #insert file-path,
+wordstat_files <- list.files(paste0( "C:/Users/kapp/Desktop/GA22-02/5-Evaluation/Code/Data/Frequencies/Wordstat/"
   ),pattern = "*.csv", full.names = T)
 
 wordstat_list <- sapply(wordstat_files,import_wordstats, simplify = F, USE.NAMES =T)
 wordstat_names <- gregexpr("(?<=/)(\\w|-)+(?=\\.)", wordstat_files, perl = T)
 names(wordstat_list) <- regmatches(wordstat_files,wordstat_names)
+saveRDS(wordstat_list, "tests/testthat/fixtures/wordstat_list.rds")
