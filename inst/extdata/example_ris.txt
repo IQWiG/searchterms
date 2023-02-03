@@ -1,0 +1,56 @@
+TY  - JOUR
+AB  - OBJECTIVE: To assess the efficacy and safety of a 24-week course of abatacept in the treatment of active lupus nephritis and to assess the potential of abatacept to induce "clinical tolerance," defined as sustained clinical quiescence of lupus nephritis after discontinuation of immunosuppressive therapy. METHODS: Patients with active lupus nephritis (n = 134) were enrolled in a randomized, double-blind phase II add-on trial in which they received either abatacept or placebo in conjunction with the Euro-Lupus Nephritis Trial regimen of low-dose cyclophosphamide (CYC) followed by azathioprine (AZA). The primary efficacy outcome was the frequency of complete response at week 24. Thereafter, patients who met either complete or partial response criteria continued blinded treatment through week 52. During this phase of the study, subjects in the abatacept treatment group in whom a complete response was achieved at week 24 discontinued immunosuppressive therapy other than prednisone (10 mg/day). RESULTS: There were no statistically significant differences between groups with respect to the primary outcome or any of the secondary outcomes, including measures of safety. A complete response was achieved in 33% of the subjects in the treatment group and in 31% of the subjects in the control group at week 24. Fifty percent of the subjects in the treatment group who met complete response criteria and therefore discontinued immunosuppressive therapy at week 24 maintained their complete response status through week 52. CONCLUSION: The addition of abatacept to a regimen of CYC followed by AZA did not improve the outcome of lupus nephritis at either 24 or 52 weeks. No worrisome safety signals were encountered.
+AN  - 25403681
+C1  - ClinicalTrials.gov/NCT00774852
+C2  - PMC4528976
+C6  - NIHMS630198
+DA  - Nov
+DB  - Medline
+DO  - 10.1002/art.38790
+DP  - NLM
+ET  - 2014/11/19
+IS  - 11
+J2  - Arthritis & rheumatology (Hoboken, N.J.)
+KW  - Abatacept
+Adult
+Antirheumatic Agents
+adverse effects
+therapeutic use
+Cyclophosphamide
+adverse effects
+therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Humans
+Immunoconjugates
+adverse effects
+therapeutic use
+Lupus Nephritis
+drug therapy
+Male
+Time Factors
+Treatment Outcome
+LA  - eng
+N1  - 2326-5205
+ACCESS Trial Group
+N01 AI015416/AI/NIAID NIH HHS/United States
+N01AI15416/AI/NIAID NIH HHS/United States
+UM2 AI117870/AI/NIAID NIH HHS/United States
+Clinical Trial, Phase II
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Arthritis Rheumatol. 2014 Nov;66(11):3096-104. doi: 10.1002/art.38790.
+PY  - 2014
+SN  - 2326-5191 (Print)
+2326-5191
+SP  - 3096-104
+ST  - Treatment of lupus nephritis with abatacept: the Abatacept and Cyclophosphamide Combination Efficacy and Safety Study
+T2  - Arthritis Rheumatol
+TI  - Treatment of lupus nephritis with abatacept: the Abatacept and Cyclophosphamide Combination Efficacy and Safety Study
+VL  - 66
+ID  - 4
+ER  - 

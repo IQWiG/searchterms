@@ -5,7 +5,7 @@
 \alias{Qualifier_Dictionary}
 \title{PubMed Qualifier 2022}
 \format{
-\subsection{\verb{Qualifier Dictionary}}{
+\subsection{\code{Qualifier_Dictionary}}{
 
 A data frame with 76 rows and 1 column:
 \describe{

@@ -4,12 +4,10 @@
 \alias{create_popset}
 \title{Process raw Endnote ris file with PubMed data into population norm set}
 \usage{
-create_popset(risfile, vocabulary = "MeSH")
+create_popset(risfile)
 }
 \arguments{
 \item{risfile}{a RIS file produced with Endnote}
-
-\item{vocabulary}{the name of the controlled vocabularay, usually "MeSH"}
 }
 \value{
 popset a list of objects

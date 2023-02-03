@@ -1,0 +1,88 @@
+PMID- 35158265
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220315
+LR  - 20220531
+IS  - 1532-818X (Electronic)
+IS  - 0196-0709 (Linking)
+VI  - 43
+IP  - 2
+DP  - 2022 Mar-Apr
+TI  - Correlating muscle resection with functional swallow outcomes: An anatomic 
+      framework informed systematic review of the literature.
+PG  - 103386
+LID - S0196-0709(22)00013-8 [pii]
+LID - 10.1016/j.amjoto.2022.103386 [doi]
+AB  - OBJECTIVE: To perform a systematic review of studies reporting swallow-associated 
+      outcomes in patients who received surgery for head and neck cancer (HNC), 
+      informed by an anatomic and physiologic framework of pharyngeal phase of 
+      swallowing (Pearson's dual-sling model). METHODS: PUBMED and Google Scholar 
+      databases were searched for peer-reviewed papers published between 1990 and 2019 
+      using relevant MeSH terms. Exclusion criteria were 1) discussions comparing 
+      reconstruction techniques, 2) case-report/series (n < 10), 3) perspective 
+      articles, 4) papers comparing objective instrumental methods of swallowing 
+      evaluation, 5) animal/cadaver studies, 6) no instrumental or validated swallow 
+      assessment tools used, 7) papers that discuss/include radiotherapy treatment, 8) 
+      systematic reviews, 9) papers that discuss swallow training or rehabilitation 
+      methods. Two investigators reviewed papers meeting inclusion/exclusions criteria. 
+      Muscles resected, anatomic resection site, swallow outcomes, and patient 
+      treatment variables were collected. RESULTS: A total of 115,020 peer-reviewed 
+      papers were identified. 74 papers were relevant to this review, 18 met inclusion 
+      and exclusion criteria, and none discussed surgical impact on the pharyngeal 
+      phase of swallowing using Pearson's dual-sling model. Most papers discussed the 
+      effect of tongue-base, supraglottic, or regional anatomic resection. 
+      Post-surgical resection Follow-up times ranged from 1 to 13 months. 67% of 
+      studies used objective instrumental swallow studies; 22% used patient reported 
+      outcome measures. Follow up time since surgical resection, time to feeding tube 
+      removal, feeding tube present/absent, aspiration severity were used to define 
+      dysphagia endpoints. CONCLUSIONS: To date, no surgical HNC studies have used the 
+      dual-sling mechanism to guide study design, and dysphagia assessment has been 
+      inconsistent. To counsel patients on the effects of surgery on pharyngeal phase 
+      of swallow function, specialists need physiologically grounded research that 
+      correlates muscles resected with consistent measures of swallow function.
+CI  - Published by Elsevier Inc.
+FAU - Chanda, Anindita
+AU  - Chanda A
+AD  - Touro College of Osteopathic Medicine, 60 Prospect Avenue, Middletown, NY 10940, 
+      United States. Electronic address: achanda@student.touro.edu.
+FAU - Krisciunas, Gintas P
+AU  - Krisciunas GP
+AD  - Boston University School of Medicine, 72 E Concord St, Boston, MA 02118, United 
+      States. Electronic address: gintas@bu.edu.
+FAU - Grillone, Gregory A
+AU  - Grillone GA
+AD  - Boston University School of Medicine, 72 E Concord St, Boston, MA 02118, United 
+      States. Electronic address: Gregory.Grillone@bmc.org.
+LA  - eng
+PT  - Journal Article
+PT  - Systematic Review
+DEP - 20220203
+PL  - United States
+TA  - Am J Otolaryngol
+JT  - American journal of otolaryngology
+JID - 8000029
+SB  - IM
+MH  - Deglutition/physiology
+MH  - *Deglutition Disorders/etiology/surgery
+MH  - *Head and Neck Neoplasms/surgery
+MH  - Humans
+MH  - Muscles
+MH  - Tongue
+OTO - NOTNLM
+OT  - Dysphagia
+OT  - Pharyngeal swallow outcomes
+OT  - Tumor resection
+OT  - cancer
+EDAT- 2022/02/15 06:00
+MHDA- 2022/03/16 06:00
+CRDT- 2022/02/14 20:15
+PHST- 2021/12/28 00:00 [received]
+PHST- 2022/01/30 00:00 [accepted]
+PHST- 2022/02/15 06:00 [pubmed]
+PHST- 2022/03/16 06:00 [medline]
+PHST- 2022/02/14 20:15 [entrez]
+AID - S0196-0709(22)00013-8 [pii]
+AID - 10.1016/j.amjoto.2022.103386 [doi]
+PST - ppublish
+SO  - Am J Otolaryngol. 2022 Mar-Apr;43(2):103386. doi: 10.1016/j.amjoto.2022.103386. 
+      Epub 2022 Feb 3.
