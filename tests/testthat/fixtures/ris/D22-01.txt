@@ -1,0 +1,1578 @@
+﻿TY  - JOUR
+AB  - BACKGROUND: The benefit of CT coronary angiography (CTCA) in patients presenting with stable chest pain has not been systematically studied. We aimed to assess the effect of CTCA on the diagnosis, management, and outcome of patients referred to the cardiology clinic with suspected angina due to coronary heart disease. METHODS: In this prospective open-label, parallel-group, multicentre trial, we recruited patients aged 18-75 years referred for the assessment of suspected angina due to coronary heart disease from 12 cardiology chest pain clinics across Scotland. We randomly assigned (1:1) participants to standard care plus CTCA or standard care alone. Randomisation was done with a web-based service to ensure allocation concealment. The primary endpoint was certainty of the diagnosis of angina secondary to coronary heart disease at 6 weeks. All analyses were intention to treat, and patients were analysed in the group they were allocated to, irrespective of compliance with scanning. This study is registered with ClinicalTrials.gov, number NCT01149590. FINDINGS: Between Nov 18, 2010, and Sept 24, 2014, we randomly assigned 4146 (42%) of 9849 patients who had been referred for assessment of suspected angina due to coronary heart disease. 47% of participants had a baseline clinic diagnosis of coronary heart disease and 36% had angina due to coronary heart disease. At 6 weeks, CTCA reclassified the diagnosis of coronary heart disease in 558 (27%) patients and the diagnosis of angina due to coronary heart disease in 481 (23%) patients (standard care 22 [1%] and 23 [1%]; p<0·0001). Although both the certainty (relative risk [RR] 2·56, 95% CI 2·33-2·79; p<0·0001) and frequency of coronary heart disease increased (1·09, 1·02-1·17; p=0·0172), the certainty increased (1·79, 1·62-1·96; p<0·0001) and frequency seemed to decrease (0·93, 0·85-1·02; p=0·1289) for the diagnosis of angina due to coronary heart disease. This changed planned investigations (15% vs 1%; p<0·0001) and treatments (23% vs 5%; p<0·0001) but did not affect 6-week symptom severity or subsequent admittances to hospital for chest pain. After 1·7 years, CTCA was associated with a 38% reduction in fatal and non-fatal myocardial infarction (26 vs 42, HR 0·62, 95% CI 0·38-1·01; p=0·0527), but this was not significant. INTERPRETATION: In patients with suspected angina due to coronary heart disease, CTCA clarifies the diagnosis, enables targeting of interventions, and might reduce the future risk of myocardial infarction. FUNDING: The Chief Scientist Office of the Scottish Government Health and Social Care Directorates funded the trial with supplementary awards from Edinburgh and Lothian's Health Foundation Trust and the Heart Diseases Research Fund.
+AN  - 25788230
+C1  - ClinicalTrials.gov/NCT01149590
+DA  - Jun 13
+DB  - Medline
+DO  - 10.1016/s0140-6736(15)60291-4
+DP  - NLM
+ET  - 2015/03/20
+IS  - 9985
+J2  - Lancet (London, England)
+KW  - Angina, Stable
+diagnosis
+epidemiology
+Coronary Angiography
+Coronary Disease
+diagnosis
+epidemiology
+Coronary Occlusion
+diagnostic imaging
+Echocardiography, Stress
+statistics & numerical data
+Female
+Humans
+Male
+Middle Aged
+Multidetector Computed Tomography
+Myocardial Infarction
+epidemiology
+Prospective Studies
+Scotland
+epidemiology
+LA  - eng
+N1  - 1474-547x
+SCOT-HEART investigators
+WT103782AIA/Wellcome Trust/United Kingdom
+CZH/4/588/Chief Scientist Office/United Kingdom
+103782/Wellcome Trust/United Kingdom
+CH/09/002/British Heart Foundation/United Kingdom
+FS/11/014/British Heart Foundation/United Kingdom
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Lancet. 2015 Jun 13;385(9985):2383-91. doi: 10.1016/S0140-6736(15)60291-4. Epub 2015 Mar 15.
+PY  - 2015
+SN  - 0140-6736
+SP  - 2383-91
+ST  - CT coronary angiography in patients with suspected angina due to coronary heart disease (SCOT-HEART): an open-label, parallel-group, multicentre trial
+T2  - Lancet
+TI  - CT coronary angiography in patients with suspected angina due to coronary heart disease (SCOT-HEART): an open-label, parallel-group, multicentre trial
+VL  - 385
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Limited data exist on how noninvasive testing options compare for evaluating patients with suspected stable coronary artery disease. In this study, we have performed a meta-analysis of randomized controlled trials comparing the use of coronary computed tomographic angiography (CTA) with usual care. METHODS AND RESULTS: We systematically searched databases for randomized clinical trials comparing coronary CTA with usual care for the evaluation of stable chest pain with follow-up for cardiovascular outcomes. The primary outcomes were myocardial infarction and all-cause mortality. We identified 4 randomized clinical trials, including a total of 7403 patients undergoing coronary CTA and 7414 patients undergoing usual care with various functional testing approaches. When compared with usual care, the use of coronary CTA was associated with a significant reduction in the annual rate of myocardial infarction (rate ratio, 0.69; 95% confidence interval, 0.49-0.98; P=0.038), but no difference was found in all-cause mortality. There was a trend toward more invasive coronary angiographies among patients undergoing coronary CTA (odds ratio, 1.33; 95% confidence interval, 0.95-1.84; P=0.09) and higher use of coronary revascularizations (odds ratio, 1.77; 95% confidence interval, 1.14-2.75). Significant heterogeneity for invasive coronary angiography and revascularization was noted, which was attributable to the Scottish Computed Tomography of the HEART (SCOT-HEART) study. We found no difference in the rate of admission for cardiac chest pain (rate ratio, 1.21; 95% confidence interval, 0.95-1.54). CONCLUSIONS: In comparison to usual care, an initial investigation of suspected stable coronary artery disease using coronary CTA resulted in a significant reduction in myocardial infarction, an increased incidence of coronary revascularization, and no effect in all-cause mortality. Future studies should further define whether the potential reduction in myocardial infarction identified justifies the increased resource utilization associated with coronary CTA.
+AD  - From the Center for Clinical and Epidemiological Research, University Hospital and State of Sao Paulo Cancer Institute (ICESP) (M.S.B.) and Heart Institute (C.E.R.), University of Sao Paulo, Sao Paulo, Brazil; Preventive Medicine Center, Hospital Israelita Albert Einstein, Sao Paulo, Brazil (M.S.B.); Department of Medicine (Cardiology Service), Walter Reed National Military Medical Center, Bethesda, MD (E.A.H.); Division of Cardiovascular Medicine, Department of Medicine, University of Michigan, Ann Arbor (V.L.M.); and Non-Invasive Cardiovascular Imaging Program, Departments of Medicine (Cardiovascular Division) and Radiology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA (M.C., M.D.C., R.B.). msbittencourt@mail.harvard.edu.
+From the Center for Clinical and Epidemiological Research, University Hospital and State of Sao Paulo Cancer Institute (ICESP) (M.S.B.) and Heart Institute (C.E.R.), University of Sao Paulo, Sao Paulo, Brazil; Preventive Medicine Center, Hospital Israelita Albert Einstein, Sao Paulo, Brazil (M.S.B.); Department of Medicine (Cardiology Service), Walter Reed National Military Medical Center, Bethesda, MD (E.A.H.); Division of Cardiovascular Medicine, Department of Medicine, University of Michigan, Ann Arbor (V.L.M.); and Non-Invasive Cardiovascular Imaging Program, Departments of Medicine (Cardiovascular Division) and Radiology, Brigham and Women's Hospital and Harvard Medical School, Boston, MA (M.C., M.D.C., R.B.).
+AN  - 27072303
+AU  - Bittencourt, M. S.
+AU  - Hulten, E. A.
+AU  - Murthy, V. L.
+AU  - Cheezum, M.
+AU  - Rochitte, C. E.
+AU  - Di Carli, M. F.
+AU  - Blankstein, R.
+DA  - Apr
+DB  - Medline
+DO  - 10.1161/CIRCIMAGING.115.004419
+DP  - NLM
+ET  - 2016/04/14
+IS  - 4
+KW  - Chest Pain/*diagnostic imaging/mortality
+*Coronary Angiography
+Coronary Artery Disease/*diagnostic imaging/mortality
+Humans
+Randomized Controlled Trials as Topic
+*Tomography, X-Ray Computed
+angina, stable
+chest pain
+coronary angiography
+coronary artery disease
+myocardial infarction
+L1  - internal-pdf://0614493017/Bittencourt_2016_Clinical.pdf
+N1  - Bittencourt, Marcio Sommer
+Hulten, Edward A
+Murthy, Venkatesh L
+Cheezum, Michael
+Rochitte, Carlos E
+Di Carli, Marcelo F
+Blankstein, Ron
+eng
+Meta-Analysis
+Circ Cardiovasc Imaging. 2016 Apr;9(4):e004419. doi: 10.1161/CIRCIMAGING.115.004419.
+PY  - 2016
+SN  - 1942-0080 (Electronic)
+1941-9651 (Linking)
+SP  - e004419
+ST  - Clinical Outcomes After Evaluation of Stable Chest Pain by Coronary Computed Tomographic Angiography Versus Usual Care: A Meta-Analysis
+T2  - Circ Cardiovasc Imaging
+TI  - Clinical Outcomes After Evaluation of Stable Chest Pain by Coronary Computed Tomographic Angiography Versus Usual Care: A Meta-Analysis
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/27072303
+VL  - 9
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Many patients have symptoms suggestive of coronary artery disease (CAD) and are often evaluated with the use of diagnostic testing, although there are limited data from randomized trials to guide care. METHODS: We randomly assigned 10,003 symptomatic patients to a strategy of initial anatomical testing with the use of coronary computed tomographic angiography (CTA) or to functional testing (exercise electrocardiography, nuclear stress testing, or stress echocardiography). The composite primary end point was death, myocardial infarction, hospitalization for unstable angina, or major procedural complication. Secondary end points included invasive cardiac catheterization that did not show obstructive CAD and radiation exposure. RESULTS: The mean age of the patients was 60.8±8.3 years, 52.7% were women, and 87.7% had chest pain or dyspnea on exertion. The mean pretest likelihood of obstructive CAD was 53.3±21.4%. Over a median follow-up period of 25 months, a primary end-point event occurred in 164 of 4996 patients in the CTA group (3.3%) and in 151 of 5007 (3.0%) in the functional-testing group (adjusted hazard ratio, 1.04; 95% confidence interval, 0.83 to 1.29; P=0.75). CTA was associated with fewer catheterizations showing no obstructive CAD than was functional testing (3.4% vs. 4.3%, P=0.02), although more patients in the CTA group underwent catheterization within 90 days after randomization (12.2% vs. 8.1%). The median cumulative radiation exposure per patient was lower in the CTA group than in the functional-testing group (10.0 mSv vs. 11.3 mSv), but 32.6% of the patients in the functional-testing group had no exposure, so the overall exposure was higher in the CTA group (mean, 12.0 mSv vs. 10.1 mSv; P<0.001). CONCLUSIONS: In symptomatic patients with suspected CAD who required noninvasive testing, a strategy of initial CTA, as compared with functional testing, did not improve clinical outcomes over a median follow-up of 2 years. (Funded by the National Heart, Lung, and Blood Institute; PROMISE ClinicalTrials.gov number, NCT01174550.).
+AD  - From the Duke Clinical Research Institute, Duke University School of Medicine, Durham, NC (P.S.D., M.R.P., D.B.M., H.R.A.-K., R.J.D., C.B.F., M.H., A.S.K., M.W.K., E.J.V., E.Y., K.L.L.); Massachusetts General Hospital, Harvard Medical School (U.H., M.H.P.), and Tufts Medical Center, Tufts University School of Medicine (J.E.U.) - both in Boston; New Mexico Heart Institute, Albuquerque (B.C.); Cardiology Associates, Mobile, AL (J.C.); North Dallas Research Associates, Dallas (M.A.K.); Cardiac Study Group, Puyallup, WA (V.M.); and the National Heart, Lung, and Blood Institute, Bethesda, MD (L.S.C.).
+AN  - 25773919
+AU  - Douglas, P. S.
+AU  - Hoffmann, U.
+AU  - Patel, M. R.
+AU  - Mark, D. B.
+AU  - Al-Khalidi, H. R.
+AU  - Cavanaugh, B.
+AU  - Cole, J.
+AU  - Dolor, R. J.
+AU  - Fordyce, C. B.
+AU  - Huang, M.
+AU  - Khan, M. A.
+AU  - Kosinski, A. S.
+AU  - Krucoff, M. W.
+AU  - Malhotra, V.
+AU  - Picard, M. H.
+AU  - Udelson, J. E.
+AU  - Velazquez, E. J.
+AU  - Yow, E.
+AU  - Cooper, L. S.
+AU  - Lee, K. L.
+C1  - ClinicalTrials.gov/NCT01174550
+C2  - PMC4473773
+C6  - NIHMS696948
+DA  - Apr 2
+DB  - Medline
+DO  - 10.1056/NEJMoa1415516
+DP  - NLM
+ET  - 2015/03/17
+IS  - 14
+J2  - The New England journal of medicine
+KW  - Aged
+Angina, Unstable
+epidemiology
+Cardiac Catheterization
+Chest Pain
+etiology
+Coronary Angiography
+adverse effects
+methods
+Coronary Artery Disease
+diagnosis
+Echocardiography, Stress
+adverse effects
+Electrocardiography
+Exercise Test
+Female
+Follow-Up Studies
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Mortality
+Myocardial Infarction
+epidemiology
+Tomography, X-Ray Computed
+LA  - eng
+N1  - 1533-4406
+Douglas, Pamela S
+Hoffmann, Udo
+Patel, Manesh R
+Mark, Daniel B
+Al-Khalidi, Hussein R
+Cavanaugh, Brendan
+Cole, Jason
+Dolor, Rowena J
+Fordyce, Christopher B
+Huang, Megan
+Khan, Muhammad Akram
+Kosinski, Andrzej S
+Krucoff, Mitchell W
+Malhotra, Vinay
+Picard, Michael H
+Udelson, James E
+Velazquez, Eric J
+Yow, Eric
+Cooper, Lawton S
+Lee, Kerry L
+PROMISE Investigators
+R01HL098236/HL/NHLBI NIH HHS/United States
+R01HL098237/HL/NHLBI NIH HHS/United States
+K24 HL113128/HL/NHLBI NIH HHS/United States
+R01 HL098237/HL/NHLBI NIH HHS/United States
+R01 HL098235/HL/NHLBI NIH HHS/United States
+R01HL098235/HL/NHLBI NIH HHS/United States
+R01 HL098236/HL/NHLBI NIH HHS/United States
+R01HL098305/HL/NHLBI NIH HHS/United States
+R01 HL098305/HL/NHLBI NIH HHS/United States
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+N Engl J Med. 2015 Apr 2;372(14):1291-300. doi: 10.1056/NEJMoa1415516. Epub 2015 Mar 14.
+PY  - 2015
+SN  - 0028-4793 (Print)
+0028-4793
+SP  - 1291-300
+ST  - Outcomes of anatomical versus functional testing for coronary artery disease
+T2  - N Engl J Med
+TI  - Outcomes of anatomical versus functional testing for coronary artery disease
+VL  - 372
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Among patients with suspected coronary heart disease (CHD), rates of invasive angiography are considered too high. OBJECTIVE: To test the hypothesis that among patients with suspected CHD, cardiovascular magnetic resonance (CMR)-guided care is superior to National Institute for Health and Care Excellence (NICE) guidelines-directed care and myocardial perfusion scintigraphy (MPS)-guided care in reducing unnecessary angiography. DESIGN, SETTING, AND PARTICIPANTS: Multicenter, 3-parallel group, randomized clinical trial using a pragmatic comparative effectiveness design. From 6 UK hospitals, 1202 symptomatic patients with suspected CHD and a CHD pretest likelihood of 10% to 90% were recruited. First randomization was November 23, 2012; last 12-month follow-up was March 12, 2016. INTERVENTIONS: Patients were randomly assigned (240:481:481) to management according to UK NICE guidelines or to guided care based on the results of CMR or MPS testing. MAIN OUTCOMES AND MEASURES: The primary end point was protocol-defined unnecessary coronary angiography (normal fractional flow reserve >0.8 or quantitative coronary angiography [QCA] showing no percentage diameter stenosis ≥70% in 1 view or ≥50% in 2 orthogonal views in all coronary vessels ≥2.5 mm diameter) within 12 months. Secondary end points included positive angiography, major adverse cardiovascular events (MACEs), and procedural complications. RESULTS: Among 1202 symptomatic patients (mean age, 56.3 years [SD, 9.0]; women, 564 [46.9%] ; mean CHD pretest likelihood, 49.5% [SD, 23.8%]), number of patients with invasive coronary angiography after 12 months was 102 in the NICE guidelines group (42.5% [95% CI, 36.2%-49.0%])], 85 in the CMR group (17.7% [95% CI, 14.4%-21.4%]); and 78 in the MPS group (16.2% [95% CI, 13.0%-19.8%]). Study-defined unnecessary angiography occurred in 69 (28.8%) in the NICE guidelines group, 36 (7.5%) in the CMR group, and 34 (7.1%) in the MPS group; adjusted odds ratio of unnecessary angiography: CMR group vs NICE guidelines group, 0.21 (95% CI, 0.12-0.34, P < .001); CMR group vs the MPS group, 1.27 (95% CI, 0.79-2.03, P = .32). Positive angiography proportions were 12.1% (95% CI, 8.2%-16.9%; 29/240 patients) for the NICE guidelines group, 9.8% (95% CI, 7.3%-12.8%; 47/481 patients) for the CMR group, and 8.7% (95% CI, 6.4%-11.6%; 42/481 patients) for the MPS group. A MACE was reported at a minimum of 12 months in 1.7% of patients in the NICE guidelines group, 2.5% in the CMR group, and 2.5% in the MPS group (adjusted hazard ratios: CMR group vs NICE guidelines group, 1.37 [95% CI, 0.52-3.57]; CMR group vs MPS group, 0.95 [95% CI, 0.46-1.95]). CONCLUSIONS AND RELEVANCE: In patients with suspected angina, investigation by CMR resulted in a lower probability of unnecessary angiography within 12 months than NICE guideline-directed care, with no statistically significant difference between CMR and MPS strategies. There were no statistically significant differences in MACE rates. TRIAL REGISTRATION: Clinicaltrials.gov Identifier: NCT01664858.
+AD  - Division of Biomedical Imaging, Multidisciplinary Cardiovascular Research Centre, Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds, United Kingdom.
+Institute of Cardiovascular and Medical Sciences, College of Medical, Veterinary, and Life Sciences, University of Glasgow, Glasgow, United Kingdom.
+Department of Cardiovascular Sciences, University of Leicester, Leicester, United Kingdom4NIHR Leicester Cardiovascular Biomedical Research Unit, Glenfield Hospital, Leicester, United Kingdom.
+Cardiovascular Magnetic Resonance Unit, National Institute for Health Research Bristol Cardiovascular Biomedical Research Unit, Bristol Heart Institute, University of Bristol, Bristol, United Kingdom.
+Acute Vascular Imaging Centre, Radcliffe Department of Medicine, John Radcliffe Hospital, University of Oxford, Oxford, United Kingdom.
+Cardiovascular Sciences Research Centre, St George's, University of London, London, United Kingdom.
+Centre for Health Economics, University of York, York, United Kingdom.
+Clinical Trials Research Unit, Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, United Kingdom.
+AN  - 27570866
+AU  - Greenwood, J. P.
+AU  - Ripley, D. P.
+AU  - Berry, C.
+AU  - McCann, G. P.
+AU  - Plein, S.
+AU  - Bucciarelli-Ducci, C.
+AU  - Dall'Armellina, E.
+AU  - Prasad, A.
+AU  - Bijsterveld, P.
+AU  - Foley, J. R.
+AU  - Mangion, K.
+AU  - Sculpher, M.
+AU  - Walker, S.
+AU  - Everett, C. C.
+AU  - Cairns, D. A.
+AU  - Sharples, L. D.
+AU  - Brown, J. M.
+C1  - ClinicalTrials.gov/NCT01664858
+DA  - Sep 13
+DB  - Medline
+DO  - 10.1001/jama.2016.12680
+DP  - NLM
+ET  - 2016/08/30
+IS  - 10
+J2  - Jama
+KW  - Aged
+Angina Pectoris
+diagnostic imaging
+etiology
+Coronary Angiography
+adverse effects
+Coronary Artery Disease
+diagnostic imaging
+Coronary Stenosis
+diagnostic imaging
+Coronary Vessels
+diagnostic imaging
+Female
+Humans
+Male
+Middle Aged
+Myocardial Perfusion Imaging
+adverse effects
+Patient Care
+standards
+Practice Guidelines as Topic
+Unnecessary Procedures
+statistics & numerical data
+LA  - eng
+N1  - 1538-3598
+Greenwood, John P
+Ripley, David P
+Berry, Colin
+McCann, Gerry P
+Plein, Sven
+Bucciarelli-Ducci, Chiara
+Dall'Armellina, Erica
+Prasad, Abhiram
+Bijsterveld, Petra
+Foley, James R
+Mangion, Kenneth
+Sculpher, Mark
+Walker, Simon
+Everett, Colin C
+Cairns, David A
+Sharples, Linda D
+Brown, Julia M
+CE-MARC 2 Investigators
+FS/15/54/31639/BHF_/British Heart Foundation/United Kingdom
+MR/N003403/1/MRC_/Medical Research Council/United Kingdom
+FS/14/15/30661/BHF_/British Heart Foundation/United Kingdom
+CDF-2014-07-045/DH_/Department of Health/United Kingdom
+SP/12/1/29062/BHF_/British Heart Foundation/United Kingdom
+FS/13/71/30378/BHF_/British Heart Foundation/United Kingdom
+Journal Article
+Multicenter Study
+Pragmatic Clinical Trial
+Randomized Controlled Trial
+United States
+JAMA. 2016 Sep 13;316(10):1051-60. doi: 10.1001/jama.2016.12680.
+PY  - 2016
+SN  - 0098-7484
+SP  - 1051-60
+ST  - Effect of Care Guided by Cardiovascular Magnetic Resonance, Myocardial Perfusion Scintigraphy, or NICE Guidelines on Subsequent Unnecessary Angiography Rates: The CE-MARC 2 Randomized Clinical Trial
+T2  - Jama
+TI  - Effect of Care Guided by Cardiovascular Magnetic Resonance, Myocardial Perfusion Scintigraphy, or NICE Guidelines on Subsequent Unnecessary Angiography Rates: The CE-MARC 2 Randomized Clinical Trial
+VL  - 316
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Controversies remain regarding clinical outcomes following initial strategies of coronary computed tomography angiography (CCTA) vs usual care with functional testing in patients with suspected coronary artery disease (CAD). HYPOTHESIS: CCTA as initial diagnostic strategy results in better mid- to long-term outcomes than usual care in patients with suspected CAD. METHODS: We searched PubMed, Embase, and Cochrane Library for randomized controlled trials comparing clinical outcomes during ≥6 months' follow-up between initial anatomical testing by CCTA vs usual care with functional testing in patients with suspected CAD. Occurrence of all-cause mortality, nonfatal myocardial infarction (MI), and major adverse cardiovascular events (MACE), and use of invasive coronary angiography and coronary revascularization, were compared between the 2 diagnostic strategies. RESULTS: Twelve trials were included (20 014 patients; mean follow-up, 20.5 months). Patients undergoing CCTA as initial noninvasive testing had lower risk of nonfatal MI compared with those treated with usual care (risk ratio [RR]: 0.70, 95% confidence interval [CI]: 0.52-0.94, P = 0.02). There was a tendency for reduced MACE following initial CCTA strategy, but not for risk of all-cause mortality. Compared with functional testing, the CCTA strategy increased use of invasive coronary angiography (RR: 1.53, 95% CI: 1.12-2.09, P = 0.007) and coronary revascularization (RR: 1.49, 95% CI: 1.11-2.00, P = 0.007). CONCLUSIONS: Anatomical testing with CCTA as the initial noninvasive diagnostic modality in patients with suspected CAD resulted in lower risk of nonfatal MI than usual care with functional testing, at the expense of more frequent use of invasive procedures.
+AD  - Cardiovascular Center and Department of Internal Medicine, Seoul National University Hospital, Seoul, Republic of Korea.
+National Evidence-Based Healthcare Collaborating Agency, Seoul, Republic of Korea.
+Department of Health Administration, Yonsei University Graduate School, Wonju, Republic of Korea.
+AN  - 28914973
+AU  - Hwang, I. C.
+AU  - Choi, S. J.
+AU  - Choi, J. E.
+AU  - Ko, E. B.
+AU  - Suh, J. K.
+AU  - Choi, I.
+AU  - Kang, H. J.
+AU  - Kim, Y. J.
+AU  - Kim, J. Y.
+C2  - PMC6490612
+DA  - Nov
+DB  - Medline
+DO  - 10.1002/clc.22799
+DP  - NLM
+ET  - 2017/09/16
+IS  - 11
+J2  - Clinical cardiology
+KW  - Chi-Square Distribution
+Computed Tomography Angiography
+Coronary Angiography
+methods
+Coronary Artery Disease
+complications
+diagnostic imaging
+mortality
+therapy
+Coronary Vessels
+diagnostic imaging
+Female
+Humans
+Male
+Middle Aged
+Myocardial Infarction
+etiology
+Myocardial Revascularization
+Odds Ratio
+Predictive Value of Tests
+Randomized Controlled Trials as Topic
+Risk Factors
+Time Factors
+Treatment Outcome
+L1  - internal-pdf://0742966098/Hwang_2017_Comparison.pdf
+LA  - eng
+N1  - 1932-8737
+Hwang, In-Chang
+Choi, Sol Ji
+Choi, Ji Eun
+Ko, Eun-Bi
+Suh, Jae Kyung
+Choi, Insun
+Kang, Hyun-Jae
+Kim, Yong-Jin
+Orcid: 0000-0002-1366-432x
+Kim, Joo Youn
+Orcid: 0000-0003-4125-9716
+Journal Article
+Meta-Analysis
+Review
+Anatomical Testing
+Coronary Artery Disease
+Coronary CT Angiography
+Functional Testing
+Clin Cardiol. 2017 Nov;40(11):1129-1138. doi: 10.1002/clc.22799. Epub 2017 Sep 15.
+PY  - 2017
+SN  - 0160-9289 (Print)
+0160-9289
+SP  - 1129-1138
+ST  - Comparison of mid- to long-term clinical outcomes between anatomical testing and usual care in patients with suspected coronary artery disease: A meta-analysis of randomized trials
+T2  - Clin Cardiol
+TI  - Comparison of mid- to long-term clinical outcomes between anatomical testing and usual care in patients with suspected coronary artery disease: A meta-analysis of randomized trials
+VL  - 40
+ID  - 4
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To test the hypothesis that, in the initial evaluation of patients with suspected coronary artery disease (CAD), stress myocardial perfusion imaging (MPI) would result in less downstream testing than coronary computed tomographic angiography (CCTA). METHODS: In this international, randomized trial, mildly symptomatic patients with an intermediate likelihood of having CAD, and asymptomatic patients at intermediate risk of cardiac events, underwent either initial stress-rest MPI or CCTA. The primary outcome was downstream noninvasive or invasive testing at 6 months. Secondary outcomes included cumulative effective radiation dose (ERD) and costs at 12 months. RESULTS: We recruited 303 patients (151 MPI and 152 CTA) from 6 centers in 6 countries. The initial MPI was abnormal in 29% (41/143) and CCTA in 56% (79/141) of patients. Fewer patients undergoing initial stress-rest MPI had further downstream testing at 6 months (adjusted OR 0.51, 95% CI 0.28-0.91, P = 0.023). There was a small increase in the median cumulative ERD with MPI (9.6 vs. 8.8 mSv, P = 0.04), but no difference in costs between the two strategies at 12 months. CONCLUSION: In the management of patients with suspected CAD, a strategy of initial stress MPI is substantially less likely to require further downstream testing than initial testing with CCTA. TRIAL REGISTRATION: clinicaltrials.gov identification number NCT01368770.
+AD  - Department of Cardiology, All India Institute of Medical Sciences, New Delhi, 110029, India. karthik2010@gmail.com.
+Department of Nuclear Medicine, University Medical Centre Ljubljana, Ljubljana, Slovenia.
+Department of Vascular Medicine, University Medical Centre Ljubljana, Ljubljana, Slovenia.
+Indian Institute of Public Health-Delhi, Gurgaon, India.
+Department of Nuclear Medicine, Ignacio Chávez National Institute of Cardiology, Mexico City, Mexico.
+Quanta Diagnóstico & Terapia, Curitiba, Brazil.
+Department of Nuclear Medicine, Faculty Hospital Ostrava, Ostrava, Czech Republic.
+Department of Nuclear Medicine, Ankara University Medical Faculty, Ankara, Turkey.
+Department of Cardiology, All India Institute of Medical Sciences, New Delhi, 110029, India.
+Department of Radiology, Ignacio Chávez National Institute of Cardiology, Mexico City, Mexico.
+Department of Cardiology, Faculty Hospital Ostrava, Ostrava, Czech Republic.
+Department of Radiology, Faculty Hospital Ostrava, Ostrava, Czech Republic.
+Department of Cardiology, Ankara University Medical Faculty, Ankara, Turkey.
+Department of Nuclear Medicine, All India Institute of Medical Sciences, New Delhi, India.
+Department of Cardiac Radiology, All India Institute of Medical Sciences, New Delhi, India.
+Division of Human Health, Department of Nuclear Sciences and Applications, International Atomic Energy Agency, Vienna, Austria.
+AN  - 27796852
+AU  - Karthikeyan, G.
+AU  - Guzic Salobir, B.
+AU  - Jug, B.
+AU  - Devasenapathy, N.
+AU  - Alexanderson, E.
+AU  - Vitola, J.
+AU  - Kraft, O.
+AU  - Ozkan, E.
+AU  - Sharma, S.
+AU  - Purohit, G.
+AU  - Dolenc Novak, M.
+AU  - Meave, A.
+AU  - Trevethan, S.
+AU  - Cerci, R.
+AU  - Zier, S.
+AU  - Gotthardtová, L.
+AU  - Jonszta, T.
+AU  - Altin, T.
+AU  - Soydal, C.
+AU  - Patel, C.
+AU  - Gulati, G.
+AU  - Paez, D.
+AU  - Dondi, M.
+AU  - Kashyap, R.
+C1  - ClinicalTrials.gov/NCT01368770
+C2  - PMC5413523
+DA  - Apr
+DB  - Medline
+DO  - 10.1007/s12350-016-0664-3
+DP  - NLM
+ET  - 2016/11/01
+IS  - 2
+J2  - Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology
+KW  - Computed Tomography Angiography
+methods
+Coronary Angiography
+methods
+Coronary Artery Disease
+diagnostic imaging
+pathology
+Early Diagnosis
+Female
+Heart Function Tests
+methods
+Humans
+Internationality
+Male
+Mass Screening
+methods
+Middle Aged
+Myocardial Perfusion Imaging
+methods
+Observer Variation
+Reproducibility of Results
+Sensitivity and Specificity
+LA  - eng
+N1  - 1532-6551
+Karthikeyan, Ganesan
+Guzic Salobir, Barbara
+Jug, Borut
+Devasenapathy, Niveditha
+Alexanderson, Erick
+Vitola, Joao
+Kraft, Otakar
+Ozkan, Elgin
+Sharma, Saket
+Purohit, Gaurav
+Dolenc Novak, Maja
+Meave, Aloha
+Trevethan, Sergio
+Cerci, Rodrigo
+Zier, Sandra
+Gotthardtová, Lucia
+Jonszta, Tomáš
+Altin, Timucin
+Soydal, Cigdem
+Patel, Chetan
+Gulati, Gurpreet
+Paez, Diana
+Dondi, Maurizio
+Kashyap, Ravi
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+*Myocardial perfusion imaging—SPECT
+*computed tomography
+*coronary artery disease
+J Nucl Cardiol. 2017 Apr;24(2):507-517. doi: 10.1007/s12350-016-0664-3. Epub 2016 Oct 28.
+PY  - 2017
+SN  - 1071-3581 (Print)
+1071-3581
+SP  - 507-517
+ST  - Functional compared to anatomical imaging in the initial evaluation of patients with suspected coronary artery disease: An international, multi-center, randomized controlled trial (IAEA-SPECT/CTA study)
+T2  - J Nucl Cardiol
+TI  - Functional compared to anatomical imaging in the initial evaluation of patients with suspected coronary artery disease: An international, multi-center, randomized controlled trial (IAEA-SPECT/CTA study)
+VL  - 24
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The purpose of our study was to determine whether sex affects the predictive value of perfusion and wall motion imaging obtained with real time myocardial contrast echocardiography (RTMCE) when compared with conventional stress echocardiography (CSE). METHODS: We prospectively enrolled 1649 age-matched men and women with intermediate pretest probability of coronary artery disease (CAD) undergoing stress echocardiography for suspicion of CAD. Patients with known CAD were excluded. Those who consented to participate in the study were randomised to undergo either CSE or RTMCE. Events were defined as death, non-fatal myocardial infarction (MI) and need for revascularisation. RESULTS: Median follow-up was 2.6 years (927 women, 722 men). Mean age was 58±13 years in both sexes. There were a total of 62 deaths, 12 MIs and 85 revascularisations with a 2-year event rate of 3.5% (95% CI 2.7% to 4.7%). Male sex was a significant independent predictor of adverse outcome (death, non-fatal MI) in both CSE and RTMCE (CSE HR 2.07, 95% CI 1.07 to 4.02, RTMCE HR 2.14; 95% CI 1.04 to 4.33). Higher 2-year event rates were noted in men in comparison with women after a normal CSE (men 5.4%, women 1.6%, p=0.02), but not after a normal RTMCE (men 5.8%, women 3.7%, p=0.41). Event rates were also significantly higher in men after an abnormal RTMCE (men 34.8%, women 16.4%, p=0.02) but no difference in outcome between sexes was observed after an abnormal CSE (men 17.8%, women 18.6%, p=0.90). CONCLUSIONS: The addition of perfusion imaging with RTMCE improves the predictive value of stress echocardiography in men with no known CAD, but does not improve the predictive value in age-matched women.
+AD  - Department of Internal Medicine, University of Nebraska Medical Center, 983332 Nebraska Medical Center, Omaha, Nebraska, USA.
+College of Public Health Biostatistics, University of Nebraska Medical Center, 984375 Nebraska Medical Center, Omaha, Nebraska, USA.
+Division of Cardiology, Department of Internal Medicine, University of Nebraska Medical Center, 982265 Nebraska Medical Center, Omaha, Nebraska, USA.
+AN  - 25608747
+AU  - Laiq, Z.
+AU  - Smith, L. M.
+AU  - Xie, F.
+AU  - Chamsi-Pasha, M.
+AU  - Porter, T. R.
+DA  - Apr
+DB  - Medline
+DO  - 10.1136/heartjnl-2014-306869
+DP  - NLM
+ET  - 2015/01/23
+IS  - 7
+J2  - Heart (British Cardiac Society)
+KW  - Coronary Artery Disease
+diagnostic imaging
+Echocardiography, Stress
+methods
+Female
+Humans
+Male
+Middle Aged
+Predictive Value of Tests
+Prospective Studies
+Sex Factors
+LA  - eng
+N1  - 1468-201x
+Laiq, Zenab
+Smith, Lynette M
+Xie, Feng
+Chamsi-Pasha, Mohammed
+Porter, Thomas R
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Heart. 2015 Apr;101(7):559-64. doi: 10.1136/heartjnl-2014-306869. Epub 2015 Jan 21.
+PY  - 2015
+SN  - 1355-6037
+SP  - 559-64
+ST  - Differences in patient outcomes after conventional versus real time perfusion stress echocardiography in men versus women: a prospective randomised trial
+T2  - Heart
+TI  - Differences in patient outcomes after conventional versus real time perfusion stress echocardiography in men versus women: a prospective randomised trial
+VL  - 101
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: This study sought to assess the effectiveness, efficiency, and safety of a tiered, comprehensive cardiac computed tomography (CT) protocol in comparison with functional testing. BACKGROUND: Although CT angiography accurately rules out coronary artery disease (CAD), incorporation of CT myocardial perfusion imaging as part of a tiered diagnostic approach could improve the clinical value and efficiency of cardiac CT in the diagnostic work-up of patients with angina pectoris. METHODS: Between July 2013 and November 2015, 268 patients (mean age 58 years; 49% female) with stable angina (mean pre-test probability 54%) were prospectively randomized between cardiac CT and standard guideline-directed functional testing (95% exercise electrocardiography). The tiered cardiac CT protocol included a calcium scan, followed by CT angiography if calcium was detected. Patients with ≥50% stenosis on CT angiography underwent CT myocardial perfusion imaging. RESULTS: By 6 months, the primary endpoint, the rate of invasive coronary angiograms without a European Society of Cardiology class I indication for revascularization, was lower in the CT group than in the functional testing group (2 of 130 [1.5%] vs. 10 of 138 [7.2%]; p = 0.035), whereas the proportion of invasive angiograms with a revascularization indication was higher (88% vs. 50%; p = 0.017). The median duration until the final diagnosis was 0 (0 of 0) days in the CT group and 0 (0 of 17) in the functional testing group (p < 0.001). Overall, 13% of patients randomized to CT required further testing, compared with 37% in the functional testing group (p < 0.001). The adverse event rate was similar (3% vs. 3%; p = 1.000), although the median cumulative radiation dose was higher for the CT group (3.1 mSv [interquartile range: 1.6 to 7.8] vs. 0 mSv [interquartile range: 0.0 to 7.1]; p < 0.001). CONCLUSIONS: In patients with suspected stable CAD, a tiered cardiac CT protocol with dynamic perfusion imaging offers a fast and efficient alternative to functional testing. (Comprehensive Cardiac CT Versus Exercise Testing in Suspected Coronary Artery Disease 2 [CRESCENT2]; NCT02291484).
+AD  - Department of Cardiology, Erasmus University Medical Center, Rotterdam, the Netherlands; Department of Radiology, Erasmus University Medical Center, Rotterdam, the Netherlands. Electronic address: m.m.lubbers@erasmusmc.nl.
+Department of Cardiology, Erasmus University Medical Center, Rotterdam, the Netherlands; Department of Radiology, Erasmus University Medical Center, Rotterdam, the Netherlands.
+Department of Cardiology, Albert Schweitzer Ziekenhuis, Dordrecht, the Netherlands.
+Department of Cardiology, Maasstad Ziekenhuis, Rotterdam, the Netherlands.
+Department of Cardiology, Maastricht University Medical Center, Maastricht, the Netherlands.
+Department of Cardiology, Erasmus University Medical Center, Rotterdam, the Netherlands.
+Department of Radiology, Albert Schweitzer Ziekenhuis, Dordrecht, the Netherlands.
+Department of Radiology, Maasstad Ziekenhuis, Rotterdam, the Netherlands.
+Department of Radiology, Maastricht University Medical Center, Maastricht, the Netherlands.
+Department of Radiology, Erasmus University Medical Center, Rotterdam, the Netherlands.
+Department of Cardiology, Erasmus University Medical Center, Rotterdam, the Netherlands; Department of Radiology, Erasmus University Medical Center, Rotterdam, the Netherlands; Stanford Cardiovascular Institute, Stanford University, Palo Alto, California.
+AN  - 29248657
+AU  - Lubbers, M.
+AU  - Coenen, A.
+AU  - Kofflard, M.
+AU  - Bruning, T.
+AU  - Kietselaer, B.
+AU  - Galema, T.
+AU  - Kock, M.
+AU  - Niezen, A.
+AU  - Das, M.
+AU  - van Gent, M.
+AU  - van den Bos, E. J.
+AU  - van Woerkens, L.
+AU  - Musters, P.
+AU  - Kooij, S.
+AU  - Nous, F.
+AU  - Budde, R.
+AU  - Hunink, M.
+AU  - Nieman, K.
+C1  - ClinicalTrials.gov/NCT02291484
+DA  - Nov
+DB  - Medline
+DO  - 10.1016/j.jcmg.2017.10.010
+DP  - NLM
+ET  - 2017/12/19
+IS  - 11
+J2  - JACC. Cardiovascular imaging
+KW  - Aged
+Computed Tomography Angiography
+Coronary Angiography
+Coronary Artery Disease
+diagnostic imaging
+physiopathology
+therapy
+Coronary Circulation
+Coronary Stenosis
+diagnostic imaging
+physiopathology
+therapy
+Coronary Vessels
+diagnostic imaging
+physiopathology
+Electrocardiography
+Exercise Test
+Female
+Humans
+Male
+Middle Aged
+Myocardial Perfusion Imaging
+methods
+Myocardial Revascularization
+Netherlands
+Predictive Value of Tests
+Prognosis
+Prospective Studies
+Severity of Illness Index
+Tomography, X-Ray Computed
+LA  - eng
+N1  - 1876-7591
+Lubbers, Marisa
+Coenen, Adriaan
+Kofflard, Marcel
+Bruning, Tobias
+Kietselaer, Bas
+Galema, Tjebbe
+Kock, Marc
+Niezen, Andre
+Das, Marco
+van Gent, Marco
+van den Bos, Ewout-Jan
+van Woerkens, Leon
+Musters, Paul
+Kooij, Suze
+Nous, Fay
+Budde, Ricardo
+Hunink, Miriam
+Nieman, Koen
+Comparative Study
+Journal Article
+Multicenter Study
+Pragmatic Clinical Trial
+Research Support, Non-U.S. Gov't
+United States
+*CT calcium scan
+*CT myocardial perfusion imaging
+*coronary CT angiography
+*diagnostic testing
+*functional testing
+*stable angina
+JACC Cardiovasc Imaging. 2018 Nov;11(11):1625-1636. doi: 10.1016/j.jcmg.2017.10.010. Epub 2017 Dec 13.
+PY  - 2018
+SN  - 1876-7591
+SP  - 1625-1636
+ST  - Comprehensive Cardiac CT With Myocardial Perfusion Imaging Versus Functional Testing in Suspected Coronary Artery Disease: The Multicenter, Randomized CRESCENT-II Trial
+T2  - JACC Cardiovasc Imaging
+TI  - Comprehensive Cardiac CT With Myocardial Perfusion Imaging Versus Functional Testing in Suspected Coronary Artery Disease: The Multicenter, Randomized CRESCENT-II Trial
+VL  - 11
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - AIMS: To compare the effectiveness and safety of a cardiac computed tomography (CT) algorithm with functional testing in patients with symptoms suggestive of coronary artery disease (CAD). METHODS AND RESULTS: Between April 2011 and July 2013, 350 patients with stable angina, referred to the outpatient clinic of four Dutch hospitals, were prospectively randomized between cardiac CT and functional testing (2 : 1 ratio). The tiered cardiac CT protocol included a calcium scan followed by CT angiography if the Agatston calcium score was between 1 and 400. Patients with test-specific contraindications were not excluded from study participation. By 1 year, fewer patients randomized to cardiac CT reported anginal complaints (P = 0.012). The cumulative radiation dose was slightly higher in the CT group (6.6 ± 8.7 vs. 6.1 ± 9.3 mSv; P < 0.0001). After 1.2 years, event-free survival was 96.7% for patients randomized to CT and 89.8% for patients randomized to functional testing (P = 0.011). After CT, the final diagnosis was established sooner (P < 0.0001), and additional downstream testing was required less frequently (25 vs. 53%, P < 0.0001), resulting in lower cumulative diagnostic costs (€369 vs. €440; P < 0.0001). CONCLUSION: For patients with suspected stable CAD, a tiered cardiac CT protocol offers an effective and safe alternative to functional testing. Incorporating the calcium scan into the diagnostic workup was safe and lowered diagnostic expenses and radiation exposure.
+AD  - Department of Cardiology, Erasmus Medical Center, Room Ca-207a, s-Gravendijkwal 230, 3015 CE Rotterdam, The Netherlands Department of Radiology, Erasmus Medical Center, Rotterdam, The Netherlands m.m.lubbers@erasmusmc.nl.
+Department of Cardiology, Erasmus Medical Center, Room Ca-207a, s-Gravendijkwal 230, 3015 CE Rotterdam, The Netherlands Department of Radiology, Erasmus Medical Center, Rotterdam, The Netherlands.
+Department of Cardiology, Erasmus Medical Center, Room Ca-207a, s-Gravendijkwal 230, 3015 CE Rotterdam, The Netherlands.
+Department of Cardiology, Sint Franciscus Gasthuis, Rotterdam, The Netherlands.
+Department of Cardiology, Maasstad Hospital, Rotterdam, The Netherlands.
+Department of Cardiology, Haven Hospital, Rotterdam, The Netherlands.
+Department of Radiology, Erasmus Medical Center, Rotterdam, The Netherlands.
+Department of Radiology, Maasstad Hospital, Rotterdam, The Netherlands.
+AN  - 26746631
+AU  - Lubbers, M.
+AU  - Dedic, A.
+AU  - Coenen, A.
+AU  - Galema, T.
+AU  - Akkerhuis, J.
+AU  - Bruning, T.
+AU  - Krenning, B.
+AU  - Musters, P.
+AU  - Ouhlous, M.
+AU  - Liem, A.
+AU  - Niezen, A.
+AU  - Hunink, M.
+AU  - de Feijter, P.
+AU  - Nieman, K.
+DA  - Apr 14
+DB  - Medline
+DO  - 10.1093/eurheartj/ehv700
+DP  - NLM
+ET  - 2016/01/10
+IS  - 15
+J2  - European heart journal
+KW  - Computed Tomography Angiography
+methods
+Coronary Artery Disease
+diagnostic imaging
+physiopathology
+therapy
+Electrocardiography
+Exercise Test
+methods
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Myocardial Revascularization
+statistics & numerical data
+Radiation Dosage
+Risk Factors
+Surveys and Questionnaires
+Treatment Outcome
+Vascular Calcification
+diagnostic imaging
+physiopathology
+therapy
+LA  - eng
+N1  - 1522-9645
+Lubbers, Marisa
+Dedic, Admir
+Coenen, Adriaan
+Galema, Tjebbe
+Akkerhuis, Jurgen
+Bruning, Tobias
+Krenning, Boudewijn
+Musters, Paul
+Ouhlous, Mohamed
+Liem, Ahno
+Niezen, Andre
+Hunink, Miriam
+de Feijter, Pim
+Nieman, Koen
+Comparative Study
+Journal Article
+Multicenter Study
+Pragmatic Clinical Trial
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+CT calcium scan
+Clinical trials
+Coronary CT angiography
+Diagnostic testing
+Functional testing
+Stable angina
+Eur Heart J. 2016 Apr 14;37(15):1232-43. doi: 10.1093/eurheartj/ehv700. Epub 2016 Jan 7.
+PY  - 2016
+SN  - 0195-668x
+SP  - 1232-43
+ST  - Calcium imaging and selective computed tomography angiography in comparison to functional testing for suspected coronary artery disease: the multicentre, randomized CRESCENT trial
+T2  - Eur Heart J
+TI  - Calcium imaging and selective computed tomography angiography in comparison to functional testing for suspected coronary artery disease: the multicentre, randomized CRESCENT trial
+VL  - 37
+ID  - 8
+ER  - 
+
+TY  - JOUR
+AB  - AIMS: To determine the symptomatic and prognostic differences resulting from a novel diagnostic pathway based on cardiac computerized tomography (CT) compared with the traditional exercise stress electrocardiography test (EST) in stable chest pain patients. METHODS AND RESULTS: A prospective randomized controlled trial compared selected patient outcomes in EST and cardiac CT coronary angiography groups. Five hundred patients with troponin-negative stable chest pain and without known coronary artery disease were recruited. Patients completed the Seattle Angina Questionnaires (SAQ) at baseline, 3, and 12 months to assess angina symptoms. Patients were also followed for management strategies and clinical events. Over the year 12 patients withdrew, resulting in 245 in the EST cohort and 243 in the CT cohort. There was no significant difference in baseline demographics. The CT arm had a statistical difference in angina stability and quality-of-life domains of the SAQ at 3 and12 months, suggesting less angina compared with the EST arm. In the CT arm, there was more significant disease identified and more revascularizations. Significantly, more inconclusive results were seen in the EST arm with a higher number of additional investigations ordered. There was also a longer mean time to management. There were no differences in major adverse cardiac events between the cohorts. At 1 year in the EST arm, there were more Accident and Emergency (A&E) attendances and cardiac admission. CONCLUSION: Cardiac CT as an index investigation for stable chest pain improved angina symptoms and resulted in fewer investigations and re-hospitalizations compared with EST. CLINICAL TRIAL REGISTRATION: http://www.controlled-trials.com/ISRCTN52480460.
+AD  - Cardiology Department, Ulster Hospital, South Eastern Health and Social Care Trust, Upper Newtownards Road, Dundonald, Belfast BT16 1RH, UK Centre for Vision and Vascular Science, Institute of Clinical Science A, Queen's University Belfast, Royal Victoria Hospital Belfast, Belfast BT126BA, UK mckavanagh@doctors.net.uk.
+Cardiology Department, Ulster Hospital, South Eastern Health and Social Care Trust, Upper Newtownards Road, Dundonald, Belfast BT16 1RH, UK.
+The Northern Ireland Clinical Trials Unit, Education and Research Centre, Royal Hospitals, Belfast BT12 6BA, UK.
+Centre for Vision and Vascular Science, Institute of Clinical Science A, Queen's University Belfast, Royal Victoria Hospital Belfast, Belfast BT126BA, UK.
+Cardiology Department, Ulster Hospital, South Eastern Health and Social Care Trust, Upper Newtownards Road, Dundonald, Belfast BT16 1RH, UK Centre for Vision and Vascular Science, Institute of Clinical Science A, Queen's University Belfast, Royal Victoria Hospital Belfast, Belfast BT126BA, UK.
+AN  - 25473041
+AU  - McKavanagh, P.
+AU  - Lusk, L.
+AU  - Ball, P. A.
+AU  - Verghis, R. M.
+AU  - Agus, A. M.
+AU  - Trinick, T. R.
+AU  - Duly, E.
+AU  - Walls, G. M.
+AU  - Stevenson, M.
+AU  - James, B.
+AU  - Hamilton, A.
+AU  - Harbinson, M. T.
+AU  - Donnelly, P. M.
+C1  - Isrctn/isrctn52480460
+DA  - Apr
+DB  - Medline
+DO  - 10.1093/ehjci/jeu284
+DP  - NLM
+ET  - 2014/12/05
+IS  - 4
+J2  - European heart journal. Cardiovascular Imaging
+KW  - Aged
+Chest Pain
+diagnosis
+Coronary Angiography
+methods
+Coronary Artery Disease
+diagnosis
+therapy
+Electrocardiography
+methods
+Exercise Test
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Predictive Value of Tests
+Prognosis
+Prospective Studies
+Risk Factors
+Sensitivity and Specificity
+Tomography, X-Ray Computed
+methods
+Treatment Outcome
+LA  - eng
+N1  - 2047-2412
+McKavanagh, P
+Lusk, L
+Ball, P A
+Verghis, R M
+Agus, A M
+Trinick, T R
+Duly, E
+Walls, G M
+Stevenson, M
+James, B
+Hamilton, A
+Harbinson, M T
+Donnelly, P M
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+cardiac computerized tomography
+exercise stress electrocardiogram
+stable chest pain
+Eur Heart J Cardiovasc Imaging. 2015 Apr;16(4):441-8. doi: 10.1093/ehjci/jeu284. Epub 2014 Dec 3.
+PY  - 2015
+SN  - 2047-2404
+SP  - 441-8
+ST  - A comparison of cardiac computerized tomography and exercise stress electrocardiogram test for the investigation of stable chest pain: the clinical results of the CAPP randomized prospective trial
+T2  - Eur Heart J Cardiovasc Imaging
+TI  - A comparison of cardiac computerized tomography and exercise stress electrocardiogram test for the investigation of stable chest pain: the clinical results of the CAPP randomized prospective trial
+VL  - 16
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Clinical outcomes and resource utilization after coronary computed tomography angiography (CTA) versus myocardial perfusion single-photon emission CT (MPS) in patients with stable angina and suspected coronary artery disease (CAD) has not been examined. OBJECTIVE: We determined the near-term clinical effect and resource utilization after cardiac CTA compared with MPS. METHODS: We randomly assigned 180 patients (age, 57.3 ± 9.8 years; 50.6% men) presenting with stable chest pain and suspected CAD at 2 sites to initial diagnostic evaluation by coronary CTA (n = 91) or MPS (n = 89). The primary outcome was near-term angina-specific health status; the secondary outcomes were incident medical and invasive treatments for CAD, CAD health care costs, and estimated radiation dose. RESULTS: No patients experienced myocardial infarction or death with 98.3% follow-up at 55 ± 34 days. Both arms experienced comparable improvements in angina-specific health status. Patients who received coronary CTA had increased incident aspirin (22% vs 8%; P = 0.04) and statin (7% vs -3.5%; P = 0.03) use, similar rates of CAD-related hospitalization, invasive coronary angiography, noninvasive cardiac imaging tests, and increased revascularization (8% vs 1%; P = 0.03). Coronary CTA had significantly lower total costs ($781.08 [interquartile range (IQR), $367.80-$4349.48] vs $1214.58 [IQR, $978.02-$1569.40]; P < 0.001) with no difference in induced costs. Coronary CTA had a significantly lower total estimated effective radiation dose (7.4 mSv [IQR, 5.0-14.0 mSv] vs 13.3 mSv [IQR, 13.1-38.0 mSv]; P < 0.0001) with no difference in induced radiation. CONCLUSION: In a pilot randomized controlled trial, patients with stable CAD undergoing coronary CTA and MPS experience comparable improvements in near-term angina-related quality of life. Compared with MPS, coronary CTA evaluation is associated with more aggressive medical therapy, increased coronary revascularization, lower total costs, and lower effective radiation dose.
+AD  - Heart Institute, Division of Cardiology, Cedars Sinai Medical Center, Los Angeles, CA, USA.
+AN  - 22732201
+AU  - Min, J. K.
+AU  - Koduru, S.
+AU  - Dunning, A. M.
+AU  - Cole, J. H.
+AU  - Hines, J. L.
+AU  - Greenwell, D.
+AU  - Biga, C.
+AU  - Fanning, G.
+AU  - LaBounty, T. M.
+AU  - Gomez, M.
+AU  - Horowitz, J. M.
+AU  - Hadimitzsky, M.
+AU  - Hausleiter, J.
+AU  - Callister, T. Q.
+AU  - Rosanski, A. R.
+AU  - Shaw, L. J.
+AU  - Berman, D. S.
+AU  - Lin, F. Y.
+DA  - Jul-Aug
+DB  - Medline
+DO  - 10.1016/j.jcct.2012.06.002
+DP  - NLM
+ET  - 2012/06/27
+IS  - 4
+J2  - Journal of cardiovascular computed tomography
+KW  - Aged
+Angina, Stable
+diagnosis
+diagnostic imaging
+economics
+physiopathology
+therapy
+Coronary Angiography
+economics
+methods
+Coronary Artery Disease
+diagnosis
+diagnostic
+imaging
+economics
+physiopathology
+therapy
+Coronary Circulation
+Female
+Health Care Costs
+Health Status
+Humans
+Logistic Models
+Male
+Middle Aged
+Multimodal Imaging
+economics
+Myocardial Perfusion Imaging
+economics
+methods
+Pilot Projects
+Positron-Emission Tomography
+Predictive Value of Tests
+Prognosis
+Prospective Studies
+Quality of Life
+Radiation Dosage
+Time Factors
+Tomography, X-Ray Computed
+economics
+United States
+LA  - eng
+N1  - 1876-861x
+Min, James K
+Koduru, Sunaina
+Dunning, Allison M
+Cole, Jason H
+Hines, Jerome L
+Greenwell, Dawn
+Biga, Cathie
+Fanning, Gayle
+LaBounty, Troy M
+Gomez, Millie
+Horowitz, James M
+Hadimitzsky, Martin
+Hausleiter, Jorg
+Callister, Tracy Q
+Rosanski, Alan R
+Shaw, Leslee J
+Berman, Daniel S
+Lin, Fay Y
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Cardiovasc Comput Tomogr. 2012 Jul-Aug;6(4):274-83. doi: 10.1016/j.jcct.2012.06.002. Epub 2012 Jun 11.
+PY  - 2012
+SN  - 1876-861x
+SP  - 274-83
+ST  - Coronary CT angiography versus myocardial perfusion imaging for near-term quality of life, cost and radiation exposure: a prospective multicenter randomized pilot trial
+T2  - J Cardiovasc Comput Tomogr
+TI  - Coronary CT angiography versus myocardial perfusion imaging for near-term quality of life, cost and radiation exposure: a prospective multicenter randomized pilot trial
+VL  - 6
+ID  - 18
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND/OBJECTIVES: The clinical approach to suspected or established coronary artery disease (CAD) has been revolutionized in the last few decades by coronary computed tomography (coroCT). Yet, uncertainty persists on its comparative diagnostic and clinical effectiveness. We conducted a systematic review on randomized controlled trials (RCTs) of coroCT. METHODS: We searched RCTs in PubMed and The Cochrane Library, extracting as outcomes of interest long-term rates of death, myocardial infarction, revascularization, and invasive coronary angiography. Effects were estimated with risk ratios (RR) and 95% confidence intervals. RESULTS: A total of 11 trials were included, with 19,957 patients followed for a median of 6months. One trial focused on screening, 3 on stable CAD, and 7 on acute CAD. Meta-analysis showed that coroCT was associated with a trend toward fewer deaths or myocardial infarctions (RR=0.84 [0.70-1.01]) whereas no significant difference was found for the risk of death (RR=0.91 [0.71-1.18]). Conversely, the risk of myocardial infarction tended to be lower with coroCT at the overall analysis (RR=0.77 [0.59-1.02]), and this effect reached statistical significance in studies focusing on subjects with stable CAD (RR=0.69 [0.49-0.99]). These potential benefits were offset (or mediated) by a significant albeit modest increase in the need for invasive angiography (RR=1.36 [1.08-1.72]), and ensuing coronary revascularization (RR=1.76 [1.29-2.40]). CONCLUSIONS: According to the current evidence base, coroCT is associated with an increased usage of invasive angiography and coronary revascularization when compared to standard of care, with possible benefits on nonfatal myocardial infarction, but without significant benefits on death or the composite of death or myocardial infarction.
+AD  - Service of Nuclear Cardiology, Madonna della Fiducia Clinic, Rome, Italy; Ostia Radiologica, Rome, Italy; ETISAN, Rome, Italy.
+Division of Cardiology, Catholic University, Rome, Italy.
+Department of Medico-Surgical Sciences and Biotechnologies, Sapienza University of Rome, Latina, Italy.
+Department of Medico-Surgical Sciences and Biotechnologies, Sapienza University of Rome, Latina, Italy; Department of AngioCardioNeurology, IRCCS Neuromed, Pozzilli, Italy.
+Division of Radiology, University of Rome, Rome, Italy.
+Unità Operativa di Interventistica Cardiovascolare, Presidio Ospedaliero Pineta Grande, Castel Volturno, Italy; Unità Operativa di Emodinamica, Casa di Salute Santa Lucia, San Giuseppe Vesuviano, Italy.
+Department of Medico-Surgical Sciences and Biotechnologies, Sapienza University of Rome, Latina, Italy; Department of AngioCardioNeurology, IRCCS Neuromed, Pozzilli, Italy. Electronic address: giuseppe.biondizoccai@uniroma1.it.
+AN  - 27500763
+AU  - Nudi, F.
+AU  - Lotrionte, M.
+AU  - Biasucci, L. M.
+AU  - Peruzzi, M.
+AU  - Marullo, A. G. M.
+AU  - Frati, G.
+AU  - Valenti, V.
+AU  - Giordano, A.
+AU  - Biondi-Zoccai, G.
+DA  - Nov 1
+DB  - Medline
+DO  - 10.1016/j.ijcard.2016.07.269
+DP  - NLM
+ET  - 2016/08/09
+J2  - International journal of cardiology
+KW  - Coronary Angiography
+adverse effects
+standards
+Coronary Artery Disease
+diagnostic imaging
+mortality
+Humans
+Mortality
+trends
+Randomized Controlled Trials as Topic
+methods
+standards
+Tomography, X-Ray Computed
+adverse effects
+standards
+Treatment Outcome
+L1  - internal-pdf://1436916585/Nudi_2016_Comparative.pdf
+LA  - eng
+N1  - 1874-1754
+Nudi, Francesco
+Lotrionte, Marzia
+Biasucci, Luigi M
+Peruzzi, Mariangela
+Marullo, Antonino G M
+Frati, Giacomo
+Valenti, Valentina
+Giordano, Arturo
+Biondi-Zoccai, Giuseppe
+Comparative Study
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+Netherlands
+Computed tomography
+Coronary artery disease
+Int J Cardiol. 2016 Nov 1;222:352-358. doi: 10.1016/j.ijcard.2016.07.269. Epub 2016 Aug 1.
+PY  - 2016
+SN  - 0167-5273
+SP  - 352-358
+ST  - Comparative safety and effectiveness of coronary computed tomography: Systematic review and meta-analysis including 11 randomized controlled trials and 19,957 patients
+T2  - Int J Cardiol
+TI  - Comparative safety and effectiveness of coronary computed tomography: Systematic review and meta-analysis including 11 randomized controlled trials and 19,957 patients
+VL  - 222
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: The study sought to prospectively compare patient outcome after stress real-time myocardial contrast echocardiography (RTMCE) versus conventional stress echo (CSE), where contrast is used to optimize wall motion (WM) analysis. BACKGROUND: Myocardial perfusion imaging with RTMCE may improve the detection of coronary artery disease (CAD), and predict patient outcome. METHODS: Patients with intermediate to high pre-test probability referred for dobutamine or exercise stress echocardiography were prospectively randomized to either RTMCE or CSE. Definity contrast was used for CSE only when endocardial border delineation was inadequate (63% of studies). Studies were interpreted by either an experienced contrast reviewer (R1; n = 1257), or 4 Level 3 echocardiographers (R2) with basic contrast training (n = 806). Death, nonfatal myocardial infarction (MI), and revascularizations were recorded at follow-up. RESULTS: Follow-up was available in 2,014 patients (median 2.6 years). Mean age was 59 ± 13 years (53% women). An abnormal RTMCE was more frequently observed than an abnormal CSE (p < 0.001), and more frequently resulted in revascularization (p = 0.004). Resting WM abnormalities were also more frequently seen with RTMCE (p < 0.01), and were an independent predictor of death/nonfatal MI (p = 0.005) for RTMCE, but not CSE. The predictive value of a positive study, whether with CSE or RTMCE, was significant for both R1 and R2 reviewers in predicting the combined endpoint, but R1 was better than R2 at predicting patients at risk for death or nonfatal MI. CONCLUSIONS: Perfusion imaging with RTMCE improves the detection of CAD during stress echocardiography, and identifies those more likely to undergo revascularization following an abnormal study.
+AD  - Department of Cardiology, Internal Medicine, University of Nebraska Medical Center, Omaha, Nebraska. Electronic address: trporter@unmc.edu.
+College of Public Health Biostatistics, University of Nebraska Medical Center, Omaha, Nebraska.
+Department of Cardiology, Internal Medicine, University of Nebraska Medical Center, Omaha, Nebraska.
+AN  - 23643501
+AU  - Porter, T. R.
+AU  - Smith, L. M.
+AU  - Wu, J.
+AU  - Thomas, D.
+AU  - Haas, J. T.
+AU  - Mathers, D. H.
+AU  - Williams, E.
+AU  - Olson, J.
+AU  - Nalty, K.
+AU  - Hess, R.
+AU  - Therrien, S.
+AU  - Xie, F.
+DA  - Jun 18
+DB  - Medline
+DO  - 10.1016/j.jacc.2013.04.019
+DP  - NLM
+ET  - 2013/05/07
+IS  - 24
+J2  - Journal of the American College of Cardiology
+KW  - Aged
+Angiography
+methods
+Contrast Media
+pharmacology
+Disease-Free Survival
+Echocardiography
+methods
+Exercise Test
+methods
+Female
+Hemodynamics
+Humans
+Image Processing, Computer-Assisted
+methods
+Male
+Middle Aged
+Movement
+Myocardium
+pathology
+Probability
+Prospective Studies
+Treatment Outcome
+LA  - eng
+N1  - 1558-3597
+Porter, Thomas R
+Smith, Lynette M
+Wu, Juefei
+Thomas, Deepak
+Haas, John T
+Mathers, Daniel H
+Williams, Eric
+Olson, Joan
+Nalty, Kevin
+Hess, Roberta
+Therrien, Stacey
+Xie, Feng
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Am Coll Cardiol. 2013 Jun 18;61(24):2446-2455. doi: 10.1016/j.jacc.2013.04.019. Epub 2013 May 2.
+PY  - 2013
+SN  - 0735-1097
+SP  - 2446-2455
+ST  - Patient outcome following 2 different stress imaging approaches: a prospective randomized comparison
+T2  - J Am Coll Cardiol
+TI  - Patient outcome following 2 different stress imaging approaches: a prospective randomized comparison
+VL  - 61
+ID  - 17
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Exercise electrocardiography (ETT) is frequently used in patients with suspected coronary artery disease (CAD). Single photon emission computed tomography (SPECT) myocardial perfusion imaging (MPI) improves diagnostic stratification. There are no randomized trials comparing ETT and MPI. We hypothesized that first-line MPI would be effective and cost-saving versus ETT. METHODS AND RESULTS: We randomized 457 outpatients with stable chest pain and suspected CAD to either treadmill electrocardiography or MPI. The post-test likelihood incorporated the pretest likelihood and the test result, with clinically driven testing. The primary endpoint was cost to diagnosis based on institutional and National Institute for Clinical Excellence costs. MPI significantly reduced the intermediate post-test likelihood of CAD (30% for ETT vs 3% for MPI, P < .0001) and further investigations (71% for ETT vs 16% for MPI, P < .0001). Despite the reduction in downstream resource utilization after MPI, mean costs were not different between the 2 initial strategies: 490.44 pounds sterling (95% confidence interval, 453.80-527.08) for ETT versus 512.41 pounds sterling (95% confidence interval, 481.41-543.41) for MPI. MPI cost was no different from ETT cost in patients with an intermediate or high pretest likelihood (P = not significant). ETT was less expensive in low-risk patients. CONCLUSIONS: In this study there was no difference in cost to diagnosis between initial ETT and MPI. In low-likelihood patients ETT was less costly, whereas there was no cost difference in intermediate- or high-likelihood patients.
+AD  - Department of Cardiac Research, Northwick Park Hospital, Harrow, England.
+AN  - 17386379
+AU  - Sabharwal, N. K.
+AU  - Stoykova, B.
+AU  - Taneja, A. K.
+AU  - Lahiri, A.
+DA  - Apr
+DB  - Medline
+DO  - 10.1016/j.nuclcard.2006.12.324
+DP  - NLM
+ET  - 2007/03/28
+IS  - 2
+J2  - Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology
+KW  - Aged
+Chest Pain
+diagnosis
+economics
+epidemiology
+etiology
+Coronary Artery Disease
+diagnosis
+economics
+epidemiology
+etiology
+Cost-Benefit Analysis
+Electrocardiography
+economics
+statistics & numerical data
+England
+epidemiology
+Exercise Test
+economics
+statistics & numerical data
+Female
+Health Care Costs
+statistics & numerical data
+Humans
+Male
+Reproducibility of Results
+Sensitivity and Specificity
+Tomography, Emission-Computed, Single-Photon
+economics
+statistics & numerical data
+LA  - eng
+N1  - 1532-6551
+Sabharwal, Nikant K
+Stoykova, Boyka
+Taneja, Anil K
+Lahiri, Avijit
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Nucl Cardiol. 2007 Apr;14(2):174-86. doi: 10.1016/j.nuclcard.2006.12.324.
+PY  - 2007
+SN  - 1071-3581
+SP  - 174-86
+ST  - A randomized trial of exercise treadmill ECG versus stress SPECT myocardial perfusion imaging as an initial diagnostic strategy in stable patients with chest pain and suspected CAD: cost analysis
+T2  - J Nucl Cardiol
+TI  - A randomized trial of exercise treadmill ECG versus stress SPECT myocardial perfusion imaging as an initial diagnostic strategy in stable patients with chest pain and suspected CAD: cost analysis
+VL  - 14
+ID  - 20
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: There is a paucity of randomized trials regarding diagnostic testing in women with suspected coronary artery disease (CAD). It remains unclear whether the addition of myocardial perfusion imaging (MPI) to the standard ECG exercise treadmill test (ETT) provides incremental information to improve clinical decision making in women with suspected CAD. METHODS AND RESULTS: We randomized symptomatic women with suspected CAD, an interpretable ECG, and ≥5 metabolic equivalents on the Duke Activity Status Index to 1 of 2 diagnostic strategies: ETT or exercise MPI. The primary end point was 2-year incidence of major adverse cardiac events, defined as CAD death or hospitalization for an acute coronary syndrome or heart failure. A total of 824 women were randomized to ETT or exercise MPI. For women randomized to ETT, ECG results were normal in 64%, indeterminate in 16%, and abnormal in 20%. By comparison, the exercise MPI results were normal in 91%, mildly abnormal in 3%, and moderate to severely abnormal in 6%. At 2 years, there was no difference in major adverse cardiac events (98.0% for ETT and 97.7% for MPI; P=0.59). Compared with ETT, index testing costs were higher for exercise MPI (P<0.001), whereas downstream procedural costs were slightly lower (P=0.0008). Overall, the cumulative diagnostic cost savings was 48% for ETT compared with exercise MPI (P<0.001). CONCLUSIONS: In low-risk, exercising women, a diagnostic strategy that uses ETT versus exercise MPI yields similar 2-year posttest outcomes while providing significant diagnostic cost savings. The ETT with selective follow-up testing should be considered as the initial diagnostic strategy in symptomatic women with suspected CAD. CLINICAL TRIAL REGISTRATION: http://www.clinicaltrials.gov. Unique identifier: NCT00282711.
+AD  - Emory University, Atlanta, GA 30324, USA. lshaw3@emory.edu
+AN  - 21844080
+AU  - Shaw, L. J.
+AU  - Mieres, J. H.
+AU  - Hendel, R. H.
+AU  - Boden, W. E.
+AU  - Gulati, M.
+AU  - Veledar, E.
+AU  - Hachamovitch, R.
+AU  - Arrighi, J. A.
+AU  - Merz, C. N.
+AU  - Gibbons, R. J.
+AU  - Wenger, N. K.
+AU  - Heller, G. V.
+C1  - ClinicalTrials.gov/NCT00282711
+DA  - Sep 13
+DB  - Medline
+DO  - 10.1161/circulationaha.111.029660
+DP  - NLM
+ET  - 2011/08/17
+IS  - 11
+J2  - Circulation
+KW  - Aged
+Coronary Artery Disease
+diagnosis
+diagnostic imaging
+physiopathology
+Electrocardiography
+methods
+standards
+Exercise Test
+methods
+standards
+Female
+Follow-Up Studies
+Humans
+Middle Aged
+Myocardial Ischemia
+diagnosis
+diagnostic imaging
+physiopathology
+Myocardial Perfusion Imaging
+methods
+standards
+Tomography, Emission-Computed, Single-Photon
+methods
+standards
+Treatment Outcome
+LA  - eng
+N1  - 1524-4539
+Shaw, Leslee J
+Mieres, Jennifer H
+Hendel, Robert H
+Boden, William E
+Gulati, Martha
+Veledar, Emir
+Hachamovitch, Rory
+Arrighi, James A
+Merz, C Noel Bairey
+Gibbons, Raymond J
+Wenger, Nanette K
+Heller, Gary V
+WOMEN Trial Investigators
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Circulation. 2011 Sep 13;124(11):1239-49. doi: 10.1161/CIRCULATIONAHA.111.029660. Epub 2011 Aug 15.
+PY  - 2011
+SN  - 0009-7322
+SP  - 1239-49
+ST  - Comparative effectiveness of exercise electrocardiography with or without myocardial perfusion single photon emission computed tomography in women with suspected coronary artery disease: results from the What Is the Optimal Method for Ischemia Evaluation in Women (WOMEN) trial
+T2  - Circulation
+TI  - Comparative effectiveness of exercise electrocardiography with or without myocardial perfusion single photon emission computed tomography in women with suspected coronary artery disease: results from the What Is the Optimal Method for Ischemia Evaluation in Women (WOMEN) trial
+VL  - 124
+ID  - 19
+ER  - 
+
+TY  - JOUR
+AB  - Objective Coronary computed tomography angiography (CCTA) is a noninvasive diagnostic modality that remains underutilized compared to functional stress testing (ST) for investigating coronary artery disease (CAD). Several patients are misdiagnosed with noncardiac chest pain (CP) that eventually die from a cardiovascular event in subsequent years. We compared CCTA to ST to investigate CP. Methods We searched MEDLINE, PubMed, Cochrane Library, and Embase from January 1, 2007 to July 1, 2018 for randomized controlled trials (RCTs) comparing CCTA to ST in patients who presented with acute or stable CP. We used Review Manager (RevMan) [Computer program] Version 5.3 (Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration, 2014) for review and analysis. Results We included 16 RCTs enrolling 21,210 patients; there were more patients with hyperlipidemia and older patients in the ST arm compared to the CCTA arm. There was no difference in mortality: 103 in the CCTA arm vs. 110 in the ST arm (risk ratio [RR] = 0.93, 95% confidence interval [CI] = 0.71-1.21, P = .58, and I(2) = 0%). A significant reduction was seen in myocardial infarctions (MIs) after CCTA compared to ST: 115 vs. 156 (RR = 0.71, CI = 0.56-0.91, P < .006, I(2)=0%). On subgroup analysis, the CCTA arm had fewer MIs vs. the ST with imaging subgroup (RR = 0.70, CI = 0.54-0.89, P = .004, I(2) = 0%) and stable CP subgroup (RR = 0.66, CI = 0.50-0.88, P = .004, I(2) = 0%). The CCTA arm showed significantly higher invasive coronary angiograms and revascularizations and significantly reduced follow-up testing and recurrent hospital visits. A trend towards increased unstable anginas was seen in the CCTA arm. Conclusions Our analysis showed a significant reduction in downstream MIs, hospital visits, and follow-up testing when CCTA is used to investigate CAD with no difference in mortality.
+AD  - Cardiology/Nephrology, Drexel University College of Medicine, Philadelphia, USA.
+Internal Medicine, Charleston Area Medical Center, Charleston, USA.
+Interventional Radiology, Christiana Hospital, Newark, USA.
+Internal Medicine, Sheikh Zayed Medical College and Hospital, Rahim Yar Khan, PAK.
+Internal Medicine, Yale School of Medicine, New Haven, USA.
+Cardiovascular Diseases, University of Arkansas, Little Rock, USA.
+Medicine, St. Francis Medical Center, Trenton, USA.
+Medicine, Dow University, Karachi, PAK.
+Heart Failure and Transplant, Albert Einstein Hospital, Philadelphia, USA.
+Nephrology, University of Pennsylvania, Philadelphia, USA.
+AN  - 32190493
+AU  - Siddiqui, W. J.
+AU  - Rawala, M. S.
+AU  - Abid, W.
+AU  - Zain, M.
+AU  - Sadaf, M. I.
+AU  - Abbasi, D.
+AU  - Alvarez, C.
+AU  - Mansoor, F.
+AU  - Hasni, S. F.
+AU  - Aggarwal, S.
+C2  - PMC7067363
+DA  - Feb 10
+DB  - PubMed-not-MEDLINE
+DO  - 10.7759/cureus.6941
+DP  - NLM
+ET  - 2020/03/20
+IS  - 2
+KW  - angina
+cardiac imaging
+computed tomography angiography
+coronary cta
+L1  - internal-pdf://4188661094/Siddiqui2020.pdf
+N1  - Siddiqui, Waqas J
+Rawala, Muhammad Shabbir
+Abid, Waqas
+Zain, Muhammad
+Sadaf, Murrium I
+Abbasi, Danish
+Alvarez, Chikezie
+Mansoor, Farah
+Hasni, Syed Farhan
+Aggarwal, Sandeep
+eng
+Cureus. 2020 Feb 10;12(2):e6941. doi: 10.7759/cureus.6941.
+PY  - 2020
+SN  - 2168-8184 (Print)
+2168-8184 (Linking)
+SP  - e6941
+ST  - Is Physiologic Stress Test with Imaging Comparable to Anatomic Examination of Coronary Arteries by Coronary Computed Tomography Angiography to Investigate Coronary Artery Disease? - A Systematic Review and Meta-Analysis
+T2  - Cureus
+TI  - Is Physiologic Stress Test with Imaging Comparable to Anatomic Examination of Coronary Arteries by Coronary Computed Tomography Angiography to Investigate Coronary Artery Disease? - A Systematic Review and Meta-Analysis
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32190493
+VL  - 12
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate differences in downstream testing, coronary revascularisation, and clinical outcomes following non-invasive diagnostic modalities used to detect coronary artery disease. DESIGN: Systematic review and network meta-analysis. DATA SOURCES: Medline, Medline in process, Embase, Cochrane Library for clinical trials, PubMed, Web of Science, SCOPUS, WHO International Clinical Trials Registry Platform, and Clinicaltrials.gov. ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Diagnostic randomised controlled trials comparing non-invasive diagnostic modalities in patients presenting with symptoms suggestive of low risk acute coronary syndrome or stable coronary artery disease. DATA SYNTHESIS: A random effects network meta-analysis synthesised available evidence from trials evaluating the effect of non-invasive diagnostic modalities on downstream testing and patient oriented outcomes in patients with suspected coronary artery disease. Modalities included exercise electrocardiograms, stress echocardiography, single photon emission computed tomography-myocardial perfusion imaging, real time myocardial contrast echocardiography, coronary computed tomographic angiography, and cardiovascular magnetic resonance. Unpublished outcome data were obtained from 11 trials. RESULTS: 18 trials of patients with low risk acute coronary syndrome (n=11 329) and 12 trials of those with suspected stable coronary artery disease (n=22 062) were included. Among patients with low risk acute coronary syndrome, stress echocardiography, cardiovascular magnetic resonance, and exercise electrocardiograms resulted in fewer invasive referrals for coronary angiography than coronary computed tomographic angiography (odds ratio 0.28 (95% confidence interval 0.14 to 0.57), 0.32 (0.15 to 0.71), and 0.53 (0.28 to 1.00), respectively). There was no effect on the subsequent risk of myocardial infarction, but estimates were imprecise. Heterogeneity and inconsistency were low. In patients with suspected stable coronary artery disease, an initial diagnostic strategy of stress echocardiography or single photon emission computed tomography-myocardial perfusion imaging resulted in fewer downstream tests than coronary computed tomographic angiography (0.24 (0.08 to 0.74) and 0.57 (0.37 to 0.87), respectively). However, exercise electrocardiograms yielded the highest downstream testing rate. Estimates for death and myocardial infarction were imprecise without clear discrimination between strategies. CONCLUSIONS: For patients with low risk acute coronary syndrome, an initial diagnostic strategy of stress echocardiography or cardiovascular magnetic resonance is associated with fewer referrals for invasive coronary angiography and revascularisation procedures than non-invasive anatomical testing, without apparent impact on the future risk of myocardial infarction. For suspected stable coronary artery disease, there was no clear discrimination between diagnostic strategies regarding the subsequent need for invasive coronary angiography, and differences in the risk of myocardial infarction cannot be ruled out. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registry no CRD42016049442.
+AD  - Department of Cardiology, Bern University Hospital, Inselspital, Bern, Switzerland.
+Department of Primary Education, University of Ioannina, Ioannina, Greece.
+Leeds Institute of Cardiovascular and Metabolic Medicine, University of Leeds, Leeds, UK.
+Cancer Research Wales Library, Velindre National Health Trust, Cardiff, UK.
+Institute of Social and Preventive Medicine, University of Bern, Bern, Switzerland.
+Applied Health Research Centre, Li Ka Shing Knowledge Institute, St Michael's Hospital, University of Toronto, Toronto, Canada.
+Department of Cardiology, Bern University Hospital, Inselspital, Bern, Switzerland stephan.windecker@insel.ch.
+AN  - 29467161
+AU  - Siontis, G. C.
+AU  - Mavridis, D.
+AU  - Greenwood, J. P.
+AU  - Coles, B.
+AU  - Nikolakopoulou, A.
+AU  - Jüni, P.
+AU  - Salanti, G.
+AU  - Windecker, S.
+C2  - PMC5820645
+DA  - Feb 21
+DB  - Medline
+DO  - 10.1136/bmj.k504
+DP  - NLM
+ET  - 2018/02/23
+J2  - BMJ (Clinical research ed.)
+KW  - Coronary Artery Disease
+diagnosis
+Diagnosis, Differential
+Humans
+Network Meta-Analysis
+Randomized Controlled Trials as Topic
+L1  - internal-pdf://0771355344/Siontis_2018_Outcomes.pdf
+LA  - eng
+N1  - 1756-1833
+Siontis, George Cm
+Mavridis, Dimitris
+Greenwood, John P
+Coles, Bernadette
+Nikolakopoulou, Adriani
+Jüni, Peter
+Salanti, Georgia
+Windecker, Stephan
+SP/12/1/29062/BHF_/British Heart Foundation/United Kingdom
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+BMJ. 2018 Feb 21;360:k504. doi: 10.1136/bmj.k504.
+PY  - 2018
+SN  - 0959-8138 (Print)
+0959-8138
+SP  - k504
+ST  - Outcomes of non-invasive diagnostic modalities for the detection of coronary artery disease: network meta-analysis of diagnostic randomised controlled trials
+T2  - Bmj
+TI  - Outcomes of non-invasive diagnostic modalities for the detection of coronary artery disease: network meta-analysis of diagnostic randomised controlled trials
+VL  - 360
+ID  - 6
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In a prospective, multicenter, randomized controlled trial, 4,146 patients were randomized to receive standard care or standard care plus coronary computed tomography angiography (CCTA). OBJECTIVES: The purpose of this study was to explore the consequences of CCTA-assisted diagnosis on invasive coronary angiography, preventive treatments, and clinical outcomes. METHODS: In post hoc analyses, we assessed changes in invasive coronary angiography, preventive treatments, and clinical outcomes using national electronic health records. RESULTS: Despite similar overall rates (409 vs. 401; p = 0.451), invasive angiography was less likely to demonstrate normal coronary arteries (20 vs. 56; hazard ratios [HRs]: 0.39 [95% confidence interval (CI): 0.23 to 0.68]; p < 0.001) but more likely to show obstructive coronary artery disease (283 vs. 230; HR: 1.29 [95% CI: 1.08 to 1.55]; p = 0.005) in those allocated to CCTA. More preventive therapies (283 vs. 74; HR: 4.03 [95% CI: 3.12 to 5.20]; p < 0.001) were initiated after CCTA, with each drug commencing at a median of 48 to 52 days after clinic attendance. From the median time for preventive therapy initiation (50 days), fatal and nonfatal myocardial infarction was halved in patients allocated to CCTA compared with those assigned to standard care (17 vs. 34; HR: 0.50 [95% CI: 0.28 to 0.88]; p = 0.020). Cumulative 6-month costs were slightly higher with CCTA: difference $462 (95% CI: $303 to $621). CONCLUSIONS: In patients with suspected angina due to coronary heart disease, CCTA leads to more appropriate use of invasive angiography and alterations in preventive therapies that were associated with a halving of fatal and non-fatal myocardial infarction. (Scottish COmputed Tomography of the HEART Trial [SCOT-HEART]; NCT01149590).
+AD  - British Heart Foundation Centre for Cardiovascular Science, University of Edinburgh, Edinburgh, United Kingdom.
+Centre for Population Health Sciences, University of Edinburgh, Edinburgh, United Kingdom.
+Health Economics Research Centre, University of Oxford, Oxford, United Kingdom.
+Institute for Cardiovascular and Medical Sciences, University of Glasgow, Glasgow, United Kingdom.
+Norwich Medical School, University of East Anglia, Norwich, United Kingdom.
+Health Research Institute, University of Limerick, Limerick, Ireland.
+National Health Service, Fife, United Kingdom.
+William Harvey Research Institute, Queen Mary University of London, London, United Kingdom.
+British Heart Foundation Centre for Cardiovascular Science, University of Edinburgh, Edinburgh, United Kingdom. Electronic address: d.e.newby@ed.ac.uk.
+AN  - 27081014
+AU  - Williams, M. C.
+AU  - Hunter, A.
+AU  - Shah, A. S. V.
+AU  - Assi, V.
+AU  - Lewis, S.
+AU  - Smith, J.
+AU  - Berry, C.
+AU  - Boon, N. A.
+AU  - Clark, E.
+AU  - Flather, M.
+AU  - Forbes, J.
+AU  - McLean, S.
+AU  - Roditi, G.
+AU  - van Beek, E. J. R.
+AU  - Timmis, A. D.
+AU  - Newby, D. E.
+C1  - ClinicalTrials.gov/NCT01149590
+C2  - PMC4829708
+DA  - Apr 19
+DB  - Medline
+DO  - 10.1016/j.jacc.2016.02.026
+DP  - NLM
+ET  - 2016/04/16
+IS  - 15
+J2  - Journal of the American College of Cardiology
+KW  - Aged
+Clinical Decision-Making
+Comparative Effectiveness Research
+Coronary Angiography
+economics
+methods
+statistics & numerical data
+Coronary Artery Disease
+complications
+diagnosis
+therapy
+Coronary Vessels
+diagnostic imaging
+Female
+Humans
+Male
+Middle Aged
+Mortality
+Myocardial Infarction
+etiology
+mortality
+prevention & control
+Outcome and Process Assessment, Health Care
+Secondary Prevention
+methods
+statistics & numerical data
+Severity of Illness Index
+Tomography, X-Ray Computed
+economics
+methods
+statistics & numerical data
+LA  - eng
+N1  - 1558-3597
+Williams, Michelle C
+Hunter, Amanda
+Shah, Anoop S V
+Assi, Valentina
+Lewis, Stephanie
+Smith, Joel
+Berry, Colin
+Boon, Nicholas A
+Clark, Elizabeth
+Flather, Marcus
+Forbes, John
+McLean, Scott
+Roditi, Giles
+van Beek, Edwin J R
+Timmis, Adam D
+Newby, David E
+SCOT-HEART Investigators
+FS/11/014/BHF_/British Heart Foundation/United Kingdom
+CZH/4/588/CSO_/Chief Scientist Office/United Kingdom
+WT103782AIA/WT_/Wellcome Trust/United Kingdom
+Wellcome Trust/United Kingdom
+CH/09/002/BHF_/British Heart Foundation/United Kingdom
+MR/N003403/1/MRC_/Medical Research Council/United Kingdom
+MR/K006584/1/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+angina pectoris
+invasive coronary angiography
+myocardial infarction
+preventive therapy
+J Am Coll Cardiol. 2016 Apr 19;67(15):1759-1768. doi: 10.1016/j.jacc.2016.02.026.
+PY  - 2016
+SN  - 0735-1097 (Print)
+0735-1097
+SP  - 1759-1768
+ST  - Use of Coronary Computed Tomographic Angiography to Guide Management of Patients With Coronary Disease
+T2  - J Am Coll Cardiol
+TI  - Use of Coronary Computed Tomographic Angiography to Guide Management of Patients With Coronary Disease
+VL  - 67
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AB  - AIMS: Exercise electrocardiography (ExECG) is widely used in suspected stable angina (SA) as the initial test for the evaluation of coronary artery disease (CAD). We hypothesized that exercise stress echo (ESE) would be efficacious with cost advantage over ExECG when utilized as the initial test. METHODS AND RESULTS: Consecutive patients with suspected SA, without known CAD were randomized into ExECG or ESE. Patients with positive tests were offered coronary angiography (CA) and with inconclusive tests were referred for further investigations. All patients were followed-up for cardiac events (death, myocardial infarction, and unplanned revascularization). Cost to diagnosis of CAD was calculated by adding the cost of all investigations, up to and including CA. In the 194 and 191 patients in the ExECG vs. ESE groups, respectively, pre-test probability of CAD was similar (34 ± 23 vs. 35 ± 25%, P = 0.6). Results of ExECG were: 108 (55.7%) negative, 14 (7.2%) positive, 72 (37.1%) inconclusive and of ESE were 181 (94.8%) negative, 9 (4.7%) positive, 1 (0.5%) inconclusive, respectively. Patients with obstructive CAD following positive ESE vs. Ex ECG were 9/9 vs. 9/14, respectively (P = 0.04). Cost to diagnosis of CAD was £266 for ESE vs. £327 for ExECG (P = 0.005). Over a mean follow-up period of 21 ± 5 months, event rates were similar between the two groups. CONCLUSION: In this first randomized study, ESE was more efficacious and demonstrated superior cost-saving, compared with ExECG when used as the initial investigation for the evaluation of CAD in patients with new-onset suspected SA without known CAD.
+AD  - Department of Cardiovascular Medicine and Institute for Medical Research, Northwick Park Hospital, Harrow, UK.
+Centre for Health Informatics and Multi-Professional Education, University College London, London, UK.
+Department of Cardiovascular Medicine and Institute for Medical Research, Northwick Park Hospital, Harrow, UK roxysenior@cardiac-research.org.
+Cardiovascular, Biomedical Research Unit, Department of Cardiology, Royal Brompton Hospital, Sydney Street, London SW3 6NP, UK.
+Department of Cardiology, Imperial College London, London, UK.
+AN  - 27013248
+AU  - Zacharias, K.
+AU  - Ahmed, A.
+AU  - Shah, B. N.
+AU  - Gurunathan, S.
+AU  - Young, G.
+AU  - Acosta, D.
+AU  - Senior, R.
+DA  - Feb
+DB  - Medline
+DO  - 10.1093/ehjci/jew049
+DP  - NLM
+ET  - 2016/03/26
+IS  - 2
+J2  - European heart journal. Cardiovascular Imaging
+KW  - Adult
+Aged
+Angina, Stable
+diagnosis
+Coronary Artery Disease
+diagnosis
+Coronary Stenosis
+diagnostic imaging
+physiopathology
+Cost-Benefit Analysis
+Diagnosis, Differential
+Echocardiography, Stress
+economics
+methods
+Electrocardiography
+Exercise Test
+economics
+methods
+Female
+Humans
+Male
+Middle Aged
+Predictive Value of Tests
+Prospective Studies
+Risk Assessment
+Sensitivity and Specificity
+LA  - eng
+N1  - 2047-2412
+Zacharias, Konstantinos
+Ahmed, Asrar
+Shah, Benoy N
+Gurunathan, Sothinathan
+Young, Grace
+Acosta, Dionisio
+Senior, Roxy
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+England
+cost
+efficacy
+exercise echocardiography
+exercise electrocardiography
+stable angina
+Eur Heart J Cardiovasc Imaging. 2017 Feb;18(2):195-202. doi: 10.1093/ehjci/jew049. Epub 2016 Mar 24.
+PY  - 2017
+SN  - 2047-2404
+SP  - 195-202
+ST  - Relative clinical and economic impact of exercise echocardiography vs. exercise electrocardiography, as first line investigation in patients without known coronary artery disease and new stable angina: a randomized prospective study
+T2  - Eur Heart J Cardiovasc Imaging
+TI  - Relative clinical and economic impact of exercise echocardiography vs. exercise electrocardiography, as first line investigation in patients without known coronary artery disease and new stable angina: a randomized prospective study
+VL  - 18
+ID  - 12
+ER  - 
+

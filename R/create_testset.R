@@ -1,4 +1,4 @@
-create_testset <- function(risfile, vocabulary = "MeSH", dev_set = FALSE, project_name = TRUE, seed = NULL) {
+create_testset <- function(risfile, dev_set = FALSE, project_name = TRUE, seed = NULL) {
   #!!!!!!!!!!!! PRÜFEN###############################
 
   testset_ref <- read_bibliography(risfile, return_df = F)
@@ -35,7 +35,7 @@ create_testset <- function(risfile, vocabulary = "MeSH", dev_set = FALSE, projec
 
   # attach project name per row
   if (project_name){
-    project_names <- gregexpr("(?<=/)(\\w|-)+(?=\\.)", risfile, perl = T)
+    project_names <- gregexpr("(?<=/|\\\\)(\\w|-)+(?=\\.)", risfile, perl = T)
     project_names <- regmatches(risfile,project_names)
     testset_df$project <- unlist(project_names)
     testset_MeSH[["all_keywords"]]$project <- unlist(project_names)
@@ -57,9 +57,6 @@ create_testset <- function(risfile, vocabulary = "MeSH", dev_set = FALSE, projec
                      "PMIDS" = pmids,
                      "reference.list" = testset_ref,
                      "text_corpus" = testset_corpus)
-  }
-  if(vocabulary != "MeSH"){
-    set_names(testset["MeSH.Terms"], "keywords")
   }
   return(testset)
 }

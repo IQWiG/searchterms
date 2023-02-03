@@ -1,0 +1,2115 @@
+﻿TY  - JOUR
+AB  - Disruption of visual input to one eye during early development leads to marked functional impairments of vision, commonly referred to as amblyopia. A major consequence of amblyopia is the inability to encode binocular disparity information leading to impaired depth perception or stereo acuity. If amblyopia is treated early in life (before 4 years of age), then recovery of normal stereoscopic function is possible. Treatment is rarely undertaken later in life (adulthood) because declining levels of neural plasticity are thought to limit the effectiveness of standard treatments. Here, the authors show that a learning-based therapy, designed to exploit experience-dependent plastic mechanisms, can be used to recover stereoscopic visual function in adults with amblyopia. These cases challenge the long-held dogma that the critical period for visual development and the window for treating amblyopia are one and the same.
+AD  - School of Psychology, The University of Nottingham, University Park, Nottingham, UK. andrew.astle@nottingham.ac.uk
+AN  - 22707543
+AU  - Astle, A. T.
+AU  - McGraw, P. V.
+AU  - Webb, B. S.
+C2  - PMC3062842
+C6  - UKMS49125
+DA  - Feb 23
+DB  - Medline
+DO  - 10.1136/bcr.07.2010.3143
+DP  - NLM
+ET  - 2011/01/01
+J2  - BMJ case reports
+KW  - Adult
+Amblyopia
+therapy
+Humans
+Recovery of Function
+Visual Acuity
+LA  - eng
+N1  - 1757-790x
+Astle, Andrew T
+McGraw, Paul V
+Webb, Ben S
+085222/Wellcome Trust/United Kingdom
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+BMJ Case Rep. 2011 Feb 23;2011:bcr0720103143. doi: 10.1136/bcr.07.2010.3143.
+PY  - 2011
+SN  - 1757-790x
+ST  - Recovery of stereo acuity in adults with amblyopia
+T2  - BMJ Case Rep
+TI  - Recovery of stereo acuity in adults with amblyopia
+VL  - 2011
+ID  - 225
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Although amblyopia is diagnosed in terms of a monocular letter acuity loss, individuals typically present with deficits on a wide range of spatial tasks. Many of these deficits can be collapsed along two basic visual dimensions (visual acuity and contrast sensitivity) that together account for most of the variability in performance of the amblyopic visual system. In this study, this space was exploited, to target the main deficits and fully characterize the pattern of learned visual improvements in adult amblyopic subjects. METHODS: Twenty-six amblyopic subjects (mean age, 39 ±12 years) were trained on one of four tasks, categorized as either visual acuity (letter or grating acuity) or contrast sensitivity (letter or grating contrast) tasks. Performance was measured on all tasks before and after training, to quantify learning along each dimension and generalization to the other dimension. Performance in 35 visually normal subjects (mean, age 24 ± 5 years) was used to establish normal variation in visual performance along each dimension, against which the learned improvements in amblyopic subjects was compared. RESULTS: Training on the contrast sensitivity tasks produced substantial within-task learning and generalization to measures of visual acuity. The learned improvements in performance after training on the letter acuity task were also substantial, but did not generalize to contrast sensitivity. CONCLUSIONS: Mapping the pattern of learning onto the known deficit space for amblyopia enabled the identification of tasks and stimulus configurations that optimized learning, guiding further development of learning-based interventions in this clinical group.
+AD  - Visual Neuroscience Group, School of Psychology, University of Nottingham, Nottingham, United Kingdom. andrew.astle@nottingham.ac.uk
+AN  - 21810976
+AU  - Astle, A. T.
+AU  - Webb, B. S.
+AU  - McGraw, P. V.
+C2  - PMC3207721
+DA  - Sep 14
+DB  - Medline
+DO  - 10.1167/iovs.11-7584
+DP  - NLM
+ET  - 2011/08/04
+IS  - 10
+J2  - Investigative ophthalmology & visual science
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+Contrast Sensitivity
+physiology
+Female
+Humans
+Learning
+physiology
+Male
+Middle Aged
+Neuronal Plasticity
+physiology
+Visual Acuity
+physiology
+Young Adult
+LA  - eng
+N1  - 1552-5783
+Astle, Andrew T
+Webb, Ben S
+McGraw, Paul V
+085222/Wellcome Trust/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+Invest Ophthalmol Vis Sci. 2011 Sep 14;52(10):7195-204. doi: 10.1167/iovs.11-7584.
+PY  - 2011
+SN  - 0146-0404 (Print)
+0146-0404
+SP  - 7195-204
+ST  - The pattern of learned visual improvements in adult amblyopia
+T2  - Invest Ophthalmol Vis Sci
+TI  - The pattern of learned visual improvements in adult amblyopia
+VL  - 52
+ID  - 232
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To identify differences in efficacy between vision-based treatments for improving visual acuity (VA) of the amblyopic eye in persons aged 4-17 years old. DATA SOURCES: Ovid Embase, PubMed (Medline), the Cochrane Library, Vision Cite and Scopus were systematically searched from 1975 to 17 June 2020. METHODS: Two independent reviewers screened search results for randomised controlled trials of vision-based amblyopia treatments that specified change in amblyopic eye VA (logMAR) as the primary outcome measure. Quality was assessed via risk of bias and GRADE (Grading of Recommendations, Assessment, Development, and Evaluations). RESULTS: Of the 3346 studies identified, 36 were included in a narrative synthesis. A random effects meta-analysis (five studies) compared the efficacy of binocular treatments versus patching: mean difference -0.03 logMAR; 95% CI 0.01 to 0.04 (p<0.001), favouring patching. An exploratory study-level regression (18 studies) showed no statistically significant differences between vision-based treatments and a reference group of 2-5 hours of patching. Age, sample size and pre-randomisation optical treatment were not statistically significantly associated with changes in amblyopic eye acuity. A network meta-analysis (26 studies) comparing vision-based treatments to patching 2-5 hours found one statistically significant comparison, namely, the favouring of a combination of two treatment arms comparing combination and binocular treatments, against patching 2-5 hours: standard mean difference: 2.63; 95% CI 1.18 to 4.09. However, this result was an indirect comparison calculated from a single study. A linear regression analysis (17 studies) found a significant relationship between adherence and effect size, but the model did not completely fit the data: regression coefficient 0.022; 95% CI 0.004 to 0.040 (p=0.02). CONCLUSION: We found no clinically relevant differences in treatment efficacy between the treatments included in this review. Adherence to the prescribed hours of treatment varied considerably and may have had an effect on treatment success.
+AD  - Optometry and Vision Science, University of Waterloo, Waterloo, Ontario, Canada.
+Library, University of Waterloo, Waterloo, Ontario, Canada.
+Public Health and Health Systems, University of Waterloo, Waterloo, Ontario, Canada.
+Center for Eye and Vision Research, 17W Science Park, Hong Kong, Hong Kong.
+Liggins Institute, University of Auckland, Auckland, New Zealand.
+AN  - 33912684
+AU  - Brin, T. A.
+AU  - Chow, A.
+AU  - Carter, C.
+AU  - Oremus, M.
+AU  - Bobier, W.
+AU  - Thompson, B.
+C2  - PMC8043000
+DB  - PubMed-not-MEDLINE
+DO  - 10.1136/bmjophth-2020-000657
+DP  - NLM
+ET  - 2021/04/30
+IS  - 1
+J2  - BMJ open ophthalmology
+LA  - eng
+N1  - 2397-3269
+Brin, Taylor Adrian
+Orcid: 0000-0001-7749-5759
+Chow, Amy
+Carter, Caitlin
+Oremus, Mark
+Bobier, William
+Thompson, Benjamin
+Systematic Review
+child health (paediatrics)
+treatment other
+visual perception
+BMJ Open Ophthalmol. 2021 Apr 9;6(1):e000657. doi: 10.1136/bmjophth-2020-000657. eCollection 2021.
+PY  - 2021
+SN  - 2397-3269
+SP  - e000657
+ST  - Efficacy of vision-based treatments for children and teens with amblyopia: a systematic review and meta-analysis of randomised controlled trials
+T2  - BMJ Open Ophthalmol
+TI  - Efficacy of vision-based treatments for children and teens with amblyopia: a systematic review and meta-analysis of randomised controlled trials
+VL  - 6
+ID  - 198
+ER  - 
+
+TY  - JOUR
+AB  - Several studies have compared binocular therapy and patching for the treatment of amblyopia. However, most of them involved a small number of cases and reported controversial results. Thus, the benefit of binocular therapy remains to be confirmed. We conducted a meta-analysis to evaluate the efficacy of binocular therapy versus patching and to testify whether binocular therapy could become supplementary method in children with amblyopia. Randomised controlled trials that evaluated the efficacy of binocular therapy for amblyopia versus patching were identified using PubMed, Embase, Cochrane Library, Ovid, Web of Science, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform. Data screening, extraction and quality assessment were performed independently by two researchers. Six trials were identified and analysed to compare binocular therapy (708 eyes) with patching (664 eyes) for change in best-corrected visual acuity and stereoacuity. Efficacy estimates were evaluated by standard mean difference (SMD) and 95% CI. The best-corrected visual acuity in binocular group was better than that of in patching group (SMD=-0.21 logarithm of the minimum angle of resolution (log MAR), 95% CI of -0.50 to 0.08 log MAR, p=0.003). The results showed statistically significant difference in the change of best-corrected visual acuity between the groups, but not in stereoacuity. Binocular therapy may be a promising treatment of conditions affecting visual acuity, and could be applied as a supplementary method to patching for amblyopia in clinical practice. The present analysis showed that some children with amblyopia may benefit from binocular therapy. Nevertheless, larger randomised controlled clinical trials are required to confirm these findings.
+AD  - Department of Ophthalmology, the First Affiliated Hospital of Soochow University, Suzhou, Jiangsu Province, China.
+AN  - 33718612
+AU  - Chen, C. W.
+AU  - Zhu, Q.
+AU  - Duan, Y. B.
+AU  - Yao, J. Y.
+C2  - PMC7908277
+DB  - PubMed-not-MEDLINE
+DO  - 10.1136/bmjophth-2020-000625
+DP  - NLM
+ET  - 2021/03/16
+IS  - 1
+J2  - BMJ open ophthalmology
+LA  - eng
+N1  - 2397-3269
+Chen, Chun-Wen
+Zhu, Qin
+Duan, Yu-Bing
+Yao, Jing-Yan
+Orcid: 0000-0002-9925-5841
+Journal Article
+Review
+low vision aid
+public health
+treatment medical
+vision
+visual perception
+BMJ Open Ophthalmol. 2021 Feb 24;6(1):e000625. doi: 10.1136/bmjophth-2020-000625. eCollection 2021.
+PY  - 2021
+SN  - 2397-3269
+SP  - e000625
+ST  - Comparison between binocular therapy and patching for treatment of amblyopia: a meta-analysis of randomised controlled trials
+T2  - BMJ Open Ophthalmol
+TI  - Comparison between binocular therapy and patching for treatment of amblyopia: a meta-analysis of randomised controlled trials
+VL  - 6
+ID  - 199
+ER  - 
+
+TY  - JOUR
+AB  - Amblyopia is a developmental abnormality that results in deficits for a wide range of visual tasks, most notably, the reduced ability to see fine details, the loss in contrast sensitivity especially for small objects and the difficulty in seeing objects in clutter (crowding). The primary goal of this study was to evaluate whether crowding can be ameliorated in adults with amblyopia through perceptual learning using a flanked letter identification task that was designed to reduce crowding, and if so, whether the improvements transfer to untrained visual functions: visual acuity, contrast sensitivity and the size of visual span (the amount of information obtained in one fixation). To evaluate whether the improvements following this training task were specific to training with flankers, we also trained another group of adult observers with amblyopia using a single letter identification task that was designed to improve letter contrast sensitivity, not crowding. Following 10,000 trials of training, both groups of observers showed improvements in the respective training task. The improvements generalized to improved visual acuity, letter contrast sensitivity, size of the visual span, and reduced crowding. The magnitude of the improvement for each of these measurements was similar in the two training groups. Perceptual learning regimens aimed at reducing crowding or improving letter contrast sensitivity are both effective in improving visual acuity, contrast sensitivity for near-acuity objects and reducing the crowding effect, and could be useful as a clinical treatment for amblyopia.
+AD  - School of Optometry, University of California, Berkeley, California, United States of America. s.chung@berkeley.edu
+AN  - 22558234
+AU  - Chung, S. T.
+AU  - Li, R. W.
+AU  - Levi, D. M.
+C2  - PMC3340394
+DB  - Medline
+DO  - 10.1371/journal.pone.0035829
+DP  - NLM
+ET  - 2012/05/05
+IS  - 4
+J2  - PloS one
+KW  - Adult
+Amblyopia
+physiopathology
+therapy
+Contrast Sensitivity
+Female
+Humans
+Learning
+Male
+Pattern Recognition, Visual
+Photic Stimulation
+Psychophysics
+Sensory Thresholds
+Transfer, Psychology
+Visual Acuity
+Young Adult
+LA  - eng
+N1  - 1932-6203
+Chung, Susana T L
+Li, Roger W
+Levi, Dennis M
+R01 EY001728/EY/NEI NIH HHS/United States
+R01 EY012810/EY/NEI NIH HHS/United States
+R01-EY012810/EY/NEI NIH HHS/United States
+R01-EY01728/EY/NEI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+PLoS One. 2012;7(4):e35829. doi: 10.1371/journal.pone.0035829. Epub 2012 Apr 30.
+PY  - 2012
+SN  - 1932-6203
+SP  - e35829
+ST  - Learning to identify near-acuity letters, either with or without flankers, results in improved letter size and spacing limits in adults with amblyopia
+T2  - PLoS One
+TI  - Learning to identify near-acuity letters, either with or without flankers, results in improved letter size and spacing limits in adults with amblyopia
+VL  - 7
+ID  - 226
+ER  - 
+
+TY  - JOUR
+AB  - Stereopsis, the perception of depth based on the disparity of the images projected to the retinas of the two eyes, is an important process in our three-dimensional world; however, 3-5% of the population is stereoblind or has seriously impaired stereovision. Here we provide evidence for the recovery of stereopsis through perceptual learning, the repetitive practice of a demanding visual task, in human adults long deprived of normal binocular vision. We used a training paradigm that combines monocular cues that were correlated perfectly with the disparity cues. Following perceptual learning (thousands of trials) with stereoscopic gratings, five adults who initially were stereoblind or stereoanomalous showed substantial recovery of stereopsis, both on psychophysical tests with stimuli that contained no monocular cues and on clinical testing. They reported that depth "popped out" in daily life, and enjoyed 3D movies for the first time. After training, stereo tests with dynamic random-dot stereograms and band-pass noise revealed the properties of the recovered stereopsis: It has reduced resolution and precision, although it is based on perceiving depth by detecting binocular disparity. We conclude that some human adults deprived of normal binocular vision can recover stereopsis at least partially.
+AD  - School of Optometry and The Helen Wills Neuroscience Institute, University of California, Berkeley, CA 94720, USA. jian.ding@berkeley.edu
+AN  - 21896742
+AU  - Ding, J.
+AU  - Levi, D. M.
+C2  - PMC3174650
+DA  - Sep 13
+DB  - Medline
+DO  - 10.1073/pnas.1105183108
+DP  - NLM
+ET  - 2011/09/08
+IS  - 37
+J2  - Proceedings of the National Academy of Sciences of the United States of America
+KW  - Adult
+Depth Perception
+physiology
+Female
+Humans
+Learning
+physiology
+Male
+Middle Aged
+Photic Stimulation
+Sensory Thresholds
+physiology
+Vision Disparity
+physiology
+Vision, Binocular
+physiology
+Visual Perception
+physiology
+Young Adult
+LA  - eng
+N1  - 1091-6490
+Ding, Jian
+Levi, Dennis M
+R01 EY001728/EY/NEI NIH HHS/United States
+R01EY01728/EY/NEI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Proc Natl Acad Sci U S A. 2011 Sep 13;108(37):E733-41. doi: 10.1073/pnas.1105183108. Epub 2011 Sep 6.
+PY  - 2011
+SN  - 0027-8424 (Print)
+0027-8424
+SP  - E733-41
+ST  - Recovery of stereopsis through perceptual learning in human adults with abnormal binocular vision
+T2  - Proc Natl Acad Sci U S A
+TI  - Recovery of stereopsis through perceptual learning in human adults with abnormal binocular vision
+VL  - 108
+ID  - 223
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Recent publications have demonstrated neural plasticity in adult amblyopes subjected to psychophysical training based on perceptual learning. The purpose of this case report is to present rarely available prospective data of visual acuity development in a strabismic amblyope undergoing psychophysical training and pleoptic treatment after loss of function of the non-amblyopic eye. METHODS: The design is a prospective, observational and interventional case report. Visual acuity was tested monthly, with constant optical correction. The 60-year-old female patient participated in a psychophysical training implemented in our laboratory, and in pleoptic treatment. RESULTS: Slow functional improvement of the amblyopic eye was observed during a period of 10 months, both in the tests used for training and in visual acuity: single optotypes increased by 4 chart lines, crowded optotypes by 2-3 lines. CONCLUSIONS: To our knowledge, this is the first report of the new approach of perceptual learning in an adult amblyope after loss of vision in the contralateral eye. Our results represent further evidence that the visual system of adult amblyopes preserves a certain degree of neural plasticity, whether spontaneous or enhanced by training. Furthermore, that plasticity in adults is limited, and early diagnosis and treatment of amblyopia must remain the primary goal.
+AD  - Ophthalmology Department, J.W.Goethe University, Frankfurt am Main, Germany. fronius@em.uni-frankfurt.de
+AN  - 15452721
+AU  - Fronius, M.
+AU  - Cirina, L.
+AU  - Cordey, A.
+AU  - Ohrloff, C.
+DA  - Mar
+DB  - Medline
+DO  - 10.1007/s00417-004-1014-8
+DP  - NLM
+ET  - 2004/09/29
+IS  - 3
+J2  - Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie
+KW  - Amblyopia
+complications
+Female
+Humans
+Middle Aged
+Prospective Studies
+Psychophysics
+methods
+Strabismus
+complications
+Treatment Outcome
+Vision Disorders
+etiology
+physiopathology
+therapy
+Vision, Monocular
+Visual Acuity
+LA  - eng
+N1  - Fronius, Maria
+Cirina, Licia
+Cordey, Angelika
+Ohrloff, Christian
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+Germany
+Graefes Arch Clin Exp Ophthalmol. 2005 Mar;243(3):278-80. doi: 10.1007/s00417-004-1014-8. Epub 2004 Sep 28.
+PY  - 2005
+SN  - 0721-832X (Print)
+0721-832x
+SP  - 278-80
+ST  - Visual improvement during psychophysical training in an adult amblyopic eye following visual loss in the contralateral eye
+T2  - Graefes Arch Clin Exp Ophthalmol
+TI  - Visual improvement during psychophysical training in an adult amblyopic eye following visual loss in the contralateral eye
+VL  - 243
+ID  - 218
+ER  - 
+
+TY  - JOUR
+AB  - We recently reported acuity development in the amblyopic eye of a 60-year-old patient after loss of vision in her non-amblyopic eye. Here, we focus on the training that we implemented, based on new insights from psychophysical procedures aiming at functional visual improvement of adults ("perceptual learning"). We alternately used the following procedures: grating acuity (Teller-Cards); contrast sensitivity (Vistech-Charts); two spatial localization tests (vertical alignment, pointing); and labyrinth patterns for a eye-hand coordination exercise. One month without intervention was followed by six months of training and two blocks of pleoptic treatment. Clinical parameters were assessed monthly. Besides acuity gain, we observed enhanced grating resolution and contrast sensitivity, decreased alignment distortions, pointing shifts, mainly after pleoptics, and more efficient labyrinth tracing. A questionnaire reflected the patient's perception of the changes. These data confirm the plasticity of the adult amblyopic system, be it spontaneous due to the loss of the non-amblyopic eye or caused by the intervention or both. Further experience is necessary to isolate the role of the intervention. Our results also underline the limitation of adult plasticity, emphasizing the importance of early diagnosis and treatment of amblyopia.
+AD  - Department of Ophthalmology, J.W. Goethe University, Frankfurt/Main, Germany. fronius@em.uni-frankfurt.de
+AN  - 16760112
+AU  - Fronius, M.
+AU  - Cirina, L.
+AU  - Kuhli, C.
+AU  - Cordey, A.
+AU  - Ohrloff, C.
+DA  - Jun
+DB  - Medline
+DO  - 10.1080/09273970600701077
+DP  - NLM
+ET  - 2006/06/09
+IS  - 2
+J2  - Strabismus
+KW  - Amblyopia
+complications
+physiopathology
+therapy
+Blindness
+complications
+Female
+Follow-Up Studies
+Humans
+Middle Aged
+Space Perception
+physiology
+Visual Acuity
+LA  - eng
+N1  - Fronius, Maria
+Cirina, Licia
+Kuhli, Claudia
+Cordey, Angelika
+Ohrloff, Christian
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+Strabismus. 2006 Jun;14(2):75-9. doi: 10.1080/09273970600701077.
+PY  - 2006
+SN  - 0927-3972 (Print)
+0927-3972
+SP  - 75-9
+ST  - Training the adult amblyopic eye with "perceptual learning" after vision loss in the non-amblyopic eye
+T2  - Strabismus
+TI  - Training the adult amblyopic eye with "perceptual learning" after vision loss in the non-amblyopic eye
+VL  - 14
+ID  - 219
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Occlusion therapy for amblyopia is predicated on the idea that amblyopia is primarily a disorder of monocular vision; however, there is growing evidence that patients with amblyopia have a structurally intact binocular visual system that is rendered functionally monocular due to suppression. Furthermore, we have found that a dichoptic treatment intervention designed to directly target suppression can result in clinically significant improvement in both binocular and monocular visual function in adult patients with amblyopia. The fact that monocular improvement occurs in the absence of any fellow eye occlusion suggests that amblyopia is, in part, due to chronic suppression. Previously the treatment has been administered as a psychophysical task and more recently as a video game that can be played on video goggles or an iPod device equipped with a lenticular screen. The aim of this case-series study of 14 amblyopes (six strabismics, six anisometropes and two mixed) ages 13 to 50 years was to investigate: 1. whether the portable video game treatment is suitable for at-home use and 2. whether an anaglyphic version of the iPod-based video game, which is more convenient for at-home use, has comparable effects to the lenticular version. METHODS: The dichoptic video game treatment was conducted at home and visual functions assessed before and after treatment. RESULTS: We found that at-home use for 10 to 30 hours restored simultaneous binocular perception in 13 of 14 cases along with significant improvements in acuity (0.11 ± 0.08 logMAR) and stereopsis (0.6 ± 0.5 log units). Furthermore, the anaglyph and lenticular platforms were equally effective. In addition, the iPod devices were able to record a complete and accurate picture of treatment compliance. CONCLUSION: The home-based dichoptic iPod approach represents a viable treatment for adults with amblyopia.
+AD  - McGill Vision Research, Department of Ophthalmology, McGill University, Montreal, Quebec, Canada.
+AN  - 25131694
+AU  - Hess, R. F.
+AU  - Babu, R. J.
+AU  - Clavagnier, S.
+AU  - Black, J.
+AU  - Bobier, W.
+AU  - Thompson, B.
+DA  - Sep
+DB  - Medline
+DO  - 10.1111/cxo.12192
+DP  - NLM
+ET  - 2014/08/19
+IS  - 5
+J2  - Clinical & experimental optometry
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+therapy
+Female
+Follow-Up Studies
+Humans
+MP3-Player
+Male
+Middle Aged
+Patient Compliance
+Photic Stimulation
+Pilot Projects
+Vision, Binocular
+physiology
+Visual Acuity
+Young Adult
+LA  - eng
+N1  - 1444-0938
+Hess, Robert F
+Babu, Raiju Jacob
+Clavagnier, Simon
+Black, Joanna
+Bobier, William
+Thompson, Benjamin
+53346/Canadian Institutes of Health Research/Canada
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+amblyopia
+children's vision
+visual acuity
+Clin Exp Optom. 2014 Sep;97(5):389-98. doi: 10.1111/cxo.12192. Epub 2014 Aug 18.
+PY  - 2014
+SN  - 0816-4622
+SP  - 389-98
+ST  - The iPod binocular home-based treatment for amblyopia in adults: efficacy and compliance
+T2  - Clin Exp Optom
+TI  - The iPod binocular home-based treatment for amblyopia in adults: efficacy and compliance
+VL  - 97
+ID  - 213
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: The present treatments for amblyopia are predominantly monocular aiming to improve the vision in the amblyopic eye through either patching of the fellow fixing eye or visual training of the amblyopic eye. This approach is problematic, not least of which because it rarely results in establishment of binocular function. Recently it has shown that amblyopes possess binocular cortical mechanisms for both threshold and suprathreshold stimuli. METHODS: We outline a novel procedure for measuring the extent to which the fixing eye suppresses the fellow amblyopic eye, rendering what is a structurally binocular system, functionally monocular. RESULTS: Here we show that prolonged periods of viewing (under the artificial conditions of stimuli of different contrast in each eye) during which information from the two eyes is combined leads to a strengthening of binocular vision in strabismic amblyopes and eventual combination of binocular information under natural viewing conditions (stimuli of the same contrast in each eye). Concomitant improvement in monocular acuity of the amblyopic eye occurs with this reduction in suppression and strengthening of binocular fusion. Furthermore, in a majority of patients tested, stereoscopic function is established. CONCLUSIONS: This provides the basis for a new treatment of amblyopia, one that is purely binocular and aimed at reducing suppression as a first step.
+AD  - McGill Vision Research, Department of Ophthalmology, McGill University, Montreal, QC, Canada. robert.hess@mcgill.ca
+AN  - 21209494
+AU  - Hess, R. F.
+AU  - Mansouri, B.
+AU  - Thompson, B.
+DB  - Medline
+DO  - 10.3233/rnn-2010-0550
+DP  - NLM
+ET  - 2011/01/07
+IS  - 6
+J2  - Restorative neurology and neuroscience
+KW  - Adult
+Amblyopia
+physiopathology
+therapy
+Humans
+Middle Aged
+Photic Stimulation
+Strabismus
+physiopathology
+therapy
+Treatment Outcome
+Vision, Binocular
+Visual Perception
+LA  - eng
+N1  - 1878-3627
+Hess, R F
+Mansouri, B
+Thompson, B
+MOP 53346/Canadian Institutes of Health Research/Canada
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+Restor Neurol Neurosci. 2010;28(6):793-802. doi: 10.3233/RNN-2010-0550.
+PY  - 2010
+SN  - 0922-6028
+SP  - 793-802
+ST  - A new binocular approach to the treatment of amblyopia in adults well beyond the critical period of visual development
+T2  - Restor Neurol Neurosci
+TI  - A new binocular approach to the treatment of amblyopia in adults well beyond the critical period of visual development
+VL  - 28
+ID  - 207
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: We developed a binocular treatment for amblyopia based on antisuppression therapy. METHODS: A novel procedure is outlined for measuring the extent to which the fixing eye suppresses the fellow amblyopic eye. We hypothesize that suppression renders a structurally binocular system, functionally monocular. RESULTS: We demonstrate using three strabismic amblyopes that information can be combined normally between their eyes under viewing conditions where suppression is reduced. Also, we show that prolonged periods of viewing (under the artificial conditions of stimuli of different contrast in each eye) during which information from the two eyes is combined leads to a strengthening of binocular vision in such cases and eventual combination of binocular information under natural viewing conditions (stimuli of the same contrast in each eye). Concomitant improvement in monocular acuity of the amblyopic eye occurs with this reduction in suppression and strengthening of binocular fusion. Furthermore, in each of the three cases, stereoscopic function is established. CONCLUSIONS: This provides the basis for a new treatment of amblyopia, one that is purely binocular and aimed at reducing suppression as a first step.
+AD  - McGill Vision Research, Department of Ophthalmology, McGill University, Montreal, Quebec, Canada. robert.hess@mcgill.ca
+AN  - 20622704
+AU  - Hess, R. F.
+AU  - Mansouri, B.
+AU  - Thompson, B.
+DA  - Sep
+DB  - Medline
+DO  - 10.1097/OPX.0b013e3181ea18e9
+DP  - NLM
+ET  - 2010/07/14
+IS  - 9
+J2  - Optometry and vision science : official publication of the American Academy of Optometry
+KW  - Adult
+Amblyopia
+physiopathology
+therapy
+Contrast Sensitivity
+Depth Perception
+Female
+Humans
+Male
+Middle Aged
+Ophthalmology
+methods
+Strabismus
+physiopathology
+therapy
+Treatment Outcome
+Vision, Binocular
+Visual Acuity
+LA  - eng
+N1  - 1538-9235
+Hess, Robert F
+Mansouri, Behzad
+Thompson, Benjamin
+MOP 53346/Canadian Institutes of Health Research/Canada
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+Optom Vis Sci. 2010 Sep;87(9):697-704. doi: 10.1097/OPX.0b013e3181ea18e9.
+PY  - 2010
+SN  - 1040-5488
+SP  - 697-704
+ST  - A binocular approach to treating amblyopia: antisuppression therapy
+T2  - Optom Vis Sci
+TI  - A binocular approach to treating amblyopia: antisuppression therapy
+VL  - 87
+ID  - 208
+ER  - 
+
+TY  - JOUR
+AB  - We describe the successful translation of computerized and space-consuming laboratory equipment for the treatment of suppression to a small handheld iPod device (Apple iPod; Apple Inc., Cupertino, California). A portable and easily obtainable Apple iPod display, using current video technology offers an ideal solution for the clinical treatment of suppression. The following is a description of the iPod device and illustrates how a video game has been adapted to provide the appropriate stimulation to implement our recent antisuppression treatment protocol. One to 2 hours per day of video game playing under controlled conditions for 1 to 3 weeks can improve acuity and restore binocular function, including stereopsis in adults, well beyond the age at which traditional patching is used. This handheld platform provides a convenient and effective platform for implementing the newly proposed binocular treatment of amblyopia in the clinic, home, or elsewhere.
+AD  - Department of Ophthalmology, McGill University, Montreal, Canada H3A1A1. robert.hess@mcgill.ca
+AN  - 23231369
+AU  - Hess, R. F.
+AU  - Thompson, B.
+AU  - Black, J. M.
+AU  - Machara, G.
+AU  - Zhang, P.
+AU  - Bobier, W. R.
+AU  - Cooperstock, J.
+DA  - Feb 15
+DB  - Medline
+DP  - NLM
+ET  - 2012/12/13
+IS  - 2
+J2  - Optometry (St. Louis, Mo.)
+KW  - Amblyopia
+physiopathology
+therapy
+Humans
+MP3-Player
+Sensory Deprivation
+Vision, Binocular
+physiology
+Visual Acuity
+LA  - eng
+N1  - 1558-1527
+Hess, Robert F
+Thompson, B
+Black, J M
+Machara, G
+Zhang, P
+Bobier, W R
+Cooperstock, J
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+United States
+Optometry. 2012 Feb 15;83(2):87-94.
+PY  - 2012
+SN  - 1558-1527
+SP  - 87-94
+ST  - An iPod treatment of amblyopia: an updated binocular approach
+T2  - Optometry
+TI  - An iPod treatment of amblyopia: an updated binocular approach
+VL  - 83
+ID  - 209
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: A binocular approach to treating anisometropic and strabismic amblyopia has recently been advocated. Initial studies have yielded promising results, suggesting that a larger randomized clinical trial is warranted. OBJECTIVE: To compare visual acuity (VA) improvement in children with amblyopia treated with a binocular iPad game vs part-time patching. DESIGN, SETTING, AND PARTICIPANTS: A multicenter, noninferiority randomized clinical trial was conducted in community and institutional practices from September 16, 2014, to August 28, 2015. Participants included 385 children aged 5 years to younger than 13 years with amblyopia (20/40 to 20/200, mean 20/63) resulting from strabismus, anisometropia, or both. Participants were randomly assigned to either 16 weeks of a binocular iPad game prescribed for 1 hour a day (190 participants; binocular group) or patching of the fellow eye prescribed for 2 hours a day (195 participants; patching group). Study follow-up visits were scheduled at 4, 8, 12, and 16 weeks. A modified intent-to-treat analysis was performed on participants who completed the 16-week trial. INTERVENTIONS: Binocular iPad game or patching of the fellow eye. MAIN OUTCOMES AND MEASURES: Change in amblyopic-eye VA from baseline to 16 weeks. RESULTS: Of the 385 participants, 187 were female (48.6%); mean (SD) age was 8.5 (1.9) years. At 16 weeks, mean amblyopic-eye VA improved 1.05 lines (2-sided 95% CI, 0.85-1.24 lines) in the binocular group and 1.35 lines (2-sided 95% CI, 1.17-1.54 lines) in the patching group, with an adjusted treatment group difference of 0.31 lines favoring patching (upper limit of the 1-sided 95% CI, 0.53 lines). This upper limit exceeded the prespecified noninferiority limit of 0.5 lines. Only 39 of the 176 participants (22.2%) randomized to the binocular game and with log file data available performed more than 75% of the prescribed treatment (median, 46%; interquartile range, 20%-72%). In younger participants (aged 5 to <7 years) without prior amblyopia treatment, amblyopic-eye VA improved by a mean (SD) of 2.5 (1.5) lines in the binocular group and 2.8 (0.8) lines in the patching group. Adverse effects (including diplopia) were uncommon and of similar frequency between groups. CONCLUSIONS AND RELEVANCE: In children aged 5 to younger than 13 years, amblyopic-eye VA improved with binocular game play and with patching, particularly in younger children (age 5 to <7 years) without prior amblyopia treatment. Although the primary noninferiority analysis was indeterminate, a post hoc analysis suggested that VA improvement with this particular binocular iPad treatment was not as good as with 2 hours of prescribed daily patching. TRIAL REGISTRATION: http://www.clinicaltrials.gov Identifier: NCT02200211.
+AD  - Department of Ophthalmology, Mayo Clinic, Rochester, Minnesota.
+Division of Ophthalmology, Seattle Children's Hospital, Seattle, Washington.
+Jaeb Center for Health Research, Tampa, Florida.
+Jaeb Center for Health Research, Tampa, Florida4Deputy editor, JAMA Ophthalmology.
+Retina Foundation of the Southwest, Dallas, Texas.
+Department of Ophthalmology, Eastern Virginia Medical School, Norfolk.
+Department of Surgery, North East Ohio Medical University, Rootstown.
+Accent Physicians, Gainesville, Florida.
+Department of Ophthalmology, Oregon Health & Science University, Portland.
+Department of Ophthalmology, Duke Eye Center, Durham, North Carolina.
+AN  - 27812703
+AU  - Holmes, J. M.
+AU  - Manh, V. M.
+AU  - Lazar, E. L.
+AU  - Beck, R. W.
+AU  - Birch, E. E.
+AU  - Kraker, R. T.
+AU  - Crouch, E. R.
+AU  - Erzurum, S. A.
+AU  - Khuddus, N.
+AU  - Summers, A. I.
+AU  - Wallace, D. K.
+C1  - ClinicalTrials.gov/NCT02200211
+C2  - PMC5145771
+C6  - NIHMS815295
+DA  - Dec 1
+DB  - Medline
+DO  - 10.1001/jamaophthalmol.2016.4262
+DP  - NLM
+ET  - 2016/11/05
+IS  - 12
+J2  - JAMA ophthalmology
+KW  - Amblyopia
+physiopathology
+therapy
+Bandages
+Child
+Child, Preschool
+Computers, Handheld
+Eyeglasses
+Female
+Follow-Up Studies
+Humans
+Male
+Sensory Deprivation
+Video Games
+Vision, Binocular
+physiology
+Visual Acuity
+physiology
+LA  - eng
+N1  - 2168-6173
+Holmes, Jonathan M
+Manh, Vivian M
+Lazar, Elizabeth L
+Beck, Roy W
+Birch, Eileen E
+Kraker, Raymond T
+Crouch, Eric R
+Erzurum, S Ayse
+Khuddus, Nausheen
+Summers, Allison I
+Wallace, David K
+Pediatric Eye Disease Investigator Group
+P30 EY010572/EY/NEI NIH HHS/United States
+U10 EY011751/EY/NEI NIH HHS/United States
+U10 EY018810/EY/NEI NIH HHS/United States
+U10 EY023198/EY/NEI NIH HHS/United States
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+JAMA Ophthalmol. 2016 Dec 1;134(12):1391-1400. doi: 10.1001/jamaophthalmol.2016.4262.
+PY  - 2016
+SN  - 2168-6165 (Print)
+2168-6165
+SP  - 1391-1400
+ST  - Effect of a Binocular iPad Game vs Part-time Patching in Children Aged 5 to 12 Years With Amblyopia: A Randomized Clinical Trial
+T2  - JAMA Ophthalmol
+TI  - Effect of a Binocular iPad Game vs Part-time Patching in Children Aged 5 to 12 Years With Amblyopia: A Randomized Clinical Trial
+VL  - 134
+ID  - 201
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE. One critical concern about using perceptual learning to treat amblyopia is whether training with one particular stimulus and task generalizes to other stimuli and tasks. In the spatial domain, it has been found that the bandwidth of contrast sensitivity improvement is much broader in amblyopes than in normals. Because previous studies suggested the local motion deficits in amblyopia are explained by the spatial vision deficits, the hypothesis for this study was that training in the spatial domain could benefit motion perception of sinewave gratings. METHODS. Nine adult amblyopes (mean age, 22.1 ± 5.6 years) were trained in a contrast detection task in the amblyopic eye for 10 days. Visual acuity, spatial contrast sensitivity functions, and temporal modulation transfer functions (MTF) for sinewave motion detection and discrimination were measured for each eye before and after training. Eight adult amblyopes (mean age, 22.6 ± 6.7 years) served as control subjects. RESULTS. In the amblyopic eye, training improved (1) contrast sensitivity by 6.6 dB (or 113.8%) across spatial frequencies, with a bandwidth of 4.4 octaves; (2) sensitivity of motion detection and discrimination by 3.2 dB (or 44.5%) and 3.7 dB (or 53.1%) across temporal frequencies, with bandwidths of 3.9 and 3.1 octaves, respectively; (3) visual acuity by 3.2 dB (or 44.5%). The fellow eye also showed a small amount of improvement in contrast sensitivities and no significant change in motion perception. Control subjects who received no training demonstrated no obvious improvement in any measure. CONCLUSIONS. The results demonstrate substantial plasticity in the amblyopic visual system, and provide additional empirical support for perceptual learning as a potential treatment for amblyopia.
+AD  - Vision Research Laboratory, School of Life Science, University of Science and Technology of China, Hefei Anhui.
+AN  - 21693615
+AU  - Hou, F.
+AU  - Huang, C. B.
+AU  - Tao, L.
+AU  - Feng, L.
+AU  - Zhou, Y.
+AU  - Lu, Z. L.
+C2  - PMC3176008
+DA  - Aug 17
+DB  - Medline
+DO  - 10.1167/iovs.11-7541
+DP  - NLM
+ET  - 2011/06/23
+IS  - 9
+J2  - Investigative ophthalmology & visual science
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+Contrast Sensitivity
+physiology
+Female
+Humans
+Learning
+Male
+Motion Perception
+physiology
+Patient Education as Topic
+Visual Acuity
+physiology
+Young Adult
+LA  - eng
+N1  - 1552-5783
+Hou, Fang
+Huang, Chang-Bing
+Tao, Liming
+Feng, Lixia
+Zhou, Yifeng
+Lu, Zhong-Lin
+R01 EY021553/EY/NEI NIH HHS/United States
+R01 EY017491/EY/NEI NIH HHS/United States
+EY016093/EY/NEI NIH HHS/United States
+EY017491/EY/NEI NIH HHS/United States
+R01 EY016093/EY/NEI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Invest Ophthalmol Vis Sci. 2011 Aug 17;52(9):6501-10. doi: 10.1167/iovs.11-7541.
+PY  - 2011
+SN  - 0146-0404 (Print)
+0146-0404
+SP  - 6501-10
+ST  - Training in contrast detection improves motion perception of sinewave gratings in amblyopia
+T2  - Invest Ophthalmol Vis Sci
+TI  - Training in contrast detection improves motion perception of sinewave gratings in amblyopia
+VL  - 52
+ID  - 224
+ER  - 
+
+TY  - JOUR
+AB  - What underlies contrast sensitivity improvements in adults with anisometropic amblyopia following perceptual learning in grating contrast detection? In this paper, we adopted the external noise approach (Z.-L. Lu & B. A. Dosher, 1998) to identify the mechanisms underlying perceptual learning in adults with anisometropic amblyopia. By measuring contrast thresholds in a range of external noise conditions at two performance levels (79.3% and 70.7%), we found that a mixture of internal additive noise reduction and external noise exclusion underlay training induced contrast sensitivity improvements in adults with anisometropic amblyopia. In comparison, normal adults exhibited only small amount of external noise exclusion under the same training conditions. The results suggest that neural plasticity may be more robust in amblyopia, lending further support of perceptual learning as a potential treatment for adult amblyopia.
+AD  - Laboratory of Brain Processes (LOBES), Department of Psychology, University of Southern California, Los Angeles, CA, USA. changbih@usc.edu
+AN  - 20053087
+AU  - Huang, C. B.
+AU  - Lu, Z. L.
+AU  - Zhou, Y.
+C2  - PMC2867469
+C6  - NIHMS194162
+DA  - Oct 27
+DB  - Medline
+DO  - 10.1167/9.11.24
+DP  - NLM
+ET  - 2010/01/08
+IS  - 11
+J2  - Journal of vision
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+therapy
+Artifacts
+Contrast Sensitivity
+physiology
+Discrimination Learning
+physiology
+Female
+Humans
+Male
+Models, Neurological
+Neuronal Plasticity
+physiology
+Pattern Recognition, Visual
+physiology
+Photic Stimulation
+methods
+Sensory Thresholds
+physiology
+Visual Acuity
+physiology
+Visual Perception
+physiology
+Young Adult
+LA  - eng
+N1  - 1534-7362
+Huang, Chang-Bing
+Lu, Zhong-Lin
+Zhou, Yifeng
+R01 EY017491/EY/NEI NIH HHS/United States
+R01 EY017491-07/EY/NEI NIH HHS/United States
+R01 EY017491-08/EY/NEI NIH HHS/United States
+EY017491/EY/NEI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+J Vis. 2009 Oct 27;9(11):24.1-14. doi: 10.1167/9.11.24.
+PY  - 2009
+SN  - 1534-7362
+SP  - 24.1-14
+ST  - Mechanisms underlying perceptual learning of contrast detection in adults with anisometropic amblyopia
+T2  - J Vis
+TI  - Mechanisms underlying perceptual learning of contrast detection in adults with anisometropic amblyopia
+VL  - 9
+ID  - 222
+ER  - 
+
+TY  - JOUR
+AB  - Recent studies have demonstrated that training adult amblyopes in simple visual tasks leads to significant improvements of their spatial vision. One critical question is: How much can training with one particular stimulus and task generalize to other stimuli and tasks? In this study, we estimated the bandwidth of perceptual learning in teenage and adult observers with anisometropic amblyopia and compared it to that of normal observers. We measured and compared contrast sensitivity functions-i.e., sensitivity to sine-wave gratings of various spatial frequencies-before and after training at a single spatial frequency in teenagers and adults with and without amblyopia. We found that the bandwidth of perceptual learning in the amblyopic visual system is much broader than that of the normal visual system. The broader bandwidth, suggesting more plasticity and wider generalization in the amblyopic visual system, provides a strong empirical and theoretical basis for perceptual learning as a potential treatment for amblyopia.
+AD  - Vision Research Laboratory, School of Life Sciences, University of Science and Technology of China, Hefei, Anhui 230027, China.
+AN  - 18316716
+AU  - Huang, C. B.
+AU  - Zhou, Y.
+AU  - Lu, Z. L.
+C2  - PMC2268837
+DA  - Mar 11
+DB  - Medline
+DO  - 10.1073/pnas.0800824105
+DP  - NLM
+ET  - 2008/03/05
+IS  - 10
+J2  - Proceedings of the National Academy of Sciences of the United States of America
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+Case-Control Studies
+Contrast Sensitivity
+physiology
+Humans
+Learning
+physiology
+Visual Perception
+physiology
+LA  - eng
+N1  - 1091-6490
+Huang, Chang-Bing
+Zhou, Yifeng
+Lu, Zhong-Lin
+R01 EY017491/EY/NEI NIH HHS/United States
+EY017491-05/EY/NEI NIH HHS/United States
+Journal Article
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Proc Natl Acad Sci U S A. 2008 Mar 11;105(10):4068-73. doi: 10.1073/pnas.0800824105. Epub 2008 Mar 3.
+PY  - 2008
+SN  - 0027-8424 (Print)
+0027-8424
+SP  - 4068-73
+ST  - Broad bandwidth of perceptual learning in the visual system of adults with anisometropic amblyopia
+T2  - Proc Natl Acad Sci U S A
+TI  - Broad bandwidth of perceptual learning in the visual system of adults with anisometropic amblyopia
+VL  - 105
+ID  - 221
+ER  - 
+
+TY  - JOUR
+AB  - Perceptual learning of visual tasks is emerging as a promising treatment for amblyopia, a developmental disorder of vision characterized by poor monocular visual acuity. The tasks tested thus far span the gamut from basic psychophysical discriminations to visually complex video games. One end of the spectrum offers precise control over stimulus parameters, whilst the other delivers the benefits of motivation and reward that sustain practice over long periods. Here, we combined the advantages of both approaches by developing a video game that trains contrast sensitivity, which in psychophysical experiments, is associated with significant improvements in visual acuity in amblyopia. Target contrast was varied adaptively in the game to derive a contrast threshold for each session. We tested the game on 20 amblyopic subjects (10 children and 10 adults), who played at home using their amblyopic eye for an average of 37 sessions (approximately 11 h). Contrast thresholds from the game improved reliably for adults but not for children. However, logMAR acuity improved for both groups (mean = 1.3 lines; range = 0-3.6 lines). We present the rationale leading to the development of the game and describe the challenges of incorporating psychophysical methods into game-like settings.
+AD  - School of Psychology, University of Nottingham Nottingham, UK.
+AN  - 25404922
+AU  - Hussain, Z.
+AU  - Astle, A. T.
+AU  - Webb, B. S.
+AU  - McGraw, P. V.
+C2  - PMC4217344
+DB  - PubMed-not-MEDLINE
+DO  - 10.3389/fpsyg.2014.01210
+DP  - NLM
+ET  - 2014/11/19
+J2  - Frontiers in psychology
+LA  - eng
+N1  - 1664-1078
+Hussain, Zahra
+Astle, Andrew T
+Webb, Ben S
+McGraw, Paul V
+PDF-2013-06-057/Department of Health/United Kingdom
+Journal Article
+anisometropia
+binocular
+contrast sensitivity
+development
+perceptual learning
+strabismus
+visual acuity
+Front Psychol. 2014 Nov 3;5:1210. doi: 10.3389/fpsyg.2014.01210. eCollection 2014.
+PY  - 2014
+SN  - 1664-1078 (Print)
+1664-1078
+SP  - 1210
+ST  - The challenges of developing a contrast-based video game for treatment of amblyopia
+T2  - Front Psychol
+TI  - The challenges of developing a contrast-based video game for treatment of amblyopia
+VL  - 5
+ID  - 233
+ER  - 
+
+TY  - JOUR
+AB  - Amblyopia is a developmental visual disorder of cortical origin, characterized by crowding and poor acuity in central vision of the affected eye. Crowding refers to the adverse effects of surrounding items on object identification, common only in normal peripheral but not central vision. We trained a group of adult human amblyopes on a crowded letter identification task to assess whether the crowding problem can be ameliorated. Letter size was fixed well above the acuity limit, and letter spacing was varied to obtain spacing thresholds for central target identification. Normally sighted observers practiced the same task in their lower peripheral visual field. Independent measures of acuity were taken in flanked and unflanked conditions before and after training to measure crowding ratios at three fixed letter separations. Practice improved the letter spacing thresholds of both groups on the training task, and crowding ratios were reduced after posttest. The reductions in crowding in amblyopes were associated with improvements in standard measures of visual acuity. Thus, perceptual learning reduced the deleterious effects of crowding in amblyopia and in the normal periphery. The results support the effectiveness of plasticity-based approaches for improving vision in adult amblyopes and suggest experience-dependent effects on the cortical substrates of crowding.
+AD  - School of Psychology, University of Nottingham, Nottingham, NG7 2RD, UK. zahra.hussain@nottingham.ac.uk
+AN  - 22238083
+AU  - Hussain, Z.
+AU  - Webb, B. S.
+AU  - Astle, A. T.
+AU  - McGraw, P. V.
+C2  - PMC3428833
+C6  - UKMS49124
+DA  - Jan 11
+DB  - Medline
+DO  - 10.1523/jneurosci.3845-11.2012
+DP  - NLM
+ET  - 2012/01/13
+IS  - 2
+J2  - The Journal of neuroscience : the official journal of the Society for Neuroscience
+KW  - Adolescent
+Adult
+Aged
+Amblyopia
+physiopathology
+rehabilitation
+therapy
+Female
+Humans
+Learning
+physiology
+Male
+Middle Aged
+Pattern Recognition, Visual
+physiology
+Physical Therapy Modalities
+Young Adult
+LA  - eng
+N1  - 1529-2401
+Hussain, Zahra
+Webb, Ben S
+Astle, Andrew T
+McGraw, Paul V
+Wellcome Trust/United Kingdom
+085222/Wellcome Trust/United Kingdom
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+J Neurosci. 2012 Jan 11;32(2):474-80. doi: 10.1523/JNEUROSCI.3845-11.2012.
+PY  - 2012
+SN  - 0270-6474 (Print)
+0270-6474
+SP  - 474-80
+ST  - Perceptual learning reduces crowding in amblyopia and in the normal periphery
+T2  - J Neurosci
+TI  - Perceptual learning reduces crowding in amblyopia and in the normal periphery
+VL  - 32
+ID  - 227
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Fellow eye patching has long been the standard treatment for amblyopia, but it does not always restore 20/20 vision or teach the eyes to work together. Amblyopia can be treated with binocular games that rebalance contrast between the eyes so that a child may overcome suppression. However, it is unclear whether binocular treatment is comparable to patching in treating amblyopia. OBJECTIVES: To assess the effectiveness of a binocular iPad (Apple Inc) adventure game as amblyopia treatment and compare this binocular treatment with patching, the current standard of care. DESIGN, SETTING, AND PARTICIPANTS: This investigation was a randomized clinical trial with a crossover design at a nonprofit eye research institute. Between February 20, 2015, and January 4, 2016, a total of 28 patients were enrolled in the study, with 14 randomized to binocular game treatment and 14 to patching treatment. INTERVENTIONS: Binocular game and patching as amblyopia treatments. MAIN OUTCOMES AND MEASURES: The primary outcome was change in amblyopic eye best-corrected visual acuity (BCVA) at the 2-week visit. Secondary outcomes were change in stereoacuity and suppression at the 2-week visit and change in BCVA at the 4-week visit. RESULTS: Among 28 children, the mean (SD) age at baseline was 6.7 (1.4) years (age range, 4.6-9.5 years), and 7 (25%) were female. At baseline, the mean (SD) amblyopic eye BCVA was 0.48 (0.14) logMAR (approximately 20/63; range, 0.3-0.8 logMAR [20/40 to 20/125]), with 14 children randomized to the binocular game and 14 to patching for 2 weeks. At the 2-week visit, improvement in amblyopic eye BCVA was greater with the binocular game compared with patching, with a mean (SD) improvement of 0.15 (0.08) logMAR (mean [SD], 1.5 [0.8] lines) vs 0.07 (0.08) logMAR (mean [SD], 0.7 [0.8] line; P = .02) after 2 weeks of treatment. These improvements from baseline were significant for the binocular game (mean [SD] improvement, 1.5 [0.8] lines; P < .001) and for patching (mean [SD] improvement, 0.7 [0.8] line; P = .006). Depth of suppression improved from baseline at the 2-week visit for the binocular game (mean [SD], 4.82 [2.82] vs 3.24 [2.87]; P = .03) and for patching (mean [SD], 4.77 [3.10] vs 2.57 [1.67]; P = .004). Patching children crossed over to binocular game treatment, and all 28 children played the game for another 2 weeks. At the 4-week visit, no group difference was found in BCVA change, with children who crossed over to the binocular games catching up with children treated with binocular games, for a mean (SD) improvement of 0.17 (0.10) logMAR (mean [SD], 1.7 [1.0] lines) for the binocular game vs a mean (SD) improvement of 0.16 (0.12) logMAR (mean [SD], 1.6 [1.2] lines) for the patching crossover (P = .73). CONCLUSIONS AND RELEVANCE: A binocular iPad game was effective in treating childhood amblyopia and was more efficacious than patching at the 2-week visit. Binocular games that rebalance contrast to overcome suppression are a promising additional option for treating amblyopia. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT02365090.
+AD  - Retina Foundation of the Southwest, Dallas, Texas.
+ABC Eyes Pediatric Ophthalmology, PA, Dallas, Texas.
+Children's Eye Care of North Texas, PA, Plano.
+Retina Foundation of the Southwest, Dallas, Texas4Department of Ophthalmology, The University of Texas Southwestern Medical Center, Dallas.
+AN  - 27832248
+AU  - Kelly, K. R.
+AU  - Jost, R. M.
+AU  - Dao, L.
+AU  - Beauchamp, C. L.
+AU  - Leffler, J. N.
+AU  - Birch, E. E.
+C1  - ClinicalTrials.gov/NCT02365090
+C2  - PMC6054712
+C6  - NIHMS979475
+DA  - Dec 1
+DB  - Medline
+DO  - 10.1001/jamaophthalmol.2016.4224
+DP  - NLM
+ET  - 2016/11/11
+IS  - 12
+J2  - JAMA ophthalmology
+KW  - Amblyopia
+physiopathology
+therapy
+Child
+Child, Preschool
+Computers, Handheld
+Cross-Over Studies
+Eyeglasses
+Female
+Follow-Up Studies
+Humans
+Male
+Retrospective Studies
+Treatment Outcome
+Video Games
+Vision, Binocular
+physiology
+Visual Acuity
+physiology
+LA  - eng
+N1  - 2168-6173
+Kelly, Krista R
+Jost, Reed M
+Dao, Lori
+Beauchamp, Cynthia L
+Leffler, Joel N
+Birch, Eileen E
+R01 EY022313/EY/NEI NIH HHS/United States
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+JAMA Ophthalmol. 2016 Dec 1;134(12):1402-1408. doi: 10.1001/jamaophthalmol.2016.4224.
+PY  - 2016
+SN  - 2168-6165 (Print)
+2168-6165
+SP  - 1402-1408
+ST  - Binocular iPad Game vs Patching for Treatment of Amblyopia in Children: A Randomized Clinical Trial
+T2  - JAMA Ophthalmol
+TI  - Binocular iPad Game vs Patching for Treatment of Amblyopia in Children: A Randomized Clinical Trial
+VL  - 134
+ID  - 202
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To ascertain whether conventional treatment can improve visual function in adults with amblyopia. METHODS: Sixteen patients aged 21-67 years old were instructed to wear glasses for refractive correction and to patch the non-amblyopic eye for at least 1 h per day. Visual acuity, measured with crowded optotypes for distance and near acuity, was checked every 3 months, and followed for a mean (SD) of 14.1 (4.2) months. Prognostic factors related to the subsequent results, an improvement of 3 or more lines logMAR in distance visual acuity, were evaluated. RESULTS: Of 16 patients, 5 (31 %) improved 3 or more lines of distance and 5 (31 %) in near acuity. The mean improvement in distance was 2.4 lines logMAR (95 % CI 1.4-3.5) and 2.4 lines logMAR for near acuity (95 % CI 1.5-3.3). Patients aged under 45 years (p = 0.0357) and with severe amblyopia (p = 0.0337), defined as a corrected distance visual acuity of worse than -0.699 logMAR, were associated with a good response. CONCLUSIONS: Conventional treatment may improve the visual acuity of amblyopic eyes even in adult patients.
+AD  - Department of Ophthalmology, Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, 2-5-1 Shikata-cho, Kita-ku, Okayama, Okayama, 700-8558, Japan, fumiko-k@mvf.biglobe.ne.jp.
+AN  - 24158452
+AU  - Kishimoto, F.
+AU  - Fujii, C.
+AU  - Shira, Y.
+AU  - Hasebe, K.
+AU  - Hamasaki, I.
+AU  - Ohtsuki, H.
+DA  - Jan
+DB  - Medline
+DO  - 10.1007/s10384-013-0279-z
+DP  - NLM
+ET  - 2013/10/26
+IS  - 1
+J2  - Japanese journal of ophthalmology
+KW  - Adult
+Aged
+Amblyopia
+physiopathology
+therapy
+Bandages
+Depth Perception
+physiology
+Eyeglasses
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Neuronal Plasticity
+physiology
+Sensory Deprivation
+Treatment Outcome
+Visual Acuity
+physiology
+Visual Cortex
+physiology
+Young Adult
+LA  - eng
+N1  - 1613-2246
+Kishimoto, Fumiko
+Fujii, Chiaki
+Shira, Yoshie
+Hasebe, Kayoko
+Hamasaki, Ichiro
+Ohtsuki, Hiroshi
+Journal Article
+Research Support, Non-U.S. Gov't
+Japan
+Jpn J Ophthalmol. 2014 Jan;58(1):26-32. doi: 10.1007/s10384-013-0279-z. Epub 2013 Oct 26.
+PY  - 2014
+SN  - 0021-5155
+SP  - 26-32
+ST  - Outcome of conventional treatment for adult amblyopia
+T2  - Jpn J Ophthalmol
+TI  - Outcome of conventional treatment for adult amblyopia
+VL  - 58
+ID  - 235
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To determine the nature and limits of visual improvement through repetitive practice in human adults with naturally occurring amblyopia. METHODS: A key measure the authors used was a psychophysical estimate of Vernier acuity; persons with amblyopia have marked deficits in Vernier acuity that are highly correlated with their loss of Snellen acuity. The experiment consisted of three phases: pretraining measurements of Vernier acuity and a second task (either line-detection thresholds or Snellen acuity) in each eye with the lines at two orientations; a training phase in which observers repetitively trained on the Vernier task at a specific line orientation until each had completed 4000 to 5000 trials; and posttraining measurements (identical to those in the first phase). Two groups of amblyopic observers were tested: novice observers (n = 6), who had no experience in making psychophysical judgments with their amblyopic eyes, and experienced observers (n = 5), who had previous experience in making Vernier judgments with their amblyopic eyes (with the lines at a different orientation) using the signal-detection methodology. RESULTS: The authors found that strong and significant improvement in Vernier acuity occurs in the trained orientation in all observers. Learning was generally strongest at the trained orientation but may partially have been transferred to other orientations (n = 4). Significant learning was transferred partially to the other eye (at the trained orientation) in two observers with anisometropic amblyopia. Improvement in Vernier acuity did not transfer to an untrained detection task. In two observers, the improvement in Vernier acuity was accompanied by a commensurate improvement in Snellen acuity. CONCLUSIONS: Some adults with amblyopia retain a significant degree of neural plasticity. Although several observers (primarily novices) showed evidence of generalized learning, several amblyopic patients showed evidence for improvement that was orientation and task specific. In this latter group of observers, the improvement appeared to reflect alterations that were, at least in part, in early neural processes that were orientation specific and were localized beyond the site of convergence of the two eyes.
+AD  - College of Optometry, University of Houston, Texas 77204-6052, USA.
+AN  - 9224277
+AU  - Levi, D. M.
+AU  - Polat, U.
+AU  - Hu, Y. S.
+DA  - Jul
+DB  - Medline
+DP  - NLM
+ET  - 1997/07/01
+IS  - 8
+J2  - Investigative ophthalmology & visual science
+KW  - Adult
+Amblyopia
+physiopathology
+Education
+Female
+Humans
+Learning
+Male
+Middle Aged
+Neuronal Plasticity
+Psychophysics
+methods
+Sensory Thresholds
+Visual Acuity
+Visual Perception
+LA  - eng
+N1  - Levi, D M
+Polat, U
+Hu, Y S
+P-30EY07551/EY/NEI NIH HHS/United States
+R01EY01728/EY/NEI NIH HHS/United States
+Journal Article
+Research Support, U.S. Gov't, P.H.S.
+Review
+United States
+Invest Ophthalmol Vis Sci. 1997 Jul;38(8):1493-510.
+PY  - 1997
+SN  - 0146-0404 (Print)
+0146-0404
+SP  - 1493-510
+ST  - Improvement in Vernier acuity in adults with amblyopia. Practice makes better
+T2  - Invest Ophthalmol Vis Sci
+TI  - Improvement in Vernier acuity in adults with amblyopia. Practice makes better
+VL  - 38
+ID  - 214
+ER  - 
+
+TY  - JOUR
+AB  - Adults with amblyopia, a common visual cortex disorder caused primarily by binocular disruption during an early critical period, do not respond to conventional therapy involving occlusion of one eye. But it is now clear that the adult human visual cortex has a significant degree of plasticity, suggesting that something must be actively preventing the adult brain from learning to see through the amblyopic eye. One possibility is an inhibitory signal from the contralateral eye that suppresses cortical inputs from the amblyopic eye. Such a gating mechanism could explain the apparent lack of plasticity within the adult amblyopic visual cortex. Here we provide direct evidence that alleviating suppression of the amblyopic eye through dichoptic stimulus presentation induces greater levels of plasticity than forced use of the amblyopic eye alone. This indicates that suppression is a key gating mechanism that prevents the amblyopic brain from learning to see.
+AN  - 23618662
+AU  - Li, J.
+AU  - Thompson, B.
+AU  - Deng, D.
+AU  - Chan, L. Y.
+AU  - Yu, M.
+AU  - Hess, R. F.
+DA  - Apr 22
+DB  - Medline
+DO  - 10.1016/j.cub.2013.01.059
+DP  - NLM
+ET  - 2013/04/27
+IS  - 8
+J2  - Current biology : CB
+KW  - Adult
+Amblyopia
+physiopathology
+therapy
+Anisometropia
+physiopathology
+therapy
+Humans
+Photic Stimulation
+Strabismus
+physiopathology
+therapy
+Vision, Binocular
+Visual Cortex
+physiology
+Visual Pathways
+physiology
+Young Adult
+LA  - eng
+N1  - 1879-0445
+Li, Jinrong
+Thompson, Benjamin
+Deng, Daming
+Chan, Lily Y L
+Yu, Minbin
+Hess, Robert F
+53346/Canadian Institutes of Health Research/Canada
+Letter
+Research Support, Non-U.S. Gov't
+England
+Curr Biol. 2013 Apr 22;23(8):R308-9. doi: 10.1016/j.cub.2013.01.059.
+PY  - 2013
+SN  - 0960-9822
+SP  - R308-9
+ST  - Dichoptic training enables the adult amblyopic brain to learn
+T2  - Curr Biol
+TI  - Dichoptic training enables the adult amblyopic brain to learn
+VL  - 23
+ID  - 211
+ER  - 
+
+TY  - JOUR
+AB  - Adult amblyopes can improve positional acuity through practice; however, the neural mechanisms underlying this improvement are still not clear. In this study, seven adult amblyopes repeatedly practiced a position discrimination task in the presence of positional noise. We found that six of the seven showed systematic and significant improvements in position acuity that were both eye and orientation specific. Using a position-averaging model, we were able to parse the improvement in performance with practice into two factors: improvement in sampling efficiency and reduction of equivalent input noise. Three of the seven showed improved efficiency with no change in equivalent noise, two showed a significant reduction in equivalent noise with no change in efficiency, and one showed both improved efficiency and reduced equivalent noise. Interestingly, all observers showed substantial improvement in visual acuity, and one observer showed substantial improvement in stereoacuity. Three observers were also tested on a counting task, and all three improved after practicing positional discrimination. Our results reveal the mechanisms underlying perceptual learning in amblyopic vision, and may provide a basis for developing more effective and efficient strategies for the treatment of amblyopia.
+AD  - School of Optometry and Helen Wills Neuroscience Institute, University of California, Berkeley, CA, USA. oroger@berkeley.edu
+AN  - 15330715
+AU  - Li, R. W.
+AU  - Levi, D. M.
+DA  - Jun 1
+DB  - Medline
+DO  - 10.1167/4.6.7
+DP  - NLM
+ET  - 2004/08/28
+IS  - 6
+J2  - Journal of vision
+KW  - Adult
+Amblyopia
+physiopathology
+Depth Perception
+physiology
+Female
+Humans
+Learning
+physiology
+Male
+Middle Aged
+Noise
+Orientation
+Visual Acuity
+physiology
+Visual Perception
+physiology
+LA  - eng
+N1  - 1534-7362
+Li, Roger W
+Levi, Dennis M
+R01EY01728/EY/NEI NIH HHS/United States
+Journal Article
+Research Support, U.S. Gov't, P.H.S.
+United States
+J Vis. 2004 Jun 1;4(6):476-87. doi: 10.1167/4.6.7.
+PY  - 2004
+SN  - 1534-7362
+SP  - 476-87
+ST  - Characterizing the mechanisms of improvement for position discrimination in adult amblyopia
+T2  - J Vis
+TI  - Characterizing the mechanisms of improvement for position discrimination in adult amblyopia
+VL  - 4
+ID  - 217
+ER  - 
+
+TY  - JOUR
+AB  - Abnormal visual experience during a sensitive period of development disrupts neuronal circuitry in the visual cortex and results in abnormal spatial vision or amblyopia. Here we examined whether playing video games can induce plasticity in the visual system of adults with amblyopia. Specifically 20 adults with amblyopia (age 15-61 y; visual acuity: 20/25-20/480, with no manifest ocular disease or nystagmus) were recruited and allocated into three intervention groups: action videogame group (n = 10), non-action videogame group (n = 3), and crossover control group (n = 7). Our experiments show that playing video games (both action and non-action games) for a short period of time (40-80 h, 2 h/d) using the amblyopic eye results in a substantial improvement in a wide range of fundamental visual functions, from low-level to high-level, including visual acuity (33%), positional acuity (16%), spatial attention (37%), and stereopsis (54%). Using a cross-over experimental design (first 20 h: occlusion therapy, and the next 40 h: videogame therapy), we can conclude that the improvement cannot be explained simply by eye patching alone. We quantified the limits and the time course of visual plasticity induced by video-game experience. The recovery in visual acuity that we observed is at least 5-fold faster than would be expected from occlusion therapy in childhood amblyopia. We used positional noise and modelling to reveal the neural mechanisms underlying the visual improvements in terms of decreased spatial distortion (7%) and increased processing efficiency (33%). Our study had several limitations: small sample size, lack of randomization, and differences in numbers between groups. A large-scale randomized clinical study is needed to confirm the therapeutic value of video-game treatment in clinical situations. Nonetheless, taken as a pilot study, this work suggests that video-game play may provide important principles for treating amblyopia, and perhaps other cortical dysfunctions. TRIAL REGISTRATION: ClinicalTrials.gov NCT01223716.
+AD  - School of Optometry, University of California, Berkeley, California, United States of America. oroger@berkeley.edu
+AN  - 21912514
+AU  - Li, R. W.
+AU  - Ngo, C.
+AU  - Nguyen, J.
+AU  - Levi, D. M.
+C1  - ClinicalTrials.gov/NCT01223716
+C2  - PMC3166159
+DA  - Aug
+DB  - Medline
+DO  - 10.1371/journal.pbio.1001135
+DP  - NLM
+ET  - 2011/09/14
+IS  - 8
+J2  - PLoS biology
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+Attention
+physiology
+Female
+Humans
+Male
+Middle Aged
+Neuronal Plasticity
+physiology
+Video Games
+Visual Acuity
+physiology
+Visual Pathways
+physiopathology
+Young Adult
+LA  - eng
+N1  - 1545-7885
+Li, Roger W
+Ngo, Charlie
+Nguyen, Jennie
+Levi, Dennis M
+R01 EY001728/EY/NEI NIH HHS/United States
+R01 EY020976/EY/NEI NIH HHS/United States
+R01EY01728/EY/NEI NIH HHS/United States
+R01EY020976/EY/NEI NIH HHS/United States
+Clinical Trial
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+PLoS Biol. 2011 Aug;9(8):e1001135. doi: 10.1371/journal.pbio.1001135. Epub 2011 Aug 30.
+PY  - 2011
+SN  - 1544-9173 (Print)
+1544-9173
+SP  - e1001135
+ST  - Video-game play induces plasticity in the visual system of adults with amblyopia
+T2  - PLoS Biol
+TI  - Video-game play induces plasticity in the visual system of adults with amblyopia
+VL  - 9
+ID  - 231
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To compare visual acuity (VA) improvement in teenagers with amblyopia treated with a binocular iPad game vs part-time patching. METHODS: One hundred participants aged 13 to <17 years (mean 14.3 years) with amblyopia (20/40 to 20/200, mean ∼20/63) resulting from strabismus, anisometropia, or both were enrolled into a randomized clinical trial. Participants were randomly assigned to treatment for 16 weeks of either a binocular iPad game prescribed for 1 hour per day (n = 40) or patching of the fellow eye prescribed for 2 hours per day (n = 60). The main outcome measure was change in amblyopic eye VA from baseline to 16 weeks. RESULTS: Mean amblyopic eye VA improved from baseline by 3.5 letters (2-sided 95% confidence interval [CI]: 1.3-5.7 letters) in the binocular group and by 6.5 letters (2-sided 95% CI: 4.4-8.5 letters) in the patching group. After adjusting for baseline VA, the difference between the binocular and patching groups was -2.7 letters (95% CI: -5.7 to 0.3 letters, P = .082) or 0.5 lines, favoring patching. In the binocular group, treatment adherence data from the iPad device indicated that only 13% of participants completed >75% of prescribed treatment. CONCLUSIONS: In teenagers aged 13 to <17 years, improvement in amblyopic eye VA with the binocular iPad game used in this study was not found to be better than patching, and was possibly worse. Nevertheless, it remains unclear whether the minimal treatment response to binocular treatment was owing to poor treatment adherence or lack of treatment effect.
+AD  - Seattle Children's Hospital, Seattle, Washington. Electronic address: pedig@jaeb.org.
+Mayo Clinic, Rochester, Minnesota.
+Jaeb Center for Health Research, Tampa, Florida.
+Duke Eye Center, Durham, North Carolina.
+College of Optometry, The Ohio State University, Columbus, Ohio.
+Yale University Medical School, New Haven, Connecticut.
+The Eye Specialist Center, LLC, Munster, Indiana.
+Progressive Eye Care, Lisle, Illinois.
+AN  - 29196184
+AU  - Manh, V. M.
+AU  - Holmes, J. M.
+AU  - Lazar, E. L.
+AU  - Kraker, R. T.
+AU  - Wallace, D. K.
+AU  - Kulp, M. T.
+AU  - Galvin, J. A.
+AU  - Shah, B. K.
+AU  - Davis, P. L.
+C2  - PMC6206863
+C6  - NIHMS985436
+DA  - Feb
+DB  - Medline
+DO  - 10.1016/j.ajo.2017.11.017
+DP  - NLM
+ET  - 2017/12/03
+J2  - American journal of ophthalmology
+KW  - Adolescent
+Amblyopia
+complications
+physiopathology
+therapy
+Anisometropia
+etiology
+physiopathology
+therapy
+Computers, Handheld
+Eyeglasses
+Female
+Follow-Up Studies
+Humans
+Male
+Sensory Deprivation
+Strabismus
+etiology
+physiopathology
+therapy
+Treatment Outcome
+Video Games
+Vision, Binocular
+physiology
+Visual Acuity
+LA  - eng
+N1  - 1879-1891
+Manh, Vivian M
+Holmes, Jonathan M
+Lazar, Elizabeth L
+Kraker, Raymond T
+Wallace, David K
+Kulp, Marjean T
+Galvin, Jennifer A
+Shah, Birva K
+Davis, Patricia L
+Pediatric Eye Disease Investigator Group
+P30 EY010572/EY/NEI NIH HHS/United States
+U10 EY023198/EY/NEI NIH HHS/United States
+U10 EY011751/EY/NEI NIH HHS/United States
+U10 EY018810/EY/NEI NIH HHS/United States
+UG1 EY011751/EY/NEI NIH HHS/United States
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Am J Ophthalmol. 2018 Feb;186:104-115. doi: 10.1016/j.ajo.2017.11.017. Epub 2017 Nov 28.
+PY  - 2018
+SN  - 0002-9394 (Print)
+0002-9394
+SP  - 104-115
+ST  - A Randomized Trial of a Binocular iPad Game Versus Part-Time Patching in Children Aged 13 to 16 Years With Amblyopia
+T2  - Am J Ophthalmol
+TI  - A Randomized Trial of a Binocular iPad Game Versus Part-Time Patching in Children Aged 13 to 16 Years With Amblyopia
+VL  - 186
+ID  - 203
+ER  - 
+
+TY  - JOUR
+AB  - Almost all individuals exhibit sensory eye dominance, one neural basis of which is unequal interocular inhibition. Sensory eye dominance can impair binocular functions that depend on both excitatory and inhibitory mechanisms. We developed a 'push-pull' perceptual learning protocol that simultaneously affects the excitatory and inhibitory networks to reduce sensory eye dominance and improve stereopsis in adults with otherwise normal vision. The push-pull protocol provides a promising clinical paradigm for treating the extreme sensory eye dominance in amblyopia ('lazy eye'). The prevailing standard of care does not directly treat sensory eye dominance; instead, selected excitatory functions in the amblyopic eye are stimulated while the strong eye is patched, on the assumption that recovery of the weak eye's excitatory functions rebalances the eyes. Patching the strong eye does not directly address interocular inhibition; in contrast, the push-pull protocol by design excites the weak eye, while completely inhibiting the strong eye's perception to recalibrate the interocular balance of excitatory and inhibitory interactions. Here, we show that three adult amblyopes who trained on the push-pull protocol gained longstanding improvements in interocular balance and stereopsis. Our findings provide a proof-of-concept and evidence that push-pull learning leads to long-term plasticity.
+AN  - 23618663
+AU  - Ooi, T. L.
+AU  - Su, Y. R.
+AU  - Natale, D. M.
+AU  - He, Z. J.
+C2  - PMC6485254
+C6  - NIHMS967072
+DA  - Apr 22
+DB  - Medline
+DO  - 10.1016/j.cub.2013.03.004
+DP  - NLM
+ET  - 2013/04/27
+IS  - 8
+J2  - Current biology : CB
+KW  - Adult
+Amblyopia
+therapy
+Depth Perception
+Dominance, Ocular
+Female
+Humans
+Learning
+Male
+Perceptual Disorders
+therapy
+Photic Stimulation
+Young Adult
+LA  - eng
+N1  - 1879-0445
+Ooi, Teng Leng
+Su, Yong R
+Natale, Danielle M
+He, Zijiang J
+R01 EY015804/EY/NEI NIH HHS/United States
+R01-EY015804/EY/NEI NIH HHS/United States
+Letter
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Curr Biol. 2013 Apr 22;23(8):R309-10. doi: 10.1016/j.cub.2013.03.004.
+PY  - 2013
+SN  - 0960-9822 (Print)
+0960-9822
+SP  - R309-10
+ST  - A push-pull treatment for strengthening the 'lazy eye' in amblyopia
+T2  - Curr Biol
+TI  - A push-pull treatment for strengthening the 'lazy eye' in amblyopia
+VL  - 23
+ID  - 228
+ER  - 
+
+TY  - JOUR
+AB  - Amblyopia is a reduction of visual functions that cannot be attributed directly to the effect of any structural abnormality of the eye or the posterior visual pathway. It is caused by abnormal binocular visual experience early in life, during the 'critical period' that prevents normal development of the visual system. It is widely accepted that therapy can only be effective during the critical period, and that it is not administered after the first decade of life. Here we provide an overview describing a recent finding of visual abnormalities in amblyopia and propose a treatment that we developed based on this finding. Both previous and new results that are presented here clearly show the success of the structured method, targeted at the specific deficiencies in amblyopia, to improve vision in children and adults. Our results suggest that the training was successful in rejuvenating the visual system and in restoring lost development from the sensory obstacle period. It is possible that the perceptual learning method used here can be applied to other sensory and non-sensory brain modules suffering from developmental problems.
+AD  - Goldschleger Eye Research Institute, Tel Aviv University, Sheba Medical Center, Ramat Gan, Tel Hashomer, 52621 Israel. urip@post.tau.ac.il
+AN  - 18997316
+AU  - Polat, U.
+DB  - Medline
+DP  - NLM
+ET  - 2008/11/11
+IS  - 4-5
+J2  - Restorative neurology and neuroscience
+KW  - Age Factors
+Amblyopia
+classification
+pathology
+physiopathology
+therapy
+Animals
+Humans
+Individuality
+Learning
+Neuronal Plasticity
+physiology
+Recovery of Function
+physiology
+Visual Acuity
+physiology
+Visual Cortex
+physiology
+Visual Perception
+physiology
+LA  - eng
+N1  - Polat, Uri
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Netherlands
+Restor Neurol Neurosci. 2008;26(4-5):413-24.
+PY  - 2008
+SN  - 0922-6028 (Print)
+0922-6028
+SP  - 413-24
+ST  - Restoration of underdeveloped cortical functions: evidence from treatment of adult amblyopia
+T2  - Restor Neurol Neurosci
+TI  - Restoration of underdeveloped cortical functions: evidence from treatment of adult amblyopia
+VL  - 26
+ID  - 216
+ER  - 
+
+TY  - JOUR
+AB  - Practicing certain visual tasks leads, as a result of a process termed "perceptual learning," to a significant improvement in performance. Learning is specific for basic stimulus features such as local orientation, retinal location, and eye of presentation, suggesting modification of neuronal processes at the primary visual cortex in adults. It is not known, however, whether such low-level learning affects higher-level visual tasks such as recognition. By systematic low-level training of an adult visual system malfunctioning as a result of abnormal development (leading to amblyopia) of the primary visual cortex during the "critical period," we show here that induction of low-level changes might yield significant perceptual benefits that transfer to higher visual tasks. The training procedure resulted in a 2-fold improvement in contrast sensitivity and in letter-recognition tasks. These findings demonstrate that perceptual learning can improve basic representations within an adult visual system that did not develop during the critical period.
+AD  - Goldschleger Eye Research Institute, Tel-Aviv University, Sheba Medical Center, 52621 Tel Hashomer, Israel. upolat@sheba.health.gov.il
+AN  - 15096608
+AU  - Polat, U.
+AU  - Ma-Naim, T.
+AU  - Belkin, M.
+AU  - Sagi, D.
+C2  - PMC404107
+DA  - Apr 27
+DB  - Medline
+DO  - 10.1073/pnas.0401200101
+DP  - NLM
+ET  - 2004/04/21
+IS  - 17
+J2  - Proceedings of the National Academy of Sciences of the United States of America
+KW  - Adult
+Amblyopia
+physiopathology
+Humans
+Learning
+Middle Aged
+Prospective Studies
+Visual Perception
+LA  - eng
+N1  - 1091-6490
+Polat, Uri
+Ma-Naim, Tova
+Belkin, Michael
+Sagi, Dov
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Proc Natl Acad Sci U S A. 2004 Apr 27;101(17):6692-7. doi: 10.1073/pnas.0401200101. Epub 2004 Apr 19.
+PY  - 2004
+SN  - 0027-8424 (Print)
+0027-8424
+SP  - 6692-7
+ST  - Improving vision in adult amblyopia by perceptual learning
+T2  - Proc Natl Acad Sci U S A
+TI  - Improving vision in adult amblyopia by perceptual learning
+VL  - 101
+ID  - 215
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To compare the effect of amblyopia therapy on cases who received interactive binocular treatment (I-BiT™) with those who received standard patching of the dominant eye with placebo I-BiT™. METHODS: In this randomized clinical trial, 38 unilateral amblyopic children (3-10 years old) were studied. All unilateral amblyopic children who had best corrected visual acuity (BCVA) worse than 0.30 logMAR or a difference of two Snellen lines of BCVA between their two eyes were included, and children who did not complete at least 75% of amblyopia treatment were excluded from this study. Eventually, a total of 19 and 21 subjects were included in case and control groups, respectively. Cases played I-BiT™ games, while controls had standard patch therapy and played with placebo I-BiT™ games, both for one month. All subjects were examined at baseline and after one-month therapy. RESULTS: BCVA improved significantly in both groups after one-month treatment (case: P = 0.003, control: P < 0.001), while in comparison with each other, there was not any difference between them (P = 0.52). Although stereopsis improved in the case (P < 0.001) and control (P < 0.001), there was no significant difference between them pre and post-therapy. Our children played games for about 6 h total during one month in both groups, and their compliance was 87.5% and 76% in cases and controls, respectively. Two children were excluded due to their lower compliance of playing I-BiT™ games (n = 38). CONCLUSIONS: I-BiT™ game and patching with placebo game had similar BCVA improvement in amblyopic children after one-month treatment. It is suggested to conduct further randomized clinical trials with a larger sample size and longer duration of study and assessment of its recurrence.
+AD  - Ophthalmic Epidemiology Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+Department of Ophthalmology, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+Negah Specialty Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+Department of Optometry, School of Rehabilitation, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+Department of Mathematics and Computer Sciences, Amirkabir University of Technology, Tehran, Iran.
+AN  - 31844795
+AU  - Rajavi, Z.
+AU  - Sabbaghi, H.
+AU  - Amini Sharifi, E.
+AU  - Behradfar, N.
+AU  - Kheiri, B.
+C2  - PMC6896467
+DA  - Dec
+DB  - PubMed-not-MEDLINE
+DO  - 10.1016/j.joco.2019.07.004
+DP  - NLM
+ET  - 2019/12/18
+IS  - 4
+J2  - Journal of current ophthalmology
+LA  - eng
+N1  - 2452-2325
+Rajavi, Zhale
+Sabbaghi, Hamideh
+Amini Sharifi, Ebrahim
+Behradfar, Narges
+Kheiri, Bahareh
+Journal Article
+Amblyopia
+I-BiT™
+Interactive binocular treatment
+Patch therapy
+J Curr Ophthalmol. 2019 Aug 14;31(4):426-431. doi: 10.1016/j.joco.2019.07.004. eCollection 2019 Dec.
+PY  - 2019
+SN  - 2452-2325 (Print)
+2452-2325
+SP  - 426-431
+ST  - Comparison between patching and interactive binocular treatment in amblyopia: A randomized clinical trial
+T2  - J Curr Ophthalmol
+TI  - Comparison between patching and interactive binocular treatment in amblyopia: A randomized clinical trial
+VL  - 31
+ID  - 206
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To determine the role of Interactive Binocular Treatment (I-BiT™) as a complementary method of patching in amblyopia therapy. METHODS: In this randomized clinical trial study, 50 unilateral amblyopic children (25 male/25 female) between 3 and 10 years with either best corrected visual acuity (BCVA) ≤20/30 in the amblyopic eye or a difference of BCVA ≥ 2 lines between the two eyes were included. They were randomly classified into the case and control groups (25 in each). Patching was recommended in both groups, and cases also received I-BiT™. Cases were asked to play I-BiT™ games through appropriate glasses with conjugate colored filters. Moving and fixed targets were shown to the amblyopic and non-amblyopic eyes, respectively. Playing games was continued 20 min in each session for 5 days a week within one month (total time: 6.6 h). Patching was continued for one month more in both groups to evaluate the continuous effect of I-BiT™. BCVA was measured at baseline, one month after beginning I-BiT™, and one month after cessation of I-BiT™. RESULTS: BCVA of amblyopic eyes in cases and controls were 0.34 ± 0.14 and 0.33 ± 0.17LogMAR at baseline which improved to 0.17 ± 0.14 and 0.26 ± 0.17 at one month, respectively. The difference was significant in each group (p < 0.001 for cases and p = 0.024 for controls) with more improvement in the case group (p < 0.001). One month after cessation of I-BiT™, BCVA difference between the two groups was not statistically significant. There was no case with recurrence of amblyopia. CONCLUSION: Based on our results, I-BiT™ seems to be effective in amblyopia therapy accompanied with patching. We recommend comparing I-BiT™ alone with patching in further studies. ClinicalTrials.gov Identifier: NCT02740725.
+AD  - School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran; Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran; Department of Optometry, School of Rehabilitation, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+Ophthalmic Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+Department of Epidemiology and Biostatistics, Tehran University of Medical Sciences, Tehran, Iran.
+AN  - 27830207
+AU  - Rajavi, Z.
+AU  - Sabbaghi, H.
+AU  - Amini Sharifi, E.
+AU  - Behradfar, N.
+AU  - Yaseri, M.
+C1  - ClinicalTrials.gov/NCT02740725
+C2  - PMC5093783
+DA  - Dec
+DB  - PubMed-not-MEDLINE
+DO  - 10.1016/j.joco.2016.07.005
+DP  - NLM
+ET  - 2016/11/11
+IS  - 4
+J2  - Journal of current ophthalmology
+LA  - eng
+N1  - 2452-2325
+Rajavi, Zhale
+Sabbaghi, Hamideh
+Amini Sharifi, Ebrahim
+Behradfar, Narges
+Yaseri, Mehdi
+Journal Article
+Amblyopia
+Interaction Binocular Treatment (I-BiT™)
+Patch therapy
+J Curr Ophthalmol. 2016 Aug 9;28(4):217-222. doi: 10.1016/j.joco.2016.07.005. eCollection 2016 Dec.
+PY  - 2016
+SN  - 2452-2325 (Print)
+2452-2325
+SP  - 217-222
+ST  - The role of Interactive Binocular Treatment system in amblyopia therapy
+T2  - J Curr Ophthalmol
+TI  - The role of Interactive Binocular Treatment system in amblyopia therapy
+VL  - 28
+ID  - 205
+ER  - 
+
+TY  - JOUR
+AB  - Amblyopia is a neurodevelopmental disorder of vision caused by abnormal visual experience during early childhood that is often considered to be untreatable in adulthood. Recently, it has been shown that a novel dichoptic videogame-based treatment for amblyopia can improve visual function in adult patients, at least in part, by reducing inhibition of inputs from the amblyopic eye to the visual cortex. Non-invasive anodal transcranial direct current stimulation has been shown to reduce the activity of inhibitory cortical interneurons when applied to the primary motor or visual cortex. In this double-blind, sham-controlled cross-over study we tested the hypothesis that anodal transcranial direct current stimulation of the visual cortex would enhance the therapeutic effects of dichoptic videogame-based treatment. A homogeneous group of 16 young adults (mean age 22.1 ± 1.1 years) with amblyopia were studied to compare the effect of dichoptic treatment alone and dichoptic treatment combined with visual cortex direct current stimulation on measures of binocular (stereopsis) and monocular (visual acuity) visual function. The combined treatment led to greater improvements in stereoacuity than dichoptic treatment alone, indicating that direct current stimulation of the visual cortex boosts the efficacy of dichoptic videogame-based treatment. This intervention warrants further evaluation as a novel therapeutic approach for adults with amblyopia.
+AD  - State Key Laboratory of Ophthalmology, Zhongshan, Ophthalmic Center, Sun Yat-sen University, Guangzhou, 510060, China.
+AN  - 23857313
+AU  - Spiegel, D. P.
+AU  - Li, J.
+AU  - Hess, R. F.
+AU  - Byblow, W. D.
+AU  - Deng, D.
+AU  - Yu, M.
+AU  - Thompson, B.
+C2  - PMC3805870
+DA  - Oct
+DB  - Medline
+DO  - 10.1007/s13311-013-0200-y
+DP  - NLM
+ET  - 2013/07/17
+IS  - 4
+J2  - Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+therapy
+Cross-Over Studies
+Depth Perception
+physiology
+Double-Blind Method
+Electric Stimulation Therapy
+methods
+Female
+Humans
+Male
+Treatment Outcome
+Video Games
+Visual Cortex
+physiopathology
+LA  - eng
+N1  - 1878-7479
+Spiegel, Daniel P
+Li, Jinrong
+Hess, Robert F
+Byblow, Winston D
+Deng, Daming
+Yu, Minbin
+Thompson, Benjamin
+53346/PHS HHS/United States
+Journal Article
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Neurotherapeutics. 2013 Oct;10(4):831-9. doi: 10.1007/s13311-013-0200-y.
+PY  - 2013
+SN  - 1933-7213 (Print)
+1878-7479
+SP  - 831-9
+ST  - Transcranial direct current stimulation enhances recovery of stereopsis in adults with amblyopia
+T2  - Neurotherapeutics
+TI  - Transcranial direct current stimulation enhances recovery of stereopsis in adults with amblyopia
+VL  - 10
+ID  - 212
+ER  - 
+
+TY  - JOUR
+AB  - We have developed a prototype device for take-home use that can be used in the treatment of amblyopia. The therapeutic scenario we envision involves patients first visiting a clinic, where their vision parameters are assessed and suitable parameters are determined for therapy. Patients then proceed with the actual therapeutic treatment on their own, using our device, which consists of an Apple iPod Touch running a specially modified game application. Our rationale for choosing to develop the prototype around a game stems from multiple requirements that such an application satisfies. First, system operation must be sufficiently straightforward that ease-of-use is not an obstacle. Second, the application itself should be compelling and motivate use more so than a traditional therapeutic task if it is to be used regularly outside of the clinic. This is particularly relevant for children, as compliance is a major issue for current treatments of childhood amblyopia. However, despite the traditional opinion that treatment of amblyopia is only effective in children, our initial results add to the growing body of evidence that improvements in visual function can be achieved in adults with amblyopia.
+AD  - Centre for Intelligent Machines, McGill University, Montreal, QC H3A2A7, Canada. longto@cim.mcgill.ca
+AN  - 21335317
+AU  - To, L.
+AU  - Thompson, B.
+AU  - Blum, J. R.
+AU  - Maehara, G.
+AU  - Hess, R. F.
+AU  - Cooperstock, J. R.
+DA  - Jun
+DB  - Medline
+DO  - 10.1109/tnsre.2011.2115255
+DP  - NLM
+ET  - 2011/02/22
+IS  - 3
+J2  - IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society
+KW  - Adolescent
+Adult
+Algorithms
+Amblyopia
+therapy
+Calibration
+Computers
+Depth Perception
+Equipment Design
+Eye Movements
+physiology
+Female
+Humans
+Male
+Middle Aged
+Photic Stimulation
+Psychomotor Performance
+physiology
+Software
+User-Computer Interface
+Video Games
+Vision, Binocular
+physiology
+Young Adult
+LA  - eng
+N1  - 1558-0210
+To, Long
+Thompson, Benjamin
+Blum, Jeffrey R
+Maehara, Goro
+Hess, Robert F
+Cooperstock, Jeremy R
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+IEEE Trans Neural Syst Rehabil Eng. 2011 Jun;19(3):280-9. doi: 10.1109/TNSRE.2011.2115255. Epub 2011 Feb 17.
+PY  - 2011
+SN  - 1534-4320
+SP  - 280-9
+ST  - A game platform for treatment of amblyopia
+T2  - IEEE Trans Neural Syst Rehabil Eng
+TI  - A game platform for treatment of amblyopia
+VL  - 19
+ID  - 210
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: New behavioral treatment methods, including dichoptic training, perceptual learning, and video gaming, have been proposed to improve visual function in adult amblyopia. Here, we conducted a meta-analysis of these methods to investigate the factors involved in amblyopia recovery and their clinical significance. METHODS: Mean and individual participant data meta-analyses were performed on 24 studies using the new behavioral methods in adults. Studies were identified using PubMed, Google Scholar, and published reviews. RESULTS: The new methods yielded a mean improvement in visual acuity of 0.17 logMAR with 32% participants achieving gains ≥ 0.2 logMAR, and a mean improvement in stereo sensitivity of 0.01 arcsec-1 with 42% of participants improving ≥2 octaves. The most significant predictor of treatment outcome was visual acuity at the onset of treatment. Participants with more severe amblyopia improved more on visual acuity and less on stereo sensitivity than those with milder amblyopia. Better initial stereo sensitivity was a predictor of greater gains in stereo sensitivity following treatment. Treatment type, amblyopia type, age, and training duration did not have any significant influence on visual and stereo acuity outcomes. CONCLUSIONS: Our analyses showed that some participants may benefit from the new treatments; however, clinical trials are required to confirm these findings. Despite the diverse nature of the new behavioral methods, the lack of significant differences in visual and stereo sensitivity outcomes among them suggests that visual attention-a common element among the varied treatment methods-may play an important role in amblyopia recovery.
+AD  - Program in Neuroscience and Mental Health The Hospital for Sick Children, Toronto, Canada.
+Program in Neuroscience and Mental Health The Hospital for Sick Children, Toronto, Canada 2Department of Ophthalmology and Vision Sciences, University of Toronto, Toronto, Canada.
+Program in Neuroscience and Mental Health The Hospital for Sick Children, Toronto, Canada 2Department of Ophthalmology and Vision Sciences, University of Toronto, Toronto, Canada 3Department of Ophthalmology and Vision Sciences, The Hospital for Sick Chil.
+AN  - 26114483
+AU  - Tsirlin, I.
+AU  - Colpa, L.
+AU  - Goltz, H. C.
+AU  - Wong, A. M.
+DA  - Jun
+DB  - Medline
+DO  - 10.1167/iovs.15-16583
+DP  - NLM
+ET  - 2015/06/27
+IS  - 6
+J2  - Investigative ophthalmology & visual science
+KW  - Adult
+Amblyopia
+physiopathology
+therapy
+Behavior Therapy
+methods
+Female
+Humans
+Learning
+physiology
+Perceptual Masking
+physiology
+Photic Stimulation
+methods
+Vision, Binocular
+physiology
+Visual Acuity
+physiology
+Visual Perception
+physiology
+LA  - eng
+N1  - 1552-5783
+Tsirlin, Inna
+Colpa, Linda
+Goltz, Herbert C
+Wong, Agnes M F
+MOP 106663/Canadian Institutes of Health Research/Canada
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+United States
+Invest Ophthalmol Vis Sci. 2015 Jun;56(6):4061-75. doi: 10.1167/iovs.15-16583.
+PY  - 2015
+SN  - 0146-0404
+SP  - 4061-75
+ST  - Behavioral Training as New Treatment for Adult Amblyopia: A Meta-Analysis and Systematic Review
+T2  - Invest Ophthalmol Vis Sci
+TI  - Behavioral Training as New Treatment for Adult Amblyopia: A Meta-Analysis and Systematic Review
+VL  - 56
+ID  - 200
+ER  - 
+
+TY  - JOUR
+AB  - Amblyopia is an example of abnormal visual development that is clinically defined as a reduction of best corrected Snellen acuity to less than 6/9 (20/30) in one eye or a two-line difference between the two eyes, with no visible signs of eye disease. We describe a sequential management program for anisometropic amblyopia that consists of four steps: (1) the full refractive correction, (2) added lenses or prism when needed to improve alignment of the visual axes, (3) 2 to 5 h/day of direct occlusion, and (4) active vision therapy to develop monocular acuity and improve binocular visual function. We examined records of 19 patients over 6 years of age who had been treated using this sequential management philosophy. After 15.2 (+/- 7.7) weeks of treatment the Amblyopia Success Index (ASI) documented an average improvement in visual acuity of 92.1% +/- 8.1 with a range from a low of 75% by a 49-year-old patient to a maximum of 100% achieved by 42.1% of the patients (8 of 19). Patients who had completed therapy 1 or more years ago (N = 4) maintained their acuity improvement. From these results we conclude that following a sequential management plan for treatment of anisometropic amblyopia can yield substantial long-lasting improvement in visual acuity and binocular function for patients of any age.
+AD  - College of Optometry, University of Houston, Texas.
+AN  - 1454304
+AU  - Wick, B.
+AU  - Wingard, M.
+AU  - Cotter, S.
+AU  - Scheiman, M.
+DA  - Nov
+DB  - Medline
+DO  - 10.1097/00006324-199211000-00006
+DP  - NLM
+ET  - 1992/11/01
+IS  - 11
+J2  - Optometry and vision science : official publication of the American Academy of Optometry
+KW  - Adolescent
+Adult
+Amblyopia
+therapy
+Anisometropia
+therapy
+Child
+Female
+Humans
+Male
+Middle Aged
+Optics and Photonics
+Sensory Deprivation
+Treatment Outcome
+Vision, Binocular
+Visual Acuity
+LA  - eng
+N1  - Wick, B
+Wingard, M
+Cotter, S
+Scheiman, M
+Journal Article
+United States
+Optom Vis Sci. 1992 Nov;69(11):866-78. doi: 10.1097/00006324-199211000-00006.
+PY  - 1992
+SN  - 1040-5488 (Print)
+1040-5488
+SP  - 866-78
+ST  - Anisometropic amblyopia: is the patient ever too old to treat?
+T2  - Optom Vis Sci
+TI  - Anisometropic amblyopia: is the patient ever too old to treat?
+VL  - 69
+ID  - 234
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Amblyopia is a developmental disorder that results in both monocular and binocular deficits. Although traditional treatment in clinical practice (i.e., refractive correction, or occlusion by patching and penalization of the fellow eye) is effective in restoring monocular visual acuity, there is little information on how binocular function, especially stereopsis, responds to traditional amblyopia treatment. We aim to evaluate the effects of perceptual learning on stereopsis in observers with amblyopia in the current study. METHODS: Eleven observers (21.1 ± 5.1 years, six females) with anisometropic or ametropic amblyopia were trained to judge depth in 10 to 13 sessions. Red-green glasses were used to present three different texture anaglyphs with different disparities but a fixed exposure duration. Stereoacuity was assessed with the Fly Stereo Acuity Test and visual acuity was assessed with the Chinese Tumbling E Chart before and after training. RESULTS: Averaged across observers, training significantly reduced disparity threshold from 776.7″ to 490.4″ (P < 0.01) and improved stereoacuity from 200.3″ to 81.6″ (P < 0.01). Interestingly, visual acuity also significantly improved from 0.44 to 0.35 logMAR (approximately 0.9 lines, P < 0.05) in the amblyopic eye after training. Moreover, the learning effects in two of the three retested observers were largely retained over a 5-month period. CONCLUSIONS: Perceptual learning is effective in improving stereo vision in observers with amblyopia. These results, together with previous evidence, suggest that structured monocular and binocular training might be necessary to fully recover degraded visual functions in amblyopia. Chinese Abstract.
+AD  - Key Laboratory of Behavioral Science, Institute of Psychology, Chinese Academy of Sciences, Beijing, China.
+AN  - 24508791
+AU  - Xi, J.
+AU  - Jia, W. L.
+AU  - Feng, L. X.
+AU  - Lu, Z. L.
+AU  - Huang, C. B.
+C2  - PMC3989086
+DA  - Apr 15
+DB  - Medline
+DO  - 10.1167/iovs.13-12627
+DP  - NLM
+ET  - 2014/02/11
+IS  - 4
+J2  - Investigative ophthalmology & visual science
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+therapy
+Child
+Disease Progression
+Eyeglasses
+Female
+Humans
+Learning
+physiology
+Male
+Perceptual Masking
+physiology
+Prognosis
+Sensory Deprivation
+Vision, Binocular
+physiology
+Visual Perception
+physiology
+Young Adult
+LA  - eng
+N1  - 1552-5783
+Xi, Jie
+Jia, Wu-Li
+Feng, Li-Xia
+Lu, Zhong-Lin
+Huang, Chang-Bing
+R01 EY017491/EY/NEI NIH HHS/United States
+R01 EY021553/EY/NEI NIH HHS/United States
+EY021553/EY/NEI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+amblyopia
+perceptual learning
+stereoacuity
+Invest Ophthalmol Vis Sci. 2014 Apr 15;55(4):2384-91. doi: 10.1167/iovs.13-12627.
+PY  - 2014
+SN  - 0146-0404 (Print)
+0146-0404
+SP  - 2384-91
+ST  - Perceptual learning improves stereoacuity in amblyopia
+T2  - Invest Ophthalmol Vis Sci
+TI  - Perceptual learning improves stereoacuity in amblyopia
+VL  - 55
+ID  - 230
+ER  - 
+
+TY  - JOUR
+AB  - AIMS: To compare amblyopic-eye visual acuity (VA) and binocularity improvement of a binocular game with part-time patching in the treatment of Chinese children with anisometropic amblyopia. METHODS: 103 Chinese children aged 3-13 years with anisometropic amblyopia were recruited in a randomised clinical trial. Eligible participants were randomly assigned to the binocular, patching and combined groups. Primary outcome was amblyopic-eye VA improvement at 3 months. Secondary outcomes included reduction of suppression and change of stereoacuity. RESULTS: Of 85 completed participants, 44 (52%) were women and mean (SD) age was 5.99 (2.33) years. At 3 months, mean (95% CI) amblyopic-eye VA improved 0.18 (0.10-0.26), 0.28 (0.19-0.36) and 0.30 (0.21-0.39) logarithm of the minimum angle of resolution in the binocular, patching and combined groups, respectively. After adjusting for baseline VA, the difference was statistically significant (F=6.29, p=0.003), favouring as follows: the combined group, the patching group and the binocular group. After treatment, Titmus (x(2) (binocular)=9.75, p=0.007; x(2) (combined)=9.35, p=0.009) and dynamic stereoacuity (x(2) (binocular)=12.56, p=0.01; x(2) (combined)=12.66, p=0.01) improved only in the binocular and combined groups. Among groups, only Titmus improvement differed significantly (F=49.55, p<0.001). Changes of other types of stereoacuity and interocular suppression were similar. CONCLUSIONS: The binocular game used in this study could improve amblyopic-eye VA and binocularity in Chinese children with anisometropic amblyopia, but it was less effective than patching in amblyopic-eye VA improvement and showed no superiority in binocularity over patching. It remains unclear whether the low treatment response of this binocular game was due to limitations of the study or its low treatment effect.
+AD  - Department of Ophthalmology and Vision Science, Eye & ENT Hospital, Shanghai Medical School, Fudan University, Shanghai, China.
+NHC Key Laboratory of Myopia, Fudan University, Shanghai, China.
+Laboratory of Myopia, Chinese Academy of Medical Sciences, Shanghai, China.
+Department of Ophthalmology and Vision Science, Eye & ENT Hospital, Shanghai Medical School, Fudan University, Shanghai, China quxiaomei2002@126.com.
+AN  - 31272953
+AU  - Yao, J.
+AU  - Moon, H. W.
+AU  - Qu, X.
+DA  - Mar
+DB  - Medline
+DO  - 10.1136/bjophthalmol-2018-313815
+DP  - NLM
+ET  - 2019/07/06
+IS  - 3
+J2  - The British journal of ophthalmology
+KW  - Adolescent
+Amblyopia
+epidemiology
+physiopathology
+therapy
+Child
+Child, Preschool
+China
+epidemiology
+Computers, Handheld
+Female
+Follow-Up Studies
+Humans
+Incidence
+Male
+Prospective Studies
+Sensory Deprivation
+Video Games
+Vision, Binocular
+physiology
+Visual Acuity
+LA  - eng
+N1  - 1468-2079
+Yao, Jing
+Orcid: 0000-0002-6047-2945
+Moon, Hye-Won
+Qu, Xiaomei
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+*clinical trial
+*optics and refraction
+*treatment other
+*vision
+Br J Ophthalmol. 2020 Mar;104(3):369-375. doi: 10.1136/bjophthalmol-2018-313815. Epub 2019 Jul 4.
+PY  - 2020
+SN  - 0007-1161
+SP  - 369-375
+ST  - Binocular game versus part-time patching for treatment of anisometropic amblyopia in Chinese children: a randomised clinical trial
+T2  - Br J Ophthalmol
+TI  - Binocular game versus part-time patching for treatment of anisometropic amblyopia in Chinese children: a randomised clinical trial
+VL  - 104
+ID  - 204
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: We investigated whether perceptual learning in adults with amblyopia could be enabled to transfer completely to an orthogonal orientation, which would suggest that amblyopic perceptual learning results mainly from high-level cognitive compensation, rather than plasticity in the amblyopic early visual brain. METHODS: Nineteen adults (mean age = 22.5 years) with anisometropic and/or strabismic amblyopia were trained following a training-plus-exposure (TPE) protocol. The amblyopic eyes practiced contrast, orientation, or Vernier discrimination at one orientation for six to eight sessions. Then the amblyopic or nonamblyopic eyes were exposed to an orthogonal orientation via practicing an irrelevant task. Training was first performed at a lower spatial frequency (SF), then at a higher SF near the cutoff frequency of the amblyopic eye. RESULTS: Perceptual learning was initially orientation specific. However, after exposure to the orthogonal orientation, learning transferred to an orthogonal orientation completely. Reversing the exposure and training order failed to produce transfer. Initial lower SF training led to broad improvement of contrast sensitivity, and later higher SF training led to more specific improvement at high SFs. Training improved visual acuity by 1.5 to 1.6 lines (P < 0.001) in the amblyopic eyes with computerized tests and a clinical E acuity chart. It also improved stereoacuity by 53% (P < 0.001). CONCLUSIONS: The complete transfer of learning suggests that perceptual learning in amblyopia may reflect high-level learning of rules for performing a visual discrimination task. These rules are applicable to new orientations to enable learning transfer. Therefore, perceptual learning may improve amblyopic vision mainly through rule-based cognitive compensation.
+AD  - Department of Psychology, IDG/McGovern Institute for Brain Research, and Peking-Tsinghua Center for Life Sciences, Peking University, Beijing, China.
+AN  - 24550359
+AU  - Zhang, J. Y.
+AU  - Cong, L. J.
+AU  - Klein, S. A.
+AU  - Levi, D. M.
+AU  - Yu, C.
+C2  - PMC3974581
+DA  - Apr 1
+DB  - Medline
+DO  - 10.1167/iovs.13-13739
+DP  - NLM
+ET  - 2014/02/20
+IS  - 4
+J2  - Investigative ophthalmology & visual science
+KW  - Adult
+Amblyopia
+physiopathology
+psychology
+Cognition
+physiology
+Female
+Humans
+Learning
+physiology
+Male
+Orientation
+physiology
+Photic Stimulation
+methods
+Psychophysics
+methods
+Visual Acuity
+Visual Perception
+physiology
+Young Adult
+LA  - eng
+N1  - 1552-5783
+Zhang, Jun-Yun
+Cong, Lin-Juan
+Klein, Stanley A
+Levi, Dennis M
+Yu, Cong
+R01 EY001728/EY/NEI NIH HHS/United States
+R01 EY004776/EY/NEI NIH HHS/United States
+R01EY04776/EY/NEI NIH HHS/United States
+R01EY01728/EY/NEI NIH HHS/United States
+R01 EY020976/EY/NEI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+amblyopia
+orientation
+perceptual learning
+Invest Ophthalmol Vis Sci. 2014 Apr 1;55(4):2020-30. doi: 10.1167/iovs.13-13739.
+PY  - 2014
+SN  - 0146-0404 (Print)
+0146-0404
+SP  - 2020-30
+ST  - Perceptual learning improves adult amblyopic vision through rule-based cognitive compensation
+T2  - Invest Ophthalmol Vis Sci
+TI  - Perceptual learning improves adult amblyopic vision through rule-based cognitive compensation
+VL  - 55
+ID  - 229
+ER  - 
+
+TY  - JOUR
+AB  - To evaluate the effects of perceptual learning on contrast-sensitivity function and visual acuity in adult observers with amblyopia, 23 anisometropic amblyopes with a mean age of 19.3 years were recruited and divided into three groups. Subjects in Group I were trained in grating detection in the amblyopic eye near pre-training cut-off spatial frequency. Group II received a training regimen of repeated contrast-sensitivity function measurements in the amblyopic eye. Group III received no training. We found that training substantially improved visual acuity and contrast-sensitivity functions in the amblyopic eyes of all the observers in Groups I and II, although no significant performance improvement was observed in Group III. For observers in Group I, performance improvements in the amblyopic eyes were broadly tuned in spatial frequency and generalized to the fellow eyes. The latter result was not found in Group II. In a few cases tested, improvements in visual acuity following training showed about 90% retention for at least 1 year. We concluded that the visual system of adult amblyopes might still retain substantial plasticity. Perceptual learning shows potential as a clinical tool for treating child and adult amblyopia.
+AD  - Vision Research Lab, School of Life Sciences, University of Science and Technology of China, Hefei, Anhui. zhouy@ustc.educn
+AN  - 16153674
+AU  - Zhou, Y.
+AU  - Huang, C.
+AU  - Xu, P.
+AU  - Tao, L.
+AU  - Qiu, Z.
+AU  - Li, X.
+AU  - Lu, Z. L.
+DA  - Mar
+DB  - Medline
+DO  - 10.1016/j.visres.2005.07.031
+DP  - NLM
+ET  - 2005/09/13
+IS  - 5
+J2  - Vision research
+KW  - Adolescent
+Adult
+Amblyopia
+physiopathology
+psychology
+Contrast Sensitivity
+Female
+Humans
+Male
+Neuronal Plasticity
+Photic Stimulation
+methods
+Psychophysics
+Retention, Psychology
+Visual Acuity
+LA  - eng
+N1  - Zhou, Yifeng
+Huang, Changbing
+Xu, Pengjing
+Tao, Liming
+Qiu, Zhuping
+Li, Xiangrui
+Lu, Zhong-Lin
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+Vision Res. 2006 Mar;46(5):739-50. doi: 10.1016/j.visres.2005.07.031. Epub 2005 Sep 8.
+PY  - 2006
+SN  - 0042-6989 (Print)
+0042-6989
+SP  - 739-50
+ST  - Perceptual learning improves contrast sensitivity and visual acuity in adults with anisometropic amblyopia
+T2  - Vision Res
+TI  - Perceptual learning improves contrast sensitivity and visual acuity in adults with anisometropic amblyopia
+VL  - 46
+ID  - 220
+ER  - 
+

@@ -5,7 +5,7 @@
 \alias{MeSH_Dictionary}
 \title{PubMed MeSH Headings 2022}
 \format{
-\subsection{\verb{MeSH Dictionary}}{
+\subsection{\code{MeSH_Dictionary}}{
 
 A data frame with 3094 rows and 1 column:
 \describe{

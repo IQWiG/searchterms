@@ -5,7 +5,7 @@
 \alias{popset}
 \title{PubMed random population set}
 \format{
-\subsection{\verb{Population Set 2022}}{
+\subsection{\code{popset}}{
 
 A list of 3 data frames
 \describe{

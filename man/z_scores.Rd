@@ -7,9 +7,7 @@
 z_scores(
   risfile,
   risfile_population,
-  vocabulary = "MeSH",
   load_popset = TRUE,
-  MeSH = TRUE,
   dev_set = FALSE,
   seed = NULL
 )
@@ -19,11 +17,7 @@ z_scores(
 
 \item{risfile_population}{a dataframe containing a population set}
 
-\item{vocabulary}{defining the controlled vocabulary used, currently only "MeSH" avaibable for the package}
-
 \item{load_popset}{logical, should internal population set be applied (default) or should a customized population set be calculated}
-
-\item{MeSH}{logical, deprecated currently only TRUE available}
 
 \item{dev_set}{logical, if testset should be randomly divided into a development and validation set select TRUE?}
 
@@ -34,4 +28,18 @@ a list
 }
 \description{
 Z score tables
+}
+\examples{
+ris <- c("TY  - JOUR",
+         "AU  - Kapp",
+         "TI  - Titles",
+         "PY  - 2023",
+         "JOUR  - IQWiG Journal",
+         "KW  - Systematic Reviews as Topic",
+         "ER  -")
+
+tmp <- tempfile(fileext = ".txt")
+writeLines(ris, tmp)
+z_scores(tmp)
+
 }

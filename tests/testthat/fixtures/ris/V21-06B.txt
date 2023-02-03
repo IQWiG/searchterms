@@ -1,0 +1,2466 @@
+﻿TY  - JOUR
+AN  - 11841046
+DA  - Jan-Feb
+DB  - Medline
+DP  - NLM
+ET  - 2002/02/14
+IS  - 1 Suppl
+J2  - JPEN. Journal of parenteral and enteral nutrition
+KW  - Adult
+Child
+Enteral Nutrition
+standards
+Humans
+Parenteral Nutrition
+standards
+LA  - eng
+N1  - ASPEN Board of Directors and the Clinical Guidelines Task Force
+Guideline
+Journal Article
+Practice Guideline
+United States
+JPEN J Parenter Enteral Nutr. 2002 Jan-Feb;26(1 Suppl):1SA-138SA.
+PY  - 2002
+SN  - 0148-6071 (Print)
+0148-6071
+SP  - 1sa-138sa
+ST  - Guidelines for the use of parenteral and enteral nutrition in adult and pediatric patients
+T2  - JPEN J Parenter Enteral Nutr
+TI  - Guidelines for the use of parenteral and enteral nutrition in adult and pediatric patients
+VL  - 26
+ID  - 29
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: The aims of this study were to define the indications for, and to evaluate the cost-effectiveness of, nutritional support in patients with acute pancreatitis. METHODS: All admissions during the 12-month period from January through December 2000, were entered into a common management protocol consisting of an initial 48-h fast with i.v. fluids and analgesics. After 48 h, those patients who were improving were restarted on oral feeding (group O). The remaining patients were randomized to receive nasojejunal (group EN) or parenteral feeding (group TPN). The randomization study was continued until 50 patients had been accrued. Outcomes in the three groups were compared with respect to length of hospital stay, duration of feeding, complications, and hospital costs. RESULTS: A total of 156 admissions were evaluated in the first 12 months. Of these, 87% patients had mild disease, 10% moderate, and 3% severe; 62% were related to alcohol abuse, 18% gallstones, and 8% idiosyncratic drug reactions. Of the patients, 75% improved on 48 h bowel rest and i.v. fluids, and were discharged within 4 days. The remainder were randomized to jejunal elemental (n = 26) or parenteral (n = 27) feeding. Duration of feeding was shorter with EN (6.7 vs 10.8 days, p < 0.05) and nutrition costs were lower, representing an average cost saving of $2362.00 per patient fed. EN was less effective in meeting estimated nutritional requirements (54 vs 88%, p < 0.0001), but metabolic (p < 0.003) and septic complications (p = 0.01) were lower. Subgroup analysis of patients with severe disease showed similar findings. CONCLUSION: Despite concerns that metabolic expenditure is increased and that food-stimulated pancreatic secretion might exacerbate the disease process, hypocaloric enteral feeding seems to be safer and less expensive than parenteral feeding and bowel rest in patients with acute pancreatitis.
+AD  - Division of Gastroenterology, Medical College of Virginia, Virginia Commonwealth University, Richmond 23219, USA.
+AN  - 12358242
+AU  - Abou-Assi, S.
+AU  - Craig, K.
+AU  - O'Keefe, S. J.
+DA  - Sep
+DB  - Medline
+DO  - 10.1111/j.1572-0241.2002.05979.x
+DP  - NLM
+ET  - 2002/10/03
+IS  - 9
+J2  - The American journal of gastroenterology
+KW  - Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Cost-Benefit Analysis
+Enteral Nutrition
+economics
+Female
+Humans
+Jejunum
+surgery
+Length of Stay
+Male
+Middle Aged
+Outcome Assessment, Health Care
+Pancreatitis
+economics
+therapy
+Parenteral Nutrition, Total
+economics
+Prospective Studies
+Time Factors
+LA  - eng
+N1  - Abou-Assi, Souheil
+Craig, Kimberly
+O'Keefe, Stephen J D
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Am J Gastroenterol. 2002 Sep;97(9):2255-62. doi: 10.1111/j.1572-0241.2002.05979.x.
+PY  - 2002
+SN  - 0002-9270 (Print)
+0002-9270
+SP  - 2255-62
+ST  - Hypocaloric jejunal feeding is better than total parenteral nutrition in acute pancreatitis: results of a randomized comparative study
+T2  - Am J Gastroenterol
+TI  - Hypocaloric jejunal feeding is better than total parenteral nutrition in acute pancreatitis: results of a randomized comparative study
+VL  - 97
+ID  - 30
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Acute pancreatitis creates a catabolic stress state promoting a systemic inflammatory response and nutritional deterioration. Adequate supply of nutrients plays an important role in recovery. Total parenteral nutrition (TPN) has been standard practice for providing exogenous nutrients to patients with severe acute pancreatitis. However, recent data suggest that enteral nutrition (EN) is not only feasible, but safer and more effective.Therefore, we sought to update our systematic review to re-evaluate the level of evidence. OBJECTIVES: To compare the effect of TPN versus EN on mortality, morbidity and length of hospital stay in patients with acute pancreatitis. SEARCH STRATEGY: Trials were identified by computerized searches of The Cochrane Controlled Trials Register, MEDLINE, and EMBASE. Additional studies were identified by searching Scisearch, bibliographies of review articles and identified trials. The search was undertaken in August 2000 and updated in September 2002, October 2003, November 2004 and November 2008. No language restrictions were applied. SELECTION CRITERIA: Randomized clinical trials comparing TPN to EN in patients with acute pancreatitis. DATA COLLECTION AND ANALYSIS: Two reviewers independently abstracted data and assessed trial quality. A standardized form was used to extract relevant data. MAIN RESULTS: Eight trials with a total of 348 participants were included. Comparing EN to TPN for acute pancreatitis, the relative risk (RR) for death was 0.50 (95% CI 0.28 to 0.91), for multiple organ failure (MOF) was 0.55 (95% CI 0.37 to 0.81), for systemic infection was 0.39 (95% CI 0.23 to 0.65), for operative interventions was 0.44 (95% CI 0.29 to 0.67), for local septic complications was 0.74 (95% CI 0.40 to 1.35), and for other local complications was 0.70 (95% CI 0.43 to 1.13). Mean length of hospital stay was reduced by 2.37 days in EN vs TPN groups (95% CI -7.18 to 2.44). Furthermore, a subgroup analysis for EN vs TPN in patients with severe acute pancreatitis showed a RR for death of 0.18 (95% CI 0.06 to 0.58) and a RR for MOF of 0.46 (95% CI 0.16 to 1.29). AUTHORS' CONCLUSIONS: In patients with acute pancreatitis, enteral nutrition significantly reduced mortality, multiple organ failure, systemic infections, and the need for operative interventions compared to those who received TPN. In addition, there was a trend towards a reduction in length of hospital stay. These data suggest that EN should be considered the standard of care for patients with acute pancreatitis requiring nutritional support.
+AD  - Department of Surgery and Peripheral Vascular Disease Research Chair, College of Medicine, King Saud University, P.O.Box 7805(37), Riyadh, Saudi Arabia, 11472.
+AN  - 20091534
+AU  - Al-Omran, M.
+AU  - Albalawi, Z. H.
+AU  - Tashkandi, M. F.
+AU  - Al-Ansary, L. A.
+C2  - PMC7120370
+DA  - Jan 20
+DB  - Medline
+DO  - 10.1002/14651858.CD002837.pub2
+DP  - NLM
+ET  - 2010/01/22
+IS  - 1
+J2  - The Cochrane database of systematic reviews
+KW  - Acute Disease
+Enteral Nutrition
+Humans
+Pancreatitis
+mortality
+therapy
+Parenteral Nutrition
+Randomized Controlled Trials as Topic
+LA  - eng
+N1  - 1469-493x
+Al-Omran, Mohammed
+Albalawi, Zaina H
+Tashkandi, Mariam F
+Al-Ansary, Lubna A
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+Cochrane Database Syst Rev. 2010 Jan 20;2010(1):CD002837. doi: 10.1002/14651858.CD002837.pub2.
+PY  - 2010
+SN  - 1361-6137
+SP  - Cd002837
+ST  - Enteral versus parenteral nutrition for acute pancreatitis
+T2  - Cochrane Database Syst Rev
+TI  - Enteral versus parenteral nutrition for acute pancreatitis
+VL  - 2010
+ID  - 8
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: The pathogenesis of acute pancreatitis remains elusive. Sepsis and multiple organ failure continue to cause death (overall mortality rate, approximately 10%) despite immense improvements in supportive, radiologic, and surgical therapy. The gut appears to play a key role in the development of these complications. AIM: To critically review the evidence implicating the gut in the pathogenesis of acute pancreatitis. METHODS: Relevant English-language literature or abstracts cited in the MEDLINE database were reviewed. RESULTS AND CONCLUSION: Gram-negative enteric organisms account for most infections of pancreatic necrosis and subsequent sepsis, which suggests the gut as a source. Intestinal permeability is increased early in patients with severe acute pancreatitis and correlates with endotoxemia, which suggests translocation as a possible mechanism. The pathogenesis of the deranged function of the gut mucosal barrier and the possible sites of increase in intestinal permeability are discussed. The gut also plays a role in priming neutrophils and the release of inflammatory cytokines, which initiate and propagate nearly all the detrimental consequences of severe inflammation and sepsis. Future research avenues and potential therapeutic measures that may restore and preserve gut barrier function are explored.
+AD  - Division of Surgery, The University of Leeds, and the Center for Digestive Diseases, The General Infirmary, Leeds, United Kingdom. Bammori@aol.com
+AN  - 12604908
+AU  - Ammori, B. J.
+DA  - Mar
+DB  - Medline
+DO  - 10.1097/00006676-200303000-00006
+DP  - NLM
+ET  - 2003/02/27
+IS  - 2
+J2  - Pancreas
+KW  - Animals
+Anti-Bacterial Agents
+therapeutic use
+Bacteria
+drug effects
+isolation & purification
+Bacterial Infections
+complications
+Cytokines
+metabolism
+Humans
+Intestinal Mucosa
+metabolism
+Intestines
+microbiology
+physiopathology
+Neutrophils
+metabolism
+Pancreatitis, Acute Necrotizing
+etiology
+metabolism
+Permeability
+LA  - eng
+N1  - 1536-4828
+Ammori, Basil J
+Journal Article
+Review
+United States
+Pancreas. 2003 Mar;26(2):122-9. doi: 10.1097/00006676-200303000-00006.
+PY  - 2003
+SN  - 0885-3177
+SP  - 122-9
+ST  - Role of the gut in the course of severe acute pancreatitis
+T2  - Pancreas
+TI  - Role of the gut in the course of severe acute pancreatitis
+VL  - 26
+ID  - 36
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Sepsis is the main cause of late mortality in patients with severe acute pancreatitis and is largely attributed to secondary infection of pancreatic necrosis with gram-negative enteric organisms. This is commonly preceded by a significant increase in intestinal colonization with such microbes and with early increases in intestinal permeability, thus suggesting a mechanism of bacterial translocation. Whilst cultures of blood specimens from these patients often remain sterile, it is conceivable that bacteria might translocate in small volumes with detrimental effects but elude detection by standard microbial culture techniques. AIMS: To investigate the incidence and frequency with which bacterial DNA may exist in the systemic circulation of patients with acute pancreatitis and to relate that to disease severity, changes in intestinal permeability, and systemic endotoxin exposure. METHODOLOGY: Blood samples were obtained at admission and on days 3 and 7 from 26 patients with acute pancreatitis (seven with severe cases) and from 10 healthy controls for DNA extraction and standard microbial cultures. Polymerase chain reaction techniques were used to amplify a gene region (16S ribosomal RNA) found in all bacteria. Levels of serum endotoxin and antibodies to endotoxin core (EndoCAb) were measured at admission, and intestinal permeability to the macromolecule polyethylene glycol 3350 was determined within 72 hours of the onset of symptoms. RESULTS: Blood cultures yielded and enterococci for one patient with a severe attack and coagulase-negative staphylococci for another patient with a mild attack. No bacterial DNA was found in any of the samples. Endotoxemia was detected in 20 patients (five with severe cases), and levels of serum IgM EndoCAb were depleted in patients with severe attacks but remained relatively unchanged during mild attacks (p = 0.033). Intestinal permeability was significantly increased in patients with severe attacks of acute pancreatitis but remained unchanged during mild attacks (p < 0.05). CONCLUSIONS: Whilst severe attacks of acute pancreatitis are associated with early derangement in gut barrier function and systemic endotoxin translocation, there is no molecular evidence for associated bacterial "translocation."
+AD  - Division of Surgery, The University of Leeds, Leeds, United Kingdom. Bammori@aol.com
+AN  - 12499912
+AU  - Ammori, B. J.
+AU  - Fitzgerald, P.
+AU  - Hawkey, P.
+AU  - McMahon, M. J.
+DA  - Jan
+DB  - Medline
+DO  - 10.1097/00006676-200301000-00004
+DP  - NLM
+ET  - 2002/12/25
+IS  - 1
+J2  - Pancreas
+KW  - Acute Disease
+Adult
+Aged
+Antibodies, Bacterial
+analysis
+Bacterial Translocation
+Case-Control Studies
+Cell Membrane Permeability
+DNA, Bacterial
+blood
+Endotoxemia
+metabolism
+microbiology
+Endotoxins
+immunology
+Female
+Humans
+Intestinal Mucosa
+metabolism
+Kinetics
+Male
+Middle Aged
+Pancreatitis
+complications
+diagnosis
+Polymerase Chain Reaction
+LA  - eng
+N1  - 1536-4828
+Ammori, B J
+Fitzgerald, P
+Hawkey, P
+McMahon, M J
+Journal Article
+United States
+Pancreas. 2003 Jan;26(1):18-22. doi: 10.1097/00006676-200301000-00004.
+PY  - 2003
+SN  - 0885-3177
+SP  - 18-22
+ST  - The early increase in intestinal permeability and systemic endotoxin exposure in patients with severe acute pancreatitis is not associated with systemic bacterial translocation: molecular investigation of microbial DNA in the blood
+T2  - Pancreas
+TI  - The early increase in intestinal permeability and systemic endotoxin exposure in patients with severe acute pancreatitis is not associated with systemic bacterial translocation: molecular investigation of microbial DNA in the blood
+VL  - 26
+ID  - 4
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In predicted severe acute pancreatitis, infections have a negative effect on clinical outcome. A start of enteral nutrition (EN) within 24 hours of onset may reduce the number of infections as compared to the current practice of starting an oral diet and EN if necessary at 3-4 days after admission. METHODS/DESIGN: The PYTHON trial is a randomised controlled, parallel-group, superiority multicenter trial. Patients with predicted severe acute pancreatitis (Imrie-score ≥ 3 or APACHE-II score ≥ 8 or CRP > 150 mg/L) will be randomised to EN within 24 hours or an oral diet and EN if necessary, after 72 hours after hospital admission.During a 3-year period, 208 patients will be enrolled from 20 hospitals of the Dutch Pancreatitis Study Group. The primary endpoint is a composite of mortality or infections (bacteraemia, infected pancreatic or peripancreatic necrosis, pneumonia) during hospital stay or within 6 months following randomisation. Secondary endpoints include other major morbidity (e.g. new onset organ failure, need for intervention), intolerance of enteral feeding and total costs from a societal perspective. DISCUSSION: The PYTHON trial is designed to show that a very early (< 24 h) start of EN reduces the combined endpoint of mortality or infections as compared to the current practice of an oral diet and EN if necessary at around 72 hours after admission for predicted severe acute pancreatitis. TRIAL REGISTRATION: ISRCTN: ISRCTN18170985.
+AD  - Dept, of OR/Evidence Based Surgery, Radboud University Nijmegen Medical Centre, PO 9101, 6500 HB Nijmegen; The Netherlands.
+AN  - 21392395
+AU  - Bakker, O. J.
+AU  - van Santvoort, H. C.
+AU  - van Brunschot, S.
+AU  - Ahmed Ali, U.
+AU  - Besselink, M. G.
+AU  - Boermeester, M. A.
+AU  - Bollen, T. L.
+AU  - Bosscha, K.
+AU  - Brink, M. A.
+AU  - Dejong, C. H.
+AU  - van Geenen, E. J.
+AU  - van Goor, H.
+AU  - Heisterkamp, J.
+AU  - Houdijk, A. P.
+AU  - Jansen, J. M.
+AU  - Karsten, T. M.
+AU  - Manusama, E. R.
+AU  - Nieuwenhuijs, V. B.
+AU  - van Ramshorst, B.
+AU  - Schaapherder, A. F.
+AU  - van der Schelling, G. P.
+AU  - Spanier, M. B.
+AU  - Tan, A.
+AU  - Vecht, J.
+AU  - Weusten, B. L.
+AU  - Witteman, B. J.
+AU  - Akkermans, L. M.
+AU  - Gooszen, H. G.
+C1  - Isrctn/isrctn18170985
+C2  - PMC3068962
+DA  - Mar 10
+DB  - Medline
+DO  - 10.1186/1745-6215-12-73
+DP  - NLM
+ET  - 2011/03/12
+J2  - Trials
+KW  - Apache
+Acute Disease
+Bacterial Infections
+etiology
+prevention & control
+Enteral Nutrition
+adverse effects
+methods
+Humans
+Netherlands
+Pancreatitis
+complications
+diagnosis
+mortality
+therapy
+Research Design
+Severity of Illness Index
+Time Factors
+Treatment Outcome
+LA  - eng
+N1  - 1745-6215
+Bakker, Olaf J
+van Santvoort, Hjalmar C
+van Brunschot, Sandra
+Ahmed Ali, Usama
+Besselink, Marc G
+Boermeester, Marja A
+Bollen, Thomas L
+Bosscha, Koop
+Brink, Menno A
+Dejong, Cornelis H
+van Geenen, Erwin J
+van Goor, Harry
+Heisterkamp, Joos
+Houdijk, Alexander P
+Jansen, Jeroen M
+Karsten, Thom M
+Manusama, Eric R
+Nieuwenhuijs, Vincent B
+van Ramshorst, Bert
+Schaapherder, Alexander F
+van der Schelling, George P
+Spanier, Marcel Bm
+Tan, Adriaan
+Vecht, Juda
+Weusten, Bas L
+Witteman, Ben J
+Akkermans, Louis M
+Gooszen, Hein G
+Dutch Pancreatitis Study Group
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Trials. 2011 Mar 10;12:73. doi: 10.1186/1745-6215-12-73.
+PY  - 2011
+SN  - 1745-6215
+SP  - 73
+ST  - Pancreatitis, very early compared with normal start of enteral feeding (PYTHON trial): design and rationale of a randomised controlled multicenter trial
+T2  - Trials
+TI  - Pancreatitis, very early compared with normal start of enteral feeding (PYTHON trial): design and rationale of a randomised controlled multicenter trial
+VL  - 12
+ID  - 18
+ER  - 
+
+TY  - JOUR
+AB  - Bacterial translocation (BT) is a phenomenon in which live bacteria or its products cross the intestinal barrier. Gut translocation of bacteria has been shown in both animal and human studies. BT and its complications have been shown clearly to occur in animal models, but its existence and importance in humans has been difficult to ascertain. We review the mechanisms of BT and its clinical impact based on the current literature.
+AD  - Postgraduate Program, Gastroenterology Department, Digestive Surgery Division, University of Sao Paulo Medical School, Sao Paulo, Brazil. sbalzan@hotmail.com
+AN  - 17376034
+AU  - Balzan, S.
+AU  - de Almeida Quadros, C.
+AU  - de Cleva, R.
+AU  - Zilberstein, B.
+AU  - Cecconello, I.
+DA  - Apr
+DB  - Medline
+DO  - 10.1111/j.1440-1746.2007.04933.x
+DP  - NLM
+ET  - 2007/03/23
+IS  - 4
+J2  - Journal of gastroenterology and hepatology
+KW  - Acute Disease
+Animals
+Bacterial Translocation
+physiology
+Gastrointestinal Motility
+physiology
+Humans
+Immunosuppression
+Intestinal Mucosa
+pathology
+physiology
+Intestines
+microbiology
+Liver Cirrhosis
+physiopathology
+Multiple Organ Failure
+physiopathology
+Pancreatitis
+physiopathology
+Systemic Inflammatory Response Syndrome
+physiopathology
+LA  - eng
+N1  - Balzan, Silvio
+de Almeida Quadros, Claudio
+de Cleva, Roberto
+Zilberstein, Bruno
+Cecconello, Ivan
+Journal Article
+Review
+Australia
+J Gastroenterol Hepatol. 2007 Apr;22(4):464-71. doi: 10.1111/j.1440-1746.2007.04933.x.
+PY  - 2007
+SN  - 0815-9319 (Print)
+0815-9319
+SP  - 464-71
+ST  - Bacterial translocation: overview of mechanisms and clinical impact
+T2  - J Gastroenterol Hepatol
+TI  - Bacterial translocation: overview of mechanisms and clinical impact
+VL  - 22
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AB  - Severe acute pancreatitis (SAP) causes local and systemic complications leading to high catabolic, hypermetabolic and hyperdynamic stress states with marked morbidity and mortality. In the last decade, nutritional support has become a key element in the treatment of SAP. Thus, specialized nutrition is indicated from admission, with enteral nutrition being preferred to parenteral nutrition. Enteral nutrition should be initiated early using infusion through the jejunum beyond the ligament of Treitz to minimize pancreatic stress. There are no specific studies that establish the type of diet to be used but experts recommend the use of polymeric diets. Parenteral nutrition, without a specific formula, is indicated in patients with SAP who are intolerant to enteral nutrition or when the clinical signs of pancreatitis are exacerbated or aggravated by enteral nutrition. Even so, a minimal level of enteral infusion should be maintained to preserve the trophic effect of the intestinal mucosa. In the last few years, several studies of the administration of immunomodulatory diets in patients with SAP have been carried out to demonstrate their effects on the course of the disease. However, there are few clear recommendations on the prognostic benefits of pharmaconutrient enriched diets in these patients. There is substantial scientific evidence suggesting that the only clear indication for pharmaconutrition in patients with SAP is parenteral glutamine administration, which is recommended by all clinical guidelines with distinct grades of evidence.
+AD  - Hospital Universitario Germans Trias i Pujol, Badalona, Spain. luisabl@yahoo.com
+AN  - 22411516
+AU  - Bordejé Laguna, L.
+AU  - Lorencio Cárdenas, C.
+AU  - Acosta Escribano, J.
+DA  - Nov
+DB  - Medline
+DO  - 10.1590/s0212-16112011000800007
+DP  - NLM
+ET  - 2012/03/21
+J2  - Nutricion hospitalaria
+KW  - Acute Disease
+Consensus
+Critical Illness
+therapy
+Enteral Nutrition
+adverse effects
+methods
+Food, Formulated
+Humans
+Immunologic Factors
+administration & dosage
+therapeutic use
+Nutritional Support
+methods
+Pancreatitis
+complications
+metabolism
+therapy
+Parenteral Nutrition
+methods
+LA  - eng
+N1  - 1699-5198
+Bordejé Laguna, L
+Lorencio Cárdenas, C
+Acosta Escribano, J
+Metabolism and Nutrition Working Group of the Spanish Society of Intensive Care Medicine and Coronary units
+Guideline
+Journal Article
+Review
+Spain
+Nutr Hosp. 2011 Nov;26 Suppl 2:32-6. doi: 10.1590/S0212-16112011000800007.
+PY  - 2011
+SN  - 0212-1611
+SP  - 32-6
+ST  - Guidelines for specialized nutritional and metabolic support in the critically-ill patient: update. Consensus SEMICYUC-SENPE: severe acute pancreatitis
+T2  - Nutr Hosp
+TI  - Guidelines for specialized nutritional and metabolic support in the critically-ill patient: update. Consensus SEMICYUC-SENPE: severe acute pancreatitis
+VL  - 26 Suppl 2
+ID  - 28
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the safety of enteral nutrition and total parenteral nutrition in nutrition support of patients with severe acute pancreatitis. DATA SOURCES: Medline, Embase, and manual search. STUDY SELECTION: 295 articles were screened for randomized controlled studies (RCTs) that compared enteral nutrition with total parenteral nutrition in patients with severe acute pancreatitis. Finally, six RCTs were identified and included in the meta-analysis. DATA EXTRACTION: six RCTs with 224 participants were analyzed. The main outcome were infections, artificial nutrition-related complications, pancreatitis-related complications, non-pancreatitis-related complications, organ failure and mortality. The meta-analysis was performed with the fixed effects model or random effects model. RESULTS: Compared with total parenteral nutrition, enteral nutrition was associated with a significantly lower risk of infections [odds ratio (OR) 0.236; 95% confidence interval (95% CI) 0.120-0.464, p<0.001], pancreatitis-related complications (0.456; 0.234-0.888, p=0.021), organ failure (0.334; 0.167-0.670, p=0.002), multiple organ dysfunction syndrome (0.306; 0.128-0.736, p=0.008), and mortality (0.251; 0.095-0.666, p=0.005). There were no significant differences in artificial nutrition-related complications (0.642; 0.354-1.162, p=0.143), and non-pancreatitis-related complications (0.716; 0.325-1.576, p=0.406) between the two groups. CONCLUSIONS: Enteral nutrition appears safer than total parenteral nutrition in nutrition support of patients with severe acute pancreatitis.
+AD  - Department of Colorectal and Anal Surgery, First Affiliated Hospital, Guangxi Medical University, Nanning, Guangxi, PR China.
+AN  - 19136822
+AU  - Cao, Y.
+AU  - Xu, Y.
+AU  - Lu, T.
+AU  - Gao, F.
+AU  - Mo, Z.
+DB  - Medline
+DO  - 10.1159/000189382
+DP  - NLM
+ET  - 2009/01/13
+IS  - 3-4
+J2  - Annals of nutrition & metabolism
+KW  - Confidence Intervals
+Enteral Nutrition
+Humans
+Infections
+epidemiology
+Multiple Organ Failure
+epidemiology
+Odds Ratio
+Pancreatitis, Acute Necrotizing
+complications
+therapy
+Parenteral Nutrition
+Parenteral Nutrition, Total
+Randomized Controlled Trials as Topic
+Treatment Outcome
+LA  - eng
+N1  - 1421-9697
+Cao, Yunfei
+Xu, Yinglong
+Lu, Tingna
+Gao, Feng
+Mo, Zengnan
+Journal Article
+Meta-Analysis
+Review
+Switzerland
+Ann Nutr Metab. 2008;53(3-4):268-75. doi: 10.1159/000189382. Epub 2009 Jan 9.
+PY  - 2008
+SN  - 0250-6807
+SP  - 268-75
+ST  - Meta-analysis of enteral nutrition versus total parenteral nutrition in patients with severe acute pancreatitis
+T2  - Ann Nutr Metab
+TI  - Meta-analysis of enteral nutrition versus total parenteral nutrition in patients with severe acute pancreatitis
+VL  - 53
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AB  - The small intestine is one of the distant organs that become damaged during severe acute pancreatitis, due to microcirculation disturbance associated with loss of fluids in the "third space," hypovolemia, splanchnic vasoconstriction, and finally an ischemia-reperfusion injury. In this scenario, the gut acts as the starter for severe systemic complications, as the failure of the intestinal barrier is associated with translocation of bacteria and inflammatory and toxic products produced in the intestinal wall, which can be responsible for sepsis and infection of the necrotic pancreas and for systemic inflammatory response. Therefore, one of the main goals of treatment in the early phases of severe acute pancreatitis should be to maintain the integrity of the gut barrier in the small intestine. These strategies include appropriate fluid resuscitation to limit the damage due to the relative hypovolemia and early enteral feeding. The role of intravenous antibiotics to prevent infection of the pancreatic necrosis is controversial and the role of probiotics, which seemed a promising tool in vitro and in early clinical trials, needs to be further investigated to better understand the effects of the single specific strains at various doses and timing before designing new clinical trials.
+AD  - Faculty of Medicine and Psychology, Digestive and Liver Disease Unit, S. Andrea Hospital, Sapienza University of Rome, Rome, Italy. gabriele.capurso@uniroma1.it
+AN  - 22955357
+AU  - Capurso, G.
+AU  - Zerboni, G.
+AU  - Signoretti, M.
+AU  - Valente, R.
+AU  - Stigliano, S.
+AU  - Piciucchi, M.
+AU  - Delle Fave, G.
+DA  - Oct
+DB  - Medline
+DO  - 10.1097/MCG.0b013e3182652096
+DP  - NLM
+ET  - 2012/09/14
+J2  - Journal of clinical gastroenterology
+KW  - Acute Disease
+Animals
+Bacterial Translocation
+physiology
+Enteral Nutrition
+methods
+Humans
+Hypovolemia
+complications
+Intestine, Small
+microbiology
+physiology
+Pancreatitis
+complications
+microbiology
+therapy
+Permeability
+Probiotics
+administration & dosage
+Rats
+Reperfusion Injury
+LA  - eng
+N1  - 1539-2031
+Capurso, Gabriele
+Zerboni, Giulia
+Signoretti, Marianna
+Valente, Roberto
+Stigliano, Serena
+Piciucchi, Matteo
+Delle Fave, Gianfranco
+Journal Article
+United States
+J Clin Gastroenterol. 2012 Oct;46 Suppl:S46-51. doi: 10.1097/MCG.0b013e3182652096.
+PY  - 2012
+SN  - 0192-0790
+SP  - S46-51
+ST  - Role of the gut barrier in acute pancreatitis
+T2  - J Clin Gastroenterol
+TI  - Role of the gut barrier in acute pancreatitis
+VL  - 46 Suppl
+ID  - 34
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the efficacy of early total enteral nutrition (TEN) vs. total parenteral nutrition (TPN) in patients with severe acute pancreatitis (SAP). METHODS: A total of 22 consecutive patients with SAP were randomized to receive TPN (group I) or TEN (group II). SAP was defined applying APACHE II score, C-reactive protein (CRP) measurements and/or Balthazar CT scan score. Acute inflammatory response (CRP, TNF-a, IL-6), visceral proteins (pre-albumin, albumin), complications (systemic inflammatory response syndrome, multiorgan failure, infections), surgical interventions, length of hospital stay and mortality were evaluated. RESULTS: No significant differences were found between the two groups in the APACHE II score, in CRP, TNF-a and IL-6 concentrations or in pre-albumin and albumin levels over the first 10 days. Seven patients in group I and 4 in group II suffered severe complications. Three patients in group I required surgical intervention. Length of hospital stay was alike in the two groups. Two patients from group I died in the course of the hospitalization. CONCLUSIONS: SAP patients with TEN feeding showed a tendency towards a better outcome than patients receiving TPN.
+AD  - Servicios de Patología Digestiva, Hospital de la Santa Creu i Sant Pau, Barcelona.
+AN  - 17650935
+AU  - Casas, M.
+AU  - Mora, J.
+AU  - Fort, E.
+AU  - Aracil, C.
+AU  - Busquets, D.
+AU  - Galter, S.
+AU  - Jáuregui, C. E.
+AU  - Ayala, E.
+AU  - Cardona, D.
+AU  - Gich, I.
+AU  - Farré, A.
+DA  - May
+DB  - Medline
+DO  - 10.4321/s1130-01082007000500004
+DP  - NLM
+ET  - 2007/07/27
+IS  - 5
+J2  - Revista espanola de enfermedades digestivas : organo oficial de la Sociedad Espanola de Patologia Digestiva
+KW  - Apache
+Acute Disease
+Adult
+Aged
+Enteral Nutrition
+Female
+Humans
+Length of Stay
+Male
+Middle Aged
+Pancreatitis
+blood
+therapy
+Parenteral Nutrition, Total
+LA  - spa
+N1  - Casas, M
+Mora, J
+Fort, E
+Aracil, C
+Busquets, D
+Galter, S
+Jáuregui, C E
+Ayala, E
+Cardona, D
+Gich, I
+Farré, A
+Comparative Study
+English Abstract
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Spain
+Rev Esp Enferm Dig. 2007 May;99(5):264-9. doi: 10.4321/s1130-01082007000500004.
+OP  - Nutrición enteral total vs. nutrición parenteral total en pacientes con pancreatitis aguda grave.
+PY  - 2007
+SN  - 1130-0108 (Print)
+1130-0108
+SP  - 264-9
+ST  - [Total enteral nutrition vs. total parenteral nutrition in patients with severe acute pancreatitis]
+T2  - Rev Esp Enferm Dig
+TI  - [Total enteral nutrition vs. total parenteral nutrition in patients with severe acute pancreatitis]
+VL  - 99
+ID  - 17
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the effects of continuous early enteral nutrition on the gut barrier function in acute necrotizing pancreatitis (ANP). METHODS: Thirty mongrel dogs underwent laparotomy and 5% mixed solution of sodium taurocholate with trypsin was infused into the pancreatic ducts so as to induce model of ANP. Permanent duodenal and jejunal fistulas were retained. Then the 30 dogs were randomly divided into 6 groups of 5 dogs: total parenteral nutrition (TPN) group, normal saline (NS) group, duodenal nutrison multifibre (DN) group, duodenal PEPTI-2000Varient (DP) group, jejunal nutrison multifibre (JN) group, and jejunal PEPTI-2000Varient (JP) group, the last 4 groups being called enteral nutrition (EN) group together. Infusion of nutritional solutions was performed via the duodenal or jejunal fistulas, beginning 24 hours after the operation and lasting for 5 days. The levels of endotoxin and D-(-)-lactate in the peripheral plasma were measured every day. On the days 2 and 5 after the operation test solution to measure the enteral permeability, containing lactulose and mannitol, was infused via the fistulas and then urine within 6 hours thereafter was collected to detect the concentrations of lactulose and mannitol and calculate the lactulose/mannitol ratio. Seven days after the operation the dogs were killed to take the pancreas and intestines to be examined by microscopy. Feces was collected. ERIC-PCR fingerprint method was used to examine the structure and distribution of ERIC series of the microbial communities in the gut. RESULTS: The plasma D-(-)-lactate of the NS group gradually increased and peaked on the 5th day after the operation, and that of the TPN group gradually increased too, however, lower than that of the NS group at any time points and was significantly lower on the 5th day (P < 0.05). The plasma D-(-)-lactate of the EN groups increased first and then decreased and was lower than those of the TPN and NS groups with significant differences on the 4th and 5th days (all P < 0.05). Five days after the operation the lactulose/mannitol ratio decreased in every groups and with significant differences between the EN groups and TPN and NS groups and between the TPN and NS groups (all P < 0.05). The plasma endotoxin level increased in every groups, however, the endotoxin levels of the EN groups at any time points were all lower than those of the TPN group and much more lower than those in the NS group with significant differences between the EN groups and TPN group and NS group on specific days after operation (all P < 0.05). The pathological changes of the intestinal mucosa were more severe in the NS group than in the TPN group, and much more severe than in the EN groups. The makeup and distribution of intestinal microbial in the EN groups were similar to those of the normal dogs. However, the makeup and distribution of intestinal microbial in the TPN groups were quite different from those of the normal dogs. CONCLUSION: EN helps maintain gut mucosal barrier, decreases endotoxin translocation, and decreases the extent of mucosal atrophy in ANP.
+AD  - Department of Gastroenterology, First People's Hospital of Shanghai, Jiaotong University, Shanghai 200080, China.
+AN  - 15569436
+AU  - Chen, J.
+AU  - Wang, X. P.
+AU  - Liu, P.
+AU  - Wu, K.
+AU  - Xu, M.
+AU  - Yu, X. F.
+AU  - Wang, G. S.
+DA  - Oct 17
+DB  - Medline
+DP  - NLM
+ET  - 2004/12/01
+IS  - 20
+J2  - Zhonghua yi xue za zhi
+KW  - Animals
+Dogs
+Enteral Nutrition
+Intestinal Mucosa
+pathology
+physiopathology
+Intestine, Small
+physiopathology
+Male
+Pancreatitis, Acute Necrotizing
+physiopathology
+therapy
+Random Allocation
+LA  - chi
+N1  - Chen, Jie
+Wang, Xing-Peng
+Liu, Pi
+Wu, Ka
+Xu, Min
+Yu, Xiao-Feng
+Wang, Gen-Sheng
+English Abstract
+Journal Article
+Research Support, Non-U.S. Gov't
+China
+Zhonghua Yi Xue Za Zhi. 2004 Oct 17;84(20):1726-31.
+PY  - 2004
+SN  - 0376-2491 (Print)
+0376-2491
+SP  - 1726-31
+ST  - [Effects of continuous early enteral nutrition on the gut barrier function in dogs with acute necrotizing pancreatitis]
+T2  - Zhonghua Yi Xue Za Zhi
+TI  - [Effects of continuous early enteral nutrition on the gut barrier function in dogs with acute necrotizing pancreatitis]
+VL  - 84
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the efficacy and safety of early, nasogastric enteral nutrition (EN) with total parenteral nutrition (TPN) in patients with predicted severe acute pancreatitis (SAP). SUMMARY BACKGROUND DATA: In SAP, the magnitude of the inflammatory response as well as increased intestinal permeability correlates with outcome. Enteral feeding has been suggested superior to parenteral feeding due to a proposed beneficial effect on the gut barrier. METHODS: Fifty patients who met the inclusion criteria were randomized to TPN or EN groups. The nutritional regimen was started within 24 hours from admission and EN was provided through a nasogastric tube. The observation period was 10 days. Intestinal permeability was measured by excretion of polyethylene glycol (PEG) and concentrations of antiendotoxin core antibodies (Endocab). Interleukins (IL)-6 IL-8, and C-reactive protein (CRP) were used as markers of the systemic inflammatory response. Morbidity and feasibility of the nutritional route were evaluated by the frequency of complications, gastrointestinal symptoms, and abdominal pain. RESULTS: PEG, Endocab, CRP, IL-6, APACHE II score, severity according to the Atlanta classification (22 patients), and gastrointestinal symptoms or abdominal pain did not significantly differ between the groups. The incidence of hyperglycemia was significantly higher in TPN patients (21 of 26 vs. 7 of 23; P < 0.001). Total complications (25 vs. 52; P = 0.04) and pulmonary complications (10 vs. 21; P = 0.04) were significantly more frequent in EN patients, although complications were diagnosed dominantly within the first 3 days. CONCLUSION: In predicted SAP, nasogastric early EN was feasible and resulted in better control of blood glucose levels, although the overall early complication rate was higher in the EN group. No beneficial effects on intestinal permeability or the inflammatory response were seen by EN treatment.
+AD  - Department of Surgery, Lund University Hospital, Lund, Sweden.
+AN  - 17122621
+AU  - Eckerwall, G. E.
+AU  - Axelsson, J. B.
+AU  - Andersson, R. G.
+C2  - PMC1856625
+DA  - Dec
+DB  - Medline
+DO  - 10.1097/01.sla.0000246866.01930.58
+DP  - NLM
+ET  - 2006/11/24
+IS  - 6
+J2  - Annals of surgery
+KW  - Aged
+Aged, 80 and over
+Enteral Nutrition
+Female
+Follow-Up Studies
+Humans
+Intubation, Gastrointestinal
+Male
+Middle Aged
+Pancreatitis
+therapy
+Parenteral Nutrition
+Prospective Studies
+Time Factors
+Treatment Outcome
+LA  - eng
+N1  - 1528-1140
+Eckerwall, Gunilla E
+Axelsson, Jakob B
+Andersson, Roland G
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Ann Surg. 2006 Dec;244(6):959-65; discussion 965-7. doi: 10.1097/01.sla.0000246866.01930.58.
+PY  - 2006
+SN  - 0003-4932 (Print)
+0003-4932
+SP  - 959-65; discussion 965-7
+ST  - Early nasogastric feeding in predicted severe acute pancreatitis: A clinical, randomized study
+T2  - Ann Surg
+TI  - Early nasogastric feeding in predicted severe acute pancreatitis: A clinical, randomized study
+VL  - 244
+ID  - 20
+ER  - 
+
+TY  - JOUR
+AB  - Acute lung injury (ALI) and its more severe form, the acute respiratory distress syndrome (ARDS), are common complications of acute pancreatitis (AP). ALI/ARDS contribute to the majority of AP-associated deaths, particularly in the setting of secondary infection. Following secondary pulmonary infection there can be an exacerbation of AP-associated lung injury, greater than the sum of the individual injuries alone. The precise mechanisms underlying this synergism, however, are not known. In this review we discuss the main factors contributing to the development of augmented lung injury following secondary infection during AP and review the established models of AP in regard to the development of associated ALI.
+AD  - Department of Critical Care Medicine, Flinders Medical Centre, Flinders University, Adelaide, Australia. a.elder@flinders.edu.au
+AN  - 22487475
+AU  - Elder, A. S.
+AU  - Saccone, G. T.
+AU  - Dixon, D. L.
+DA  - Jan-Feb
+DB  - Medline
+DO  - 10.1016/j.pan.2011.12.012
+DP  - NLM
+ET  - 2012/04/11
+IS  - 1
+J2  - Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]
+KW  - Acute Disease
+Acute Lung Injury
+etiology
+Animals
+Arginine
+Bacterial Infections
+complications
+Ceruletide
+Humans
+Models, Animal
+Pancreatitis
+chemically induced
+complications
+Respiratory Distress Syndrome
+etiology
+LA  - eng
+N1  - 1424-3911
+Elder, Alison S F
+Saccone, Gino T P
+Dixon, Dani-Louise
+Journal Article
+Review
+Switzerland
+Pancreatology. 2012 Jan-Feb;12(1):49-56. doi: 10.1016/j.pan.2011.12.012. Epub 2011 Dec 31.
+PY  - 2012
+SN  - 1424-3903
+SP  - 49-56
+ST  - Lung injury in acute pancreatitis: mechanisms underlying augmented secondary injury
+T2  - Pancreatology
+TI  - Lung injury in acute pancreatitis: mechanisms underlying augmented secondary injury
+VL  - 12
+ID  - 38
+ER  - 
+
+TY  - JOUR
+AB  - Total parenteral nutrition (TPN) leads to a decline in phosphatidylinositol 3-kinase (PI3K)/phospho-Akt (p-Akt) activity, affecting downstream signaling, reducing epithelial cell (EC) proliferation, and contributing to intestinal mucosal atrophy. We hypothesized that promoting Akt activity would prevent these changes. We used a novel Akt-activating peptide, TCL1 (a head-to-tail dimer of the Akt-binding domain of T-cell lymphoma-1), or an inactive mutant sequence TCL1G conjugated to a transactivator of transcription peptide sequence to promote intracellular uptake. Four groups of mice were studied, enteral nutrition group (control), control mice given a functioning TCL1 (control + TCL1), TPN mice given TCL1G (control peptide, TPN + TCL1G); and TPN mice given TCL1. TPN mice given TCL1G showed a significant decrease in jejunal EC p-Akt (Ser473 and Thr308) abundance, whereas TPN + TCL1 mice showed increased p-Akt (Ser473) abundance. Phosphorylation of beta-catenin and glycogen synthase kinase-3beta (downstream targets of Akt signaling) were also decreased in the TPN + TCL1G group and completely prevented in the TPN + TCL1 group. Use of TCL1 nearly completely prevented the decline in EC proliferation seen in the TPN + TCL1G group, as well as partly returned EC apoptosis levels close to controls. The mammalian target of rapamycin pathway demonstrated a similar reduction in activity in the TPN + TCL1G group that was significantly prevented in the TPN + TCL1 group. These results support a significant loss of PI3K/p-Akt signaling upon replacing enteral nutrition with TPN, and prevention of this loss demonstrates the key importance of PI3K/p-Akt signaling in maintaining gut integrity including EC proliferation and reduction in apoptosis.
+AD  - Section of Pediatric Surgery, Univ. of Michigan, Mott Children's Hospital F3970, Ann Arbor, MI 48109-5245, USA.
+AN  - 20299605
+AU  - Feng, Y.
+AU  - McDunn, J. E.
+AU  - Teitelbaum, D. H.
+C2  - PMC3774331
+DA  - Jun
+DB  - Medline
+DO  - 10.1152/ajpgi.00030.2010
+DP  - NLM
+ET  - 2010/03/20
+IS  - 6
+J2  - American journal of physiology. Gastrointestinal and liver physiology
+KW  - Animals
+Atrophy
+chemically induced
+pathology
+Cell Proliferation
+Epithelial Cells
+drug effects
+physiology
+Gene Expression Regulation
+drug effects
+Intestinal Mucosa
+drug effects
+metabolism
+pathology
+Intracellular Signaling Peptides and Proteins
+genetics
+metabolism
+Male
+Mice
+Mice, Inbred C57BL
+Parenteral Nutrition, Total
+adverse effects
+Phosphorylation
+Protein-Serine-Threonine Kinases
+genetics
+metabolism
+Proto-Oncogene Proteins
+pharmacology
+Proto-Oncogene Proteins c-akt
+genetics
+metabolism
+Random Allocation
+Signal Transduction
+drug effects
+physiology
+Specific Pathogen-Free Organisms
+TOR Serine-Threonine Kinases
+Trans-Activators
+pharmacology
+Wnt Proteins
+genetics
+metabolism
+beta Catenin
+genetics
+metabolism
+LA  - eng
+N1  - 1522-1547
+Feng, Yongjia
+McDunn, Jonathan E
+Teitelbaum, Daniel H
+5R01 AI044076-11/AI/NIAID NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Am J Physiol Gastrointest Liver Physiol. 2010 Jun;298(6):G833-41. doi: 10.1152/ajpgi.00030.2010. Epub 2010 Mar 18.
+PY  - 2010
+SN  - 0193-1857 (Print)
+0193-1857
+SP  - G833-41
+ST  - Decreased phospho-Akt signaling in a mouse model of total parenteral nutrition: a potential mechanism for the development of intestinal mucosal atrophy
+T2  - Am J Physiol Gastrointest Liver Physiol
+TI  - Decreased phospho-Akt signaling in a mouse model of total parenteral nutrition: a potential mechanism for the development of intestinal mucosal atrophy
+VL  - 298
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Bacterial infection of pancreatic necrosis is thought to be a major determinant of outcome in acute necrotizing pancreatitis. The determinants and possibilities for prophylaxis are unknown and difficult to study in humans. OBJECTIVE: The time course of bacterial infection of the pancreas in a rodent model of acute necrotizing pancreatitis was characterized. The authors ascertained if there is a correlation with the degree of necrosis. METHODS: Acute pancreatitis (AP) of graded severity was induced under sterile conditions by an intravenous infusion of cerulein (5 micrograms/kg/hr) for 6 hours (mild AP), or a combination of intravenous cerulein with an intraductal infusion of 10-mM glycodeoxycholic acid (0.2 mL for 2 min for moderate AP, 0.5 mL for 10 min for severe AP). Sham-operated animals (intravenous and intraductal NaCl 0.9%) served as controls. Ninety-six hours after induction, animals were killed for quantitative bacterial examination and histologic scoring of necrosis. In addition, groups of animals with severe AP were investigated at 12, 24, 48, 96, and 144 hours. RESULTS: No significant pancreatic necrosis was found in control animals (0.3 +/- 0.1) or animals with mild AP (0.6 +/- 0.1) killed at 96 hours. Necrosis scores were 1.1 +/- 0.2 for animals with moderate AP and 1.9 +/- 0.2 for animals with severe AP. Control animals did not develop significant bacterial infection of the pancreas (> or = 10(3) CFU/g). At 96 hours, the prevalence of infection was 37.5% in animals with mild AP and 50% in animals with moderate AP. In animals with severe AP, infection of the pancreas increased from 33% in the first 24 hours to 75% between 48 and 96 hours (p < 0.05). The bacterial counts and the number of different species increased with time and was maximal (> 10(11) CFU/g) at 96 hours. CONCLUSION: Bacterial infection of the pancreas in rodent AP increases during the first several days, and its likelihood correlates with the severity of the disease. This model, which closely mimics the features of human acute pancreatitis, provides a unique opportunity to study the pathogenesis of infected necrosis and test therapeutic strategies.
+AD  - Department of Surgery, Massachusetts General Hospital, Boston.
+AN  - 8053741
+AU  - Foitzik, T.
+AU  - Mithöfer, K.
+AU  - Ferraro, M. J.
+AU  - Fernández-del Castillo, C.
+AU  - Lewandrowski, K. B.
+AU  - Rattner, D. W.
+AU  - Warshaw, A. L.
+C2  - PMC1234359
+DA  - Aug
+DB  - Medline
+DO  - 10.1097/00000658-199408000-00011
+DP  - NLM
+ET  - 1994/08/01
+IS  - 2
+J2  - Annals of surgery
+KW  - Acute Disease
+Animals
+Bacterial Infections
+pathology
+physiopathology
+Ceruletide
+Colony Count, Microbial
+Disease Models, Animal
+Edema
+pathology
+Enterococcus
+Escherichia coli Infections
+physiopathology
+Glycodeoxycholic Acid
+Gram-Positive Bacterial Infections
+physiopathology
+Leukocytes
+pathology
+Male
+Necrosis
+Pancreas
+microbiology
+pathology
+physiopathology
+Pancreatitis
+microbiology
+pathology
+physiopathology
+Rats
+Rats, Sprague-Dawley
+Staphylococcal Infections
+physiopathology
+Survival Rate
+Time Factors
+LA  - eng
+N1  - 1528-1140
+Foitzik, T
+Mithöfer, K
+Ferraro, M J
+Fernández-del Castillo, C
+Lewandrowski, K B
+Rattner, D W
+Warshaw, A L
+Journal Article
+Research Support, Non-U.S. Gov't
+Ann Surg. 1994 Aug;220(2):193-8. doi: 10.1097/00000658-199408000-00011.
+PY  - 1994
+SN  - 0003-4932 (Print)
+0003-4932
+SP  - 193-8
+ST  - Time course of bacterial infection of the pancreas and its relation to disease severity in a rodent model of acute necrotizing pancreatitis
+T2  - Ann Surg
+TI  - Time course of bacterial infection of the pancreas and its relation to disease severity in a rodent model of acute necrotizing pancreatitis
+VL  - 220
+ID  - 6
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The clinical course of acute necrotizing pancreatitis (ANP) is determined by the superinfection of pancreatic necrosis. To date, the pathophysiology of the underlying bacterial translocation is poorly understood. The present study investigated the bacterial source of translocation. METHODS: A terminal loop ileostomy was applied in rats. Selective digestive decontamination (SDD) of either the small bowel or the colon was performed. After 3 days of SDD, severe ANP was induced. At 24 hours, bacterial translocation was assessed by cultures of bowel mucosa, mesenteric lymph nodes, and pancreas using a scoring system (0-4). RESULTS: Without SDD, pancreatic infection was present in all cases with an average score of 2.67. Colon SDD reduced pancreatic superinfection to 1.67 (not significant). SDD of the small bowel significantly reduced superinfection to 1.0 (P < .005). CONCLUSIONS: Bacterial translocation from the colon is less frequent than translocation from the small bowel. Thus, the small bowel seems to be the major source of enteral bacteria in infected pancreatic necrosis.
+AD  - Department of General and Visceral Surgery, University of Heidelberg, Im Neuenheimer Feld 110, Heidelberg, Germany.
+AN  - 20637344
+AU  - Fritz, S.
+AU  - Hackert, T.
+AU  - Hartwig, W.
+AU  - Rossmanith, F.
+AU  - Strobel, O.
+AU  - Schneider, L.
+AU  - Will-Schweiger, K.
+AU  - Kommerell, M.
+AU  - Büchler, M. W.
+AU  - Werner, J.
+DA  - Jul
+DB  - Medline
+DO  - 10.1016/j.amjsurg.2009.08.019
+DP  - NLM
+ET  - 2010/07/20
+IS  - 1
+J2  - American journal of surgery
+KW  - Animals
+Anti-Bacterial Agents
+administration & dosage
+Bacterial Translocation
+physiology
+Colon
+microbiology
+Colony Count, Microbial
+Decontamination
+Disease Models, Animal
+Gram-Negative Bacteria
+physiology
+Gram-Positive Bacteria
+physiology
+Ileostomy
+Intestine, Small
+microbiology
+Male
+Pancreatitis, Acute Necrotizing
+microbiology
+pathology
+prevention & control
+Rats
+Rats, Wistar
+LA  - eng
+N1  - 1879-1883
+Fritz, Stefan
+Hackert, Thilo
+Hartwig, Werner
+Rossmanith, Florian
+Strobel, Oliver
+Schneider, Lutz
+Will-Schweiger, Katja
+Kommerell, Mechthild
+Büchler, Markus W
+Werner, Jens
+Journal Article
+United States
+Am J Surg. 2010 Jul;200(1):111-7. doi: 10.1016/j.amjsurg.2009.08.019.
+PY  - 2010
+SN  - 0002-9610
+SP  - 111-7
+ST  - Bacterial translocation and infected pancreatic necrosis in acute necrotizing pancreatitis derives from small bowel rather than from colon
+T2  - Am J Surg
+TI  - Bacterial translocation and infected pancreatic necrosis in acute necrotizing pancreatitis derives from small bowel rather than from colon
+VL  - 200
+ID  - 31
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Total enteral nutrition (TEN) within 48 h of admission has recently been shown to be safe and efficacious as part of the management of severe acute pancreatitis. Our aim was to ascertain the safety of immediate TEN in these patients and the effect of TEN on systemic inflammation, psychological state, oxidative stress, plasma glutamine levels and endotoxaemia. METHODS: Patients admitted with predicted severe acute pancreatitis(APACHE II score >5) were randomised to total enteral (TEN; n = 8) or total parenteral nutrition (TPN; n = 9). Measurements of systemic inflammation (C-reactive protein), fatigue (visual analogue scale), oxidative stress (plasma thiobarbituric acid-reactive substances), plasma glutamine and anti-endotoxin IgG and IgM antibody concentrations were made on admission and repeated on days 3 and 7 thereafter. Clinical progress was monitored using APACHE II score. Organ failure and complications were recorded. RESULTS: All patients tolerated the feeding regime well with few nutrition-related complications. Fatigue improved in both groups but more rapidly in the TEN group. Oxidative stress was high on admission and rose by similar amounts in both groups. Plasma glutamine concentrations did not change significantly in either group. In the TPN group, 3 patients developed respiratory failure and 3 developed non-respiratory single organ failure. There were no such complications in the TEN group. Hospital stay was shorter in the TEN group [7(4-14) vs. 10 (7-26) days; p = 0.05] as was time to passing flatus and time to opening bowels [1 (0-2) vs. 2 (1-5)days; p = 0.01]. The cost of TEN was considerably less than of TPN. CONCLUSION: Immediate institution of nutritional support in the form of TEN is safe in predicted severe acute pancreatitis. It is as safe and as efficacious as TPN and may be beneficial in the clinical course of this disease.
+AD  - University Department of Surgery, Southampton General Hospital, UK.
+AN  - 14526151
+AU  - Gupta, R.
+AU  - Patel, K.
+AU  - Calder, P. C.
+AU  - Yaqoob, P.
+AU  - Primrose, J. N.
+AU  - Johnson, C. D.
+DB  - Medline
+DO  - 10.1159/000073657
+DP  - NLM
+ET  - 2003/10/04
+IS  - 5
+J2  - Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]
+KW  - Apache
+Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Biomarkers
+blood
+C-Reactive Protein
+metabolism
+Endotoxins
+immunology
+Enteral Nutrition
+Fatigue
+etiology
+Female
+Glutamine
+blood
+Humans
+Immunoglobulin G
+blood
+Immunoglobulin M
+blood
+Male
+Middle Aged
+Oxidative Stress
+Pancreatitis
+blood
+therapy
+Parenteral Nutrition
+Thiobarbituric Acid Reactive Substances
+metabolism
+Time Factors
+LA  - eng
+N1  - Gupta, R
+Patel, K
+Calder, P C
+Yaqoob, P
+Primrose, J N
+Johnson, C D
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Switzerland
+Pancreatology. 2003;3(5):406-13. doi: 10.1159/000073657. Epub 2003 Sep 24.
+PY  - 2003
+SN  - 1424-3903 (Print)
+1424-3903
+SP  - 406-13
+ST  - A randomised clinical trial to assess the effect of total enteral and total parenteral nutritional support on metabolic, inflammatory and oxidative markers in patients with predicted severe acute pancreatitis (APACHE II > or =6)
+T2  - Pancreatology
+TI  - A randomised clinical trial to assess the effect of total enteral and total parenteral nutritional support on metabolic, inflammatory and oxidative markers in patients with predicted severe acute pancreatitis (APACHE II > or =6)
+VL  - 3
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Severe acute pancreatitis (SAP) is still one of the great challenges in gastro-intestinal surgery. According to recent studies, intravenously administered glutamine with total parenteral nutrition may be beneficial in the prevention of infectious complications and may reduce mortality rate. However, it has not been investigated yet, whether i.v. glutamine is able to achieve the same effect with early enteral nutrition as well. OBJECTIVES: The objective of our prospective randomized double-blind study was to explore the effects of intravenously administered glutamine with early nasojejunal nutrition in severe acute pancreatitis. PATIENTS AND METHODS: Forty-five patients with severe acute pancreatitis (with a Glasgow score at least 3 and/or a CRP level above 150 mg/ml on admission) were randomized into two groups. Group Glutamine (n = 24) was given 0.5 g/kg/die glutamine intravenously, while the control group (n = 21) received normal amino acid solution in the same quantity for 7 days. Nasojejunal nutrition was introduced 48 hours after admission in case of all patients, and their management was the same in every other aspect, too. The primary end-points of the study were the rate of pancreas-specific infectious complications and organ failure, and the secondary end-points were the necessity for radiological and surgical interventions, length of hospital stay and mortality rate. RESULTS: In group Glutamine, infected acute peripancreatic fluid collections (APFC) were detected in 4 patients, 2 patients had post-necrotic pancreatic/peripancreatic fluid collections (PNPFC), 2 patients had infected pseudocysts and 2 patients had walled-off pancreatic necrosis (WOPN). Ten patients were cured by ultrasound assisted puncture or drainage successfully. No surgical intervention was necessary. In the control group, 4 patients had infected APFC, 2 patients had infected PNPFC, infected pseudocysts and infected WOPN were diagnosed in 3 cases. Radiological intervention was effective in 9 cases, but 3 patients needed surgery. Three patients died of multi-organ failure, thus the mortality rate of the control group was 14%, while the mortality rate of the Glutamine group was zero. The mean hospital stay of the Glutamine group was 10.6 days, which is significantly shorter than the mean hospital stay of the control group, which was 15.9 days (p = 0.00104). DISCUSSION: The results of the Glutamine group are better in every end-points, however, statistically significant difference was detected in one parameter only, the length of hospital stay.
+AD  - Petz Aladár Megyei Oktatókórház Sebészeti Osztály 9023 Győr Vasvári. kajda@freemail.hu
+AN  - 22512878
+AU  - Hajdú, N.
+AU  - Belágyi, T.
+AU  - Issekutz, A.
+AU  - Bartek, P.
+AU  - Gartner, B.
+AU  - Oláh, A.
+DA  - Apr
+DB  - Medline
+DO  - 10.1556/MaSeb.65.2012.2.2
+DP  - NLM
+ET  - 2012/04/20
+IS  - 2
+J2  - Magyar sebeszet
+KW  - Adult
+Aged
+Aged, 80 and over
+Double-Blind Method
+Drainage
+Enteral Nutrition
+Female
+Glutamine
+administration & dosage
+Humans
+Infusions, Intravenous
+Intubation, Gastrointestinal
+Length of Stay
+statistics & numerical data
+Male
+Middle Aged
+Multiple Organ Failure
+Pancreatitis, Acute Necrotizing
+complications
+diagnostic
+imaging
+radiotherapy
+surgery
+therapy
+Prospective Studies
+Punctures
+Severity of Illness Index
+Treatment Outcome
+Ultrasonography, Interventional
+LA  - hun
+N1  - Hajdú, Nóra
+Belágyi, Tibor
+Issekutz, Akos
+Bartek, Péter
+Gartner, Béla
+Oláh, Attila
+Journal Article
+Randomized Controlled Trial
+Hungary
+Magy Seb. 2012 Apr;65(2):44-51. doi: 10.1556/MaSeb.65.2012.2.2.
+OP  - Intravénás glutamin és korai nasojejunalis táplálás együttes alkalmazása súlyos acut pancreatitisben -- prospektív randomizált kettős vak kontrollált klinikai vizsgálat.
+PY  - 2012
+SN  - 0025-0295 (Print)
+0025-0295
+SP  - 44-51
+ST  - [Intravenous glutamine and early nasojejunal nutrition in severe acute pancreatitis -- a prospective randomized clinical study]
+T2  - Magy Seb
+TI  - [Intravenous glutamine and early nasojejunal nutrition in severe acute pancreatitis -- a prospective randomized clinical study]
+VL  - 65
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Compared with parenteral nutrition, enteral nutrition reduces infectious complications and mortality in patients with severe acute pancreatitis (SAP). This study used clinical outcomes to investigate the association between time to initiation of distal jejunal feeding (DJF) and time to achievement of goal enteral feeding with clinical outcomes. METHODS: A retrospective chart review was performed on all patients with SAP admitted to the medical intensive care unit (ICU) during a 1-year period. Collected data included demographic information, body mass index (BMI; kg/m(2)), Acute Physiology and Chronic Health Evaluation (APACHE) II scores at admission, time of onset of DJF, time to goal feeding, ICU length of stay, and mortality. RESULTS: Time to starting DJF was longer in nonsurvivors (n = 4) than in survivors (n = 12) (17 vs 7 days, P < .05). All nonsurvivors had BMI >30 kg/m(2) (50% had BMI > 50 kg/m(2)). ICU length of stay was significantly associated with achievement of goal feeding. Three patients never reached goal feeding and spent 45.3 ± 19.6 days in the ICU; 7 patients reached goal feeding within 3 days of initiating DJF and spent 18 ± 1.7 days in the ICU; and 4 patients reached goal feeding within 3 days and spent 10.5 ± 3.5 days in the ICU. APACHE II scores were not significantly different among the 3 groups (16.7 ± 1.5, 12 ± 0.7, and 16.2 ± 1.2, respectively, P > .05). CONCLUSIONS: Early initiation of DJF in the ICU was associated with reduced mortality in this cohort of patients with SAP. Early achievement of jejunal feeding goal early was associated with a shorter ICU length of stay, irrespective of the severity of SAP.
+AD  - University of Pittsburgh, Pittsburgh, PA 15261, USA. Refaat.Hegazi@abbott.com
+AN  - 21224435
+AU  - Hegazi, R.
+AU  - Raina, A.
+AU  - Graham, T.
+AU  - Rolniak, S.
+AU  - Centa, P.
+AU  - Kandil, H.
+AU  - O'Keefe, S. J.
+DA  - Jan
+DB  - Medline
+DO  - 10.1177/0148607110376196
+DP  - NLM
+ET  - 2011/01/13
+IS  - 1
+J2  - JPEN. Journal of parenteral and enteral nutrition
+KW  - Apache
+Adult
+Aged
+Aged, 80 and over
+Analysis of Variance
+Enteral Nutrition
+Female
+Humans
+Intensive Care Units
+Jejunum
+surgery
+Length of Stay
+Male
+Middle Aged
+Obesity
+complications
+Pancreatitis
+mortality
+therapy
+Retrospective Studies
+Time Factors
+Treatment Outcome
+Young Adult
+LA  - eng
+N1  - 1941-2444
+Hegazi, Refaat
+Raina, Amit
+Graham, Toby
+Rolniak, Susan
+Centa, Patty
+Kandil, Hossam
+O'Keefe, Stephen J
+R01 DK056142/DK/NIDDK NIH HHS/United States
+Journal Article
+United States
+JPEN J Parenter Enteral Nutr. 2011 Jan;35(1):91-6. doi: 10.1177/0148607110376196.
+PY  - 2011
+SN  - 0148-6071
+SP  - 91-6
+ST  - Early jejunal feeding initiation and clinical outcomes in patients with severe acute pancreatitis
+T2  - JPEN J Parenter Enteral Nutr
+TI  - Early jejunal feeding initiation and clinical outcomes in patients with severe acute pancreatitis
+VL  - 35
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the literature and identify important aspects of insulin therapy that facilitate safe and effective infusion therapy for a defined glycemic end point. METHODS: Where available, the literature was evaluated using Grades of Recommendation, Assessment, Development, and Evaluation (GRADE) methodology to assess the impact of insulin infusions on outcome for general intensive care unit patients and those in specific subsets of neurologic injury, traumatic injury, and cardiovascular surgery. Elements that contribute to safe and effective insulin infusion therapy were determined through literature review and expert opinion. The majority of the literature supporting the use of insulin infusion therapy for critically ill patients lacks adequate strength to support more than weak recommendations, termed suggestions, such that the difference between desirable and undesirable effect of a given intervention is not always clear. RECOMMENDATIONS: The article is focused on a suggested glycemic control end point such that a blood glucose ≥ 150 mg/dL triggers interventions to maintain blood glucose below that level and absolutely <180 mg/dL. There is a slight reduction in mortality with this treatment end point for general intensive care unit patients and reductions in morbidity for perioperative patients, postoperative cardiac surgery patients, post-traumatic injury patients, and neurologic injury patients. We suggest that the insulin regimen and monitoring system be designed to avoid and detect hypoglycemia (blood glucose ≤ 70 mg/dL) and to minimize glycemic variability.Important processes of care for insulin therapy include use of a reliable insulin infusion protocol, frequent blood glucose monitoring, and avoidance of finger-stick glucose testing through the use of arterial or venous glucose samples. The essential components of an insulin infusion system include use of a validated insulin titration program, availability of appropriate staffing resources, accurate monitoring technology, and standardized approaches to infusion preparation, provision of consistent carbohydrate calories and nutritional support, and dextrose replacement for hypoglycemia prevention and treatment. Quality improvement of glycemic management programs should include analysis of hypoglycemia rates, run charts of glucose values <150 and 180 mg/dL. The literature is inadequate to support recommendations regarding glycemic control in pediatric patients. CONCLUSIONS: While the benefits of tight glycemic control have not been definitive, there are patients who will receive insulin infusion therapy, and the suggestions in this article provide the structure for safe and effective use of this therapy.
+AD  - Indiana University Health Methodist Hospital, Indianapolis, IN, USA. jjacobi@iuhealth.org
+AN  - 23164767
+AU  - Jacobi, J.
+AU  - Bircher, N.
+AU  - Krinsley, J.
+AU  - Agus, M.
+AU  - Braithwaite, S. S.
+AU  - Deutschman, C.
+AU  - Freire, A. X.
+AU  - Geehan, D.
+AU  - Kohl, B.
+AU  - Nasraway, S. A.
+AU  - Rigby, M.
+AU  - Sands, K.
+AU  - Schallom, L.
+AU  - Taylor, B.
+AU  - Umpierrez, G.
+AU  - Mazuski, J.
+AU  - Schunemann, H.
+DA  - Dec
+DB  - Medline
+DO  - 10.1097/CCM.0b013e3182653269
+DP  - NLM
+ET  - 2012/11/21
+IS  - 12
+J2  - Critical care medicine
+KW  - Cardiovascular Surgical Procedures
+Critical Care
+Humans
+Hyperglycemia
+drug therapy
+Hypoglycemic Agents
+administration & dosage
+Insulin
+administration & dosage
+Practice Guidelines as Topic
+Trauma, Nervous System
+blood
+Wounds and Injuries
+blood
+LA  - eng
+N1  - 1530-0293
+Jacobi, Judith
+Bircher, Nicholas
+Krinsley, James
+Agus, Michael
+Braithwaite, Susan S
+Deutschman, Clifford
+Freire, Amado X
+Geehan, Douglas
+Kohl, Benjamin
+Nasraway, Stanley A
+Rigby, Mark
+Sands, Karen
+Schallom, Lynn
+Taylor, Beth
+Umpierrez, Guillermo
+Mazuski, John
+Schunemann, Holger
+Journal Article
+Review
+United States
+Crit Care Med. 2012 Dec;40(12):3251-76. doi: 10.1097/CCM.0b013e3182653269.
+PY  - 2012
+SN  - 0090-3493
+SP  - 3251-76
+ST  - Guidelines for the use of an insulin infusion for the management of hyperglycemia in critically ill patients
+T2  - Crit Care Med
+TI  - Guidelines for the use of an insulin infusion for the management of hyperglycemia in critically ill patients
+VL  - 40
+ID  - 41
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Parenteral nutrition is well established for providing nutritional support in acute pancreatitis while avoiding pancreatic stimulation. However, it is associated with complications and high cost. Benefits of enteral feeding in other disease states prompted a comparison of early enteral feeding with total parenteral nutrition in this clinical setting. METHODS: Thirty-eight patients with acute severe pancreatitis were randomized into two groups. The first (n = 18) received enteral nutrition through a nasoenteric tube with a semi-elemental diet, while the second group (n = 20) received parenteral nutrition through a central venous catheter. Safety was assessed by clinical course of disease, laboratory findings and incidence of complications. Efficacy was determined by nitrogen balance. The cost of nutritional support was calculated. RESULTS: Enteral feeding was well tolerated without adverse effects on the course of the disease. Patients who received enteral feeding experienced fewer total complications (P < 0.05) and were at lower risk of developing septic complications (P < 0.01) than those receiving parenteral nutrition. The cost of nutritional support was three times higher in patients who received parenteral nutrition. CONCLUSION: This study suggests that early enteral nutrition should be used preferentially in patients with severe acute pancreatitis.
+AD  - Department of Surgery, University of Patras, Greece.
+AN  - 9448611
+AU  - Kalfarentzos, F.
+AU  - Kehagias, J.
+AU  - Mead, N.
+AU  - Kokkinis, K.
+AU  - Gogos, C. A.
+DA  - Dec
+DB  - Medline
+DP  - NLM
+ET  - 1998/02/04
+IS  - 12
+J2  - The British journal of surgery
+KW  - Acute Disease
+Adult
+Aged
+Enteral Nutrition
+adverse effects
+economics
+Female
+Hospital Costs
+Humans
+Length of Stay
+Male
+Middle Aged
+Pancreatitis
+complications
+economics
+therapy
+Parenteral Nutrition
+adverse effects
+economics
+Prospective Studies
+Survival Rate
+Treatment Outcome
+LA  - eng
+N1  - Kalfarentzos, F
+Kehagias, J
+Mead, N
+Kokkinis, K
+Gogos, C A
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+England
+Br J Surg. 1997 Dec;84(12):1665-9.
+PY  - 1997
+SN  - 0007-1323 (Print)
+0007-1323
+SP  - 1665-9
+ST  - Enteral nutrition is superior to parenteral nutrition in severe acute pancreatitis: results of a randomized prospective trial
+T2  - Br J Surg
+TI  - Enteral nutrition is superior to parenteral nutrition in severe acute pancreatitis: results of a randomized prospective trial
+VL  - 84
+ID  - 25
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND/AIMS: Early intestinal mucosal damage plays an important role in severe acute pancreatitis (AP). Previous studies have shown that intestinal permeability (IP), serum endotoxin and cytokines contribute to the early intestinal barrier dysfunction in AP. This study explored the predictive capacity of IP, endotoxemia and cytokines as prognostic indicators in AP patients. METHODS: Eighty-seven AP patients were included in the study. The patients were classified into three groups according to the Balthazar computed tomography severity index (CTSI). We compared the biochemical parameters, including IP, serum endotoxin level and cytokine level among the three groups. The associations of IP with serum endotoxin, cytokines, CTSI, and other widely used biochemical parameters and scoring systems were also examined. RESULTS: IP, serum endotoxin, interleukin (IL-6) and tumor necrosis factor (TNF)-α had a positive correlation with the CTSI of AP. Endotoxin, IL-6, TNF-α, CTSI, the Ranson/APACHE II score, the duration of hospital stay, complications and death significantly affect IP in the AP patients. CONCLUSIONS: We believe that IP with subsidiary measurements of serum endotoxin, IL-6 and TNF-α may be reliable markers for predicting the prognosis of AP. Further studies that can restore and preserve gut barrier function in AP patients are warranted.
+AD  - Department of Internal Medicine, Kangbuk Samsung Hospital, Sungkyunkwan University School of Medicine, Seoul, Korea.
+AN  - 23170158
+AU  - Koh, Y. Y.
+AU  - Jeon, W. K.
+AU  - Cho, Y. K.
+AU  - Kim, H. J.
+AU  - Chung, W. G.
+AU  - Chon, C. U.
+AU  - Oh, T. Y.
+AU  - Shin, J. H.
+C2  - PMC3493734
+DA  - Oct
+DB  - PubMed-not-MEDLINE
+DO  - 10.5009/gnl.2012.6.4.505
+DP  - NLM
+ET  - 2012/11/22
+IS  - 4
+J2  - Gut and liver
+LA  - eng
+N1  - 2005-1212
+Koh, Young Yool
+Jeon, Woo Kyu
+Cho, Yong Kyun
+Kim, Hong Joo
+Chung, Won Gil
+Chon, Chang Uk
+Oh, Tae Yun
+Shin, Jun Ho
+Journal Article
+Acute pancreatitis
+Balthazar computed tomography severity index
+Cytokines
+Endotoxins
+Intestinal permeability
+Gut Liver. 2012 Oct;6(4):505-11. doi: 10.5009/gnl.2012.6.4.505. Epub 2012 Oct 18.
+PY  - 2012
+SN  - 1976-2283 (Print)
+1976-2283
+SP  - 505-11
+ST  - The effect of intestinal permeability and endotoxemia on the prognosis of acute pancreatitis
+T2  - Gut Liver
+TI  - The effect of intestinal permeability and endotoxemia on the prognosis of acute pancreatitis
+VL  - 6
+ID  - 33
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Enteral nutrition is increasingly advocated in the treatment of acute pancreatitis, but its timing is still controversial. The aim of this meta-analysis was to find out the feasibility of early enteral nutrition within 48 hours of admission and its possible advantages. METHODS AND FINDINGS: We searched PubMed, EMBASE Databases, Web of Science, the Cochrane library, and scholar.google.com for all the relevant articles about the effect of enteral nutrition initiated within 48 hours of admission on the clinical outcomes of acute pancreatitis from inception to December 2012. Eleven studies containing 775 patients with acute pancreatitis were analyzed. Results from a pooled analysis of all the studies demonstrated that early enteral nutrition was associated with significant reductions in all the infections as a whole (OR 0.38; 95%CI 0.21-0.68, P<0.05), in catheter-related septic complications (OR 0.26; 95%CI 0.11-0.58, P<0.05), in pancreatic infection (OR 0.49; 95%CI 0.31-0.78, P<0.05), in hyperglycemia (OR 0.24; 95%CI 0.11-0.52, P<0.05), in the length of hospitalization (mean difference -2.18; 95%CI -3.48-(-0.87); P<0.05), and in mortality (OR 0.31; 95%CI 0.14-0.71, P<0.05), but no difference was found in pulmonary complications (P>0.05). The stratified analysis based on the severity of disease revealed that, even in predicted severe or severe acute pancreatitis patients, early enteral nutrition still showed a protective power against all the infection complications as a whole, catheter-related septic complications, pancreatic infection complications, and organ failure that was only reported in the severe attack of the disease (all P<0.05). CONCLUSION: Enteral nutrition within 48 hours of admission is feasible and improves the clinical outcomes in acute pancreatitis as well as in predicted severe or severe acute pancreatitis by reducing complications.
+AD  - Department of Gastroenterology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, Guangdong, People's Republic of China.
+AN  - 23762266
+AU  - Li, J. Y.
+AU  - Yu, T.
+AU  - Chen, G. C.
+AU  - Yuan, Y. H.
+AU  - Zhong, W.
+AU  - Zhao, L. N.
+AU  - Chen, Q. K.
+C2  - PMC3675100
+DB  - Medline
+DO  - 10.1371/journal.pone.0064926
+DP  - NLM
+ET  - 2013/06/14
+IS  - 6
+J2  - PloS one
+KW  - Databases, Bibliographic
+Enteral Nutrition
+Humans
+Length of Stay
+Pancreatitis, Acute Necrotizing
+mortality
+pathology
+therapy
+Postoperative Complications
+prevention & control
+Survival Analysis
+Time Factors
+Treatment Outcome
+LA  - eng
+N1  - 1932-6203
+Li, Jie-Yao
+Yu, Tao
+Chen, Guang-Cheng
+Yuan, Yu-Hong
+Zhong, Wa
+Zhao, Li-Na
+Chen, Qi-Kui
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+PLoS One. 2013 Jun 6;8(6):e64926. doi: 10.1371/journal.pone.0064926. Print 2013.
+PY  - 2013
+SN  - 1932-6203
+SP  - e64926
+ST  - Enteral nutrition within 48 hours of admission improves clinical outcomes of acute pancreatitis by reducing complications: a meta-analysis
+T2  - PLoS One
+TI  - Enteral nutrition within 48 hours of admission improves clinical outcomes of acute pancreatitis by reducing complications: a meta-analysis
+VL  - 8
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: This prospective study was designed to compare the safety, efficacy, cost, and impact on patient outcome of early total enteral nutrition (TEN) vs total parenteral nutrition (TPN) in acute pancreatitis. METHODS: Patients admitted with acute pancreatitis or an acute flare of chronic pancreatitis, characterized by abdominal pain and elevated serum amylase and lipase, were randomized to receive either isocaloric and isonitrogenous TEN (via a nasojejunal feeding tube placed endoscopically) or TPN (via a central or peripheral line) started within 48 hours of admission. RESULTS: Thirty patients were studied over 32 admissions (TEN given on 16 and TPN on 16) for acute pancreatitis. There were no differences on admission in mean age, Ranson criteria, multiple organ failure score (MOF), or APACHE III score between TEN and TPN groups. Although slower to approach goal feeding over the first 72 hours of admission, TEN patients received 71.3% goal calories by day 4 vs 85.2% for TPN patients (not significant). There were no deaths and no differences between groups in serial pain scores, days to normalization of amylase, days to diet by mouth, serum albumin levels, or percent nosocomial infection. However, the mean cost of TPN per patient was over four times greater than that for TEN ($3294 vs $761, respectively, p < .001). Mean serial Ranson criteria, APACHE III, and MOF scores recorded every 2 to 3 days decreased in the TEN group, whereas those in the TPN group increased. Only the difference in the third Ranson criteria (mean 6.3 days after admission) for the TEN and TPN groups (0.5 vs 2.8, respectively) reached statistical significance (p = .002). Stress-induced hyperglycemia was worse in the TPN group, as serum glucose levels increased significantly over the first 5 days of hospitalization (p < .02), whereas those in the TEN group showed no significant change. An exacerbation of pancreatitis, occurring in one TEN patient when the nasojejunal tube was dislodged into the stomach, resolved after placement back in the jejunum. Three patients who became asymptomatic and normalized amylase on TEN flared upon advancing to diet by mouth. CONCLUSIONS: TEN for acute pancreatitis is as safe and effective, but is significantly less costly than TPN. Compared with TPN, TEN may promote more rapid resolution of the toxicity and stress response to pancreatitis. TEN via jejunal feeding should be used preferentially in this disease setting.
+AD  - Department of Medicine, University of Louisville School of Medicine, Kentucky 40292, USA.
+AN  - 9002079
+AU  - McClave, S. A.
+AU  - Greene, L. M.
+AU  - Snider, H. L.
+AU  - Makk, L. J.
+AU  - Cheadle, W. G.
+AU  - Owens, N. A.
+AU  - Dukes, L. G.
+AU  - Goldsmith, L. J.
+DA  - Jan-Feb
+DB  - Medline
+DO  - 10.1177/014860719702100114
+DP  - NLM
+ET  - 1997/01/01
+IS  - 1
+J2  - JPEN. Journal of parenteral and enteral nutrition
+KW  - Apache
+Acute Disease
+Adult
+Aged
+Amylases
+blood
+Enteral Nutrition
+economics
+Female
+Humans
+Male
+Middle Aged
+Pancreatitis
+therapy
+Parenteral Nutrition, Total
+economics
+Prospective Studies
+Random Allocation
+Safety
+Treatment Outcome
+LA  - eng
+N1  - McClave, S A
+Greene, L M
+Snider, H L
+Makk, L J
+Cheadle, W G
+Owens, N A
+Dukes, L G
+Goldsmith, L J
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+JPEN J Parenter Enteral Nutr. 1997 Jan-Feb;21(1):14-20. doi: 10.1177/014860719702100114.
+PY  - 1997
+SN  - 0148-6071 (Print)
+0148-6071
+SP  - 14-20
+ST  - Comparison of the safety of early enteral vs parenteral nutrition in mild acute pancreatitis
+T2  - JPEN J Parenter Enteral Nutr
+TI  - Comparison of the safety of early enteral vs parenteral nutrition in mild acute pancreatitis
+VL  - 21
+ID  - 24
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To examine the effect of euglycemic blood glucose control with normal insulin therapy on the incidence of critical illness polyneuropathy and duration of mechanical ventilation compared to that of conventional insulin therapy in a medical ICU. BACKGROUND: Despite the criticism over increased risk of hypoglycemia, the prevention of hyperglycemia through intensive insulin therapy has recently been confirmed to reduce the critical illness polyneuropathy (CIP). METHODS: In a single blind randomized clinical trial, forty adult patients admitted to the medical ICU were randomized to either euglycemic control (80-140 mg/dL) (Group N) or conventional approach (180-200 mg/dL, Group C). Duration of mechanical ventilation and the presence of CIP were investigated. RESULTS: The mean blood glucose levels were 131.76 ± 40.15 mg/dL in group N and 169.87 ± 50.66 mg/dL in group C (p < 0.001). Patients in group N were on mechanical ventilation for significantly less time than those in group C (p = 0.04). The diagnosis of CIP was significantly more frequent in group C than in group N (p = 0.01). CONCLUSIONS: Glucose control at levels 80-140 mg/dL with normal insulin administration is likely to be associated with both reduced incidence of CIP and duration of ventilator dependency in medical ICU (Tab. 3, Ref. 24).
+AD  - Tuberculosis and Lung Disease Research Center, Tabriz University of Medical Sciences, Iran.
+AN  - 23094903
+AU  - Mikaeili, H.
+AU  - Yazdchi, M.
+AU  - Barazandeh, F.
+AU  - Ansarin, K.
+DB  - Medline
+DO  - 10.4149/bll_2012_139
+DP  - NLM
+ET  - 2012/10/26
+IS  - 10
+J2  - Bratislavske lekarske listy
+KW  - Apache
+Adult
+Aged
+Blood Glucose
+analysis
+Electromyography
+Female
+Humans
+Hyperglycemia
+etiology
+prevention & control
+Hypoglycemic Agents
+therapeutic use
+Insulin
+therapeutic use
+Intensive Care Units
+Male
+Middle Aged
+Polyneuropathies
+blood
+complications
+diagnosis
+Single-Blind Method
+Ventilator Weaning
+LA  - eng
+N1  - Mikaeili, H
+Yazdchi, M
+Barazandeh, F
+Ansarin, K
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Slovakia
+Bratisl Lek Listy. 2012;113(10):616-9. doi: 10.4149/bll_2012_139.
+PY  - 2012
+SN  - 0006-9248 (Print)
+0006-9248
+SP  - 616-9
+ST  - Euglycemic state reduces the incidence of critical illness polyneuropathy and duration of ventilator dependency in medical intensive care unit
+T2  - Bratisl Lek Listy
+TI  - Euglycemic state reduces the incidence of critical illness polyneuropathy and duration of ventilator dependency in medical intensive care unit
+VL  - 113
+ID  - 40
+ER  - 
+
+TY  - JOUR
+AB  - Guidelines for nutrition support in pancreatitis have been inconsistently adapted to clinical practice. The International Consensus Guideline Committee (ICGC) established a pancreatitis task force to review published guidelines for pancreatitis in nutrition support. A PubMed search using the terms pancreatitis, acute pancreatitis, chronic pancreatitis, nutrition support, parenteral nutrition, enteral nutrition, and guidelines was conducted for the period from January 1999 to May 2011. Eleven guidelines were identified for review. The ICGC used the following process to develop unified guideline statements: summarize the strength of evidence (grading) of the guidelines; establish level of evidence for ICGC statements as high, intermediate, and low; assign published guideline levels of evidence; and define an ICGC grading system. International Pancreatitis Guideline Grades were established as follows: platinum-high level of evidence and consistent agreement among the guidelines; gold-acceptable level of evidence and no conflicting statements in guidelines; and silver-single existing guideline statement with no conflict in other guidelines. Eighteen ICGC statements were derived from the 11 published pancreatitis guidelines. Uniform agreement from widely disparate groups (United States, Europe, Japan, and China) resulted in 4 platinum-level guideline statements for nutrition in pancreatitis: nutrition support therapy (NST) is generally not needed for mild to moderate disease, NST is needed for severe disease, enteral nutrition (EN) is preferred over parenteral nutrition (PN), and use PN when EN is contraindicated or not feasible. This methodology provides a template for future ICGC nutrition guideline development.
+AD  - Ohio State University, College of Pharmacy, Columbus, Ohio, USA. mirtallo.1@osu.edu
+AN  - 22457421
+AU  - Mirtallo, J. M.
+AU  - Forbes, A.
+AU  - McClave, S. A.
+AU  - Jensen, G. L.
+AU  - Waitzberg, D. L.
+AU  - Davies, A. R.
+DA  - May
+DB  - Medline
+DO  - 10.1177/0148607112440823
+DP  - NLM
+ET  - 2012/03/30
+IS  - 3
+J2  - JPEN. Journal of parenteral and enteral nutrition
+KW  - Acute Disease
+Enteral Nutrition
+Evidence-Based Medicine
+Humans
+International Cooperation
+Nutritional Support
+methods
+Pancreatitis
+therapy
+Pancreatitis, Chronic
+therapy
+Parenteral Nutrition
+Randomized Controlled Trials as Topic
+Societies, Medical
+Treatment Outcome
+LA  - eng
+N1  - 1941-2444
+Mirtallo, Jay M
+Forbes, Alastair
+McClave, Stephen A
+Jensen, Gordon L
+Waitzberg, Dan L
+Davies, Andrew R
+International Consensus Guideline Committee Pancreatitis Task Force
+Journal Article
+Practice Guideline
+United States
+JPEN J Parenter Enteral Nutr. 2012 May;36(3):284-91. doi: 10.1177/0148607112440823. Epub 2012 Mar 28.
+PY  - 2012
+SN  - 0148-6071
+SP  - 284-91
+ST  - International consensus guidelines for nutrition therapy in pancreatitis
+T2  - JPEN J Parenter Enteral Nutr
+TI  - International consensus guidelines for nutrition therapy in pancreatitis
+VL  - 36
+ID  - 27
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: We investigated the effect of early jejunal feeding on septic complications and mortality rate in patients with acute pancreatitis in a two-phase, prospective, controlled study. METHODS: In the first, randomized phase of the study, conventional parenteral nutrition was compared with early (within 24-72 h after the onset of symptoms) enteral nutrition. Of 89 patients admitted with acute pancreatitis, 48 patients were randomized into a parenteral group (Rindex 10, Infusamin S, Intralipid 10%; 30 kcal/kg) and 41 patients into an enteral group (jejunal tube feeding; Survimed OPD; 30 kcal/kg). RESULTS: The rate of septic complications (infected pancreatic necrosis, abscess) was lower in the enteral group (P = 0.08, chi(2) test). In the second phase of the study, early jejunal feeding was combined with prophylactic imipenem (Tienam, 500 mg intravenously twice each day) when necrosis of the pancreas was detected by abdominal computed tomography. When the outcomes of 92 patients in the third group were compared with those of patients in the parenteral group, the rate of septic complications decreased significantly (P = 0.03). Multiple organ failure (P = 0.14) and mortality (P = 0.13) tended to decrease. CONCLUSIONS: We believe that the combination of early enteral nutrition and selective, adequate antibiotic prophylaxis may prevent multiple organ failure in patients with acute pancreatitis.
+AD  - Department of Surgery, Petz Aladár Teaching Hospital, Gyor, Hungary. olah.seb@arrabonet.gyor.hu
+AN  - 11882400
+AU  - Oláh, A.
+AU  - Pardavi, G.
+AU  - Belágyi, T.
+AU  - Nagy, A.
+AU  - Issekutz, A.
+AU  - Mohamed, G. E.
+DA  - Mar
+DB  - Medline
+DO  - 10.1016/s0899-9007(01)00755-9
+DP  - NLM
+ET  - 2002/03/08
+IS  - 3
+J2  - Nutrition (Burbank, Los Angeles County, Calif.)
+KW  - Acute Disease
+Adult
+Enteral Nutrition
+methods
+Female
+Humans
+Imipenem
+therapeutic use
+Jejunostomy
+Male
+Middle Aged
+Multiple Organ Failure
+etiology
+mortality
+prevention & control
+Pancreatitis
+complications
+physiopathology
+therapy
+Parenteral Nutrition
+methods
+Prospective Studies
+Sepsis
+etiology
+mortality
+prevention & control
+Severity of Illness Index
+Thienamycins
+therapeutic use
+LA  - eng
+N1  - Oláh, Attila
+Pardavi, Gábor
+Belágyi, Tibor
+Nagy, Attila
+Issekutz, Akos
+Mohamed, Gamal E
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+United States
+Nutrition. 2002 Mar;18(3):259-62. doi: 10.1016/s0899-9007(01)00755-9.
+PY  - 2002
+SN  - 0899-9007 (Print)
+0899-9007
+SP  - 259-62
+ST  - Early nasojejunal feeding in acute pancreatitis is associated with a lower complication rate
+T2  - Nutrition
+TI  - Early nasojejunal feeding in acute pancreatitis is associated with a lower complication rate
+VL  - 18
+ID  - 22
+ER  - 
+
+TY  - JOUR
+AB  - Acute pancreatitis can present as a mild or severe disease. Most patients have a mild disease and recover without requiring nutritional support. Patients with severe acute pancreatitis may develop systemic inflammatory response syndrome and progress to multi-organ failure. These ill patients have high metabolism and protein catabolism. Hence, the nutritional management of these patients can be challenging. The aim of nutritional support is to meet the elevated metabolic demands as far as possible without stimulating pancreatic secretion and yet maintaining the gut integrity. The concept of pancreatic rest has evolved over the years. To date, there is a substantial scientific proof that enteral nutrition (EN) in comparison to parenteral nutrition significantly reduces infectious complications, surgical interventions and mortality in predicted severe acute pancreatitis. EN may be able to improve outcome in these patients if given early. In this review, we summarized the current knowledge on nutrition in acute pancreatitis and shared our local experience.
+AD  - Department of Gastroenterology, Changi General Hospital, Singapore. jeannie_ong@cgh.com.sg
+AN  - 22908969
+AU  - Ong, J. P.
+AU  - Fock, K. M.
+DA  - Sep
+DB  - Medline
+DO  - 10.1111/j.1751-2980.2012.00611.x
+DP  - NLM
+ET  - 2012/08/23
+IS  - 9
+J2  - Journal of digestive diseases
+KW  - Acute Disease
+Enteral Nutrition
+Humans
+Nutritional Support
+Pancreatitis
+therapy
+Parenteral Nutrition
+LA  - eng
+N1  - 1751-2980
+Ong, Jeannie P L
+Fock, Kwong Ming
+Journal Article
+Review
+Australia
+J Dig Dis. 2012 Sep;13(9):445-52. doi: 10.1111/j.1751-2980.2012.00611.x.
+PY  - 2012
+SN  - 1751-2972
+SP  - 445-52
+ST  - Nutritional support in acute pancreatitis
+T2  - J Dig Dis
+TI  - Nutritional support in acute pancreatitis
+VL  - 13
+ID  - 12
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Infectious complications are the main cause of late death in patients with acute pancreatitis. Routine prophylactic antibiotic use following a severe attack has been proposed but remains controversial. On the other hand, nutritional support has recently yielded promising clinical results. The aim of study was to compare enteral vs. parenteral feeding for prevention of infectious complications in patients with predicted severe acute pancreatitis. METHODS: We screened 466 consecutive patients with acute pancreatitis. A total of 70 patients with objectively graded severe acute pancreatitis were randomly allocated to receive either total enteral nutrition (TEN) or total parenteral nutrition (TPN), within 72 h of onset of symptoms. Baseline characteristics were well matched in the two groups. RESULTS: The incidence of pancreatic infectious complications (infected pancreatic necrosis, pancreatic abscess) was significantly lower in the enterally fed group (7 vs. 16, p = 0.02). In the TEN group, 7 patients developed multiple organ failure whereas 17 parenterally fed patients developed multiple organ failure (p = 0.02). Overall mortality was 20% with two deaths in the TEN group and twelve in the TPN group (p < 0.01). CONCLUSION: Early TEN could be used as prophylactic therapy for infected pancreatic necrosis since it significantly decreased the incidence of pancreatic infectious complications as well as the frequency of multiple organ failure and mortality.
+AD  - Department of Surgery, Nizhny Novgorod State Medical Academy, Nizhny Novgorod, Russia. max.petrov@gmail.com
+AN  - 17164546
+AU  - Petrov, M. S.
+AU  - Kukosh, M. V.
+AU  - Emelyanov, N. V.
+DB  - Medline
+DO  - 10.1159/000097949
+DP  - NLM
+ET  - 2006/12/14
+IS  - 5-6
+J2  - Digestive surgery
+KW  - Apache
+Abscess
+etiology
+Acute Disease
+Adult
+Aged
+Analysis of Variance
+C-Reactive Protein
+metabolism
+Enteral Nutrition
+Female
+Humans
+Infections
+etiology
+Male
+Middle Aged
+Necrosis
+Pancreatitis
+complications
+therapy
+Parenteral Nutrition
+Prognosis
+Treatment Outcome
+LA  - eng
+N1  - Petrov, Maxim S
+Kukosh, Mikhail V
+Emelyanov, Nikolay V
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Switzerland
+Dig Surg. 2006;23(5-6):336-44; discussion 344-5. doi: 10.1159/000097949. Epub 2006 Dec 12.
+PY  - 2006
+SN  - 0253-4886 (Print)
+0253-4886
+SP  - 336-44; discussion 344-5
+ST  - A randomized controlled trial of enteral versus parenteral feeding in patients with predicted severe acute pancreatitis shows a significant reduction in mortality and in infected pancreatic complications with total enteral nutrition
+T2  - Dig Surg
+TI  - A randomized controlled trial of enteral versus parenteral feeding in patients with predicted severe acute pancreatitis shows a significant reduction in mortality and in infected pancreatic complications with total enteral nutrition
+VL  - 23
+ID  - 19
+ER  - 
+
+TY  - JOUR
+AB  - Artificial nutrition is an inherent part of management in acute pancreatitis. However, there is no consensus regarding the optimal time of the commencement of feeding in these patients. Our aim was to compare the effect of enteral v. parenteral nutrition with regard to the time points when they were administered in the randomised controlled trials. The search was undertaken in the Cochrane Central Register of Controlled Trials, MEDLINE and Science Citation Index as well as in the proceedings of major gastroenterology meetings. The summary estimate of the effect associated with artificial nutrition was calculated using a random-effects model and presented as a risk ratio (RR) and 95 % CI. A total of eleven randomised controlled trials were included. When started within 48 h of admission, enteral nutrition, in comparison with parenteral nutrition, resulted in a statistically significant reduction in the risks of multiple organ failure (RR 0.44; 95 % CI 0.23, 0.84), pancreatic infectious complications (RR 0.46; 95 % CI 0.27, 0.77) and mortality (RR 0.46; 95 % CI 0.20, 0.99). After 48 h of admission, enteral nutrition, in comparison with parenteral nutrition, did not result in a statistically significant reduction in the risks of multiple organ failure (RR 0.73; 95 % CI 0.33, 1.63), pancreatic infectious complications (RR 0.31; 95 % CI 0.07, 1.34) and mortality (RR 0.67; 95 % CI 0.22, 2.10). Enteral nutrition is more effective than parenteral nutrition in reducing the risk of multiple organ failure, pancreatic infectious complications and mortality in patients with acute pancreatitis. The magnitude of these benefits may depend on the timing of the commencement of nutrition.
+AD  - Department of Surgery, Nizhny Novgorod State Medical Academy, Nizhny Novgorod, Russia. max.petrov@gmail.com
+AN  - 19017421
+AU  - Petrov, M. S.
+AU  - Pylypchuk, R. D.
+AU  - Uchugina, A. F.
+DA  - Mar
+DB  - Medline
+DO  - 10.1017/s0007114508123443
+DP  - NLM
+ET  - 2008/11/20
+IS  - 6
+J2  - The British journal of nutrition
+KW  - Acute Disease
+Enteral Nutrition
+Humans
+Multiple Organ Failure
+etiology
+mortality
+Nutritional Support
+methods
+Odds Ratio
+Pancreatitis
+complications
+mortality
+therapy
+Pancreatitis, Chronic
+complications
+mortality
+therapy
+Parenteral Nutrition
+Randomized Controlled Trials as Topic
+Time Factors
+Treatment Outcome
+LA  - eng
+N1  - 1475-2662
+Petrov, Maxim S
+Pylypchuk, Romana D
+Uchugina, Antonina F
+Journal Article
+Review
+Systematic Review
+England
+Br J Nutr. 2009 Mar;101(6):787-93. doi: 10.1017/S0007114508123443. Epub 2008 Nov 19.
+PY  - 2009
+SN  - 0007-1145
+SP  - 787-93
+ST  - A systematic review on the timing of artificial nutrition in acute pancreatitis
+T2  - Br J Nutr
+TI  - A systematic review on the timing of artificial nutrition in acute pancreatitis
+VL  - 101
+ID  - 37
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND & AIMS: There is no consistency between the individual studies in the literature on whether organ failure (OF) or infected pancreatic necrosis (IPN) is the main determinant of severity in acute pancreatitis. We aimed to statistically aggregate the available data and determine the pooled influence of OF and IPN on mortality in patients with acute pancreatitis. METHODS: The search for relevant observational studies was undertaken in the MEDLINE, EMBASE, and Scopus electronic databases, as well as in the proceedings of major gastroenterology meetings. The summary estimates are presented as relative risk (RR) and 95% confidence interval (CI). RESULTS: Fourteen studies comprising 1478 patients with acute pancreatitis were meta-analyzed. A total of 600 patients developed OF and 179 of them died (mortality, 30%); 314 patients developed IPN and 102 of them died (mortality, 32%). In a stratified analysis, patients with OF and IPN had a significantly higher risk of death in comparison with patients with OF and no IPN (RR = 1.94; 95% CI: 1.32-2.85; P = .0007) and in comparison with patients with IPN and no OF (RR = 2.65; 95% CI: 1.30-5.40; P = .0007). CONCLUSIONS: In patients with acute pancreatitis, the absolute influence of OF and IPN on mortality is comparable and thus the presence of either indicates severe disease. The relative risk of mortality doubles when OF and IPN are both present and indicates extremely severe disease or critical acute pancreatitis.
+AD  - Department of Surgery, The University of Auckland, Auckland, New Zealand. max.petrov@gmail.com
+AN  - 20540942
+AU  - Petrov, M. S.
+AU  - Shanbhag, S.
+AU  - Chakraborty, M.
+AU  - Phillips, A. R.
+AU  - Windsor, J. A.
+DA  - Sep
+DB  - Medline
+DO  - 10.1053/j.gastro.2010.06.010
+DP  - NLM
+ET  - 2010/06/15
+IS  - 3
+J2  - Gastroenterology
+KW  - Bacterial Infections
+etiology
+mortality
+Critical Illness
+Humans
+Multiple Organ Failure
+etiology
+mortality
+Pancreatitis, Acute Necrotizing
+complications
+mortality
+Prognosis
+Risk Assessment
+Risk Factors
+Severity of Illness Index
+LA  - eng
+N1  - 1528-0012
+Petrov, Maxim S
+Shanbhag, Satyanarayan
+Chakraborty, Mandira
+Phillips, Anthony R J
+Windsor, John A
+Journal Article
+Meta-Analysis
+Review
+United States
+Gastroenterology. 2010 Sep;139(3):813-20. doi: 10.1053/j.gastro.2010.06.010. Epub 2010 Jun 9.
+PY  - 2010
+SN  - 0016-5085
+SP  - 813-20
+ST  - Organ failure and infection of pancreatic necrosis as determinants of mortality in patients with acute pancreatitis
+T2  - Gastroenterology
+TI  - Organ failure and infection of pancreatic necrosis as determinants of mortality in patients with acute pancreatitis
+VL  - 139
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AB  - This medical position statement has been developed by the board of ProInf AISP (Computerized Project on Acute Pancreatitis) Study Group. The evidence and key recommendations were discussed at a dedicated meeting held in Milan on September 2007 and during this meeting the main clinical and therapeutic medical topics were extensively discussed. Each of the proposed recommendations was discussed and an initial consensus was reached. Acute pancreatitis in Italy is a disease of increasing annual incidence. The diagnosis of the disease should be established within 48hours of admission. Early identification of patients at risk of developing a severe attack of acute pancreatitis is of great importance because rapid therapeutic interventions improve outcome. The endoscopic approach seems to be most beneficial measure in patients with acute pancreatitis with jaundice and in those with cholangitis. The development of infected necrosis should be assessed using fine-needle aspiration and the sample should be cultured for germ isolation and characterization. The role of early ERCP in all patients with severe acute pancreatitis of biliary origin is still controversial. The data supporting the efficacy of antibiotic prophylaxis to prevent infection of necrosis are conflicting. The refeeding is a crucial topic in patients who have recovered from an acute episode of mild acute pancreatitis, but there are very few studies on this issue.
+AD  - Department of Internal Medicine and Gastroenterology, S. Orsola-Malpighi Hospital, Bologna. raffaele.pezzilli@aosp.bo.it
+AN  - 18387862
+AU  - Pezzilli, R.
+AU  - Uomo, G.
+AU  - Zerbi, A.
+AU  - Gabbrielli, A.
+AU  - Frulloni, L.
+AU  - De Rai, P.
+AU  - Delle Fave, G.
+AU  - Di Carlo, V.
+DA  - Oct
+DB  - Medline
+DO  - 10.1016/j.dld.2008.02.019
+DP  - NLM
+ET  - 2008/04/05
+IS  - 10
+J2  - Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver
+KW  - Acute Disease
+Cholangiopancreatography, Endoscopic Retrograde
+Enteral Nutrition
+Evidence-Based Medicine
+Hormones
+therapeutic use
+Humans
+Italy
+Necrosis
+etiology
+therapy
+Pancreas
+pathology
+Pancreatic Pseudocyst
+etiology
+therapy
+Pancreatitis
+complications
+diagnosis
+therapy
+Protease Inhibitors
+therapeutic use
+Secondary Prevention
+Severity of Illness Index
+Societies, Medical
+Somatostatin
+analogs & derivatives
+therapeutic use
+LA  - eng
+N1  - 1878-3562
+Pezzilli, R
+Uomo, G
+Zerbi, A
+Gabbrielli, A
+Frulloni, L
+De Rai, P
+Delle Fave, G
+Di Carlo, V
+Italian Association for the Study of the Pancreas Study Group
+Consensus Development Conference
+Journal Article
+Netherlands
+Dig Liver Dis. 2008 Oct;40(10):803-8. doi: 10.1016/j.dld.2008.02.019. Epub 2008 Apr 2.
+PY  - 2008
+SN  - 1590-8658
+SP  - 803-8
+ST  - Diagnosis and treatment of acute pancreatitis: the position statement of the Italian Association for the study of the pancreas
+T2  - Dig Liver Dis
+TI  - Diagnosis and treatment of acute pancreatitis: the position statement of the Italian Association for the study of the pancreas
+VL  - 40
+ID  - 2
+ER  - 
+
+TY  - JOUR
+AB  - This study assessed the feasibility and effectiveness of jejunal feeding (JF) after surgery due to secondary peritonitis or failed conservative therapy of severe pancreatitis. Of 60 patients, 30 were randomly assigned to receive postoperative JF and the remaining 30 constituted the control group. Acute Physiology and Chronic Health Evaluation II, nutritional intake, systemic inflammatory response syndrome, and outcomes were measured. Patients in JF group received the daily mean of 1294.6 (362.6) kcal including 830.6 (372.7.0) kcal enterally, versus 472.8 (155.8) kcal daily in the control group (P < 0.0001). There were fewer complications in the JF patients, with no significant difference; length of stay in the intensive care unit and in the hospital did not differ. The frequency of systemic inflammatory response syndrome was similar in both groups, but outcomes differed. The first surgical intervention resulted in 3.3% of relaparotomies in JF patients, caused by unresolved peritonitis, versus 26.7% in the control subjects (P = 0.03). Recovery of bowel transit took significantly less time in the JF patients (mean: 54.6 h versus 76.8 h in control subjects, P = 0.01). JF resulted in 3.3% mortality as opposed to 23.3% in the control group (P = 0.05). In conclusion, JF is feasible and effective in postoperative treatment of patients due to secondary peritonitis or severe pancreatitis. Improved bowel and peritoneal function could be the main impact of JF.
+AD  - Department of Surgery, Medical Academy of Latvia, theRiga 7th Clinical Hospital. pupelis@gailes.lv
+AN  - 11240334
+AU  - Pupelis, G.
+AU  - Selga, G.
+AU  - Austrums, E.
+AU  - Kaminski, A.
+DA  - Feb
+DB  - Medline
+DO  - 10.1016/s0899-9007(00)00508-6
+DP  - NLM
+ET  - 2001/03/10
+IS  - 2
+J2  - Nutrition (Burbank, Los Angeles County, Calif.)
+KW  - Adolescent
+Adult
+Aged
+Enteral Nutrition
+methods
+Female
+Humans
+Inflammation
+Jejunum
+Length of Stay
+Male
+Middle Aged
+Pancreatitis
+mortality
+therapy
+Peritonitis
+mortality
+therapy
+Postoperative Care
+Prospective Studies
+Survival Analysis
+Time Factors
+LA  - eng
+N1  - Pupelis, G
+Selga, G
+Austrums, E
+Kaminski, A
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+Nutrition. 2001 Feb;17(2):91-4. doi: 10.1016/s0899-9007(00)00508-6.
+PY  - 2001
+SN  - 0899-9007 (Print)
+0899-9007
+SP  - 91-4
+ST  - Jejunal feeding, even when instituted late, improves outcomes in patients with severe pancreatitis and peritonitis
+T2  - Nutrition
+TI  - Jejunal feeding, even when instituted late, improves outcomes in patients with severe pancreatitis and peritonitis
+VL  - 17
+ID  - 32
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the effect of early intrajejunal nutrition in attenuating bacterial and/or endotoxin translocation and improving gut barrier function of severe acute pancreatitis (SAP) in dogs. METHODS: 15 dogs were divided into parenteral nutrition (PN) group (7 dogs) and early intrajejunal nutrition (EIN) group (8). EIN was delivered nutrients via a needle jejunostomy catheter feeding at 48 h after operation. SAP model was induced by injecting 1 ml/kg of combined solution of 5% sodium taurocholate and 8000-10 000 BAEE units trypsin/ml into the pancreas via the pancreatic duct. Systemic blood samples were obtained before and 1, 3, 5, 7 d following SAP, and cultured by aerobic as well as anaerobic bacterial growth. Systemic plasma and portal vein endotoxin levels were quantified by the chromogenic limulus amebocyte lysate (LAL) technique. Portal vein blood and specimens of tissue from the mesenteriolum and mesocolon lymph nodes, lung, pulmonary portal lymph nodes, pancreatitistissue and periopancreas tissue were adopted before the experiment was finished. Aliquots of the homogenata were cultured as blood mentioned above to determine the magnitude of the bacteria. DNA, protein and the villi, the thickness of mucosa, and the whole bowel wall of the ileum and transverse colon were measured. RESULTS: The study showed that the levels of systemic plasma endotoxin and the magnitude of bacterial translocation to the portal and systemic blood and distant organ were reduced significantly in the EIN group as compared with the TPN group. The contents of Protein and DNA, the height of villi, the thickness of mucosa and whole bowel wall of the ileum and transverse colon in the EIN group were higher than those in the PN group. CONCLUSION: Our results suggested that EIN is safe and effective to be adopted by intrajejunal delivery of nutrients in SAP, decreases the occurrence of gut bacterial translocation, and improves the gut barrier function.
+AD  - Department of Surgery, Shanghai Sixth People's Hospital, Shanghai 200233, China.
+AN  - 14607647
+AU  - Qin, H. L.
+AU  - Su, Z. D.
+AU  - Gao, Q.
+AU  - Lin, Q. T.
+DA  - Feb
+DB  - Medline
+DP  - NLM
+ET  - 2003/11/11
+IS  - 1
+J2  - Hepatobiliary & pancreatic diseases international : HBPD INT
+KW  - Acute Disease
+Animals
+Bacterial Translocation
+DNA
+metabolism
+Dogs
+Endotoxemia
+Enteral Nutrition
+Intestines
+microbiology
+pathology
+physiology
+Jejunostomy
+Pancreatitis
+diet therapy
+microbiology
+Severity of Illness Index
+LA  - eng
+N1  - Qin, Huan-Long
+Su, Zhen-Dong
+Gao, Qi
+Lin, Qing-Tian
+Journal Article
+Research Support, Non-U.S. Gov't
+Singapore
+Hepatobiliary Pancreat Dis Int. 2002 Feb;1(1):150-4.
+PY  - 2002
+SN  - 1499-3872 (Print)
+SP  - 150-4
+ST  - Early intrajejunal nutrition: bacterial translocation and gut barrier function of severe acute pancreatitis in dogs
+T2  - Hepatobiliary Pancreat Dis Int
+TI  - Early intrajejunal nutrition: bacterial translocation and gut barrier function of severe acute pancreatitis in dogs
+VL  - 1
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In patients with major trauma and burns, total enteral nutrition (TEN) significantly decreases the acute phase response and incidence of septic complications when compared with total parenteral nutrition (TPN). Traditionally, it was believed that early intrajejunal nutrition (EIN) in severe acute pancreatitis (SAP) may exacerbate the clinical pathological features, lead to recurrence of symptoms and delay complications. OBJECTIVE: To compare the effect of EIN vs TPN on the pancreatic pathological features and gut barrier function in dogs with acute pancreatitis (AP). METHODS: Fifteen dogs (surviving over 7 days, the death rate being 32%, 7/22) were divided into parenteral nutrition (PN) group (n=7) and EIN group (n=8). SAP model was induced by injecting 1 ml/kg of combined solution of 2.5% sodium taurocholate and 8000-10000 BAEE units trypsin/ml into the pancreas via the pancreatic duct. Nutrients were delivered to the EIN group by catheter via a jejunostomy feeding 24 h postoperatively. The two groups were isocaloric and isonitrogenous. Systemic blood samples were obtained before and 1, 4, 7 d following AP, and cultured by aerobic as well as anaerobic bacterial growth. Systemic plasma and portal vein endotoxin levels were quantified by the chromogenic limulus amebocyte lysate (LAL) technique. Portal vein blood and specimens of tissue from mesenteriolum and mesocolon lymph nodes, lung, pulmonary portal lymph nodes and pancreas were adopted before the experiment was finished. Aliquots of the homogenata were cultured as blood mentioned above. Serum glucose, calcium, amylase and lysosomal enzymes were determined. All dogs were injected with 50 microCi (125)I-BSA 4 h at the 7th day before being sacrificed. The (125)I-BSA indexes of the pancreas/muscle and pancreas/blood were measured, and pancreatitic pathological scores (PPSs) of the different partial pancreas were observed. The content of mucosa protein, DNA and the villi, the thickness of mucosa and the whole bowel wall of the ileum and transverse colon were measured. RESULTS: The study showed that serum glucose in the PN group was higher than in the EIN group after SAP 3 d; the levels of systemic plasma endotoxin and the magnitude of bacterial translocation to the portal and systemic blood and distant organ reduced significantly in the EIN group P<0.01. There were no differences between the two groups in the data of serum calcium, amylase and lysosomal enzymes, P>0.05; the (125)I-BSA index of pancreas/muscle and pancreas/blood, and PPS of the head, body, tail and total pancreas did not reach significant difference between the two groups, P>0.05. The contents of protein and DNA, the height of villi, the thickness of mucosa and the whole bowel wall of the ileum and transverse colon in the EIN group were higher than that in the PN group,P <0.01. CONCLUSION: Our results suggested that EIN was safe and effective to be adopted by intrajejunal delivery of nutrients in SAP dogs, did not make SAP clinical pathological features deteriorate, and decreased the occurrence rate of endotoxin and gut bacterial translocation.
+AD  - Department of Surgery, Shanghai Sixth People's Hospital, Shanghai, Peoples Republic of China.
+AN  - 12468366
+AU  - Qin, H. L.
+AU  - Su, Z. D.
+AU  - Hu, L. G.
+AU  - Ding, Z. X.
+AU  - Lin, Q. T.
+DA  - Dec
+DB  - Medline
+DO  - 10.1054/clnu.2002.0574
+DP  - NLM
+ET  - 2002/12/07
+IS  - 6
+J2  - Clinical nutrition (Edinburgh, Scotland)
+KW  - Acute Disease
+Amylases
+blood
+Animals
+Bacterial Translocation
+physiology
+Blood Glucose
+analysis
+Calcium
+blood
+Colon
+microbiology
+pathology
+DNA
+metabolism
+Disease Models, Animal
+Dogs
+Endotoxins
+blood
+Enteral Nutrition
+methods
+Ileum
+microbiology
+pathology
+Jejunostomy
+Pancreas
+pathology
+Pancreatitis
+microbiology
+pathology
+therapy
+Parenteral Nutrition, Total
+Random Allocation
+Safety
+Treatment Outcome
+LA  - eng
+N1  - Qin, H-L
+Su, Z-D
+Hu, L-G
+Ding, Z-X
+Lin, Q-T I
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+Clin Nutr. 2002 Dec;21(6):469-73. doi: 10.1054/clnu.2002.0574.
+PY  - 2002
+SN  - 0261-5614 (Print)
+0261-5614
+SP  - 469-73
+ST  - Effect of early intrajejunal nutrition on pancreatic pathological features and gut barrier function in dogs with acute pancreatitis
+T2  - Clin Nutr
+TI  - Effect of early intrajejunal nutrition on pancreatic pathological features and gut barrier function in dogs with acute pancreatitis
+VL  - 21
+ID  - 35
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To study the effect of the Lactobacillus plantarum (LP) enteral feeding on the gut permeability and sepsis in the patients with acute pancreatitis. SUBJECTS: Seventy-six subjects who stayed over 1 week in the hospital completed the study. Subjects were not treated with any lactobacillus supplement before the intervention. METHODS: Seventy-six patients with acute pancreatitis were randomly divided into two groups, parenteral nutrition (PN) group (n=38) and ecoimmunonutrition (EIN) group supplied by LP enteral feeding (n=36). The acute physiology and chronic health evaluation score, Balthazar CT score, CRP, fecal bacterial species and DNA fingerprint profiles as well as the potentially pathologenic organisms in nasogastric aspirate were determined on the day of admission and on the 8 day. The intestinal permeability was assessed by measurement of the ratio of lactulose/rhamnose on the day of admission and on days 5 and 8. The rate of organ failure, septic complications and death cases were evaluated at the 8 day. RESULTS: Following 7 days treatment, 38.9% patients in the EIN group were colonized with multiple organisms compared to 73.7% in the PN group (P<0.01), and 30.6% patients in the EIN grew potentially pathogenic organisms compared to 50% patients in PN group (P<0.05). The fecal bacterial DNA fingerprint profiles were less, the amount of lactobacteria and bifidobacteria decreased, and the amount of enterococci increased in PN group as compared with EIN group, P<0.05. By day 8, the lactulose/rhamnose ratio in EIN group were lower than that in PN group at days 5 and 8, P<0.05. The patients with LP got a better clinical outcomes as compared with the patients with PN. CONCLUSION: EIN enteral feeding can attenuate disease severity, improve the intestinal permeability and clinical outcomes.
+AD  - Department of Surgery, Affiliated Sixth People's Hospital, Shanghai Jiao Tong University, Shanghai, China. hlqin@sjtu.edu.cn
+AN  - 17579653
+AU  - Qin, H. L.
+AU  - Zheng, J. J.
+AU  - Tong, D. N.
+AU  - Chen, W. X.
+AU  - Fan, X. B.
+AU  - Hang, X. M.
+AU  - Jiang, Y. Q.
+DA  - Jul
+DB  - Medline
+DO  - 10.1038/sj.ejcn.1602792
+DP  - NLM
+ET  - 2007/06/21
+IS  - 7
+J2  - European journal of clinical nutrition
+KW  - Acute Disease
+Adult
+Aged
+Bacterial Translocation
+physiology
+DNA Fingerprinting
+DNA, Bacterial
+analysis
+Enteral Nutrition
+Feces
+microbiology
+Female
+Gastrointestinal Tract
+microbiology
+physiology
+Humans
+Lactobacillus plantarum
+growth & development
+physiology
+Male
+Middle Aged
+Pancreatitis
+complications
+microbiology
+therapy
+Parenteral Nutrition
+Permeability
+Prospective Studies
+Sepsis
+epidemiology
+Single-Blind Method
+Treatment Outcome
+LA  - eng
+N1  - Qin, H-L
+Zheng, J-J
+Tong, D-N
+Chen, W-X
+Fan, X-B
+Hang, X-M
+Jiang, Y-Q
+Journal Article
+Randomized Controlled Trial
+England
+Eur J Clin Nutr. 2008 Jul;62(7):923-30. doi: 10.1038/sj.ejcn.1602792. Epub 2007 Jun 20.
+PY  - 2008
+SN  - 0954-3007 (Print)
+0954-3007
+SP  - 923-30
+ST  - Effect of Lactobacillus plantarum enteral feeding on the gut permeability and septic complications in the patients with acute pancreatitis
+T2  - Eur J Clin Nutr
+TI  - Effect of Lactobacillus plantarum enteral feeding on the gut permeability and septic complications in the patients with acute pancreatitis
+VL  - 62
+ID  - 23
+ER  - 
+
+TY  - JOUR
+AB  - To determine the effect of early aggressive parenteral support in pancreatitis, 54 patients with acute pancreatitis were randomized to receive either conventional therapy (control group) or conventional therapy plus the institution of total parenteral nutrition within 24 hours. The two groups were similar demographically. The total parenteral nutrition group had a significantly higher rate of catheter-related sepsis than did an additional group of contemporaneous patients without pancreatitis who received total parental nutrition (10.5 percent and 1.47 percent, respectively; p less than 0.01). There was no advantage to the use of early total parenteral nutrition; that is, there was no difference in the number of days to oral intake, total hospital stay, or number of complications of pancreatitis. Patients with zero or one Ranson's criterion on admission were more likely to be eating by the seventh hospital day than were those with two or more Ranson's criteria (80 percent and 54 percent, respectively; p less than 0.05). The early institution of total parenteral nutrition in patients with acute pancreatitis did not appear to improve the outcome. Its use should be limited to prolonged periods of no oral intake or treatment of a specific complication, such as a pseudocyst.
+AN  - 3099588
+AU  - Sax, H. C.
+AU  - Warner, B. W.
+AU  - Talamini, M. A.
+AU  - Hamilton, F. N.
+AU  - Bell, R. H., Jr.
+AU  - Fischer, J. E.
+AU  - Bower, R. H.
+DA  - Jan
+DB  - Medline
+DO  - 10.1016/0002-9610(87)90211-x
+DP  - NLM
+ET  - 1987/01/01
+IS  - 1
+J2  - American journal of surgery
+KW  - Acute Disease
+Adult
+Evaluation Studies as Topic
+Female
+Humans
+Male
+Nitrogen
+metabolism
+Pancreatitis
+therapy
+Parenteral Nutrition, Total
+adverse effects
+Random Allocation
+Time Factors
+Urinary Catheterization
+LA  - eng
+N1  - Sax, H C
+Warner, B W
+Talamini, M A
+Hamilton, F N
+Bell, R H Jr
+Fischer, J E
+Bower, R H
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+United States
+Am J Surg. 1987 Jan;153(1):117-24. doi: 10.1016/0002-9610(87)90211-x.
+PY  - 1987
+SN  - 0002-9610 (Print)
+0002-9610
+SP  - 117-24
+ST  - Early total parenteral nutrition in acute pancreatitis: lack of beneficial effects
+T2  - Am J Surg
+TI  - Early total parenteral nutrition in acute pancreatitis: lack of beneficial effects
+VL  - 153
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To compare the effect of parenteral versus enteral nutritional support in severe acute pancreatitis, with respect to efficacy, safety, morbidity, mortality and length of hospitalization. METHODS: The study was comprised of 31 patients, divided into a parenteral group (n=16) and an enteral group (n=15), who met severity criteria for abdominal tomography (Balthazar classes C, D, and E). The patients were compared by demographics, disease etiology, antibiotic prophylaxis, use or not of somatostatin, nutritional support, complications and disease progression. RESULTS: There was no statistical difference in the average duration of nutritional support, somatostatin, or antibiotics in the two groups. Imipenem was the drug of choice for prophylaxis of pancreatic infections in both groups. More complications occurred in the parenteral group, although the difference was not statistically significant (p=0.10). Infectious complications, such as catheter sepsis and infections of the pancreatic tissue, were significantly more frequent in the parenteral group (p=0.006). There was no difference in average length of hospitalization in the two groups. There were three deaths in the parenteral group and none in the enteral group. CONCLUSION: Enteral nutritional support is associated with fewer septic complications compared to parenteral nutritional support.
+AD  - Surgical Department, Federal University of Maranhao, Brazil. josielpv@hotmail.com
+AN  - 20877957
+AU  - Vieira, J. P.
+AU  - Araújo, G. F.
+AU  - Azevedo, J. R.
+AU  - Goldenberg, A.
+AU  - Linhares, M. M.
+DA  - Oct
+DB  - Medline
+DO  - 10.1590/s0102-86502010000500012
+DP  - NLM
+ET  - 2010/09/30
+IS  - 5
+J2  - Acta cirurgica brasileira
+KW  - Acute Disease
+Enteral Nutrition
+adverse effects
+mortality
+Female
+Humans
+Length of Stay
+statistics & numerical data
+Male
+Middle Aged
+Pancreatitis
+therapy
+Parenteral Nutrition
+adverse effects
+mortality
+LA  - eng
+N1  - 1678-2674
+Vieira, Josiel Paiva
+Araújo, Gutemberg Fernandes de
+Azevedo, José Raimundo Araújo de
+Goldenberg, Alberto
+Linhares, Marcelo Moura
+Comparative Study
+Journal Article
+Brazil
+Acta Cir Bras. 2010 Oct;25(5):449-54. doi: 10.1590/s0102-86502010000500012.
+PY  - 2010
+SN  - 0102-8650
+SP  - 449-54
+ST  - Parenteral nutrition versus enteral nutrition in severe acute pancreatitis
+T2  - Acta Cir Bras
+TI  - Parenteral nutrition versus enteral nutrition in severe acute pancreatitis
+VL  - 25
+ID  - 26
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the effect of enteral nutrition (EN) versus total parenteral nutrition (TPN) on gut barrier function in patients with severe acute pancreatitis (SAP). METHODS: Sixty-three patients with SAP enrolled from 4 hospitals were randomly assigned into EN group (29 cases) and TPN group (34 cases). EN group patients were fed via a spiral nasojejunal feeding tube placed routinely by endoscopy or fluoroscopy, and TPN group patients were nourished intravenously with TPN during the same period. The changes of serum endotoxin, diamine oxidase, and urinary excretion of lactulose and mannitol ratio (L/M) were observed. RESULTS: Plasma concentration of endotoxin were markedly decreased in EN group as compared with that in TPN group at the 7(th), 14(th), 21(th) day of entry trial [(39.30 ± 15.82) EU/L vs (73.05 ± 21.16) EU/L, (22.64 ± 14.31) EU/L vs (49.34 ± 24.54) EU/L, (14.81 ± 10.93) EU/L vs (30.08 ± 14.10) EU/L, P < 0.05]. Plasma concentration of diamine oxidase were markedly decreased in EN group as compared with that in TPN group at the 7(th), 14(th) day of entry trial [(9.97 ± 3.84) U/L vs (19.89 ± 9.89) U/L, (5.42 ± 1.84) U/L vs (8.79 ± 4.08) U/L, both P < 0.05]. The urinary L/M decreased significantly in EN group than those in TPN group at the 7(th), 14(th), 21(th) day of entry trial (0.28 ± 0.25 vs 0.65 ± 0.45, 0.21 ± 0.18 vs 0.54 ± 0.41, 0.08 ± 0.04 vs 0.29 ± 0.06, all P < 0.05). CONCLUSION: EN has better effect on improving intestinal barrier function than TPN in treatment of patients with SAP.
+AD  - Department of Gastroenterology, the First Affiliated Hospital of Soochow University, Suzhou 215006, China. xcf601@163.com
+AN  - 21624216
+AU  - Xu, C. F.
+AU  - Huang, X. X.
+AU  - Shen, Y. Z.
+AU  - Wang, X. P.
+AU  - Gong, L.
+AU  - Wang, Y. D.
+DA  - May
+DB  - Medline
+DP  - NLM
+ET  - 2011/06/01
+IS  - 5
+J2  - Zhonghua nei ke za zhi
+KW  - Adult
+Aged
+Enteral Nutrition
+Female
+Gastrointestinal Tract
+Humans
+Male
+Middle Aged
+Pancreatitis, Acute Necrotizing
+physiopathology
+therapy
+Parenteral Nutrition, Total
+Treatment Outcome
+Young Adult
+LA  - chi
+N1  - Xu, Chun-fang
+Huang, Xiao-xi
+Shen, Yun-zhi
+Wang, Xing-peng
+Gong, Lei
+Wang, Ya-dong
+Comparative Study
+English Abstract
+Journal Article
+Randomized Controlled Trial
+China
+Zhonghua Nei Ke Za Zhi. 2011 May;50(5):370-3.
+PY  - 2011
+SN  - 0578-1426 (Print)
+0578-1426
+SP  - 370-3
+ST  - [The effects of enteral nutrition versus total parenteral nutrition on gut barrier function in severe acute pancreatitis]
+T2  - Zhonghua Nei Ke Za Zhi
+TI  - [The effects of enteral nutrition versus total parenteral nutrition on gut barrier function in severe acute pancreatitis]
+VL  - 50
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - Pulmonary complications are frequent in the course of acute pancreatitis. We investigate the effects of dexamethasone on lung injury in mild and severe AP. Mild and severe acute pancreatitis was induced in rats by bile-pancreatic duct obstruction and infusion of 3.5% sodium taurocholate into the bile-pancreatic duct, respectively. Dexamethasone (1 mg/kg) was given by intramuscular injection 1 h after acute pancreatitis. Plasma amylase activity was measured to evaluate the pancreas damage. Lungs were harvested for analysing mRNA expression of monocyte chemoattractant protein-1 (MCP-1), cytokine-induced neutrophil chemoattractant (CINC), P-selectin and intercellular adhesion molecule-1 (ICAM-1), myeloperoxidase (MPO) activity (as index of neutrophil infiltration) and histological examination. Dexamethasone reduced the hyperamylasemia and hindered the pulmonary upregulation of MCP-1, CINC, P-selectin and ICAM-1, in both mild and severe acute pancreatitis. Despite this, dexamethasone treatment failed to reduce MPO activity and histological alterations developed in lungs during acute pancreatitis, either in bile-pancreatic duct obstruction or sodium taurocholate model. We conclude that pulmonary local factors different from inflammatory mediators contribute to leukocyte recruitment, so that although dexamethasone down-regulated the lung expression of chemokines and adhesion molecules during acute pancreatitis it was not able to prevent leukocyte infiltration, which could be responsible for maintaining the lung injury in either mild or severe acute pancreatitis.
+AD  - Department of Physiology and Pharmacology, IBSAL (Instituto Biosanitario Salamanca), University of Salamanca, 37007 Salamanca, Spain.
+AN  - 22691809
+AU  - Yubero, S.
+AU  - Manso, M. A.
+AU  - Ramudo, L.
+AU  - Vicente, S.
+AU  - De Dios, I.
+DA  - Aug
+DB  - Medline
+DO  - 10.1016/j.pupt.2012.05.009
+DP  - NLM
+ET  - 2012/06/14
+IS  - 4
+J2  - Pulmonary pharmacology & therapeutics
+KW  - Acute Disease
+Acute Lung Injury
+etiology
+physiopathology
+Amylases
+blood
+Animals
+Anti-Inflammatory Agents
+pharmacology
+Cell Adhesion
+Chemokines
+immunology
+Dexamethasone
+pharmacology
+Disease Models, Animal
+Down-Regulation
+Lung
+immunology
+Male
+Pancreatitis
+complications
+RNA, Messenger
+Rats
+Rats, Wistar
+Severity of Illness Index
+LA  - eng
+N1  - 1522-9629
+Yubero, Sara
+Manso, Manuel A
+Ramudo, Laura
+Vicente, Secundino
+De Dios, Isabel
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+Pulm Pharmacol Ther. 2012 Aug;25(4):319-24. doi: 10.1016/j.pupt.2012.05.009. Epub 2012 Jun 9.
+PY  - 2012
+SN  - 1094-5539
+SP  - 319-24
+ST  - Dexamethasone down-regulates the inflammatory mediators but fails to reduce the tissue injury in the lung of acute pancreatitis rat models
+T2  - Pulm Pharmacol Ther
+TI  - Dexamethasone down-regulates the inflammatory mediators but fails to reduce the tissue injury in the lung of acute pancreatitis rat models
+VL  - 25
+ID  - 39
+ER  - 
+

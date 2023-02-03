@@ -1,12 +1,12 @@
 return_pmids <- function(testset_ref, validationset_ref = NULL, validation_set = FALSE){
 
   testset_pmids<- testset_ref %>%
-    map(.,pluck, "accession") %>%
+    map(pluck, "accession") %>%
     flatten_chr
 
   if(validation_set){
     validation_set_pmids <- validationset_ref %>%
-      map(.,pluck, "accession") %>%
+      map(pluck, "accession") %>%
       flatten_chr
 
     result <- list("development_set"= testset_pmids,
@@ -16,15 +16,18 @@ return_pmids <- function(testset_ref, validationset_ref = NULL, validation_set =
   }
   return(result)
 }
-calculate_z_scores <- function (testset, popset, key) {
+calculate_z_scores <- function (testset, popset_norms, key_testset = "MeSH", key_popset) {
+  key <- eval(key_popset)
+  names(key) <- eval(key_testset)
+
   z_table <- testset %>%
-    left_join(popset, by = key)%>%
+    left_join(popset_norms, by = {{ key }}) %>%
     mutate(#n = sum(frequency, na.rm = T),
-      E = n*p,
-      var = E*(1-p),
-      z = (frequency - E)/sqrt(var),
-      approx_criteria = var >= 9) %>%
-    arrange(desc(z))
+      E = .data$n*.data$p,
+      var = .data$E*(1-.data$p),
+      z = (.data$frequency - .data$E)/sqrt(.data$var),
+      approx_criteria = .data$var >= 9) %>%
+    arrange(desc(.data$z))
 
   #change z-Score for Values, that are not in population Set to 10000
   z_table$z <-z_table$z %>% replace_na(10000)

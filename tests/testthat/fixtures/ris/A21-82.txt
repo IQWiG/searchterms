@@ -1,0 +1,3617 @@
+﻿TY  - JOUR
+AB  - Background: The fms-like tyrosine kinase 3 internal tandem duplication (FLT3-ITD) mutation is a genetic alteration found in approximately 30% of patients with acute myeloid leukemia (AML). Although patients with FLT3-ITD AML achieve remission rates similar to those with FLT3 wildtype status with induction chemotherapy regimens; patients with FLT3-ITD have significantly shorter remission durations and increased rates of relapse. Even though allogeneic SCT improves outcomes, patients still have higher rates of relapse comparatively with poor prognosis post relapse. Sorafenib(SFB) is a TKI with activity against RAF, VEGF and FLT3-ITD and its use as maintenance therapy after allogeneic SCT has been shown as a promising approach to decrease relapse. Several studies report that SFB maintenance post SCT provides durable complete responses; however, there are also descriptions of sorafenib post SCT triggering acute GVHD, cytopenias, rash and diarrhea. Aim(s): To assess the outcomes, including progression free survival (PFS) and overall survival (OS), in patients with FLT3-ITD mutated AML who receive SFB maintenance after allogeneic SCT. Method(s): We analyzed adult patients (age>=18) with a diagnosis of FLT3-ITD mutated AML who received an allogeneic SCT between 1/1/2010 and 10/28/16 at our institution. Using a case control analysis and matching patients who received maintenance SFB (maintenance group) with control patients, FLT3-ITD mutated AML who did not receive maintenance post SCT(control group); we matched each case to two control patients accounting for disease status, type of conditioning, donor type, cytogenetic risk factors and age. To be considered as maintenance, SFB had to be started within 101 days of the SCT. To reduce bias from disease risks and transplant-related mortality (TRM), all patients were required to be in complete remission (CR) at study entry-defined as the date of SFB initiation for cases and the same time point after SCT for their matched controls without maintenance. Actuarial OS and PFS were estimated from study entry using Kaplan-Meier method. OS and PFS were compared between cases and controls using log rank test and cox proportional hazards regression analysis. Patient-, transplant-and disease characteristics were compared between cases and controls using chi square and Fisher exact tests. Result(s): Among the 214 AML patients with FLT3-ITD mutation that underwent SCT during study period, we identified 13 cases (maintenance) and 26 controls (no maintenance). Median follow-up of survivors were 12 months and 30 months for maintenance and control group respectively. Disease and transplant characteristics were comparable between groups as presented in Figure 1. Patients were classified by the European Leukemia Net (ELN) classification and 23% in both groups were categorized as adverse risk while 77% were intermediate risk. All patients received myeloablative conditioning and diseases status at SCT was first/second complete remission (CR1/2) with or without count recovery (Cri/p) in 69% while it was active disease in 31%. PFS at 24 months post SCT was 82% in the maintenance and 45% in control group HR 0.3; 95% CI (0.1-1.3) p=0.1. Overall survival at 24 months was also higher in SFB cases as 100% compared with 60% in control group p=0.035. Only, 2 patients relapsed post SCT on SFB maintenance, one with new TP53 mutation at relapse, and other received only <30 days of SFB. However, more than half the patients had disease progression within the control period. The most commonly administered dose was 400 mg daily (5 patients) for 28 days cycle; only 2 patients tolerated higher doses and 6 patients received SBF as 300mg daily or less. There were delays in subsequent cycles in 10 of 12 patients, and the most common reasons for delays included cytopenias, liver function test abnormalities, and fatigue. (Figure Presented) Summary/Conclusions: Sorafenib maintenance is safe and can produce long term durable remissions after allogeneic stem cell transplant in a high risk population with FLT3-ITD mutated AML.
+AD  - (Ahmed, Saliba, Rondon, Alousi, Bashir, Ciurea, Al-Atrash, Patel, Olson, Marin, Rezvani, Kebriaei, Popat, Shpall, Champlin, Oran) University of Texas, MD Anderson Cancer Center, Houston, United States
+S. Ahmed, University of Texas, MD Anderson Cancer Center, Houston, United States
+AN  - 617380803
+AU  - Ahmed, S.
+AU  - Saliba, R.
+AU  - Rondon, G.
+AU  - Alousi, A.
+AU  - Bashir, Q.
+AU  - Ciurea, S.
+AU  - Al-Atrash, G.
+AU  - Patel, K.
+AU  - Olson, A.
+AU  - Marin, D.
+AU  - Rezvani, K.
+AU  - Kebriaei, P.
+AU  - Popat, U.
+AU  - Shpall, E.
+AU  - Champlin, R.
+AU  - Oran, B.
+DA  - June
+DB  - Embase
+DP  - Ovid Technologies
+IS  - Supplement 2
+KW  - acute graft versus host disease
+acute myeloid leukemia
+adult
+adverse drug reaction
+cancer epidemiology
+cancer susceptibility
+classification
+clinical trial
+congenital malformation
+control group
+controlled study
+cytopenia
+diagnosis
+diarrhea
+drug megadose
+drug therapy
+fatigue
+female
+Fisher exact test
+follow up
+gene mutation
+high risk population
+human
+Kaplan Meier method
+leukemia remission
+log rank test
+maintenance therapy
+major clinical study
+male
+mortality
+myeloablative conditioning
+normal human
+overall survival
+population based case control study
+progression free survival
+proportional hazards model
+rash
+relapse
+risk factor
+side effect
+survivor
+tandem repeat
+CD135 antigen
+endogenous compound
+protein p53
+sorafenib
+vasculotropin
+LA  - English
+M3  - Conference Abstract
+N1  - 22th Congress of the European Hematology Association. Madrid Spain
+PY  - 2017
+SN  - 1592-8721
+SP  - 323-324
+ST  - Sorafenib maintenance in FLT3-ITD mutated acute myeloid leukemia after allogeneic stem cell transplant
+T2  - Haematologica
+TI  - Sorafenib maintenance in FLT3-ITD mutated acute myeloid leukemia after allogeneic stem cell transplant
+UR  - http://www.haematologica.org/content/102/s2/1.full.pdf+html
+https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed18&AN=617380803
+VL  - 102
+ID  - 36
+ER  - 
+
+TY  - JOUR
+AB  - AML with FLT3 ITD mutations are associated with poor outcome. We reviewed outcomes of patients with FLT3 ITD mutated AML to investigate trends over time. We analyzed 224 AML patients (excluding patients with core binding factor and acute promyelocytic leukemia) referred to our institution between 2000 and 2014. Patients were divided into five cohorts by era: 2000-2002 (Era 1, n = 19), 2003-2005 (Era 2, n = 41), 2006-2008 (Era 3, n = 53), 2009-2011 (Era 4, n = 55), and 2012-2014 (Era 5, n = 56) to analyze differences in outcome. The baseline characteristics were not statistically different across Eras. The response rate (CR/CRp) from Era 1-5 was 68%, 49%, 72%, 73%, and 75%, respectively. The overall response rate (all Eras) with chemotherapy alone versus chemotherapy plus FLT3 inhibitor was 67% and 72.5%, respectively (P = 0.4). The median time to relapse was 6, 3.6, 7.9, 8.1 months and not reached from Eras 1 through 5, respectively (P = 0.001). The median OS has improved: 9.6, 7.6, 14.4, 15.7, and 17.8 month from Eras 1-5, respectively (P = <0.001). Stem cell transplant as a time-dependent variable, showed better OS in the univariate analysis (HR: 0.57, 95% CI: 0.39-0.84, P = 0.004) but did not retained its significance in multivariate analysis (HR: 0.75, 95% CI: 0.50-1.13, P = 0.16). Our data suggest improvement in outcome of FLT3 ITD mutated AML patients over the last 15 years. This is probably due to improvement in treatment strategies, including but not limited to integration of FLT3 inhibitors and increased use of SCT.
+AD  - Department of Leukemia, University of Texas MD Anderson Cancer Center, Houston, Texas.
+Department of Leukemia, Section of Molecular Hematology and Therapy, University of Texas MD Anderson Cancer Center, Houston, Texas.
+Department of Stem Cell Transplantation and Cellular Therapy, University of Texas MD Anderson Cancer Center, Houston, Texas.
+AN  - 26299958
+AU  - Badar, T.
+AU  - Kantarjian, H. M.
+AU  - Nogueras-Gonzalez, G. M.
+AU  - Borthakur, G.
+AU  - Garcia Manero, G.
+AU  - Andreeff, M.
+AU  - Konopleva, M.
+AU  - Kadia, T. M.
+AU  - Daver, N.
+AU  - Wierda, W. G.
+AU  - Luthra, R.
+AU  - Patel, K.
+AU  - Oran, B.
+AU  - Champlin, R.
+AU  - Ravandi, F.
+AU  - Cortes, J. E.
+C2  - PMC4618182
+C6  - NIHMS718386
+DA  - Nov
+DB  - Medline
+DO  - 10.1002/ajh.24140
+DP  - NLM
+ET  - 2015/08/25
+IS  - 11
+J2  - American journal of hematology
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Analysis of Variance
+Antineoplastic Agents
+therapeutic use
+Female
+Gene Expression
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+diagnosis
+drug therapy
+genetics
+mortality
+Male
+Middle Aged
+Mutation
+Niacinamide
+analogs & derivatives
+therapeutic use
+Phenylurea Compounds
+therapeutic use
+Protein Kinase Inhibitors
+therapeutic use
+Recurrence
+Remission Induction
+Retrospective Studies
+Sorafenib
+Survival Analysis
+Transplantation, Homologous
+Treatment Outcome
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1096-8652
+Badar, Talha
+Kantarjian, Hagop M
+Nogueras-Gonzalez, Graciela M
+Borthakur, Gautam
+Garcia Manero, Guillermo
+Andreeff, Michael
+Konopleva, Marina
+Kadia, Tapan M
+Daver, Naval
+Wierda, William G
+Luthra, Raja
+Patel, Keyur
+Oran, Betul
+Champlin, Richard
+Ravandi, Farhad
+Cortes, Jorge E
+P30 CA016672/CA/NCI NIH HHS/United States
+P50 CA100632/CA/NCI NIH HHS/United States
+CA016672/CA/NCI NIH HHS/United States
+CA100632/CA/NCI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Am J Hematol. 2015 Nov;90(11):1065-70. doi: 10.1002/ajh.24140. Epub 2015 Sep 10.
+PY  - 2015
+SN  - 0361-8609 (Print)
+0361-8609
+SP  - 1065-70
+ST  - Improvement in clinical outcome of FLT3 ITD mutated acute myeloid leukemia patients over the last one and a half decade
+T2  - Am J Hematol
+TI  - Improvement in clinical outcome of FLT3 ITD mutated acute myeloid leukemia patients over the last one and a half decade
+VL  - 90
+ID  - 26
+ER  - 
+
+TY  - JOUR
+AD  - Bone Marrow Transplantation Program, Department of Internal Medicine, American University of Beirut Medical Center, Beirut, Lebanon bazarbac@aub.edu.lb.
+Department of Cell Biology, Anatomy and Physiological Sciences, American University of Beirut, Beirut, Lebanon.
+Acute Leukemia Working Party of EBMT, Paris, France.
+Hematology Department, Hôpital Saint Antoine, Service d'Hématologie et Thérapie Cellulaire, Paris, France.
+Hôpital Saint Antoine, Université Pierre and Marie Curie, INSERM, UMRs 938, Paris, France.
+Hematology Department, Federico II University of Naples, Naples, Italy.
+University Hospital, Hematology, Basel, Switzerland.
+Hôpital Saint Louis, Department of Hematology - BMT, Paris, France.
+CHU Bordeaux Hôpital Haut-leveque, Pessac, France.
+Programme de Transplantation and Therapie Cellulaire, Centre de Recherche en Cancérologie de Marseille, Institut Paoli Calmettes, Marseille, France.
+CHU Nantes, Department D'Hematologie, Nantes, France.
+CHRU, Service des Maladies du Sang, Angers, France.
+Department of Hematology, Rotterdam, the Netherlands.
+Tor Vergata University of Rome, Stem Cell Transplant Unit, Policlinico Universitario Tor Vergata, Rome, Italy.
+CHU CAEN, Institut d'Hématologie de Basse-Normandie, Caen, France.
+Bone Marrow Transplantation Program, Department of Internal Medicine, American University of Beirut Medical Center, Beirut, Lebanon.
+Hematology Department, IDIBAPS, Hospital Clinic, Barcelona, Spain.
+Chaim Sheba Medical Center, Tel-Hashomer, Israel.
+AN  - 30792203
+AU  - Bazarbachi, A.
+AU  - Labopin, M.
+AU  - Battipaglia, G.
+AU  - Djabali, A.
+AU  - Passweg, J.
+AU  - Socié, G.
+AU  - Forcade, E.
+AU  - Blaise, D.
+AU  - Chevallier, P.
+AU  - Orvain, C.
+AU  - Cornelissen, J. J.
+AU  - Arcese, W.
+AU  - Chantepie, S.
+AU  - Hashaishi, K.
+AU  - El Cheikh, J.
+AU  - Medinger, M.
+AU  - Esteve, J.
+AU  - Nagler, A.
+AU  - Mohty, M.
+C2  - PMC6717576
+DA  - Sep
+DB  - Medline
+DO  - 10.3324/haematol.2018.211615
+DP  - NLM
+ET  - 2019/02/23
+IS  - 9
+J2  - Haematologica
+KW  - Adult
+Aged
+Antineoplastic Agents
+administration & dosage
+Female
+Gene Duplication
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+genetics
+mortality
+therapy
+Male
+Middle Aged
+Mutation
+Neoplasm Recurrence, Local
+Registries
+Remission Induction
+Retrospective Studies
+Salvage Therapy
+Sorafenib
+administration & dosage
+Transplantation, Homologous
+Treatment Outcome
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1592-8721
+Bazarbachi, Ali
+Labopin, Myriam
+Battipaglia, Giorgia
+Djabali, Azedine
+Passweg, Jakob
+Socié, Gerard
+Forcade, Edouard
+Blaise, Didier
+Chevallier, Patrice
+Orvain, Corentin
+Cornelissen, Jan J
+Arcese, William
+Chantepie, Sylvain
+Hashaishi, Khowla
+El Cheikh, Jean
+Medinger, Michael
+Esteve, Jordi
+Nagler, Arnon
+Mohty, Mohamad
+Letter
+Multicenter Study
+Haematologica. 2019 Sep;104(9):e398-e401. doi: 10.3324/haematol.2018.211615. Epub 2019 Feb 21.
+PY  - 2019
+SN  - 0390-6078 (Print)
+0390-6078
+SP  - e398-e401
+ST  - Sorafenib improves survival of FLT3-mutated acute myeloid leukemia in relapse after allogeneic stem cell transplantation: a report of the EBMT Acute Leukemia Working Party
+T2  - Haematologica
+TI  - Sorafenib improves survival of FLT3-mutated acute myeloid leukemia in relapse after allogeneic stem cell transplantation: a report of the EBMT Acute Leukemia Working Party
+VL  - 104
+ID  - 4
+ER  - 
+
+TY  - JOUR
+AB  - The addition of midostaurin, a FLT3-inhibitor, to intensive chemotherapy (IC) was previously shown to improve outcome of younger patients with FLT3-mutated AML. The toxicity and efficacy of adding midostaurin to IC in patients not originally included in the RATIFY study or with intensified daunorubicin dosing are unknown. We conducted a retrospective, multi-center, historical-control study to characterize the safety and efficacy of adding midostaurin to IC in a "real-world" setting. Sixty-nine adult patients were included in the analysis (midostaurin n = 34, historical controls n = 35) with a mean follow-up of 18.4 (± 15) months. Median age of patients was 60 (range 26-82) years; 32% and 20% of patients were > 65 and 70 years, respectively. No differences in baseline characteristics were noted between the groups. Midostaurin was administered with 90 mg/m(2) daunorubicin in 29% of patients; One-third of patients experienced dose reductions/interruptions during midostaurin therapy. Overall toxicity was comparable between the midostaurin and control groups.CR/CRi rates were higher in patients treated with midostaurin compared with controls (80% vs. 57%, p = 0.047) and significantly more patients in the midostaurin group were transplanted in first remission (95% vs. 68%, p = 0.04).Median OS and DFS were higher in the midostaurin vs. control group (not reached vs. 11 months (p = 0.085) and 13 vs. 6 months (p = 0.09), respectively). In our analysis, midostaurin was not associated with increased toxicity including in older patients, in those with secondary AML or when administered with intensified daunorubicin dosage. Higher remission rates in the midostaurin group and increased transplantation rates in first CR were associated with a trend towards better outcomes.
+AD  - Institute of Hematology, Davidoff Cancer Center, Rabin Medical Center, Petah Tikva, Israel.
+Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
+Bone Marrow Transplantation Unit, Tel Aviv Sourasky Medical Center, Tel Aviv, Israel.
+Department of Hematology and Bone Marrow Transplantation, Rambam Health Care Campus, Haifa, Israel.
+The Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel Institute of Technology, Haifa, Israel.
+Department of Hematology, Meir Medical Center, Kfar Saba, Israel.
+Department of Hematology, Shamir Medical Center, Zeriffin, Israel.
+Hematological Laboratories, Rabin Medical Center, Beilinson Hospital, Petah Tikva, Israel.
+Institute of Hematology, Davidoff Cancer Center, Rabin Medical Center, Petah Tikva, Israel. owolach@gmail.com.
+Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel. owolach@gmail.com.
+AN  - 31512015
+AU  - Berger, T.
+AU  - Rozovski, U.
+AU  - Moshe, Y.
+AU  - Yaari, S.
+AU  - Frisch, A.
+AU  - Hellmann, I.
+AU  - Apel, A.
+AU  - Aviram, A.
+AU  - Koren-Michowitz, M.
+AU  - Yeshurun, M.
+AU  - Ram, R.
+AU  - Raanani, P.
+AU  - Ofran, Y.
+AU  - Wolach, O.
+DA  - Dec
+DB  - Medline
+DO  - 10.1007/s00277-019-03795-8
+DP  - NLM
+ET  - 2019/09/13
+IS  - 12
+J2  - Annals of hematology
+KW  - Adult
+Aged
+Aged, 80 and over
+Critical Care
+Daunorubicin
+administration & dosage
+Disease-Free Survival
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+mortality
+therapy
+Male
+Middle Aged
+Remission Induction
+Retrospective Studies
+Staurosporine
+administration & dosage
+analogs & derivatives
+Survival Rate
+LA  - eng
+N1  - 1432-0584
+Berger, Tamar
+Rozovski, Uri
+Moshe, Yakir
+Yaari, Shilo
+Frisch, Avraham
+Hellmann, Ilana
+Apel, Arie
+Aviram, Adina
+Koren-Michowitz, Maya
+Yeshurun, Moshe
+Ram, Ron
+Raanani, Pia
+Ofran, Yishai
+Wolach, Ofir
+Orcid: 0000-0002-8662-0707
+Clinical Trial
+Journal Article
+Multicenter Study
+Germany
+Acute myeloid leukemia
+FLT3 mutation
+Midostaurin
+Ann Hematol. 2019 Dec;98(12):2711-2717. doi: 10.1007/s00277-019-03795-8. Epub 2019 Sep 11.
+PY  - 2019
+SN  - 0939-5555
+SP  - 2711-2717
+ST  - Midostaurin in combination with intensive chemotherapy is safe and associated with improved remission rates and higher transplantation rates in first remission-a multi-center historical control study
+T2  - Ann Hematol
+TI  - Midostaurin in combination with intensive chemotherapy is safe and associated with improved remission rates and higher transplantation rates in first remission-a multi-center historical control study
+VL  - 98
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AN  - 17312001
+AU  - Bornhäuser, M.
+AU  - Illmer, T.
+AU  - Schaich, M.
+AU  - Soucek, S.
+AU  - Ehninger, G.
+AU  - Thiede, C.
+DA  - Mar 1
+DB  - Medline
+DO  - 10.1182/blood-2006-09-047225
+DP  - NLM
+ET  - 2007/02/22
+IS  - 5
+J2  - Blood
+KW  - Follow-Up Studies
+Humans
+Leukemia, Myeloid, Acute
+enzymology
+pathology
+surgery
+Recurrence
+Stem Cell Transplantation
+Survival Rate
+Treatment Outcome
+fms-Like Tyrosine Kinase 3
+metabolism
+LA  - eng
+N1  - Bornhäuser, Martin
+Illmer, Thomas
+Schaich, Markus
+Soucek, Silke
+Ehninger, Gerhard
+Thiede, Christian
+AML SHG 96 study group
+Comment
+Letter
+United States
+Blood. 2007 Mar 1;109(5):2264-5; author reply 2265. doi: 10.1182/blood-2006-09-047225.
+PY  - 2007
+SN  - 0006-4971 (Print)
+0006-4971
+SP  - 2264-5; author reply 2265
+ST  - Improved outcome after stem-cell transplantation in FLT3/ITD-positive AML
+T2  - Blood
+TI  - Improved outcome after stem-cell transplantation in FLT3/ITD-positive AML
+VL  - 109
+ID  - 32
+ER  - 
+
+TY  - JOUR
+AB  - We performed a retrospective study analysing the effect of sorafenib, an oral fms-Like Tyrosine Kinase 3 (FLT3)/multikinase inhibitor, as post-transplant maintenance in adult patients with FLT3-internal tandem duplication (ITD) acute myeloid leukaemia (AML). We identified consecutive patients with FLT3-ITD AML diagnosed between 2008 and 2014 who received haematopoietic cell transplantation (HCT) in first complete remission (CR1). Post-HCT initiation of sorafenib (yes/no) was evaluated as a time-varying covariate in the overall survival/progression-free survival (OS/PFS) analysis and we performed a landmark analysis of controls alive without relapse at the median date of sorafenib initiation. We identified 26 sorafenib patients and 55 controls. Median follow-up was 27·2 months post-HCT for sorafenib survivors, and 38·4 months for controls (P = 0·021). The median time to initiating sorafenib was 68 days post-HCT; 43 controls were alive without relapse at this cut-off. Sorafenib patients had improved 2-year OS in the d+68 landmark analysis (81% vs. 62%, P = 0·029). Sorafenib was associated with improved 2-year PFS (82% vs. 53%, P = 0·0081) and lower 2-year cumulative incidence of relapse (8·2% vs. 37·7%, P = 0·0077). In multivariate analysis, sorafenib significantly improved OS [Hazard ratio (HR) 0·26, P = 0·021] and PFS (HR 0·25, P = 0·016). There was no difference in 2-year non-relapse mortality (9·8% vs. 9·3%, P = 0·82) or 1-year chronic graft-versus-host disease (55·5% vs. 37·2%, P = 0·28). These findings suggest potential benefit of post-HCT sorafenib in FLT3-ITD AML, and support further evaluation of post-HCT FLT3 inhibition.
+AD  - Massachusetts General Hospital, Boston, MA, USA.
+Dana-Farber Cancer Institute, Boston, MA, USA.
+Massachusetts General Hospital, Boston, MA, USA. ychen6@partners.org.
+AN  - 27434660
+AU  - Brunner, A. M.
+AU  - Li, S.
+AU  - Fathi, A. T.
+AU  - Wadleigh, M.
+AU  - Ho, V. T.
+AU  - Collier, K.
+AU  - Connolly, C.
+AU  - Ballen, K. K.
+AU  - Cutler, C. S.
+AU  - Dey, B. R.
+AU  - El-Jawahri, A.
+AU  - Nikiforow, S.
+AU  - McAfee, S. L.
+AU  - Koreth, J.
+AU  - Deangelo, D. J.
+AU  - Alyea, E. P.
+AU  - Antin, J. H.
+AU  - Spitzer, T. R.
+AU  - Stone, R. M.
+AU  - Soiffer, R. J.
+AU  - Chen, Y. B.
+C2  - PMC5083189
+C6  - NIHMS799678
+DA  - Nov
+DB  - Medline
+DO  - 10.1111/bjh.14260
+DP  - NLM
+ET  - 2016/10/28
+IS  - 3
+J2  - British journal of haematology
+KW  - Adult
+Aged
+Antineoplastic Agents
+therapeutic use
+Combined Modality Therapy
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+genetics
+mortality
+therapy
+Maintenance Chemotherapy
+Male
+Middle Aged
+Niacinamide
+analogs & derivatives
+therapeutic use
+Phenylurea Compounds
+therapeutic use
+Protein Kinase Inhibitors
+therapeutic use
+Remission Induction
+Retrospective Studies
+Sorafenib
+Tandem Repeat Sequences
+Transplantation Conditioning
+Transplantation, Homologous
+Treatment Outcome
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1365-2141
+Brunner, Andrew M
+Li, Shuli
+Fathi, Amir T
+Wadleigh, Martha
+Ho, Vincent T
+Collier, Kerry
+Connolly, Christine
+Ballen, Karen K
+Cutler, Corey S
+Dey, Bimalangshu R
+El-Jawahri, Areej
+Nikiforow, Sarah
+McAfee, Steven L
+Koreth, John
+Deangelo, Daniel J
+Alyea, Edwin P
+Antin, Joseph H
+Spitzer, Thomas R
+Stone, Richard M
+Soiffer, Robert J
+Chen, Yi-Bin
+K12 CA087723/CA/NCI NIH HHS/United States
+P30 CA006516/CA/NCI NIH HHS/United States
+R01 CA183559/CA/NCI NIH HHS/United States
+T32 CA071345/CA/NCI NIH HHS/United States
+Journal Article
+*acute myeloid leukaemia
+*allogeneic transplantation
+*fms-Like Tyrosine Kinase 3
+*maintenance chemotherapy
+*sorafenib
+Br J Haematol. 2016 Nov;175(3):496-504. doi: 10.1111/bjh.14260. Epub 2016 Jul 19.
+PY  - 2016
+SN  - 0007-1048 (Print)
+0007-1048
+SP  - 496-504
+ST  - Haematopoietic cell transplantation with and without sorafenib maintenance for patients with FLT3-ITD acute myeloid leukaemia in first complete remission
+T2  - Br J Haematol
+TI  - Haematopoietic cell transplantation with and without sorafenib maintenance for patients with FLT3-ITD acute myeloid leukaemia in first complete remission
+VL  - 175
+ID  - 22
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Despite undergoing allogeneic hematopoietic stem cell transplantation (HCT), patients with acute myeloid leukemia (AML) with internal tandem duplication mutation in the FMS-like tyrosine kinase 3 gene (FLT3-ITD) have a poor prognosis, frequently relapse, and die as a result of AML. It is currently unknown whether a maintenance therapy using FLT3 inhibitors, such as the multitargeted tyrosine kinase inhibitor sorafenib, improves outcome after HCT. PATIENTS AND METHODS: In a randomized, placebo-controlled, double-blind phase II trial (SORMAIN; German Clinical Trials Register: DRKS00000591), 83 adult patients with FLT3-ITD-positive AML in complete hematologic remission after HCT were randomly assigned to receive for 24 months either the multitargeted and FLT3-kinase inhibitor sorafenib (n = 43) or placebo (n = 40 placebo). Relapse-free survival (RFS) was the primary endpoint of this trial. Relapse was defined as relapse or death, whatever occurred first. RESULTS: With a median follow-up of 41.8 months, the hazard ratio (HR) for relapse or death in the sorafenib group versus placebo group was 0.39 (95% CI, 0.18 to 0.85; log-rank P = .013). The 24-month RFS probability was 53.3% (95% CI, 0.36 to 0.68) with placebo versus 85.0% (95% CI, 0.70 to 0.93) with sorafenib (HR, 0.256; 95% CI, 0.10 to 0.65; log-rank P = .002). Exploratory data show that patients with undetectable minimal residual disease (MRD) before HCT and those with detectable MRD after HCT derive the strongest benefit from sorafenib. CONCLUSION: Sorafenib maintenance therapy reduces the risk of relapse and death after HCT for FLT3-ITD-positive AML.
+AD  - Department of Internal Medicine, Hematology, Oncology and Immunology, Philipps University Marburg and University Hospital Gießen and Marburg, Campus Marburg, Marburg, Germany.
+Department of Medicine 2, Hematology and Oncology, Goethe University Frankfurt, Frankfurt, Germany.
+Department of Internal Medicine I, Hematology, Oncology and Stem Cell Transplantation, Freiburg University Medical Center, Freiburg, Germany.
+Department of Medicine A/Hematology and Oncology, University of Muenster, Münster, Germany.
+Medical Department I, University Hospital Carl Gustav Carus, Technische Universitat Dresden, Germany.
+Medical Department III, Hematology, Medical Oncology and Pneumology, University Mainz, Germany.
+Department of Stem Cell Transplantation, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+German Clinic for Diagnostics, Helios Clinic, Wiesbaden, Germany.
+Department of Medicine III, Technical University of Munich, Munich, Germany.
+Department of Hematology and Oncology, University Hospital Augsburg, Augsburg, Germany.
+Department of Hematology, Oncology, Hemostaseology and Stem Cell Transplantation, University Hospital Rheinisch-Westfälische Technische Hochschule Aachen University, Aachen, Germany.
+Department of Hematology and Oncology, University Hospital Bonn, Bonn, Germany; and Department of Hematology and Oncology, Innsbruck Medical University, Innsbruck, Austria.
+Department of Hematology/Oncology/Stem Cell Transplantation, Ordensklinikum Linz Elisabethinen, Linz, Austria.
+Munich Leukemia Laboratory, Munich, Germany.
+University of Tuebingen Medical Center, Tuebingen, Germany.
+Coordinating Center for Clinical Trials, Philipps University Marburg, Marburg, Germany.
+Tumorklinik (Medizinische Onkologie, Palliativmedizin, Hämatologie und Hämostasiologie), Klinikum Fulda, Fulda, Germany.
+Chair of Genetic Epidemiology, Institut für Medizinische Informationsverarbeitung Biometrie und Epidemiologie, Faculty of Medicine, Ludwigs Maximilian Universität München and Institute of Genetic Epidemiology, Helmholtz Zentrum München - German Research Center for Environmental Health, Neuherberg, Germany.
+Department of Internal Medicine, Hematology, Oncology and Immunology, University Hospital Gießen and Marburg, Campus Gießen, Gießen, Germany.
+Institut für Medizinische Informationsverarbeitung Biometrie und Epidemiologie, Faculty of Medicine, Ludwigs Maximilian Universität München and Institute of Genetic Epidemiology, Helmholtz Zentrum München - German Research Center for Environmental Health, Neuherberg, Germany and Institute of Medical Biostatistics, Epidemiology and Informatics, University Medical Center, Johannes Gutenberg University, Mainz, Germany.
+Institute of Medical Biometry and Epidemiology, Philipps University Marburg, Marburg, Germany.
+AN  - 32673171
+AU  - Burchert, A.
+AU  - Bug, G.
+AU  - Fritz, L. V.
+AU  - Finke, J.
+AU  - Stelljes, M.
+AU  - Röllig, C.
+AU  - Wollmer, E.
+AU  - Wäsch, R.
+AU  - Bornhäuser, M.
+AU  - Berg, T.
+AU  - Lang, F.
+AU  - Ehninger, G.
+AU  - Serve, H.
+AU  - Zeiser, R.
+AU  - Wagner, E. M.
+AU  - Kröger, N.
+AU  - Wolschke, C.
+AU  - Schleuning, M.
+AU  - Götze, K. S.
+AU  - Schmid, C.
+AU  - Crysandt, M.
+AU  - Eßeling, E.
+AU  - Wolf, D.
+AU  - Wang, Y.
+AU  - Böhm, A.
+AU  - Thiede, C.
+AU  - Haferlach, T.
+AU  - Michel, C.
+AU  - Bethge, W.
+AU  - Wündisch, T.
+AU  - Brandts, C.
+AU  - Harnisch, S.
+AU  - Wittenberg, M.
+AU  - Hoeffkes, H. G.
+AU  - Rospleszcz, S.
+AU  - Burchardt, A.
+AU  - Neubauer, A.
+AU  - Brugger, M.
+AU  - Strauch, K.
+AU  - Schade-Brittinger, C.
+AU  - Metzelder, S. K.
+C1  - Drks/drks00000591
+DA  - Sep 10
+DB  - Medline
+DO  - 10.1200/jco.19.03345
+DP  - NLM
+ET  - 2020/07/17
+IS  - 26
+J2  - Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+KW  - Adolescent
+Adult
+Aged
+Antineoplastic Agents
+adverse effects
+therapeutic use
+Chemotherapy, Adjuvant
+Double-Blind Method
+Female
+Germany
+Hematopoietic Stem Cell Transplantation
+adverse effects
+mortality
+Humans
+Leukemia, Myeloid, Acute
+enzymology
+genetics
+mortality
+therapy
+Maintenance Chemotherapy
+Male
+Middle Aged
+Mutation
+Neoplasm, Residual
+Protein Kinase Inhibitors
+adverse effects
+therapeutic use
+Recurrence
+Sorafenib
+adverse effects
+therapeutic use
+Tandem Repeat Sequences
+Time Factors
+Transplantation, Homologous
+Treatment Outcome
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1527-7755
+Burchert, Andreas
+Bug, Gesine
+Fritz, Lea V
+Finke, Jürgen
+Stelljes, Matthias
+Röllig, Christoph
+Wollmer, Ellen
+Wäsch, Ralph
+Bornhäuser, Martin
+Berg, Tobias
+Lang, Fabian
+Ehninger, Gerhard
+Serve, Hubert
+Zeiser, Robert
+Wagner, Eva-Maria
+Kröger, Nicolaus
+Wolschke, Christine
+Schleuning, Michael
+Götze, Katharina S
+Schmid, Christoph
+Crysandt, Martina
+Eßeling, Eva
+Wolf, Dominik
+Wang, Ying
+Böhm, Alexandra
+Thiede, Christian
+Haferlach, Torsten
+Michel, Christian
+Bethge, Wolfgang
+Wündisch, Thomas
+Brandts, Christian
+Harnisch, Susanne
+Wittenberg, Michael
+Hoeffkes, Heinz-Gert
+Rospleszcz, Susanne
+Burchardt, Alexander
+Neubauer, Andreas
+Brugger, Markus
+Strauch, Konstantin
+Schade-Brittinger, Carmen
+Metzelder, Stephan K
+Clinical Trial, Phase II
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Clin Oncol. 2020 Sep 10;38(26):2993-3002. doi: 10.1200/JCO.19.03345. Epub 2020 Jul 16.
+PY  - 2020
+SN  - 0732-183x
+SP  - 2993-3002
+ST  - Sorafenib Maintenance After Allogeneic Hematopoietic Stem Cell Transplantation for Acute Myeloid Leukemia With FLT3-Internal Tandem Duplication Mutation (SORMAIN)
+T2  - J Clin Oncol
+TI  - Sorafenib Maintenance After Allogeneic Hematopoietic Stem Cell Transplantation for Acute Myeloid Leukemia With FLT3-Internal Tandem Duplication Mutation (SORMAIN)
+VL  - 38
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AD  - Department of Pediatrics, Michigan Medicine, University of Michigan, Ann Arbor, MI, USA.
+Department of Internal Medicine, Michigan Medicine, University of Michigan, Ann Arbor, MI, USA.
+Department of Statistics, University of Michigan School of Public Health, Ann Arbor, MI, USA.
+University of Michigan College of Pharmacy, Ann Arbor, MI, USA.
+Department of Pediatrics, Michigan Medicine, University of Michigan, Ann Arbor, MI, USA. sungchoi@med.umich.edu.
+AN  - 30809038
+AU  - Chappell, G.
+AU  - Geer, M.
+AU  - Gatza, E.
+AU  - Braun, T.
+AU  - Churay, T.
+AU  - Brisson, J.
+AU  - Bixby, D.
+AU  - Marini, B.
+AU  - Perissinotti, A.
+AU  - Frame, D.
+AU  - Parkin, B.
+AU  - Reddy, P.
+AU  - Magenau, J.
+AU  - Choi, S. W.
+DA  - Sep
+DB  - Medline
+DO  - 10.1038/s41409-019-0493-5
+DP  - NLM
+ET  - 2019/02/28
+IS  - 9
+J2  - Bone marrow transplantation
+KW  - Allografts
+Disease-Free Survival
+Humans
+Leukemia, Myeloid, Acute
+genetics
+mortality
+therapy
+Maintenance Chemotherapy
+Male
+Middle Aged
+Recurrence
+Retrospective Studies
+Sorafenib
+administration & dosage
+Survival Rate
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1476-5365
+Chappell, Grant
+Geer, Marcus
+Gatza, Erin
+Braun, Thomas
+Churay, Tracey
+Brisson, Joseph
+Bixby, Dale
+Marini, Bernard
+Perissinotti, Anthony
+Frame, David
+Parkin, Brian
+Reddy, Pavan
+Magenau, John
+Choi, Sung Won
+Letter
+Research Support, Non-U.S. Gov't
+England
+Bone Marrow Transplant. 2019 Sep;54(9):1518-1520. doi: 10.1038/s41409-019-0493-5. Epub 2019 Feb 26.
+PY  - 2019
+SN  - 0268-3369
+SP  - 1518-1520
+ST  - Maintenance sorafenib in FLT3-ITD AML following allogeneic HCT favorably impacts relapse and overall survival
+T2  - Bone Marrow Transplant
+TI  - Maintenance sorafenib in FLT3-ITD AML following allogeneic HCT favorably impacts relapse and overall survival
+VL  - 54
+ID  - 8
+ER  - 
+
+TY  - JOUR
+AB  - This retrospective analysis compared anthracyclines (as part of an induction regimen) in 128 newly diagnosed FLT3-ITD-mutated AML patients. Induction regimens comprised high-dose daunorubicin (HD-DN; 90 mg/m(2)/d × 3d; n = 44), standard-dose daunorubicin (SD-DN; 45 mg/m(2)/d × 3d; n = 51), or idarubicin (IDA; 12 mg/m(2)/d × 3d; n = 33) in combination with cytarabine (100-200 mg/m(2)/d × 7d). Fifty-three patients showing persistent leukemia on interim bone marrow examination received a second course of induction chemotherapy comprising 2 days of daunorubicin (45 mg/m(2)/d) or IDA (8 or 12 mg/m(2)/d) in addition to 5 days of cytarabine. Complete remission (CR) rates were 77.3%, 56.9%, and 69.7% for HD-DN, SD-DN, and IDA, respectively (P = 0.101; HD-DN vs. SD-DN, P = 0.036; HD-DN vs. IDA, P = 0.453; IDA vs. SD-DN, P = 0.237). The HD-DN showed higher overall survival (OS) and event-free survival (EFS) than SD-DN and IDA: the differences between HD-DN and SD-DN (P = 0.009 for OS and P = 0.010 for EFS) were statistically significant. Results of in vitro studies using FLT3-ITD-mutated cell lines supported these findings. In conclusion, HD-DN improved the CR rate, OS, and EFS of FLT3-ITD-mutated AML patients. HD-DN also tended to yield better outcomes than IDA, though the difference was not significant. The superiority of HD-DN over IDA should be confirmed in future studies.
+AD  - Department of Hematology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea.
+Department of Hematology, Asan Medical Center, University of Ulsan College of Medicine, Seoul, Republic of Korea. Electronic address: jhlee3@amc.seoul.kr.
+Gilead Sciences, Inc. Seattle, WA, United States.
+AN  - 29544132
+AU  - Choi, E. J.
+AU  - Lee, J. H.
+AU  - Lee, J. H.
+AU  - Park, H. S.
+AU  - Ko, S. H.
+AU  - Hur, E. H.
+AU  - Moon, J.
+AU  - Goo, B. K.
+AU  - Kim, Y.
+AU  - Seol, M.
+AU  - Lee, Y. S.
+AU  - Kang, Y. A.
+AU  - Jeon, M.
+AU  - Woo, J. M.
+AU  - Lee, K. H.
+DA  - May
+DB  - Medline
+DO  - 10.1016/j.leukres.2018.03.006
+DP  - NLM
+ET  - 2018/03/16
+J2  - Leukemia research
+KW  - Adolescent
+Adult
+Aged
+Antibiotics, Antineoplastic
+administration & dosage
+therapeutic use
+Daunorubicin
+administration & dosage
+therapeutic use
+Disease-Free Survival
+Dose-Response Relationship, Drug
+Female
+Humans
+Idarubicin
+administration & dosage
+therapeutic use
+Induction Chemotherapy
+Leukemia, Myeloid, Acute
+drug therapy
+genetics
+Male
+Middle Aged
+Mutation
+Remission Induction
+Retrospective Studies
+Survival Analysis
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1873-5835
+Choi, Eun-Ji
+Lee, Je-Hwan
+Lee, Jung-Hee
+Park, Han-Seung
+Ko, Sun-Hye
+Hur, Eun-Hye
+Moon, Juhyun
+Goo, Bon-Kwan
+Kim, Yeonhee
+Seol, Miee
+Lee, Young-Shin
+Kang, Young-Ah
+Jeon, Mijin
+Woo, Ji Min
+Lee, Kyoo-Hyung
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+*Acute myeloid leukemia
+*Anthracycline
+*flt3-itd
+*Induction chemotherapy
+Leuk Res. 2018 May;68:51-56. doi: 10.1016/j.leukres.2018.03.006. Epub 2018 Mar 8.
+PY  - 2018
+SN  - 0145-2126
+SP  - 51-56
+ST  - Comparison of anthracyclines used for induction chemotherapy in patients with FLT3-ITD-mutated acute myeloid leukemia
+T2  - Leuk Res
+TI  - Comparison of anthracyclines used for induction chemotherapy in patients with FLT3-ITD-mutated acute myeloid leukemia
+VL  - 68
+ID  - 18
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Patients with relapsed or refractory FLT3 internal tandem duplication (FLT3-ITD)-positive acute myeloid leukaemia have a poor prognosis, including high frequency of relapse, poorer response to salvage therapy, and shorter overall survival than those with FLT3 wild-type disease. We aimed to assess whether single-agent quizartinib, an oral, highly potent and selective type II FLT3 inhibitor, improves overall survival versus salvage chemotherapy. METHODS: QuANTUM-R is a randomised, controlled, phase 3 trial done at 152 hospitals and cancer centres in 19 countries. Eligible patients aged 18 years or older with ECOG performance status 0-2 with relapsed or refractory (duration of first composite complete remission ≤6 months) FLT3-ITD acute myeloid leukaemia after standard therapy with or without allogeneic haemopoietic stem-cell transplantation were randomly assigned (2:1; permuted block size of 6; stratified by response to previous therapy and choice of chemotherapy via a phone-based and web-based interactive response system) to quizartinib (60 mg [30 mg lead-in] orally once daily) or investigator's choice of preselected chemotherapy: subcutaneous low-dose cytarabine (subcutaneous injection of cytarabine 20 mg twice daily on days 1-10 of 28-day cycles); intravenous infusions of mitoxantrone (8 mg/m(2) per day), etoposide (100 mg/m(2) per day), and cytarabine (1000 mg/m(2) per day on days 1-5 of up to two 28-day cycles); or intravenous granulocyte colony-stimulating factor (300 μg/m(2) per day or 5 μg/kg per day subcutaneously on days 1-5), fludarabine (intravenous infusion 30 mg/m(2) per day on days 2-6), cytarabine (intravenous infusion 2000 mg/m(2) per day on days 2-6), and idarubicin (intravenous infusion 10 mg/m(2) per day on days 2-4 in up to two 28-day cycles). Patients proceeding to haemopoietic stem-cell transplantation after quizartinib could resume quizartinib after haemopoietic stem-cell transplantation. The primary endpoint was overall survival in the intention-to-treat population. This trial is registered with ClinicalTrials.gov, number NCT02039726, and follow-up is ongoing. FINDINGS: Between May 7, 2014, and Sept 13, 2017, 367 patients were enrolled, of whom 245 were randomly allocated to quizartinib and 122 to chemotherapy. Four patients in the quizartinib group and 28 in the chemotherapy group were not treated. Median follow-up was 23·5 months (IQR 15·4-32·3). Overall survival was longer for quizartinib than for chemotherapy (hazard ratio 0·76 [95% CI 0·58-0·98; p=0·02]). Median overall survival was 6·2 months (5·3-7·2) in the quizartinib group and 4·7 months (4·0-5·5) in the chemotherapy group. The most common non-haematological grade 3-5 treatment-emergent adverse events (within ≤30 days of last dose or >30 days if suspected to be a treatment-related event) for quizartinib (241 patients) and chemotherapy (94 patients) were sepsis or septic shock (46 patients [19%] for quizartinib vs 18 [19%] for chemotherapy), pneumonia (29 [12%] vs eight [9%]), and hypokalaemia (28 [12%] vs eight [9%]). The most frequent treatment-related serious adverse events were febrile neutropenia (18 patients [7%]), sepsis or septic shock (11 [5%]), QT prolongation (five [2%]), and nausea (five [2%]) in the quizartinib group, and febrile neutropenia (five [5%]), sepsis or septic shock (four [4%]), pneumonia (two [2%]), and pyrexia (two [2%]) in the chemotherapy group. Grade 3 QT prolongation in the quizartinib group was uncommon (eight [3%] by central reading, ten [4%] by investigator report); no grade 4 events occurred. There were 80 (33%) treatment-emergent deaths in the quizartinib group (31 [13%] of which were due to adverse events) and 16 (17%) in the chemotherapy group (nine [10%] of which were due to adverse events). INTERPRETATION: Treatment with quizartinib had a survival benefit versus salvage chemotherapy and had a manageable safety profile in patients with rapidly proliferative disease and very poor prognosis. Quizartinib could be considered a new standard of care. Given that there are only a few available treatment options, this study highlights the value of targeting the FLT3-ITD driver mutation with a highly potent and selective FLT3 inhibitor. FUNDING: Daiichi Sankyo.
+AD  - Department of Leukemia, The University of Texas MD Anderson Cancer Center, Houston, TX, USA. Electronic address: jcortes@mdanderson.org.
+City of Hope National Medical Center, Duarte, CA, USA.
+Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori IRCCS, Meldola FC, Italy.
+Abramson Center of the University of Pennsylvania, Philadelphia, PA, USA.
+The University of Kansas Health System, Kansas City, KS, USA.
+Nottingham University Hospital, Nottingham, UK.
+Universität Heidelberg and German Cancer Research Center, Heidelberg, Germany.
+University Paris Diderot, Paris, France.
+Vancouver General Hospital, Vancouver, BC, Canada.
+University of California Davis Comprehensive Cancer Center, Sacramento, CA, USA.
+The University of Hong Kong, Pokfulam, Hong Kong.
+University Hospitals Bristol NHS Trust, Bristol, UK.
+Hospital Universitari I Politècnic La Fe, València, Spain; CIBERONC, Instituto de Salud Carlos III, Madrid, Spain.
+University Medical Center of Johannes Gutenberg University, Mainz, Germany.
+Fondazione Policlinico Universitario A Gemelli-IRCCS, Istituto di Ematologia Università Cattolica Sacro Cuore, Rome, Italy.
+Daiichi Sankyo, Basking Ridge, NJ, USA.
+The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University, Baltimore, MD, USA.
+AN  - 31175001
+AU  - Cortes, J. E.
+AU  - Khaled, S.
+AU  - Martinelli, G.
+AU  - Perl, A. E.
+AU  - Ganguly, S.
+AU  - Russell, N.
+AU  - Krämer, A.
+AU  - Dombret, H.
+AU  - Hogge, D.
+AU  - Jonas, B. A.
+AU  - Leung, A. Y.
+AU  - Mehta, P.
+AU  - Montesinos, P.
+AU  - Radsak, M.
+AU  - Sica, S.
+AU  - Arunachalam, M.
+AU  - Holmes, M.
+AU  - Kobayashi, K.
+AU  - Namuyinga, R.
+AU  - Ge, N.
+AU  - Yver, A.
+AU  - Zhang, Y.
+AU  - Levis, M. J.
+C1  - ClinicalTrials.gov/NCT02039726
+DA  - Jul
+DB  - Medline
+DO  - 10.1016/s1470-2045(19)30150-0
+DP  - NLM
+ET  - 2019/06/09
+IS  - 7
+J2  - The Lancet. Oncology
+KW  - Adult
+Aged
+Benzothiazoles
+pharmacology
+therapeutic use
+Female
+Humans
+Leukemia, Myeloid, Acute
+drug therapy
+genetics
+mortality
+Male
+Middle Aged
+Neoplasm Recurrence, Local
+drug therapy
+genetics
+mortality
+Phenylurea Compounds
+pharmacology
+therapeutic use
+Salvage Therapy
+Survival Rate
+Tandem Repeat Sequences
+fms-Like Tyrosine Kinase 3
+antagonists & inhibitors
+genetics
+LA  - eng
+N1  - 1474-5488
+Cortes, Jorge E
+Khaled, Samer
+Martinelli, Giovanni
+Perl, Alexander E
+Ganguly, Siddhartha
+Russell, Nigel
+Krämer, Alwin
+Dombret, Hervé
+Hogge, Donna
+Jonas, Brian A
+Leung, Anskar Yu-Hung
+Mehta, Priyanka
+Montesinos, Pau
+Radsak, Markus
+Sica, Simona
+Arunachalam, Meena
+Holmes, Melissa
+Kobayashi, Ken
+Namuyinga, Ruth
+Ge, Nanxiang
+Yver, Antoine
+Zhang, Yufen
+Levis, Mark J
+Clinical Trial, Phase III
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Lancet Oncol. 2019 Jul;20(7):984-997. doi: 10.1016/S1470-2045(19)30150-0. Epub 2019 Jun 4.
+PY  - 2019
+SN  - 1470-2045
+SP  - 984-997
+ST  - Quizartinib versus salvage chemotherapy in relapsed or refractory FLT3-ITD acute myeloid leukaemia (QuANTUM-R): a multicentre, randomised, controlled, open-label, phase 3 trial
+T2  - Lancet Oncol
+TI  - Quizartinib versus salvage chemotherapy in relapsed or refractory FLT3-ITD acute myeloid leukaemia (QuANTUM-R): a multicentre, randomised, controlled, open-label, phase 3 trial
+VL  - 20
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - Introduction: Patients with Acute Myeloid Leukaemia (AML) who harbour a FLT3-ITD mutation have a worse prognosis characterised by increased early relapse. Outcomes following relapse in such patients are typically poor, not only because of earlier relapse, but also because of worse performance post-relapse than those who have the same remission duration but are FLT3-ITD WT. In a single centre retrospective study among relapsed patients, Ravandi et al $1@ found a remission rate of 24% and median survival of only 1 3 weeks. There are therefore twin challenges in this population: first to reduce the early relapse rate, and also to develop more effective treatments post relapse. In the recent QUANTUM-R trial $2@ for patients with relapsed or refractory disease, single agent quizartinib (AC220) was found to significantly improve median survival from 20.4 weeks to 27 weeks when compared to "doctor's choice" treatment (low-dose ara-C, MEC or FLAG-Ida). There is however, no directly comparable data for the population in the QUANTUM-R trial. To contextualise these results, especially given the potentially different outcomes by control treatment, we looked at outcomes in the UK NCRI AML1 5,16,17 trials in patients satisfying the eligibility criteria of QUANTUM-R. Method(s): Patients aged 1 8+ in the UK NCRI AML1 5,16,17 trials were identified who harboured a FLT3 ITD mutation, were treated with intensive chemotherapy, and were either refractory to two courses of induction therapy, or relapsed within six months of transplant, or did not receive a prior transplant and had a remission duration of 6 months or less. Patients were grouped hierarchically as refractory, relapsed post transplant, or relapsed without prior transplant. Eligibility was established at the point a patient first became eligible for analysis. The primary outcome was overall survival (OS), measured from point of eligibility, with subsequent remission with or without count recovery as secondary outcome. A sensitivity analysis was performed excluding those who died within 21 days of eligibility to eliminate patients who might be thought of as too unwell to enter a post-relapse trial. Cox regression was used to identify prognostic factors for survival. Result(s): A total of 264 patients were identified (refractory N = 58, relapsed post SCT N = 49, relapsed without SCT N = 1 57). The median age was 51 (range 1 8-84); 2 5% of patients were aged 60 or older; 44% were male, 95% had intermediate cytogenetics; 11% had secondary disease. Split by age, among those under 60 45 were refractory, 44 relapsed post SCT and 11 0 relapsed without SCT; for ages 60+ the figures were 1 3 vs 5 vs 47. Overall 1 7% of patients experienced a subsequent remission; with median survival of 86 days and 1 year OS of 1 3%. If deaths within 21 days were excluded, the remission rate improved to 21%; with a median survival of 1 33 days and 1 year OS of 16%. In multivariable Cox regression, age group HR for age>60 1.81 (1.33-2.47) p=0.0002) and route to eligibility (HR refractory vs relapsed no SCT 0.77 (0.55-1.07); relapsed post SCT vs no SCT 1.58 (1.11-2.25) p=0.003) were the only factors affecting survival-in particular sex, secondary disease, and ITD allelic burden were not significant. In the sensitivity analyses, only age was significant (HR 1.77 (1.24-2.53) p=0.001); with route to eligibility not significant (p=0.1 4). Among patients with post-relapse treatment information, 65% were treated intensively, 8% non-intensively, and 20% with palliation-other received experimental therapies. When restricting attention to those treated intensively, median survival was 1 30 days with 1 7% 1 year OS. F were not materially changed if early death was excluded. Jump to Of 215 patients who had not relapsed post transplant, 53 (25%) received a transplant post-eligibility. In these 56 patients, median survival was 301 days with 42% alive at one year. Conclusion(s): In relapsed/refractory AML, outcomes for FLT3-ITD mutated patients are generally poor and worse for older patients. Applying the eligibility criteria of QUANTUM-R and excluding early deaths gives outcomes comparable to the control group of the QUANTUM-R study. In the 25% of patients who proceeded to transplant survival was extended indicating that a treatment which can deliver patients to transplant has the potential to improve patient outcomes.
+AD  - (Hills) Centre for Trials Research, College of Biomedical and Life Sciences, Cardiff University, Cardiff, United Kingdom (Burnett) Blackwaterfoot, Cardiff, United Kingdom (Gale) UCL Cancer Institute, London, United Kingdom (Linch) University College London, London, United Kingdom (Gilkes) Cardiff University, Cardiff, United Kingdom (Russell) Nottingham University Hospital, Nottingham, United Kingdom
+R.K. Hills, Centre for Trials Research, College of Biomedical and Life Sciences, Cardiff University, Cardiff, United Kingdom
+AN  - 626588633
+AU  - Hills, R. K.
+AU  - Burnett, A. K.
+AU  - Gale, R.
+AU  - Linch, D. C.
+AU  - Gilkes, A.
+AU  - Russell, N. H.
+DA  - November
+DB  - Embase
+DO  - 10.1182/blood-2018-99-116542
+DP  - Ovid Technologies
+IS  - Suppl 1
+KW  - acute myeloid leukemia
+adult
+attention
+cancer recurrence
+cancer survival
+chemotherapy
+controlled study
+cytogenetics
+death
+drug therapy
+experimental therapy
+female
+gene mutation
+graft survival
+human
+infant
+low drug dose
+major clinical study
+male
+median survival time
+middle aged
+overall survival
+palliative therapy
+patient history of transplantation
+recurrence risk
+remission
+retrospective study
+sensitivity analysis
+stem cell transplantation
+CD135 antigen
+endogenous compound
+quizartinib
+conference abstract
+LA  - English
+M3  - Conference Abstract
+PY  - 2018
+SN  - 0006-4971
+ST  - Outcomes in relapsed/refractory patients with FLT3-ITD mutated AML are poor when treated with non-targeted therapy with a potential role for stem cell transplantation: Results from the ncri AML trials
+T2  - Blood
+TI  - Outcomes in relapsed/refractory patients with FLT3-ITD mutated AML are poor when treated with non-targeted therapy with a potential role for stem cell transplantation: Results from the ncri AML trials
+UR  - http://www.bloodjournal.org/content/132/Suppl_1/1392
+https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed19&AN=626588633
+VL  - Conference: 60th Annual Meeting of the American Society of Hematology, ASH 2018. San Diego, CA United States. 132
+ID  - 35
+ER  - 
+
+TY  - JOUR
+AB  - Allogeneic hematopoietic cell transplantation (alloHCT) as a postremission therapy in patients with FLT3-ITD-positive intermediate-risk acute myeloid leukemia (AML) remains controversial. FLT3-ITD mutations are heterogeneous with respect to allelic ratio, location, and length of the insertion, with a high mutant-to-wild-type ratio consistently associated with inferior prognosis. We retrospectively analyzed the role of alloHCT in first remission in relationship to the allelic ratio and presence or absence of nucleophosmin 1 mutations (NPM1) in the Study Alliance Leukemia AML2003 trial. FLT3-ITD mutations were detected in 209 patients and concomitant NPM1 mutations in 148 patients. Applying a predefined cutoff ratio of .8, AML was grouped into high- and low-ratio FLT3-ITD AML (HR(FLT3-ITD) and LR(FLT3-ITD)). Sixty-one patients (29%) were transplanted in first remission. Overall survival (OS) (HR, .3; 95% CI, .16 to .7; P = .004) and event-free survival (EFS) (HR, .4; 95% CI, .16 to .9; P = .02) were significantly increased in patients with HR(FLT3-ITD) AML who received alloHCT as consolidation treatment compared with patients who received consolidation chemotherapy. Patients with LR(FLT3-ITD) AML and wild-type NPM1 who received alloHCT in first remission had increased OS (HR, .3; 95% CI, .1 to .8; P = .02) and EFS (HR, .2; 95% CI, .1 to .8; P = .02), whereas alloHCT in first remission did not have a significant impact on OS and EFS in patients with LR(FLT3-ITD) AML and concomitant NPM1 mutation. In conclusion, our results provide additional evidence that alloHCT in first remission improves EFS and OS in patients with HR(FLT3-ITD) AML and in patients with LR(FLT3-ITD) AML and wild-type NPM1.
+AD  - Medizinische Klinik und Poliklinik, Abteilung Innere Medizin V, Hämatologie, Onkologie und Rheumatologie, Universität Heidelberg, Heidelberg, Germany.
+Medizinische Klinik und Poliklinik I, TU Dresden, Dresden, Germany. Electronic address: johannes.schetelig@uniklinikum-dresden.de.
+Medizinische Klinik und Poliklinik I, TU Dresden, Dresden, Germany.
+Klinik für Innere Medizin 5, Schwerpunkt Onkologie/Hämatologie, Klinikum Nürnberg Nord, Universitätsklinik der Paracelsus Medizinischen Privatuniversität, Nürnberg, Germany.
+Klinik für Innere Medizin III, Klinikum Chemnitz gGmbH, Chemnitz, Germany.
+Medizinische Klinik 5 - Hämatologie und Internistische Onkologie, Universitätsklinikum Erlangen, Erlangen, Germany.
+Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg, Würzburg, Germany.
+Abteilung für Hämatologie, Onkologie und Palliativmedizin, Robert-Bosch-Krankenhaus, Stuttgart, Germany.
+Medizinische Klinik II, Universitätsklinikum Frankfurt Goethe-Universität, Frankfurt, Germany.
+Medizinische Klinik und Poliklinik A, Universitätsklinikum Münster, Münster, Germany.
+Department of Hemato-Oncology, University Hospital Brno, CEITEC Masaryk University, Brno, Czech Republic.
+Klinik und Poliklinik für Innere Medizin III, Universitätsklinikum Regensburg, Regensburg, Germany.
+Medizinische Klinik mit Schwerpunkt Hämatologie und Onkologie, Charité Universitätsmedizin Berlin, Berlin, Germany.
+Abteilung für Hämatologie, Onkologie und Stammzelltransplantation, Asklepios Klinik St. Georg, Hamburg, Germany.
+AN  - 26551637
+AU  - Ho, A. D.
+AU  - Schetelig, J.
+AU  - Bochtler, T.
+AU  - Schaich, M.
+AU  - Schäfer-Eckart, K.
+AU  - Hänel, M.
+AU  - Rösler, W.
+AU  - Einsele, H.
+AU  - Kaufmann, M.
+AU  - Serve, H.
+AU  - Berdel, W. E.
+AU  - Stelljes, M.
+AU  - Mayer, J.
+AU  - Reichle, A.
+AU  - Baldus, C. D.
+AU  - Schmitz, N.
+AU  - Kramer, M.
+AU  - Röllig, C.
+AU  - Bornhäuser, M.
+AU  - Thiede, C.
+AU  - Ehninger, G.
+DA  - Mar
+DB  - Medline
+DO  - 10.1016/j.bbmt.2015.10.023
+DP  - NLM
+ET  - 2015/11/10
+IS  - 3
+J2  - Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation
+KW  - Adolescent
+Adult
+Alleles
+Allografts
+Disease-Free Survival
+Female
+Humans
+Leukemia, Myeloid, Acute
+enzymology
+genetics
+mortality
+therapy
+Male
+Middle Aged
+Mutation
+Nuclear Proteins
+genetics
+Stem Cell Transplantation
+Survival Rate
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1523-6536
+Ho, Anthony D
+Schetelig, Johannes
+Bochtler, Tilmann
+Schaich, Markus
+Schäfer-Eckart, Kerstin
+Hänel, Mathias
+Rösler, Wolf
+Einsele, Hermann
+Kaufmann, Martin
+Serve, Hubert
+Berdel, Wolfgang E
+Stelljes, Matthias
+Mayer, Jiri
+Reichle, Albrecht
+Baldus, Claudia D
+Schmitz, Norbert
+Kramer, Michael
+Röllig, Christoph
+Bornhäuser, Martin
+Thiede, Christian
+Ehninger, Gerhard
+Study Alliance Leukemia
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Acute myeloid leukemia
+Allogeneic transplantation
+Flt3-itd
+NPM1 mutation
+Biol Blood Marrow Transplant. 2016 Mar;22(3):462-9. doi: 10.1016/j.bbmt.2015.10.023. Epub 2015 Nov 10.
+PY  - 2016
+SN  - 1083-8791
+SP  - 462-9
+ST  - Allogeneic Stem Cell Transplantation Improves Survival in Patients with Acute Myeloid Leukemia Characterized by a High Allelic Ratio of Mutant FLT3-ITD
+T2  - Biol Blood Marrow Transplant
+TI  - Allogeneic Stem Cell Transplantation Improves Survival in Patients with Acute Myeloid Leukemia Characterized by a High Allelic Ratio of Mutant FLT3-ITD
+VL  - 22
+ID  - 24
+ER  - 
+
+TY  - JOUR
+AB  - Background: According to the recent National Comprehensive Cancer Network (NCCN) guidelines, the risk level in acute myeloid leukemia (AML) patients with FLT3-ITD and NPM1 double mutation (AML (FLT3-ITD+/NPM1+) ) depends on the allelic ratio of FLT3-ITD. But despite a low or high allelic ratio of FLT3-ITD, AML (FLT3-ITD+/NPM1+) patients belong to the favorable or intermediate risk, for whom allogeneic stem cell transplantation is not obligated. However, some latest studies pointing out that NPM1 and FLT3-ITD double mutation patients showed an inferior prognosis, which have raised concern about the risk categorization and more effective treatment of AML (FLT3-ITD+/NPM1+) patients. Methods: A total of 76 patients were selected for coexisting FLT3 and NPM1 mutations with normal cytogenetics. The prognostic risk factors were analyzed, and treatment strategies including allogeneic stem cell transplantati1on and chemotherapy were compared. Results: In 76 AML (FLT3-ITD+/NPM1+) patients, 36.8% of patients had hyperleukocytosis (HL) and DNMT3A R882 mutation was the most common concomitant gene (23.7%). For 53 patients in the complete remission (CR), 22 had received allogeneic hematopoietic stem cell transplantation (allo-HSCT) on first complete remission (CR1). Patients in transplantation group had better overall survival (OS) and disease-free survival (DFS) than chemotherapy only (P=0.002 and 0.001, respectively). In multivariable Cox model analyses, HL and DNMT3A R882 mutation were independent adverse prognostic factors (all P<0.05) for AML (FLT3-ITD+/NPM1+) patients. Nevertheless, allo-HSCT was an independent good factor of OS and DFS (P=0.001 and 0.000; HR =0.173 and 0.138; 95% CI were 0.062-0.483 and 0.049-0.389). And allo-HSCT could moderately improve the poor prognosis of AML (FLT3-ITD+/NPM1+/DNMT3A R882+). Conclusion: Although, AML (FLT3-ITD+/NPM1+) patients are categorized as favorable or intermediate risk levels according to recent NCCN and ELN guidelines, these patients should receive allo-HSCT in CR1 for a longer survival. AML (FLT3-ITD+/NPM1+) patients with DNMT3A R882 mutation had a very poor prognosis, and allo-HSCT could moderately improve their survival.
+AD  - Bone Marrow Transplantation Center,the First Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang 310058, People's Republic of China.
+Institute of Hematology, Zhejiang University, Hangzhou, Zhejiang 310058, People's Republic of China.
+Zhejiang Province Engineering Laboratory for Stem Cell and Immunity Therapy, Zhejiang University, Hangzhou, Zhejiang 310058, People's Republic of China.
+Stem Cell Institute, Zhejiang University, Hangzhou, Zhejiang 310058, People's Republic of China.
+AN  - 31190985
+AU  - Huang, Y.
+AU  - Hu, J.
+AU  - Lu, T.
+AU  - Luo, Y.
+AU  - Shi, J.
+AU  - Wu, W.
+AU  - Han, X.
+AU  - Zheng, W.
+AU  - He, J.
+AU  - Cai, Z.
+AU  - Wei, G.
+AU  - Huang, H.
+AU  - Sun, J.
+C2  - PMC6512860
+DB  - PubMed-not-MEDLINE
+DO  - 10.2147/cmar.S194523
+DP  - NLM
+ET  - 2019/06/14
+J2  - Cancer management and research
+LA  - eng
+N1  - 1179-1322
+Huang, Yan
+Hu, Juan
+Lu, Ting
+Luo, Yi
+Shi, Jimin
+Wu, Wenjun
+Han, Xiaoyan
+Zheng, Weiyan
+He, Jingsong
+Cai, Zhen
+Wei, Guoqing
+Huang, He
+Sun, Jie
+Journal Article
+Dnmt3a r882
+Flt3-itd
+Npm1
+allo-HSCT
+Cancer Manag Res. 2019 May 8;11:4129-4142. doi: 10.2147/CMAR.S194523. eCollection 2019.
+PY  - 2019
+SN  - 1179-1322 (Print)
+1179-1322
+SP  - 4129-4142
+ST  - Acute myeloid leukemia patient with FLT3-ITD and NPM1 double mutation should undergo allogeneic hematopoietic stem cell transplantation in CR1 for better prognosis
+T2  - Cancer Manag Res
+TI  - Acute myeloid leukemia patient with FLT3-ITD and NPM1 double mutation should undergo allogeneic hematopoietic stem cell transplantation in CR1 for better prognosis
+VL  - 11
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AB  - Objective: To investigate the efficacy and prognostic factors of induction therapy in FLT3-ITD(+) acute myeloid leukemia (AML) in the real world data. Methods: From January 2013 to December 2016, 114 de novo patients with FLT3-ITD(+)AML were enrolled in this study. Out of 114 cases, 75 were male, and 39 were female. The median age was 42 years old (ranged from 14 to 72 years old) . The chemotherapy regimens were used for induction therapy and all cases were followed up. The treatment response was evaluated by MICM and the comparison of the ratio were analyzed by chi-square test and the survival was estimated by Kaplan-Meier analysis and Cox proportional hazards model was used to identify independent prognostic factors. Results: There were 52 FLT3-ITD(+)AML patients with favorable prognosis genes (46 cases with NPM1, 5 cases with RUNX1-RUNX1T1, 1 case with CEBPA double mutation) and 62 patients with other types of FLT3-ITD(+)AML at diagnosis. All patients completed at least one cycle of induction therapy and the clinical curative effect was evaluated, complete remission (CR) rate was 50.0% (57/114) in one cycle and total CR rate was 72.5% (74/104) in two cycles. The CR rate of the FLT3-ITD(+) AML patients with favorable prognosis genes was 67.3% (35/52) in one cycle and 83.3% (40/48) in two cycles; for the other types FLT3-ITD(+)AML patients, the CR rate was 35.5% (22/62) in one cycle and 64.8% (35/54) in two cycles. There was a significant difference in CR rate between the FLT3-ITD(+)AML patients with and without favorable prognosis genes (P<0.05) . This indicates that the FLT3-ITD(+)AML patients with favorable prognosis gene had relatively good therapeutic effect. Among other types of FLT3-ITD(+)AML patients who did not achieve remission from one cycle of chemotherapy, 9 patients were given sorafenib plus chemotherapy and 6 cases (66.7%) achieved CR; 23 patients were given conventional chemotherapy and 7 cases (30.4%) achieved CR. There was a significant difference between sorafenib plus chemotherapy and conventional chemotherapy groups (χ(2)=4.47, P<0.05) and this indicates that sorafenib plus chemotherapy can significantly improve the CR rate of FLT3-ITD(+)AML patients. Comparing overall survival (OS) and disease free survival (DFS) , there was no significant difference between sorafenib plus chemotherapy and conventional chemotherapy groups (P values were 0.641 and 0.517, respectively) . Conclusion: The overall prognosis of FLT3-ITD(+)AML patients is poor, and the stratification therapeutic efficacy of FLT3-ITD(+)AML without favorable prognosis gene can be improved by sorafenib combined with chemotherapy.
+AD  - Peking University People's Hospital, Peking University Institute of Hematology, Beijing Key Laboratory of Hematopoietic Stem Cell Transplantation, Beijing 100044, China.
+AN  - 31207705
+AU  - Jia, J. S.
+AU  - Zhu, H. H.
+AU  - Gong, L. Z.
+AU  - Zhao, T.
+AU  - Wang, J.
+AU  - Jiang, Q.
+AU  - Huang, X. J.
+AU  - Jiang, H.
+C2  - PMC7342235
+DA  - May 14
+DB  - Medline
+DO  - 10.3760/cma.j.issn.0253-2727.2019.05.010
+DP  - NLM
+ET  - 2019/06/19
+IS  - 5
+J2  - Zhonghua xue ye xue za zhi = Zhonghua xueyexue zazhi
+KW  - Adolescent
+Adult
+Aged
+Female
+Humans
+Leukemia, Myeloid, Acute
+Male
+Middle Aged
+Mutation
+Oncogene Proteins, Fusion
+Prognosis
+Remission Induction
+Retrospective Studies
+Young Adult
+fms-Like Tyrosine Kinase 3
+LA  - chi
+N1  - 2707-9740
+Jia, J S
+Zhu, H H
+Gong, L Z
+Zhao, T
+Wang, J
+Jiang, Q
+Huang, X J
+Jiang, H
+SQ2017ZX090304007002/Major Scientific and Technological Special Project for Significant New Drugs Creation/
+Journal Article
+Flt3-itd
+Leukemia, myeloid, acute
+Sorafinbe
+Treatment efficacy
+Zhonghua Xue Ye Xue Za Zhi. 2019 May 14;40(5):398-403. doi: 10.3760/cma.j.issn.0253-2727.2019.05.010.
+PY  - 2019
+SN  - 0253-2727 (Print)
+0253-2727
+SP  - 398-403
+ST  - [Analysis of induction efficacy and prognostic factors in FLT3-ITD positive acute myeloid leukemia in the real world]
+T2  - Zhonghua Xue Ye Xue Za Zhi
+TI  - [Analysis of induction efficacy and prognostic factors in FLT3-ITD positive acute myeloid leukemia in the real world]
+VL  - 40
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AB  - The clinical benefit of adding FMS-like tyrosine kinase-3 (FLT3)-directed small molecule therapy to standard first-line treatment of acute myeloid leukemia (AML) has not yet been established. As part of the UK AML15 and AML17 trials, patients with previously untreated AML and confirmed FLT3-activating mutations, mostly younger than 60 years, were randomly assigned either to receive oral lestaurtinib (CEP701) or not after each of 4 cycles of induction and consolidation chemotherapy. Lestaurtinib was commenced 2 days after completing chemotherapy and administered in cycles of up to 28 days. The trials ran consecutively. Primary endpoints were overall survival in AML15 and relapse-free survival in AML17; outcome data were meta-analyzed. Five hundred patients were randomly assigned between lestaurtinib and control: 74% had FLT3-internal tandem duplication mutations, 23% FLT3-tyrosine kinase domain point mutations, and 2% both types. No significant differences were seen in either 5-year overall survival (lestaurtinib 46% vs control 45%; hazard ratio, 0.90; 95% CI 0.70-1.15; P = .3) or 5-year relapse-free survival (40% vs 36%; hazard ratio, 0.88; 95% CI 0.69-1.12; P = .3). Exploratory subgroup analysis suggested survival benefit with lestaurtinib in patients receiving concomitant azole antifungal prophylaxis and gemtuzumab ozogamicin with the first course of chemotherapy. Correlative studies included analysis of in vivo FLT3 inhibition by plasma inhibitory activity assay and indicated improved overall survival and significantly reduced rates of relapse in lestaurtinib-treated patients who achieved sustained greater than 85% FLT3 inhibition. In conclusion, combining lestaurtinib with intensive chemotherapy proved feasible in younger patients with newly diagnosed FLT3-mutated AML, but yielded no overall clinical benefit. The improved clinical outcomes seen in patients achieving sustained FLT3 inhibition encourage continued evaluation of FLT3-directed therapy alongside front-line AML treatment. The UK AML15 and AML17 trials are registered at www.isrctn.com/ISRCTN17161961 and www.isrctn.com/ISRCTN55675535 respectively.
+AD  - Department of Haematology, Cardiff University School of Medicine, Cardiff, United Kingdom.
+Department of Haematology, Nottingham University Hospital, Nottingham, United Kingdom.
+Experimental Cancer Medicine Centre, Cardiff University School of Medicine, Cardiff, United Kingdom.
+Centre for Trials Research, College of Biomedical and Life Sciences, Cardiff University, Cardiff, United Kingdom.
+Department of Haematology, University College London Cancer Institute, London, United Kingdom; Department of Haematology, Bart's Health NHS Trust, London, United Kingdom.
+Department of Haematology, Newcastle-upon-Tyne Hospitals NHS Foundation Trust, Newcastle, United Kingdom.
+Department of Haematology, Rigshospitalet, Copenhagen, Denmark.
+Department of Hematologic Oncology and Blood Disorders, Levine Cancer Institute, Carolinas HealthCare System, Charlotte, NC.
+Indiana University Melvin and Bren Simon Cancer Center, Indianapolis, IN; and.
+Division of Hematological Malignancies, Johns Hopkins Sidney Kimmel Cancer Center, Baltimore, MD.
+AN  - 27872058
+AU  - Knapper, S.
+AU  - Russell, N.
+AU  - Gilkes, A.
+AU  - Hills, R. K.
+AU  - Gale, R. E.
+AU  - Cavenagh, J. D.
+AU  - Jones, G.
+AU  - Kjeldsen, L.
+AU  - Grunwald, M. R.
+AU  - Thomas, I.
+AU  - Konig, H.
+AU  - Levis, M. J.
+AU  - Burnett, A. K.
+C2  - PMC5364440
+DA  - Mar 2
+DB  - Medline
+DO  - 10.1182/blood-2016-07-730648
+DP  - NLM
+ET  - 2016/11/23
+IS  - 9
+J2  - Blood
+KW  - Adolescent
+Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+therapeutic use
+Carbazoles
+administration & dosage
+Child
+Child, Preschool
+Consolidation Chemotherapy
+Disease-Free Survival
+Female
+Hematopoietic Stem Cell Transplantation
+methods
+Humans
+Induction Chemotherapy
+Kaplan-Meier Estimate
+Leukemia, Myeloid, Acute
+drug therapy
+genetics
+mortality
+Male
+Middle Aged
+Mutation
+Proportional Hazards Models
+Protein Kinase Inhibitors
+administration & dosage
+Young Adult
+fms-Like Tyrosine Kinase 3
+antagonists & inhibitors
+genetics
+LA  - eng
+N1  - 1528-0020
+Knapper, Steven
+Orcid: 0000-0002-6405-4441
+Russell, Nigel
+Gilkes, Amanda
+Hills, Robert K
+Gale, Rosemary E
+Cavenagh, James D
+Jones, Gail
+Kjeldsen, Lars
+Grunwald, Michael R
+Thomas, Ian
+Konig, Heiko
+Levis, Mark J
+Burnett, Alan K
+P50 CA100632/CA/NCI NIH HHS/United States
+Medical Research Council/United Kingdom
+Cancer Research UK/United Kingdom
+Clinical Trial, Phase III
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Blood. 2017 Mar 2;129(9):1143-1154. doi: 10.1182/blood-2016-07-730648. Epub 2016 Nov 21.
+PY  - 2017
+SN  - 0006-4971 (Print)
+0006-4971
+SP  - 1143-1154
+ST  - A randomized assessment of adding the kinase inhibitor lestaurtinib to first-line chemotherapy for FLT3-mutated AML
+T2  - Blood
+TI  - A randomized assessment of adding the kinase inhibitor lestaurtinib to first-line chemotherapy for FLT3-mutated AML
+VL  - 129
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - In a randomized trial of therapy for FMS-like tyrosine kinase-3 (FLT3) mutant acute myeloid leukemia in first relapse, 224 patients received chemotherapy alone or followed by 80 mg of the FLT3 inhibitor lestaurtinib twice daily. Endpoints included complete remission or complete remission with incomplete platelet recovery (CR/CRp), overall survival, safety, and tolerability. Correlative studies included pharmacokinetics and analysis of in vivo FLT3 inhibition. There were 29 patients with CR/CRp in the lestaurtinib arm and 23 in the control arm (26% vs 21%; P = .35), and no difference in overall survival between the 2 arms. There was evidence of toxicity in the lestaurtinib-treated patients, particularly those with plasma levels in excess of 20 μM. In the lestaurtinib arm, FLT3 inhibition was highly correlated with remission rate, but target inhibition on day 15 was achieved in only 58% of patients receiving lestaurtinib. Given that such a small proportion of patients on this trial achieved sustained FLT3 inhibition in vivo, any conclusions regarding the efficacy of combining FLT3 inhibition with chemotherapy are limited. Overall, lestaurtinib treatment after chemotherapy did not increase response rates or prolong survival of patients with FLT3 mutant acute myeloid leukemia in first relapse. This study is registered at www.clinicaltrials.gov as #NCT00079482.
+AD  - Department of Oncology, Johns Hopkins University, Baltimore, MD, USA. levisma@jhmi.edu
+AN  - 21270442
+AU  - Levis, M.
+AU  - Ravandi, F.
+AU  - Wang, E. S.
+AU  - Baer, M. R.
+AU  - Perl, A.
+AU  - Coutre, S.
+AU  - Erba, H.
+AU  - Stuart, R. K.
+AU  - Baccarani, M.
+AU  - Cripe, L. D.
+AU  - Tallman, M. S.
+AU  - Meloni, G.
+AU  - Godley, L. A.
+AU  - Langston, A. A.
+AU  - Amadori, S.
+AU  - Lewis, I. D.
+AU  - Nagler, A.
+AU  - Stone, R.
+AU  - Yee, K.
+AU  - Advani, A.
+AU  - Douer, D.
+AU  - Wiktor-Jedrzejczak, W.
+AU  - Juliusson, G.
+AU  - Litzow, M. R.
+AU  - Petersdorf, S.
+AU  - Sanz, M.
+AU  - Kantarjian, H. M.
+AU  - Sato, T.
+AU  - Tremmel, L.
+AU  - Bensen-Kennedy, D. M.
+AU  - Small, D.
+AU  - Smith, B. D.
+C1  - ClinicalTrials.gov/NCT00079482
+C2  - PMC3069671
+DA  - Mar 24
+DB  - Medline
+DO  - 10.1182/blood-2010-08-301796
+DP  - NLM
+ET  - 2011/01/29
+IS  - 12
+J2  - Blood
+KW  - Adult
+Aged
+Antineoplastic Combined Chemotherapy Protocols
+adverse effects
+therapeutic use
+Carbazoles
+administration & dosage
+adverse effects
+therapeutic use
+Chemotherapy, Adjuvant
+Female
+Humans
+Leukemia, Myeloid, Acute
+drug therapy
+genetics
+mortality
+Male
+Middle Aged
+Mutant Proteins
+genetics
+Protein Kinase Inhibitors
+administration & dosage
+adverse effects
+therapeutic use
+Recurrence
+Remission Induction
+Salvage Therapy
+Survival Analysis
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1528-0020
+Levis, Mark
+Ravandi, Farhad
+Wang, Eunice S
+Baer, Maria R
+Perl, Alexander
+Coutre, Steven
+Erba, Harry
+Stuart, Robert K
+Baccarani, Michele
+Cripe, Larry D
+Tallman, Martin S
+Meloni, Giovanna
+Godley, Lucy A
+Langston, Amelia A
+Amadori, Sergio
+Lewis, Ian D
+Nagler, Arnon
+Stone, Richard
+Yee, Karen
+Advani, Anjali
+Douer, Dan
+Wiktor-Jedrzejczak, W
+Juliusson, Gunnar
+Litzow, Mark R
+Petersdorf, Stephen
+Sanz, Miguel
+Kantarjian, Hagop M
+Sato, Takashi
+Tremmel, Lothar
+Bensen-Kennedy, Debra M
+Small, Donald
+Smith, B Douglas
+R01 CA128864/CA/NCI NIH HHS/United States
+R01 CA090668/CA/NCI NIH HHS/United States
+P30 CA016672/CA/NCI NIH HHS/United States
+P50 CA100632/CA/NCI NIH HHS/United States
+P50 CA100632-06/CA/NCI NIH HHS/United States
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Blood. 2011 Mar 24;117(12):3294-301. doi: 10.1182/blood-2010-08-301796. Epub 2011 Jan 26.
+PY  - 2011
+SN  - 0006-4971 (Print)
+0006-4971
+SP  - 3294-301
+ST  - Results from a randomized trial of salvage chemotherapy followed by lestaurtinib for patients with FLT3 mutant AML in first relapse
+T2  - Blood
+TI  - Results from a randomized trial of salvage chemotherapy followed by lestaurtinib for patients with FLT3 mutant AML in first relapse
+VL  - 117
+ID  - 31
+ER  - 
+
+TY  - JOUR
+AB  - The FLT3 gene with internal tandem duplication (ITD) is a poor prognostic factor in patients with acute myeloid leukemia (AML), and the efficacy of allogeneic hematopoietic stem cell transplantation (HSCT) for AML patients with FLT3-ITD is controversial. We examined 122 AML patients; 34 patients had FLT3-ITD and 39 patients received allogeneic HSCT. The median overall survival (OS) of patients with wtFLT3/nonHSCT, wtFLT3/HSCT, FLT3-ITD/nonHSCT and FLT3-ITD/HSCT was 40.7 months, 53.4 months, 9.8 months and not reached, respectively (p=0.006). Compared to the wtFLT3/nonHSCT patients, the hazard ratio (95% CI) of OS for wtFLT3/HSCT, FLT3-ITD/nonHSCT and FLT3-ITD/HSCT was 1.39 (0.61-3.18), 3.57 (1.58-8.10) and 0.40 (0.11-1.59), respectively, after adjustment of age, sex, WBC, LDH, karyotype, NPM, and FAB classification. This result indicated that patients with FLT3-ITD/nonHSCT had a significantly worse outcome, but allogeneic HSCT improved the prognosis for patients with FLT3-ITD.
+AD  - Department of Medical Genetics, China Medical University Hospital, Taichung, Taiwan.
+AN  - 23276395
+AU  - Lin, P. H.
+AU  - Lin, C. C.
+AU  - Yang, H. I.
+AU  - Li, L. Y.
+AU  - Bai, L. Y.
+AU  - Chiu, C. F.
+AU  - Liao, Y. M.
+AU  - Lin, C. Y.
+AU  - Hsieh, C. Y.
+AU  - Lin, C. Y.
+AU  - Ho, C. M.
+AU  - Yang, S. F.
+AU  - Peng, C. T.
+AU  - Tsai, F. J.
+AU  - Yeh, S. P.
+DA  - Mar
+DB  - Medline
+DO  - 10.1016/j.leukres.2012.10.005
+DP  - NLM
+ET  - 2013/01/02
+IS  - 3
+J2  - Leukemia research
+KW  - Adolescent
+Adult
+Aged
+Child
+Female
+Gene Duplication
+physiology
+Gene Expression Regulation, Neoplastic
+genetics
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+diagnosis
+genetics
+therapy
+Male
+Middle Aged
+Prognosis
+Tandem Repeat Sequences
+Transplantation, Homologous
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1873-5835
+Lin, Po-Han
+Lin, Ching-Chan
+Yang, Hwai-I
+Li, Long-Yuan
+Bai, Li-Yuan
+Chiu, Chang-Fang
+Liao, Yu-Min
+Lin, Chen-Yuan
+Hsieh, Ching-Yun
+Lin, Chien-Yu
+Ho, Cheng-Mao
+Yang, Shu-Fen
+Peng, Ching-Tien
+Tsai, Fuu-Jen
+Yeh, Su-Peng
+Evaluation Study
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+Leuk Res. 2013 Mar;37(3):287-92. doi: 10.1016/j.leukres.2012.10.005. Epub 2012 Dec 29.
+PY  - 2013
+SN  - 0145-2126
+SP  - 287-92
+ST  - Prognostic impact of allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia patients with internal tandem duplication of FLT3
+T2  - Leuk Res
+TI  - Prognostic impact of allogeneic hematopoietic stem cell transplantation for acute myeloid leukemia patients with internal tandem duplication of FLT3
+VL  - 37
+ID  - 30
+ER  - 
+
+TY  - JOUR
+AB  - Introduction: Allogeneic stem cell transplant (alloSCT) provides pts with FLT3-ITD+ AML the highest likelihood of sustained remission, but relapse rates remain high. Post-SCT maintenance therapy may improve this outcome. Objective(s): RADIUS, a randomized, open-label, phase 2 exploratory trial (NCT01883362) investigated whether SOC +/- mido after alloSCT reduced relapse rates in pts with FLT3-ITD+ AML. Method(s): Eligible adults (aged 18-70 y) who had undergone myeloablative alloSCT in first complete remission (hematologic recovery and transfusion independence) were enrolled after engraftment and randomized 28 to 60 days after alloSCT to receive SOC +/- mido 50 mg twice daily for up to 12 (4-week) cycles. The primary endpoint was relapse-free survival (RFS) at 18 mo after alloSCT; safety, pharmacokinetics (PK), in vivo FLT3 inhibition by FLT3 plasma inhibitory activity (PIA) assay, overall survival (OS), and RFS at 24 mo after alloSCT were also assessed. The study was not adequately powered to detect a statistical difference between arms; a sample size of 60 was calculated to detect a 50% reduction in the risk of relapse with 71% power if the incidence of relapse in the SOC + mido arm was 15%. Result(s): 60 pts were randomized (30 per arm); 30 completed 12 cycles of therapy (14 with SOC; 16 with SOC + mido). The median dose intensity was 93 mg/day (range, 15-100 mg/day). Early discontinuations were similar between arms (15 with SOC; 13 with SOC + mido), often due to adverse events (AEs; 3% vs 27%) and consent withdrawal (20% vs 7%). 19 pts (63%) had mido dose modifications (84% due to AEs; concomitant CYP3A4 inhibitor, n = 1). With SOC alone, the estimated RFS (95% CI) at 18 mo was 76% (54%-88%) vs 89% (69%-96%) with SOC + mido (HR, 0.46 [95% CI, 0.12-1.86]; P =.27); the predicted relative reduction in the risk of relapse with the addition of mido was 54%. At 24 mo, OS (95% CI) was 85% with addition of mido (65%-94%) vs 76% with SOC alone (54%-89%) (P =.3418). PIA was evaluable in 28 pts in each arm; PK was evaluated in the SOC + mido arm. There was wide interpatient variability in trough levels of mido and its active metabolites ([CGP62221] + [CGP52421/5.4]) and in the degree of FLT3 inhibition. With mido, phosphorylated FLT3 (pFLT3) levels were <70% of baseline in 14 pts (median, 70%) and were associated with a benefit in RFS and OS (P =.0048) (Figures 1 and 2). Mean drug levels generally correlated with mean suppression of pFLT3 (Figure 3). With SOC and SOC + mido, AEs occurred in 87% and 100% of pts; serious AEs occurred in 57% and 30% of pts, respectively. 12 pts died on study (during follow-up phase; 8 with SOC and 4 with SOC + mido [n = 4 vs n = 2 due to AML disease progression]). Conclusion(s): Mido as maintenance therapy was safely added for <= 1 y after alloSCT and, when added to SOC, reduced the predicted risk of relapse at 18 mo after alloSCT by 54% (vs SOC). Correlative analysis suggests that high levels of pFLT3 inhibition may positively influence outcomes. Copyright © 2018
+AD  - (Maziarz) Oregon Health & Science University, Portland, OR, United States (Fernandez) Blood and Marrow Transplantation and Cellular Immunotherapy, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL, United States (Patnaik) Division of Hematology, Mayo Clinic, Rochester, MN, United States (Scott) Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, WA, United States (Mohan) Taussig Cancer Institute, Cleveland Clinic, Cleveland, OH, United States (Deol) Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, MI, United States (Rowley) John Theurer Cancer Center at Hackensack University Medical Center, Hackensack, NJ, United States (Kim) Allogeneic Blood and Marrow Transplant Program, University Health Network, Toronto, ON, Canada (Rajkhowa) Johns Hopkins University, Baltimore, MD, United States (Haines, Bonifacio, Rine, Purkayastha) Novartis Pharmaceuticals Corporation, East Hanover, NJ, United States (Levis) Hematology / Oncology, Johns Hopkins University, Baltimore, MD, United States
+AN  - 2001409377
+AU  - Maziarz, R. T.
+AU  - Fernandez, H.
+AU  - Patnaik, M. M.
+AU  - Scott, B. L.
+AU  - Mohan, S.
+AU  - Deol, A.
+AU  - Rowley, S. D.
+AU  - Kim, D. D.
+AU  - Rajkhowa, T.
+AU  - Haines, K.
+AU  - Bonifacio, G.
+AU  - Rine, P.
+AU  - Purkayastha, D. D.
+AU  - Levis, M.
+DA  - March
+DB  - Embase
+DO  - 10.1016/j.bbmt.2018.12.077
+DP  - Ovid Technologies
+IS  - 3 Supplement
+KW  - acute myeloid leukemia
+adult
+adverse event
+aged
+cancer patient
+cancer recurrence
+cancer survival
+controlled study
+disease exacerbation
+drug safety
+drug therapy
+drug withdrawal
+engraftment
+enzyme activity
+exploratory research
+female
+follow up
+gene expression
+gene mutation
+human
+human cell
+human tissue
+in vivo study
+incidence
+maintenance therapy
+major clinical study
+male
+overall survival
+pharmacokinetics
+phase 2 clinical trial
+plasma
+protein expression
+randomized controlled trial
+recurrence free survival
+recurrence risk
+remission
+risk assessment
+sample size
+stem cell
+tandem repeat
+young adult
+CD135 antigen
+cytochrome P450 3A4
+endogenous compound
+midostaurin
+conference abstract
+LA  - English
+M3  - Conference Abstract
+N1  - 2019 TCT Meetings of ASBMT and CIBMTR. Houston United States
+PY  - 2019
+SN  - 1083-8791
+1523-6536
+SP  - S11-S12
+ST  - Radius: Midostaurin (mido) Plus Standard of Care (SOC) after Allogeneic Stem Cell Transplant (alloSCT) in Patients (pts) with FLT3-Internal Tandem Duplication (ITD)-Mutated Acute Myeloid Leukemia (AML)
+T2  - Biology of Blood and Marrow Transplantation
+TI  - Radius: Midostaurin (mido) Plus Standard of Care (SOC) after Allogeneic Stem Cell Transplant (alloSCT) in Patients (pts) with FLT3-Internal Tandem Duplication (ITD)-Mutated Acute Myeloid Leukemia (AML)
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed20&AN=2001409377
+VL  - 25
+ID  - 33
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Midostaurin, a multikinase and FLT3 inhibitor, is the first non-chemotherapy agent approved and widely adopted for the treatment of FLT3-ITD acute myeloid leukemia (AML). Yet, its role in improving survival of patients referred to allogeneic stem cell transplantation (allo-SCT) in first complete remission (CR1) needs to be defined. METHODS: This multicenter study retrospectively evaluated the outcome of 119 FLT3-ITD AML patients [59 (49.6%) males and 60 females] intensively treated between 2015 and 2019 at five Israeli centers. In our cohort, allo-SCT in CR1 was widely implemented (47%) and patient stratification was based on the current allelic ratio (AR) cutoff of 0.5. RESULTS: Ninety-eight patients (82.3%) achieved CR1/CR with incomplete count recovery (CRi). Death during induction was reported in 7 (5.9%) patients. In multivariate analysis, midostaurin use and allo-SCT in CR1 were the most significant factors affecting overall survival (OS). Midostaurin incorporation in chemotherapy regimens significantly improved CR + CRi rates (P = .002), reduced relapse rates (P = .02), and was remarkably advantageous for high-AR patients (2-year OS 82%). In low-AR patients, the midostaurin effect was much less prominent. CONCLUSIONS: Our results demonstrate benefits of midostaurin incorporation in intensive chemotherapy regimens, particularly for high-AR AML patients to whom it should be offered along with allo-SCT in CR1.
+AD  - Department of Hematology and Bone Marrow Transplantation, Rambam Health Care Campus, Haifa, Israel.
+The Ruth and Bruce Rappaport Faculty of Medicine, Technion, Haifa, Israel.
+Department of Statistics, Rambam Health Care Campus, Haifa, Israel.
+Department of Hematology and Bone Marrow Transplantation, Tel Aviv Sourasky Medical Center, Tel Aviv, Israel.
+Department of Hematology, Shaare Zedek Medical Center, Jerusalem, Israel.
+Hematology Unit, Meir Medical Center, Kfar Saba, Israel.
+Department of Hematology, Hadassah Medical Center, Jerusalem, Israel.
+Hematology Institute, Davidoff Cancer Center, Rabin Medical Center, Petah Tikva, Israel.
+AN  - 32949053
+AU  - Ofran, Y.
+AU  - Leiba, R.
+AU  - Frisch, A.
+AU  - Horesh, N.
+AU  - Henig, I.
+AU  - Yehudai-Ofir, D.
+AU  - Moshe, Y.
+AU  - Neaman, M.
+AU  - Ganzel, C.
+AU  - Gal-Rabinovich, K.
+AU  - Hellmann, I.
+AU  - Weinstein, V.
+AU  - Berger, T.
+AU  - Wolach, O.
+DA  - Jan
+DB  - In-Process
+DO  - 10.1111/ejh.13518
+DP  - NLM
+ET  - 2020/09/20
+IS  - 1
+J2  - European journal of haematology
+LA  - eng
+N1  - 1600-0609
+Ofran, Yishai
+Orcid: 0000-0002-5521-1337
+Leiba, Ronit
+Frisch, Avraham
+Horesh, Nurit
+Henig, Israel
+Yehudai-Ofir, Dana
+Moshe, Yakir
+Neaman, Miriam
+Ganzel, Chezi
+Orcid: 0000-0002-1722-4807
+Gal-Rabinovich, Kinneret
+Hellmann, Ilana
+Weinstein, Vladimir
+Berger, Tamar
+Wolach, Ofir
+Journal Article
+England
+acute myeloid leukemia
+allogeneic stem cell transplantation
+fms-like tyrosine kinase 3-internal tandem duplication
+midostaurin
+Eur J Haematol. 2021 Jan;106(1):64-71. doi: 10.1111/ejh.13518. Epub 2020 Oct 6.
+PY  - 2021
+SN  - 0902-4441
+SP  - 64-71
+ST  - Midostaurin in combination with chemotherapy is most effective in patients with acute myeloid leukemia presenting with high FLT3-ITD allelic ratio who proceed to allogeneic stem cell transplantation while in first complete remission
+T2  - Eur J Haematol
+TI  - Midostaurin in combination with chemotherapy is most effective in patients with acute myeloid leukemia presenting with high FLT3-ITD allelic ratio who proceed to allogeneic stem cell transplantation while in first complete remission
+VL  - 106
+ID  - 2
+ER  - 
+
+TY  - JOUR
+AB  - The adverse prognosis of internal tandem duplication in the FMS-like tyrosine kinase 3 gene(s) (FLT3-ITD) in patients with acute myelogenous leukemia (AML) may depend on allelic burden. We compared postremission treatment with chemotherapy and hematopoietic stem cell transplantation (HSCT) in 169 FLT3-ITDmut intermediate cytogenetic risk AML patients with allelic ratio evaluable at diagnosis who achieved first complete remission (CR1) with induction therapy. To minimize selection bias, the analysis was limited to patients who remained in CR1 for at least 4 months (median time to HSCT) after achieving CR1, and propensity score matching was implemented. Sensitivity analysis including patients who remained in CR1 for at least 3 months was applied as well. HSCT in CR1 was associated with longer relapse-free survival (RFS) and overall survival (OS), with 3-year estimated rates of 18% and 24%, respectively (P < .001), for patients receiving chemotherapy and 46% and 54%, respectively (P < .001), for those undergoing HSCT. Multivariate regression models showed that HSCT remained statistically significant with improved RFS and OS independent of FLT3-ITD allelic ratio and NPM1 status. Irrespective of postremission therapy, relapse remains the main reason for treatment failure, with a 3-year incidence of 68% in chemotherapy recipients versus 41% in HSCT recipients. Allogeneic HSCT improved disease outcomes compared with chemotherapy after propensity score matching was applied. The improvement observed for RFS (hazard ratio [HR], 0.55; P = .09) and OS (HR, 0.58; P = .10) with HSCT as postremission therapy in patients who remained in CR1 for at least 4 months did not reach statistical significance; however, the sensitivity analyses including patients who remained in CR1 for at least 3 months showed significant improvement in both RFS (HR, 0.31; P = .002) and OS (HR, 0.27; P = .02) after propensity score matching. Our results indicate that HSCT in CR1 for AML FLT3-ITDmut patients is associated with longer RFS and OS. Innovative transplantation strategies to improve relapse incidence are urgently needed.
+AD  - Department of Stem Cell Transplantation and Cellular Therapy, The University of Texas MD Anderson Cancer Center, Houston, Texas. Electronic address: boran@mdanderson.org.
+Department of Leukemia, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+Department of Medicine, University of Virginia Health System, Charlottesville, Virginia.
+Department of Biostatistics, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+Department of Medicine-Hematology and Oncology, University Hospitals and Case Western Reserve University, Cleveland, Ohio.
+Department of Hematopathology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+Department of Stem Cell Transplantation and Cellular Therapy, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+AN  - 27058617
+AU  - Oran, B.
+AU  - Cortes, J.
+AU  - Beitinjaneh, A.
+AU  - Chen, H. C.
+AU  - de Lima, M.
+AU  - Patel, K.
+AU  - Ravandi, F.
+AU  - Wang, X.
+AU  - Brandt, M.
+AU  - Andersson, B. S.
+AU  - Ciurea, S.
+AU  - Santos, F. P.
+AU  - de Padua Silva, L.
+AU  - Shpall, E. J.
+AU  - Champlin, R. E.
+AU  - Kantarjian, H.
+AU  - Borthakur, G.
+C2  - PMC6201699
+C6  - NIHMS859985
+DA  - Jul
+DB  - Medline
+DO  - 10.1016/j.bbmt.2016.03.027
+DP  - NLM
+ET  - 2016/04/09
+IS  - 7
+J2  - Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation
+KW  - Aged
+Alleles
+Consolidation Chemotherapy
+methods
+mortality
+Female
+Hematopoietic Stem Cell Transplantation
+methods
+mortality
+Humans
+Leukemia, Myeloid, Acute
+genetics
+mortality
+therapy
+Male
+Middle Aged
+Prognosis
+Propensity Score
+Recurrence
+Remission Induction
+Survival Analysis
+Tandem Repeat Sequences
+Transplantation, Homologous
+Treatment Outcome
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1523-6536
+Oran, Betül
+Cortes, Jorge
+Beitinjaneh, Amer
+Chen, Hsiang-Chun
+de Lima, Marcos
+Patel, Keyur
+Ravandi, Farhad
+Wang, Xuemei
+Brandt, Mark
+Andersson, Borje S
+Ciurea, Stefan
+Santos, Fabio P
+de Padua Silva, Leandro
+Shpall, Elizabeth J
+Champlin, Richard E
+Kantarjian, Hagop
+Borthakur, Gautam
+P30 CA016672/CA/NCI NIH HHS/United States
+Journal Article
+*aml
+*Allogeneic stem cell transplantation
+*FLT3-ITD mutation
+*Postremission therapy
+Biol Blood Marrow Transplant. 2016 Jul;22(7):1218-1226. doi: 10.1016/j.bbmt.2016.03.027. Epub 2016 Apr 4.
+PY  - 2016
+SN  - 1083-8791 (Print)
+1083-8791
+SP  - 1218-1226
+ST  - Allogeneic Transplantation in First Remission Improves Outcomes Irrespective of FLT3-ITD Allelic Ratio in FLT3-ITD-Positive Acute Myelogenous Leukemia
+T2  - Biol Blood Marrow Transplant
+TI  - Allogeneic Transplantation in First Remission Improves Outcomes Irrespective of FLT3-ITD Allelic Ratio in FLT3-ITD-Positive Acute Myelogenous Leukemia
+VL  - 22
+ID  - 23
+ER  - 
+
+TY  - JOUR
+AB  - Background: R/R FLT3-ITD AML patients still represent an unmet clinical need. Aim(s): To assess outcome, safety and duration of hospitalizations in two retrospective groups of patients treated with TKIs or chemotherapy, respectively. Method(s): We collected data of 58 consecutive FLT3-ITD AML patients treated at our Institution from 2004 to 2017. Patients received chemotherapy (3+7 like regimens; 3+7 like regimens with the addition of a third agent; fludarabine based regimens) and/or single agent TKIs (Sorafenib, Ponatinib, Quizartinib, Gilteritinib, Midostaurin). Result(s): We compared patients who received at least once in their life, as salvage treatment, a TKI inhibitor ("TKI" group; N=36) with patients who were treated with conventional cytotoxic ("conventional group"; N=22). There were no differences in patients age, WBC count, platelet count and ELN risk between the two groups. Fifty-one out of 58 patients (86%) relapsed after (N=22; 36%) or were refractory (N=29; 50%) to the first course of chemotherapy. Second-line therapy included salvage chemotherapy (N=32/51, 63%), a TKI (N=12/51, 23%) or best supportive therapy (N=14%, 7/51); 24 patients received a TKI in 3rd or further relapse. Standard chemotherapy compared with TKIs did not show an increased CR rate (25% vs 16.7%), and it was not a better bridge-to-transplant option (56.2% vs 43.7%). However, among R/R patients, we observed a better OS for "TKI" patients compared with "conventional" ones (median OS of 10 months [95% CI, 5.89-14.12] and 4 months [95% CI, 3.12- 4.90], respectively; p=.017). Patients in "TKI" group experienced a lower number of AEs during treatment with TKIs (1.63 mean AEs in each TKI line vs 3.03 mean AEs in each chemotherapy line, p<.001). AEs during TKI therapy were less severe than AEs during chemotherapy (p=.049). We also noted a trend toward less day spent in hospital per month by patients during TKI treatment: 10.5 days and 16.7 days in the two groups, respectively. Conclusion(s): We observed a survival advantage of TKI in R/R FLT3 ITD AML patients, due to the lower number and grade of AEs. For their safety profile, TKIs are probably a better option to bridge patients to transplant, thanks to a lower risk of toxicity. Keywords: TKI, AML Copyright © 2018
+AD  - (Papayannidis, Marconi, De Polo, Ottaviani, Paolini, Bochicchio, Nanni, Bertamini, Abbenante, Sartor, Parisi, Baldazzi, Curti, Martinelli) Institute of Hematology and Medical Oncology "L. and A. Seragnoli", Department of Experimental, Diagnostic and Specialty Medicine, Bologna University School of Medicine, Bologna, Italy (Martinelli) Istituto Scientifico Romagnolo Per Lo Studio E La Cura Dei Tumori, Meldola (FC), Meldola, Italy
+AN  - 2001055530
+AU  - Papayannidis, C.
+AU  - Marconi, G.
+AU  - De Polo, S.
+AU  - Ottaviani, E.
+AU  - Paolini, S.
+AU  - Bochicchio, M. T.
+AU  - Nanni, J.
+AU  - Bertamini, L.
+AU  - Abbenante, M. C.
+AU  - Sartor, C.
+AU  - Parisi, S.
+AU  - Baldazzi, C.
+AU  - Curti, A.
+AU  - Martinelli, G.
+DA  - September
+DB  - Embase
+DO  - 10.1016/j.clml.2018.07.048
+DP  - Ovid Technologies
+IS  - Supplement 1
+KW  - acute myeloid leukemia
+adult
+cancer chemotherapy
+cancer patient
+cancer recurrence
+cancer resistance
+cancer survival
+conference abstract
+controlled study
+drug safety
+drug therapy
+female
+human
+leukocyte count
+major clinical study
+male
+pharmacokinetics
+platelet count
+retrospective study
+survival
+CD135 antigen
+endogenous compound
+fludarabine
+gilteritinib
+midostaurin
+ponatinib
+quizartinib
+sorafenib
+LA  - English
+M3  - Conference Abstract
+N1  - Society of Hematologic Oncology 2018 Annual Meeting. Houston United States
+Proceedings of the Society of Hematologic Oncology 2018 Annual Meeting.
+PY  - 2018
+SN  - 2152-2650
+2152-2669
+SP  - S200
+ST  - Tyrosine Kinase Inhibitors (TKI) in Relapsed/Refractory (RR) Patients with FLT3-ITD Positive Acute Myeloid Leukemia (AML) Confer Better Survival than Chemotherapy, Due to a Better Safety Profile
+T2  - Clinical Lymphoma, Myeloma and Leukemia
+TI  - Tyrosine Kinase Inhibitors (TKI) in Relapsed/Refractory (RR) Patients with FLT3-ITD Positive Acute Myeloid Leukemia (AML) Confer Better Survival than Chemotherapy, Due to a Better Safety Profile
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed19&AN=2001055530
+VL  - 18
+ID  - 34
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Patients with relapsed or refractory acute myeloid leukemia (AML) with mutations in the FMS-like tyrosine kinase 3 gene (FLT3) infrequently have a response to salvage chemotherapy. Gilteritinib is an oral, potent, selective FLT3 inhibitor with single-agent activity in relapsed or refractory FLT3-mutated AML. METHODS: In a phase 3 trial, we randomly assigned adults with relapsed or refractory FLT3-mutated AML in a 2:1 ratio to receive either gilteritinib (at a dose of 120 mg per day) or salvage chemotherapy. The two primary end points were overall survival and the percentage of patients who had complete remission with full or partial hematologic recovery. Secondary end points included event-free survival (freedom from treatment failure [i.e., relapse or lack of remission] or death) and the percentage of patients who had complete remission. RESULTS: Of 371 eligible patients, 247 were randomly assigned to the gilteritinib group and 124 to the salvage chemotherapy group. The median overall survival in the gilteritinib group was significantly longer than that in the chemotherapy group (9.3 months vs. 5.6 months; hazard ratio for death, 0.64; 95% confidence interval [CI], 0.49 to 0.83; P<0.001). The median event-free survival was 2.8 months in the gilteritinib group and 0.7 months in the chemotherapy group (hazard ratio for treatment failure or death, 0.79; 95% CI, 0.58 to 1.09). The percentage of patients who had complete remission with full or partial hematologic recovery was 34.0% in the gilteritinib group and 15.3% in the chemotherapy group (risk difference, 18.6 percentage points; 95% CI, 9.8 to 27.4); the percentages with complete remission were 21.1% and 10.5%, respectively (risk difference, 10.6 percentage points; 95% CI, 2.8 to 18.4). In an analysis that was adjusted for therapy duration, adverse events of grade 3 or higher and serious adverse events occurred less frequently in the gilteritinib group than in the chemotherapy group; the most common adverse events of grade 3 or higher in the gilteritinib group were febrile neutropenia (45.9%), anemia (40.7%), and thrombocytopenia (22.8%). CONCLUSIONS: Gilteritinib resulted in significantly longer survival and higher percentages of patients with remission than salvage chemotherapy among patients with relapsed or refractory FLT3-mutated AML. (Funded by Astellas Pharma; ADMIRAL ClinicalTrials.gov number, NCT02421939.).
+AD  - From the Abramson Cancer Center, University of Pennsylvania (A.E.P.), and Thomas Jefferson University (M.K.) - both in Philadelphia; Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori, Istituto Di Ricovero e Cura a Carattere Scientifico (IRCCS), Meldola (G.M.), L. and A. Seràgnoli Institute of Hematology, Bologna University Medical School, Bologna (S.P.), Ospedali Riuniti Villa Sofia-Cervello, Palermo (F.F.), and IRCCS San Raffaele Scientific Institute, Milan (F.C.) - all in Italy; University of Texas M.D. Anderson Cancer Center, Houston (J.E.C.); Universitätsklinikum Giessen und Marburg, Marburg, Germany (A.N.); Memorial Sloan Kettering Cancer Center, New York (E. Berman); Hospital Universitari i Politècnic La Fe, Valencia, and Centro de Investigación Biomédica en Red Cáncer (CIBERONC), Instituto Carlos III, Madrid - both in Spain (P.M.); University of Maryland Greenebaum Comprehensive Cancer Center (M.R.B.) and Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University (M.J.L.) - both in Baltimore; University of Chicago, Chicago (R.A.L.), and Astellas Pharma, Northbrook (C.L., N. Hasabou, X.L., E. Bahceci) - both in Illinois; University of Minnesota, Minneapolis (C.U.); University of Alabama at Birmingham, Birmingham (H.P.E., A.D.S.); Hollings Cancer Center, Medical University of South Carolina, Charleston (R.S.); University of California, San Francisco, San Francisco (R.O.); National Taiwan University, Taipei City, Taiwan (W.-C.C.); Yale University School of Medicine, New Haven, CT (N.P.); Centre Hospitalier Universitaire de Toulouse, Institut Universitaire du Cancer de Toulouse Oncopole, Université Toulouse III Paul Sabatier, Toulouse, France (C.R.); Sendai Medical Center, National Hospital Organization, Sendai (H.Y.), and University of Fukui, Fukui (N. Hosono) - both in Japan; Seoul National University (S.-S.Y.) and Asan Medical Center, University of Ulsan College of Medicine (J.-H.L.) - both in Seoul, South Korea; Wake Forest Baptist Medical Center, Winston-Salem, NC (T.P.); and Massachusetts General Hospital, Harvard Medical School, Boston (A.T.F.).
+AN  - 31665578
+AU  - Perl, A. E.
+AU  - Martinelli, G.
+AU  - Cortes, J. E.
+AU  - Neubauer, A.
+AU  - Berman, E.
+AU  - Paolini, S.
+AU  - Montesinos, P.
+AU  - Baer, M. R.
+AU  - Larson, R. A.
+AU  - Ustun, C.
+AU  - Fabbiano, F.
+AU  - Erba, H. P.
+AU  - Di Stasi, A.
+AU  - Stuart, R.
+AU  - Olin, R.
+AU  - Kasner, M.
+AU  - Ciceri, F.
+AU  - Chou, W. C.
+AU  - Podoltsev, N.
+AU  - Recher, C.
+AU  - Yokoyama, H.
+AU  - Hosono, N.
+AU  - Yoon, S. S.
+AU  - Lee, J. H.
+AU  - Pardee, T.
+AU  - Fathi, A. T.
+AU  - Liu, C.
+AU  - Hasabou, N.
+AU  - Liu, X.
+AU  - Bahceci, E.
+AU  - Levis, M. J.
+C1  - ClinicalTrials.gov/NCT02421939
+DA  - Oct 31
+DB  - Medline
+DO  - 10.1056/NEJMoa1902688
+DP  - NLM
+ET  - 2019/10/31
+IS  - 18
+J2  - The New England journal of medicine
+KW  - Administration, Oral
+Adult
+Aged
+Aged, 80 and over
+Aniline Compounds
+adverse effects
+therapeutic use
+Antineoplastic Agents
+adverse effects
+therapeutic use
+Antineoplastic Combined Chemotherapy Protocols
+adverse effects
+therapeutic use
+Drug Resistance, Neoplasm
+Female
+Follow-Up Studies
+Humans
+Leukemia, Myeloid, Acute
+drug therapy
+genetics
+mortality
+Liver
+drug effects
+Male
+Middle Aged
+Mutation
+Pyrazines
+adverse effects
+therapeutic use
+Recurrence
+Remission Induction
+Salvage Therapy
+Survival Analysis
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1533-4406
+Perl, Alexander E
+Martinelli, Giovanni
+Cortes, Jorge E
+Neubauer, Andreas
+Berman, Ellin
+Paolini, Stefania
+Montesinos, Pau
+Baer, Maria R
+Larson, Richard A
+Ustun, Celalettin
+Fabbiano, Francesco
+Erba, Harry P
+Di Stasi, Antonio
+Stuart, Robert
+Olin, Rebecca
+Kasner, Margaret
+Ciceri, Fabio
+Chou, Wen-Chien
+Podoltsev, Nikolai
+Recher, Christian
+Yokoyama, Hisayuki
+Hosono, Naoko
+Yoon, Sung-Soo
+Lee, Je-Hwan
+Pardee, Timothy
+Fathi, Amir T
+Liu, Chaofeng
+Hasabou, Nahla
+Liu, Xuan
+Bahceci, Erkut
+Levis, Mark J
+Clinical Trial, Phase III
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+N Engl J Med. 2019 Oct 31;381(18):1728-1740. doi: 10.1056/NEJMoa1902688.
+PY  - 2019
+SN  - 0028-4793
+SP  - 1728-1740
+ST  - Gilteritinib or Chemotherapy for Relapsed or Refractory FLT3-Mutated AML
+T2  - N Engl J Med
+TI  - Gilteritinib or Chemotherapy for Relapsed or Refractory FLT3-Mutated AML
+VL  - 381
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Two distinct forms of FMS-like tyrosine kinase 3 (FLT3) mutations, internal tandem duplication (ITD) in the juxtamembrane domain and point mutation within the activation loop of the tyrosine kinase domain (TKD), have been identified in considerable number of patients with AML. This study was aimed to analyze the impacts of these mutations on clinical outcomes, and assess the efficacy of different therapeutic regimens (allo-HSCT, sorafenib, or conventional chemotherapy) for AML patients with FLT3 mutations after the standard induction therapy. MATERIALS AND METHODS: We analyzed DNA samples from 158 consecutive de novo AML patients (18-60 years, excluding APL) with FLT3 mutations between July 2010 and October 2015. RESULTS: We found that AML patients with FLT3-TKD mutations have more favorable clinical outcomes than those with FLT3-ITD mutations. We also found that allo-HSCT therapy subgroup achieved longer OS and RFS than non-allo-HSCT therapy subgroup for FLT3-ITD positive patients (p < 0.001, p = 0.071). However, compared with the clinical outcomes in non-primary refractory patients, sorafenib did not show an obvious beneficial effect for the primary refractory patients. Further study on a large scale is still recommended. CONCLUSIONS: FLT3-TKD-mutated AML patients have more favorable clinical outcomes than those with FLT3-ITD mutations. Allo-HSCT therapy subgroup achieved longer OS and RFS than non-allo-HSCT therapy subgroup for FLT3-ITD positive patients. Compared with the clinical outcomes in non-primary refractory patients, sorafenib did not show an obvious beneficial effect for the primary refractory patients.
+AD  - a Jiangsu Institute of Hematology , The First Affiliated Hospital of Soochow University , Suzhou , China.
+b Department of Hematology , The First Affiliated Hospital of Soochow University , Suzhou , China.
+c Department of Clinical Nutrition , The First Affiliated Hospital of Soochow University , Suzhou , China.
+d Biobank of Hematology , The First Affiliated Hospital of Soochow University , Suzhou , China.
+e Collaborative Innovation Center of Hematology , Soochow University , Suzhou , China.
+f Institute of Medical Biotechnology , Suzhou Vocational Health College , Suzhou , China.
+AN  - 28876197
+AU  - Qiu, Q. C.
+AU  - Wang, C.
+AU  - Bao, X. B.
+AU  - Yang, J.
+AU  - Shen, H. J.
+AU  - Ding, Z. X.
+AU  - Liu, H.
+AU  - He, J.
+AU  - Yao, H.
+AU  - Chen, S. N.
+AU  - Li, Z.
+AU  - Xue, S. L.
+AU  - Liu, S. B.
+DA  - Apr
+DB  - Medline
+DO  - 10.1080/10245332.2017.1372248
+DP  - NLM
+ET  - 2017/09/07
+IS  - 3
+J2  - Hematology (Amsterdam, Netherlands)
+KW  - Acute Disease
+Adult
+Asian Continental Ancestry Group
+genetics
+China
+Drug Therapy
+methods
+Female
+Hematopoietic Stem Cell Transplantation
+methods
+Humans
+Kaplan-Meier Estimate
+Leukemia, Myeloid
+ethnology
+genetics
+therapy
+Male
+Middle Aged
+Mutation
+Niacinamide
+analogs & derivatives
+therapeutic use
+Phenylurea Compounds
+therapeutic use
+Protein Kinase Inhibitors
+therapeutic use
+Protein-Tyrosine Kinases
+genetics
+Sorafenib
+Tandem Repeat Sequences
+genetics
+Transplantation, Homologous
+Treatment Outcome
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1607-8454
+Qiu, Qiao-Cheng
+Wang, Chao
+Bao, Xie-Bing
+Yang, Jing
+Shen, Hong-Jie
+Ding, Zi-Xuan
+Liu, Hong
+He, Jun
+Yao, Hong
+Chen, Su-Ning
+Li, Zheng
+Xue, Sheng-Li
+Liu, Song-Bai
+Journal Article
+England
+Aml
+Flt3-itd
+Flt3-tkd
+Gene mutation
+prognosis
+Hematology. 2018 Apr;23(3):131-138. doi: 10.1080/10245332.2017.1372248. Epub 2017 Sep 6.
+PY  - 2018
+SN  - 1024-5332
+SP  - 131-138
+ST  - The impact of FLT3 mutations on treatment response and survival in Chinese de novo AML patients
+T2  - Hematology
+TI  - The impact of FLT3 mutations on treatment response and survival in Chinese de novo AML patients
+VL  - 23
+ID  - 17
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Preclinical data and results from non-randomised trials suggest that the multikinase inhibitor sorafenib might be an effective drug for the treatment of acute myeloid leukaemia. We investigated the efficacy and tolerability of sorafenib versus placebo in addition to standard chemotherapy in patients with acute myeloid leukaemia aged 60 years or younger. METHODS: This randomised, double-blind, placebo-controlled, phase 2 trial was done at 25 sites in Germany. We enrolled patients aged 18-60 years with newly diagnosed, previously untreated acute myeloid leukaemia who had a WHO clinical performance score 0-2, adequate renal and liver function, no cardiac comorbidities, and no recent trauma or operation. Patients were randomly assigned (1:1) to receive two cycles of induction therapy with daunorubicin (60 mg/m(2) on days 3-5) plus cytarabine (100 mg/m(2) on days 1-7), followed by three cycles of high-dose cytarabine consolidation therapy (3 g/m(2) twice daily on days 1, 3, and 5) plus either sorafenib (400 mg twice daily) or placebo on days 10-19 of induction cycles 1 and 2, from day 8 of each consolidation, and as maintenance for 12 months. Allogeneic stem-cell transplantation was scheduled for all intermediate-risk patients with a sibling donor and for all high-risk patients with a matched donor in first remission. Computer-generated randomisation was done in blocks. The primary endpoint was event-free survival, with an event defined as either primary treatment failure or relapse or death, assessed in all randomised patients who received at least one dose of study treatment. We report the final analysis. This trial is registered with ClinicalTrials.gov, number NCT00893373, and the EU Clinical Trials Register (2008-004968-40). FINDINGS: Between March 27, 2009, and Nov 28, 2011, 276 patients were enrolled and randomised, of whom nine did not receive study medication. 267 patients were included in the primary analysis (placebo, n=133; sorafenib, n=134). With a median follow-up of 36 months (IQR 35·5-38·1), median event-free survival was 9 months (95% CI 4-15) in the placebo group versus 21 months (9-32) in the sorafenib group, corresponding to a 3-year event-free survival of 22% (95% CI 13-32) in the placebo group versus 40% (29-51) in the sorafenib group (hazard ratio [HR] 0·64, 95% CI; 0·45-0·91; p=0·013). The most common grade 3-4 adverse events in both groups were fever (71 [53%] in the placebo group vs 73 [54%] in the sorafenib group), infections (55 [41%] vs 46 [34%]), pneumonia (21 [16%] vs 20 [14%]), and pain (13 [10%] vs 15 [11%]). Grade 3 or worse adverse events that were significantly more common in the sorafenib group than the placebo group were fever (relative risk [RR] 1·54, 95% CI 1·04-2·28), diarrhoea (RR 7·89, 2·94-25·2), bleeding (RR 3·75, 1·5-10·0), cardiac events (RR 3·46, 1·15-11·8), hand-foot-skin reaction (only in sorafenib group), and rash (RR 4·06, 1·25-15·7). INTERPRETATION: In patients with acute myeloid leukaemia aged 60 years or younger, the addition of sorafenib to standard chemotherapy has antileukaemic efficacy but also increased toxicity. Our findings suggest that kinase inhibitors could be a useful addition to curative treatment for acute myeloid leukaemia. Overall survival after long-term follow-up and strategies to reduce toxicity are needed to determine the future role of sorafenib in treatment of this disease. FUNDING: Bayer HealthCare.
+AD  - Medizinische Klinik und Poliklinik I, Universitätsklinikum der Technischen Universität Dresden, Germany. Electronic address: christoph.roellig@uniklinikum-dresden.de.
+Medizinische Klinik II, Universitätsklinikum Frankfurt, Germany.
+Klinik für Hämatologie, Universitätsklinikum Essen, Germany.
+Universitätsklinik und Poliklinik für Innere Medizin IV, Universitätsklinikum Halle (Saale), Germany; Medizinische Klinik A, Universitätsklinikum Münster, Germany.
+Medizinische Klinik A, Universitätsklinikum Münster, Germany; Medizinische Klinik 3, Klinikum Leverkusen, Germany.
+Medizinische Klinik III, Charité-Universitätsmedizin Berlin, Charité Centrum 14, Campus Benjamin, Franklin, Berlin, Germany.
+Medizinische Klinik und Poliklinik II, Universitätsklinikum Würzburg, Germany.
+Medizinische Klinik V, Universität Heidelberg, Germany.
+5 Medizinische Klinik, Klinikum Nürnberg, Germany.
+Klinik für Hämatologie, Onkologie und Immunologie, Universitätsklinikum Gießen und Marburg, Marburg, Germany.
+Klinik für Onkologie, Hämatologie und Palliativmedizin, Germany.
+Medizinische Klinik 5, Universitätsklinikum Erlangen, Erlangen, Germany.
+Robert-Bosch-Krankenhaus, Stuttgart, Germany.
+Klinik für Innere Medizin III, Klinikum Chemnitz, Germany.
+Klinik für Onkologie und Hämatologie, Klinikum Bayreuth, Germany.
+Klinik Innere Medizin III, HELIOS Dr Horst Schmidt Kliniken Wiesbaden, Germany.
+Medizinische Klinik II, DIAKO Bremen, Germany.
+Medizinische Klinik II, St Bernward Krankenhaus, Hildesheim, Germany.
+Klinik für Innere Medizin 1, Westpfalzklinikum, Kaiserslautern, Germany.
+Innere Medizin III, Diakonie-Klinikum Schwäbisch Hall, Germany.
+Klinik und Poliklinik für Innere Medizin III, Universitätsklinikum Regensburg, Germany.
+Medizinische Klinik III, Universitätsklinikum Rostock, Germany.
+Medizinische Klinik V, Klinikum Bamberg, Germany.
+Klinik für Hämatologie und Onkologie - Stammzelltransplantation, Agaplesion Diakonieklinikum Rotenburg, Germany.
+Klinik Hämatologie und Onkologie, St Marien-Hospital Hamm, Germany.
+Medizinische Klinik und Poliklinik I, Universitätsklinikum der Technischen Universität Dresden, Germany.
+Klinikapotheke Universitätsklinikum TU Dresden, Germany.
+Gemeinschaftspraxis Hämatologie-Onkologie, Dresden, Germany.
+Klinik für Hämatologie, Onkologie und Palliativmedizin, Rems-Murr-Klinikum, Winnenden, Germany.
+Klinik für Hämatologie, Onkologie und Palliativmedizin, Klinikum Bielefeld Mitte, Germany.
+Medizinische Klinik und Poliklinik I, Universitätsklinikum der Technischen Universität Dresden, Germany; Deutsches Konsortium für Translationale Krebsforschung (DKTK); Dresden, Germany; Deutsches Krebsforschungszentrum (DKFZ), Heidelberg, Germany.
+Medizinische Klinik und Poliklinik I, Universitätsklinikum der Technischen Universität Dresden, Germany; DKMS, German Bone Marrow Donor Center, Dresden, Germany.
+Medizinische Klinik A, Universitätsklinikum Münster, Germany.
+AN  - 26549589
+AU  - Röllig, C.
+AU  - Serve, H.
+AU  - Hüttmann, A.
+AU  - Noppeney, R.
+AU  - Müller-Tidow, C.
+AU  - Krug, U.
+AU  - Baldus, C. D.
+AU  - Brandts, C. H.
+AU  - Kunzmann, V.
+AU  - Einsele, H.
+AU  - Krämer, A.
+AU  - Schäfer-Eckart, K.
+AU  - Neubauer, A.
+AU  - Burchert, A.
+AU  - Giagounidis, A.
+AU  - Krause, S. W.
+AU  - Mackensen, A.
+AU  - Aulitzky, W.
+AU  - Herbst, R.
+AU  - Hänel, M.
+AU  - Kiani, A.
+AU  - Frickhofen, N.
+AU  - Kullmer, J.
+AU  - Kaiser, U.
+AU  - Link, H.
+AU  - Geer, T.
+AU  - Reichle, A.
+AU  - Junghanß, C.
+AU  - Repp, R.
+AU  - Heits, F.
+AU  - Dürk, H.
+AU  - Hase, J.
+AU  - Klut, I. M.
+AU  - Illmer, T.
+AU  - Bornhäuser, M.
+AU  - Schaich, M.
+AU  - Parmentier, S.
+AU  - Görner, M.
+AU  - Thiede, C.
+AU  - von Bonin, M.
+AU  - Schetelig, J.
+AU  - Kramer, M.
+AU  - Berdel, W. E.
+AU  - Ehninger, G.
+C1  - ClinicalTrials.gov/NCT00893373
+EudraCT/2008-004968-40
+DA  - Dec
+DB  - Medline
+DO  - 10.1016/s1470-2045(15)00362-9
+DP  - NLM
+ET  - 2015/11/10
+IS  - 16
+J2  - The Lancet. Oncology
+KW  - Adult
+Age Factors
+Antibiotics, Antineoplastic
+therapeutic use
+Antimetabolites, Antineoplastic
+therapeutic use
+Antineoplastic Combined Chemotherapy Protocols
+adverse effects
+therapeutic use
+Chemotherapy, Adjuvant
+Cytarabine
+therapeutic use
+Daunorubicin
+therapeutic use
+Disease Progression
+Disease-Free Survival
+Double-Blind Method
+Female
+Germany
+Hematopoietic Stem Cell Transplantation
+Humans
+Kaplan-Meier Estimate
+Leukemia, Myeloid, Acute
+diagnosis
+drug therapy
+mortality
+Male
+Middle Aged
+Neoadjuvant Therapy
+adverse effects
+mortality
+Niacinamide
+adverse effects
+analogs & derivatives
+therapeutic use
+Phenylurea Compounds
+adverse effects
+therapeutic use
+Proportional Hazards Models
+Protein Kinase Inhibitors
+adverse effects
+therapeutic use
+Recurrence
+Risk Factors
+Sorafenib
+Time Factors
+Transplantation, Homologous
+Treatment Outcome
+LA  - eng
+N1  - 1474-5488
+Röllig, Christoph
+Serve, Hubert
+Hüttmann, Andreas
+Noppeney, Richard
+Müller-Tidow, Carsten
+Krug, Utz
+Baldus, Claudia D
+Brandts, Christian H
+Kunzmann, Volker
+Einsele, Hermann
+Krämer, Alwin
+Schäfer-Eckart, Kerstin
+Neubauer, Andreas
+Burchert, Andreas
+Giagounidis, Aristoteles
+Krause, Stefan W
+Mackensen, Andreas
+Aulitzky, Walter
+Herbst, Regina
+Hänel, Mathias
+Kiani, Alexander
+Frickhofen, Norbert
+Kullmer, Johannes
+Kaiser, Ulrich
+Link, Hartmut
+Geer, Thomas
+Reichle, Albert
+Junghanß, Christian
+Repp, Roland
+Heits, Frank
+Dürk, Heinz
+Hase, Jana
+Klut, Ina-Maria
+Illmer, Thomas
+Bornhäuser, Martin
+Schaich, Markus
+Parmentier, Stefani
+Görner, Martin
+Thiede, Christian
+von Bonin, Malte
+Schetelig, Johannes
+Kramer, Michael
+Berdel, Wolfgang E
+Ehninger, Gerhard
+Study Alliance Leukaemia
+Clinical Trial, Phase II
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Lancet Oncol. 2015 Dec;16(16):1691-9. doi: 10.1016/S1470-2045(15)00362-9. Epub 2015 Nov 6.
+PY  - 2015
+SN  - 1470-2045
+SP  - 1691-9
+ST  - Addition of sorafenib versus placebo to standard therapy in patients aged 60 years or younger with newly diagnosed acute myeloid leukaemia (SORAML): a multicentre, phase 2, randomised controlled trial
+T2  - Lancet Oncol
+TI  - Addition of sorafenib versus placebo to standard therapy in patients aged 60 years or younger with newly diagnosed acute myeloid leukaemia (SORAML): a multicentre, phase 2, randomised controlled trial
+VL  - 16
+ID  - 25
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The addition of midostaurin to induction chemotherapy improves survival in younger patients with newly diagnosed, FLT3-mutated acute myeloid leukemia (AML). Sorafenib is a potent multikinase inhibitor with efficacy when given as monotherapy. The authors investigated whether the addition of sorafenib to intensive induction chemotherapy improves outcomes in patients with FLT3-internal tandem duplication (ITD)-mutated AML. METHODS: In total, 183 patients who were newly diagnosed with FLT3-ITD-mutated AML between February 2001 and December 2017 were identified. Of these, 79 patients (43%) underwent intensive chemotherapy with the addition of sorafenib, and 104 (57%) received intensive chemotherapy alone. Propensity score matching identified 42 patients in each cohort. RESULTS: The overall response rate was 98% in the sorafenib cohort and 83% in the intensive chemotherapy cohort (P = .057). The median follow-up was 54 months. The median event-free survival was 35 months in the sorafenib cohort and 8 months in the intensive chemotherapy cohort (P = .019), and the median overall survival was 42 and 13 months, respectively (P = .026). With censoring at the time of allogeneic stem cell transplantation, the median event-free survival was 31 and 8 months in the sorafenib and intensive therapy cohorts, respectively (P = .031), and the median overall survival was not reached and 10 months, respectively (P = .001). Multivariate Cox proportional hazards models confirmed that treatment with sorafenib was a favorable prognostic factor (P = .009; hazard ratio, 0.558; 95% CI, 0.360-0.865). CONCLUSIONS: The addition of sorafenib improves survival in patients with FLT3-ITD-mutated AML regardless of whether they undergo allogeneic stem cell transplantation.
+AD  - Department of Leukemia, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+Department of Hematopathology, The University of Texas MD Anderson Cancer Center, Houston, Texas.
+AN  - 31310323
+AU  - Sasaki, K.
+AU  - Kantarjian, H. M.
+AU  - Kadia, T.
+AU  - Patel, K.
+AU  - Loghavi, S.
+AU  - Garcia-Manero, G.
+AU  - Jabbour, E. J.
+AU  - DiNardo, C.
+AU  - Pemmaraju, N.
+AU  - Daver, N.
+AU  - Dalle, I. A.
+AU  - Short, N.
+AU  - Yilmaz, M.
+AU  - Bose, P.
+AU  - Naqvi, K.
+AU  - Pierce, S.
+AU  - Yalniz, F.
+AU  - Cortes, J. E.
+AU  - Ravandi, F.
+DA  - Nov 1
+DB  - Medline
+DO  - 10.1002/cncr.32387
+DP  - NLM
+ET  - 2019/07/17
+IS  - 21
+J2  - Cancer
+KW  - Acute Disease
+Adult
+Antineoplastic Combined Chemotherapy Protocols
+therapeutic use
+Cohort Studies
+Combined Modality Therapy
+Female
+Hematopoietic Stem Cell Transplantation
+methods
+Humans
+Induction Chemotherapy
+methods
+Kaplan-Meier Estimate
+Leukemia, Myeloid
+genetics
+therapy
+Male
+Middle Aged
+Mutation
+Remission Induction
+Sorafenib
+administration & dosage
+Staurosporine
+administration & dosage
+analogs & derivatives
+Tandem Repeat Sequences
+genetics
+Transplantation, Homologous
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1097-0142
+Sasaki, Koji
+Orcid: 0000-0002-9140-0610
+Kantarjian, Hagop M
+Orcid: 0000-0002-1908-3307
+Kadia, Tapan
+Orcid: 0000-0002-9892-9832
+Patel, Keyur
+Loghavi, Sanam
+Garcia-Manero, Guillermo
+Orcid: 0000-0002-3631-2482
+Jabbour, Elias J
+Orcid: 0000-0003-4465-6119
+DiNardo, Courtney
+Orcid: 0000-0001-9003-0390
+Pemmaraju, Naveen
+Daver, Naval
+Orcid: 0000-0001-7103-373x
+Dalle, Iman Abou
+Short, Nicholas
+Orcid: 0000-0002-2983-2738
+Yilmaz, Musa
+Bose, Prithviraj
+Naqvi, Kiran
+Orcid: 0000-0002-5511-6153
+Pierce, Sherry
+Yalniz, Fevzi
+Cortes, Jorge E
+Ravandi, Farhad
+Leukemia Texas/
+Journal Article
+United States
+FLT3-internal tandem duplication (FLT3-ITD)
+acute myeloid leukemia
+allogeneic stem cell transplantation
+induction chemotherapy
+sorafenib
+Cancer. 2019 Nov 1;125(21):3755-3766. doi: 10.1002/cncr.32387. Epub 2019 Jul 16.
+PY  - 2019
+SN  - 0008-543x
+SP  - 3755-3766
+ST  - Sorafenib plus intensive chemotherapy improves survival in patients with newly diagnosed, FLT3-internal tandem duplication mutation-positive acute myeloid leukemia
+T2  - Cancer
+TI  - Sorafenib plus intensive chemotherapy improves survival in patients with newly diagnosed, FLT3-internal tandem duplication mutation-positive acute myeloid leukemia
+VL  - 125
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AB  - The objective was to evaluate the prognostic and predictive impact of allelic ratio and insertion site (IS) of internal tandem duplications (ITDs), as well as concurrent gene mutations, with regard to postremission therapy in 323 patients with FLT3-ITD-positive acute myeloid leukemia (AML). Increasing FLT3-ITD allelic ratio (P = .004) and IS in the tyrosine kinase domain 1 (TKD1, P = .06) were associated with low complete remission (CR) rates. After postremission therapy including intensive chemotherapy (n = 121) or autologous hematopoietic stem cell transplantation (HSCT, n = 17), an allelic ratio ≥ 0.51 was associated with an unfavorable relapse-free (RFS, P = .0008) and overall survival (OS, P = .004); after allogeneic HSCT (n = 93), outcome was significantly improved in patients with a high allelic ratio (RFS, P = .02; OS, P = .03), whereas no benefit was seen in patients with a low allelic ratio (RFS, P = .38; OS, P = .64). Multivariable analyses revealed a high allelic ratio as a predictive factor for the beneficial effect of allogeneic HSCT; ITD IS in TKD1 remained an unfavorable factor, whereas no prognostic impact of concurrent gene mutations was observed. The clinical trials described herein were previously published or are registered as follows: AMLHD93 and AMLHD98A, previously published; AML SG 07-04, ClinicalTrials.gov identifier #NCT00151242.
+AD  - Department of Internal Medicine III, University Hospital of Ulm, Ulm, Germany;
+Department of Hematology, Oncology and Clinical Immunology, Heinrich-Heine-University Düsseldorf, Düsseldorf, Germany;
+Department of Oncology and Hematology, Klinikum Oldenburg, Oldenburg, Germany;
+Department of Internal Medicine III, Städtisches Klinikum Karlsruhe, Karlsruhe, Germany;
+Department of Internal Medicine I, University Hospital of Saarland, Homburg, Germany;
+Department of Internal Medicine III, University Hospital of Bonn, Bonn, Germany;
+Department of Hematology and Oncology, University Hospital of Freiburg, Freiburg, Germany;
+Department of Hematology and Oncology, Eberhard-Karls University, Tübingen, Germany;
+Department of Medicine III, Johannes Gutenberg-University Mainz, Mainz, Germany;
+Department of Internal Medicine II, University Hospital Schleswig-Holstein Campus Kiel, Kiel, Germany;
+Department of Hematology and Oncology, University Hospital of Göttingen, Göttingen, Germany;
+Department of Internal Medicine V, University Hospital Innsbruck, Innsbruck, Austria;
+Department of Internal Medicine III, Technical University of Munich, Munich, Germany;
+Division of Biostatistics, German Cancer Research Center, Heidelberg, Germany; and.
+Department of Hematology, Hemostasis, Oncology and Stem Cell Transplantation, Hannover Medical School, Hannover, Germany.
+AN  - 25270908
+AU  - Schlenk, R. F.
+AU  - Kayser, S.
+AU  - Bullinger, L.
+AU  - Kobbe, G.
+AU  - Casper, J.
+AU  - Ringhoffer, M.
+AU  - Held, G.
+AU  - Brossart, P.
+AU  - Lübbert, M.
+AU  - Salih, H. R.
+AU  - Kindler, T.
+AU  - Horst, H. A.
+AU  - Wulf, G.
+AU  - Nachbaur, D.
+AU  - Götze, K.
+AU  - Lamparter, A.
+AU  - Paschka, P.
+AU  - Gaidzik, V. I.
+AU  - Teleanu, V.
+AU  - Späth, D.
+AU  - Benner, A.
+AU  - Krauter, J.
+AU  - Ganser, A.
+AU  - Döhner, H.
+AU  - Döhner, K.
+C1  - ClinicalTrials.gov/NCT00151242
+DA  - Nov 27
+DB  - Medline
+DO  - 10.1182/blood-2014-05-578070
+DP  - NLM
+ET  - 2014/10/02
+IS  - 23
+J2  - Blood
+KW  - Adolescent
+Adult
+Alleles
+DNA Mutational Analysis
+Gene Duplication
+Gene Frequency
+Hematopoietic Stem Cell Transplantation
+methods
+statistics & numerical data
+Humans
+Leukemia, Myeloid, Acute
+diagnosis
+genetics
+mortality
+therapy
+Middle Aged
+Mutagenesis, Insertional
+genetics
+Protein Structure, Tertiary
+genetics
+Tandem Repeat Sequences
+genetics
+Transplantation, Homologous
+Treatment Outcome
+Young Adult
+fms-Like Tyrosine Kinase 3
+chemistry
+genetics
+LA  - eng
+N1  - 1528-0020
+Schlenk, Richard F
+Kayser, Sabine
+Bullinger, Lars
+Kobbe, Guido
+Casper, Jochen
+Ringhoffer, Mark
+Held, Gerhard
+Brossart, Peter
+Lübbert, Michael
+Salih, Helmut R
+Kindler, Thomas
+Horst, Heinz A
+Wulf, Gerald
+Nachbaur, David
+Götze, Katharina
+Lamparter, Alexander
+Paschka, Peter
+Gaidzik, Verena I
+Teleanu, Veronica
+Späth, Daniela
+Benner, Axel
+Krauter, Jürgen
+Ganser, Arnold
+Döhner, Hartmut
+Döhner, Konstanze
+German-Austrian AML Study Group
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+United States
+Blood. 2014 Nov 27;124(23):3441-9. doi: 10.1182/blood-2014-05-578070. Epub 2014 Sep 30.
+PY  - 2014
+SN  - 0006-4971
+SP  - 3441-9
+ST  - Differential impact of allelic ratio and insertion site in FLT3-ITD-positive AML with respect to allogeneic transplantation
+T2  - Blood
+TI  - Differential impact of allelic ratio and insertion site in FLT3-ITD-positive AML with respect to allogeneic transplantation
+VL  - 124
+ID  - 27
+ER  - 
+
+TY  - JOUR
+AB  - Patients with acute myeloid leukemia (AML) and a FLT3 internal tandem duplication (ITD) have poor outcomes to current treatment. A phase 2 hypothesis-generating trial was conducted to determine whether the addition of the multitargeted kinase inhibitor midostaurin to intensive chemotherapy followed by allogeneic hematopoietic cell transplantation (alloHCT) and single-agent maintenance therapy of 12 months is feasible and favorably influences event-free survival (EFS) compared with historical controls. Patients 18 to 70 years of age with newly diagnosed AML and centrally confirmed FLT3-ITD were eligible: 284 patients were treated, including 198 younger (18-60 years) and 86 older (61-70 years) patients. Complete remission (CR) rate, including CR with incomplete hematological recovery (CRi) after induction therapy, was 76.4% (younger, 75.8%; older, 77.9%). The majority of patients in CR/CRi proceeded to alloHCT (72.4%). Maintenance therapy was started in 97 patients (34%): 75 after alloHCT and 22 after consolidation with high-dose cytarabine (HiDAC). Median time receiving maintenance therapy was 9 months after alloHCT and 10.5 months after HiDAC; premature termination was mainly a result of nonrelapse causes (gastrointestinal toxicity and infections). EFS and overall survival at 2 years were 39% (95% confidence interval [CI], 33%-47%) and 34% (95% CI, 24%-47%) and 53% (95% CI, 46%-61%) and 46% (95% CI, 35%-59%) in younger and older patients, respectively. EFS was evaluated in comparison with 415 historical controls treated within 5 prospective trials. Propensity score-weighted analysis revealed a significant improvement of EFS by midostaurin (hazard ratio [HR], 0.58; 95% CI, 0.48-0.70; P < .001) overall and in older patients (HR, 0.42; 95% CI, 0.29-0.61). The study was registered at www.clinicaltrials.gov as #NCT01477606.
+AD  - Department of Internal Medicine III, University Hospital of Ulm, Ulm, Germany.
+National Center of Tumor Diseases-Trial Center, National Center of Tumor Diseases, German Cancer Research Center, Heidelberg, Germany.
+Department of Internal Medicine V, Heidelberg University Hospital, Heidelberg, Germany.
+Department of Internal Medicine II, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+Department of Hematology and Oncology, Eberhard-Karls University, Tübingen, Germany.
+Department of Hematology and Oncology, University Hospital of Göttingen, Göttingen, Germany.
+Department of Oncology and Hematology, Asklepios Tumorzentrum, AK Altona, Hamburg, Germany.
+Department of Hematology, Oncology and Clinical Immunology, University of Duesseldorf, Medical Faculty, Duesseldorf, Germany.
+Department of Hematology, Medical Oncology and Pneumology, University Medical Center, Mainz, Germany.
+Department of Haematology-Oncology, Faculty of Medicine Freiburg, University of Freiburg Medical Center, Freiburg, Germany.
+Internal Medicine III, University Hospital of Bonn, Bonn, Germany.
+Department of Hematology, Oncology and Tumor Immunology, Charité-Campus Virchow Clinic, Berlin, Germany.
+Department of Oncology and Hematology, Hospital Oldenburg, Oldenburg, Germany.
+Department of Internal Medicine III, University Hospital Klinikum rechts der Isar, Munich, Germany.
+Department of Internal Medicine II, University Hospital of Schleswig-Holstein, Kiel, Germany.
+Department of Hematology, Hemostaseology, Oncology and Stem Cell Transplantation, Hannover Medical School, Hannover, Germany.
+Department of Hematology and Oncology, Hospital Elisabethinen Linz, Linz, Austria.
+Department of Hematology and Oncology, Städtisches Klinikum Karlsruhe, Karlsruhe, Germany.
+Department of Hematology and Oncology, Klinikum Passau, Passau, Germany.
+Department of Internal Medicine I, University Hospital of Saarland, Homburg, Germany.
+Department of Internal Medicine III, Hospital Frankfurt-Hoechst, Frankfurt, Germany.
+Department of Hematology and Oncology, Knappschaftskrankenhaus University Hospital, Bochum, Germany.
+IIIrd Medical Department, Paracelsus Medical University Salzburg, Salzburg Cancer Research Institute, Cancer Cluster Salzburg, Salzburg, Austria.
+Department of Hematology and Oncology, University Hospital of Minden, Germany.
+Departmen of Hematology and Oncology, Evangelisches Krankenhaus Hamm, Hamm, Germany.
+Department of Hematology and Oncology, University Hospital of Gießen, Gießen, Germany.
+Department of Hematology and Oncology, Klinikum am Gesundbrunnen, Heilbronn, Germany.
+Department of Hematology and Oncology, Klinikum Bremen Mitte, Bremen, Germany.
+Department of Hematology and Oncology, Vivantes Klinikum Neukölln, Neukölln-Berlin, Germany; and.
+Division of Biostatistics, German Cancer Research Center Heidelberg, Heidelberg, Germany.
+AN  - 30563875
+AU  - Schlenk, R. F.
+AU  - Weber, D.
+AU  - Fiedler, W.
+AU  - Salih, H. R.
+AU  - Wulf, G.
+AU  - Salwender, H.
+AU  - Schroeder, T.
+AU  - Kindler, T.
+AU  - Lübbert, M.
+AU  - Wolf, D.
+AU  - Westermann, J.
+AU  - Kraemer, D.
+AU  - Götze, K. S.
+AU  - Horst, H. A.
+AU  - Krauter, J.
+AU  - Girschikofsky, M.
+AU  - Ringhoffer, M.
+AU  - Südhoff, T.
+AU  - Held, G.
+AU  - Derigs, H. G.
+AU  - Schroers, R.
+AU  - Greil, R.
+AU  - Grießhammer, M.
+AU  - Lange, E.
+AU  - Burchardt, A.
+AU  - Martens, U.
+AU  - Hertenstein, B.
+AU  - Marretta, L.
+AU  - Heuser, M.
+AU  - Thol, F.
+AU  - Gaidzik, V. I.
+AU  - Herr, W.
+AU  - Krzykalla, J.
+AU  - Benner, A.
+AU  - Döhner, K.
+AU  - Ganser, A.
+AU  - Paschka, P.
+AU  - Döhner, H.
+C1  - ClinicalTrials.gov/NCT01477606
+DA  - Feb 21
+DB  - Medline
+DO  - 10.1182/blood-2018-08-869453
+DP  - NLM
+ET  - 2018/12/20
+IS  - 8
+J2  - Blood
+KW  - Adolescent
+Adult
+Aged
+Allografts
+Disease-Free Survival
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+genetics
+mortality
+therapy
+Maintenance Chemotherapy
+Male
+Middle Aged
+Staurosporine
+administration & dosage
+analogs & derivatives
+Survival Rate
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1528-0020
+Schlenk, Richard F
+Orcid: 0000-0003-2215-2059
+Weber, Daniela
+Fiedler, Walter
+Salih, Helmut R
+Wulf, Gerald
+Salwender, Hans
+Schroeder, Thomas
+Kindler, Thomas
+Lübbert, Michael
+Wolf, Dominik
+Westermann, Jörg
+Kraemer, Doris
+Götze, Katharina S
+Orcid: 0000-0002-6276-8002
+Horst, Heinz-August
+Krauter, Jürgen
+Girschikofsky, Michael
+Ringhoffer, Mark
+Südhoff, Thomas
+Held, Gerhard
+Derigs, Hans-Günter
+Schroers, Roland
+Greil, Richard
+Grießhammer, Martin
+Lange, Elisabeth
+Burchardt, Alexander
+Martens, Uwe
+Hertenstein, Bernd
+Marretta, Lore
+Heuser, Michael
+Thol, Felicitas
+Gaidzik, Verena I
+Herr, Wolfgang
+Krzykalla, Julia
+Benner, Axel
+Orcid: 0000-0002-7238-6956
+Döhner, Konstanze
+Ganser, Arnold
+Paschka, Peter
+Döhner, Hartmut
+German-Austrian AML Study Group
+Clinical Trial
+Journal Article
+United States
+Blood. 2019 Feb 21;133(8):840-851. doi: 10.1182/blood-2018-08-869453. Epub 2018 Dec 18.
+PY  - 2019
+SN  - 0006-4971
+SP  - 840-851
+ST  - Midostaurin added to chemotherapy and continued single-agent maintenance therapy in acute myeloid leukemia with FLT3-ITD
+T2  - Blood
+TI  - Midostaurin added to chemotherapy and continued single-agent maintenance therapy in acute myeloid leukemia with FLT3-ITD
+VL  - 133
+ID  - 6
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: The prognosis of elderly patients with acute myeloid leukemia (AML) is still dismal even with intensive chemotherapy. In this trial, we compared the antileukemic activity of standard induction and consolidation therapy with or without the addition of the kinase inhibitor sorafenib in elderly patients with AML. PATIENTS AND METHODS: All patients received standard cytarabine and daunorubicin induction (7+3 regimen) and up to two cycles of intermediate-dose cytarabine consolidation. Two hundred one patients were equally randomly assigned to receive either sorafenib or placebo between the chemotherapy cycles and subsequently for up to 1 year after the beginning of therapy. The primary objective was to test for an improvement in event-free survival (EFS). Overall survival (OS), complete remission (CR) rate, tolerability, and several predefined subgroup analyses were among the secondary objectives. RESULTS: Age, sex, CR and early death (ED) probability, and prognostic factors were balanced between both study arms. Treatment in the sorafenib arm did not result in significant improvement in EFS or OS. This was also true for subgroup analyses, including the subgroup positive for FLT3 internal tandem duplications. Results of induction therapy were worse in the sorafenib arm, with higher treatment-related mortality and lower CR rates. More adverse effects occurred during induction therapy in the sorafenib arm, and patients in this arm received less consolidation chemotherapy as a result of higher induction toxicity. CONCLUSION: In conclusion, combination of standard induction and consolidation therapy with sorafenib in the schedule investigated in our trial is not beneficial for elderly patients with AML.
+AD  - Department of Medicine, Hematology/Oncology, Geother-University, Frankfurt, Germany. hubert.serve@kgu.de
+AN  - 23897964
+AU  - Serve, H.
+AU  - Krug, U.
+AU  - Wagner, R.
+AU  - Sauerland, M. C.
+AU  - Heinecke, A.
+AU  - Brunnberg, U.
+AU  - Schaich, M.
+AU  - Ottmann, O.
+AU  - Duyster, J.
+AU  - Wandt, H.
+AU  - Fischer, T.
+AU  - Giagounidis, A.
+AU  - Neubauer, A.
+AU  - Reichle, A.
+AU  - Aulitzky, W.
+AU  - Noppeney, R.
+AU  - Blau, I.
+AU  - Kunzmann, V.
+AU  - Stuhlmann, R.
+AU  - Krämer, A.
+AU  - Kreuzer, K. A.
+AU  - Brandts, C.
+AU  - Steffen, B.
+AU  - Thiede, C.
+AU  - Müller-Tidow, C.
+AU  - Ehninger, G.
+AU  - Berdel, W. E.
+DA  - Sep 1
+DB  - Medline
+DO  - 10.1200/jco.2012.46.4990
+DP  - NLM
+ET  - 2013/07/31
+IS  - 25
+J2  - Journal of clinical oncology : official journal of the American Society of Clinical Oncology
+KW  - Aged
+Aged, 80 and over
+Antineoplastic Combined Chemotherapy Protocols
+therapeutic use
+Double-Blind Method
+Female
+Humans
+Leukemia, Myeloid, Acute
+drug therapy
+genetics
+mortality
+Male
+Middle Aged
+Mutation
+Niacinamide
+administration & dosage
+analogs & derivatives
+Phenylurea Compounds
+administration & dosage
+Protein Kinase Inhibitors
+administration & dosage
+Sorafenib
+fms-Like Tyrosine Kinase 3
+antagonists & inhibitors
+genetics
+LA  - eng
+N1  - 1527-7755
+Serve, Hubert
+Krug, Utz
+Wagner, Ruth
+Sauerland, M Cristina
+Heinecke, Achim
+Brunnberg, Uta
+Schaich, Markus
+Ottmann, Oliver
+Duyster, Justus
+Wandt, Hannes
+Fischer, Thomas
+Giagounidis, Aristoteles
+Neubauer, Andreas
+Reichle, Albrecht
+Aulitzky, Walter
+Noppeney, Richard
+Blau, Igor
+Kunzmann, Volker
+Stuhlmann, Reingard
+Krämer, Alwin
+Kreuzer, Karl-Anton
+Brandts, Christian
+Steffen, Björn
+Thiede, Christian
+Müller-Tidow, Carsten
+Ehninger, Gerhard
+Berdel, Wolfgang E
+Journal Article
+Randomized Controlled Trial
+United States
+J Clin Oncol. 2013 Sep 1;31(25):3110-8. doi: 10.1200/JCO.2012.46.4990. Epub 2013 Jul 29.
+PY  - 2013
+SN  - 0732-183x
+SP  - 3110-8
+ST  - Sorafenib in combination with intensive chemotherapy in elderly patients with acute myeloid leukemia: results from a randomized, placebo-controlled trial
+T2  - J Clin Oncol
+TI  - Sorafenib in combination with intensive chemotherapy in elderly patients with acute myeloid leukemia: results from a randomized, placebo-controlled trial
+VL  - 31
+ID  - 28
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Patients with acute myeloid leukemia (AML) and a FLT3 mutation have poor outcomes. We conducted a phase 3 trial to determine whether the addition of midostaurin - an oral multitargeted kinase inhibitor that is active in patients with a FLT3 mutation - to standard chemotherapy would prolong overall survival in this population. METHODS: We screened 3277 patients, 18 to 59 years of age, who had newly diagnosed AML for FLT3 mutations. Patients were randomly assigned to receive standard chemotherapy (induction therapy with daunorubicin and cytarabine and consolidation therapy with high-dose cytarabine) plus either midostaurin or placebo; those who were in remission after consolidation therapy entered a maintenance phase in which they received either midostaurin or placebo. Randomization was stratified according to subtype of FLT3 mutation: point mutation in the tyrosine kinase domain (TKD) or internal tandem duplication (ITD) mutation with either a high ratio (>0.7) or a low ratio (0.05 to 0.7) of mutant to wild-type alleles (ITD [high] and ITD [low], respectively). Allogeneic transplantation was allowed. The primary end point was overall survival. RESULTS: A total of 717 patients underwent randomization; 360 were assigned to the midostaurin group, and 357 to the placebo group. The FLT3 subtype was ITD (high) in 214 patients, ITD (low) in 341 patients, and TKD in 162 patients. The treatment groups were well balanced with respect to age, race, FLT3 subtype, cytogenetic risk, and blood counts but not with respect to sex (51.7% in the midostaurin group vs. 59.4% in the placebo group were women, P=0.04). Overall survival was significantly longer in the midostaurin group than in the placebo group (hazard ratio for death, 0.78; one-sided P=0.009), as was event-free survival (hazard ratio for event or death, 0.78; one-sided P=0.002). In both the primary analysis and an analysis in which data for patients who underwent transplantation were censored, the benefit of midostaurin was consistent across all FLT3 subtypes. The rate of severe adverse events was similar in the two groups. CONCLUSIONS: The addition of the multitargeted kinase inhibitor midostaurin to standard chemotherapy significantly prolonged overall and event-free survival among patients with AML and a FLT3 mutation. (Funded by the National Cancer Institute and Novartis; ClinicalTrials.gov number, NCT00651261 .).
+AD  - From the Department of Medical Oncology, Dana-Farber Cancer Institute, Boston (R.M.S.); the Division of Biomedical Statistics and Informatics (S.J.M., K.L.) and the Alliance Statistics and Data Center (S.J.M., K.L., S.G.), Mayo Clinic, Rochester, MN; the Alliance Statistics and Data Center, Duke University, Durham, NC (B.L.S.); the Ohio State University Comprehensive Cancer Center, Columbus (S.G., C.D.B., T.W.P., G.M., R.B.K.); Medizinische Klinik und Poliklinik I, Universitätsklinikum Carl Gustav Carus der TU Dresden, Dresden (C.T., G.E.), Department of Internal Medicine III, University Hospital of Ulm, Ulm (K.D., R.F.S., H.D.), Hematology and Oncology, University of Leipzig, Leipzig (D.N.), Department of Hematology, Hemostasis, Oncology and Stem Cell Transplantation, Hannover Medical School, Hannover (J.K., A.G.), and Department of Medicine II, Hematology-Oncology, Goethe University Hospital Frankfurt, Frankfurt am Main (H.S.) - all in Germany; the Department of Biomedicine and Prevention, University Tor Vergata, Rome (F.L.-C., S.A.); the Department of Clinical Haematology, Alfred Hospital and Monash University, Melbourne, VIC, Australia (A.W.); Hospital de la Santa Creu i Sant Pau, Hematology Department, Autonomous University of Barcelona, Barcelona (J.S.), and Hospital Universitario la Fe, Hematology Department, Department of Medicine, University of Valencia, Valencia (M.A.S.) - both in Spain; the Department of Medical Oncology and Hematology, Princess Margaret Hospital, Toronto (J.M.B.); Radboud Institute Molecular Studies, Radboud University Medical Center, Nijmegen, the Netherlands (T.W.); the Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle (F.R.A.); the Division of Hematology-Oncology, Stanford Comprehensive Cancer Center, Stanford University, Stanford, CA (B.C.M.); the Leukemia Service, Department of Medicine, Memorial Sloan Kettering Cancer Center and Weill Cornell Medical College, New York (M.S.T.); and the Department of Medicine, University of Chicago, Chicago (R.A.L.).
+AN  - 28644114
+AU  - Stone, R. M.
+AU  - Mandrekar, S. J.
+AU  - Sanford, B. L.
+AU  - Laumann, K.
+AU  - Geyer, S.
+AU  - Bloomfield, C. D.
+AU  - Thiede, C.
+AU  - Prior, T. W.
+AU  - Döhner, K.
+AU  - Marcucci, G.
+AU  - Lo-Coco, F.
+AU  - Klisovic, R. B.
+AU  - Wei, A.
+AU  - Sierra, J.
+AU  - Sanz, M. A.
+AU  - Brandwein, J. M.
+AU  - de Witte, T.
+AU  - Niederwieser, D.
+AU  - Appelbaum, F. R.
+AU  - Medeiros, B. C.
+AU  - Tallman, M. S.
+AU  - Krauter, J.
+AU  - Schlenk, R. F.
+AU  - Ganser, A.
+AU  - Serve, H.
+AU  - Ehninger, G.
+AU  - Amadori, S.
+AU  - Larson, R. A.
+AU  - Döhner, H.
+C1  - ClinicalTrials.gov/NCT00651261
+C2  - PMC5754190
+C6  - NIHMS901401
+DA  - Aug 3
+DB  - Medline
+DO  - 10.1056/NEJMoa1614359
+DP  - NLM
+ET  - 2017/06/24
+IS  - 5
+J2  - The New England journal of medicine
+KW  - Adolescent
+Adult
+Antineoplastic Combined Chemotherapy Protocols
+adverse effects
+therapeutic use
+Cytarabine
+administration & dosage
+Daunorubicin
+administration & dosage
+Female
+Humans
+Kaplan-Meier Estimate
+Leukemia, Myeloid, Acute
+drug therapy
+genetics
+mortality
+Male
+Middle Aged
+Mutation
+Protein Kinase Inhibitors
+administration & dosage
+adverse effects
+Staurosporine
+administration & dosage
+adverse effects
+analogs & derivatives
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1533-4406
+Stone, Richard M
+Mandrekar, Sumithra J
+Sanford, Ben L
+Laumann, Kristina
+Geyer, Susan
+Bloomfield, Clara D
+Thiede, Christian
+Prior, Thomas W
+Döhner, Konstanze
+Marcucci, Guido
+Lo-Coco, Francesco
+Klisovic, Rebecca B
+Wei, Andrew
+Sierra, Jorge
+Sanz, Miguel A
+Brandwein, Joseph M
+de Witte, Theo
+Niederwieser, Dietger
+Appelbaum, Frederick R
+Medeiros, Bruno C
+Tallman, Martin S
+Krauter, Jürgen
+Schlenk, Richard F
+Ganser, Arnold
+Serve, Hubert
+Ehninger, Gerhard
+Amadori, Sergio
+Larson, Richard A
+Döhner, Hartmut
+U10 CA180791/CA/NCI NIH HHS/United States
+U10 CA180888/CA/NCI NIH HHS/United States
+U10 CA180836/CA/NCI NIH HHS/United States
+U10 CA077651/CA/NCI NIH HHS/United States
+U10 CA180820/CA/NCI NIH HHS/United States
+U10 CA180882/CA/NCI NIH HHS/United States
+U10 CA031946/CA/NCI NIH HHS/United States
+U10 CA180850/CA/NCI NIH HHS/United States
+U10 CA180821/CA/NCI NIH HHS/United States
+U10 CA077658/CA/NCI NIH HHS/United States
+U10 CA032291/CA/NCI NIH HHS/United States
+U10 CA180867/CA/NCI NIH HHS/United States
+U10 CA033601/CA/NCI NIH HHS/United States
+U10 CA180861/CA/NCI NIH HHS/United States
+U10 CA041287/CA/NCI NIH HHS/United States
+P30 CA016058/CA/NCI NIH HHS/United States
+Clinical Trial, Phase III
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+N Engl J Med. 2017 Aug 3;377(5):454-464. doi: 10.1056/NEJMoa1614359. Epub 2017 Jun 23.
+PY  - 2017
+SN  - 0028-4793 (Print)
+0028-4793
+SP  - 454-464
+ST  - Midostaurin plus Chemotherapy for Acute Myeloid Leukemia with a FLT3 Mutation
+T2  - N Engl J Med
+TI  - Midostaurin plus Chemotherapy for Acute Myeloid Leukemia with a FLT3 Mutation
+VL  - 377
+ID  - 20
+ER  - 
+
+TY  - JOUR
+AB  - To determine the long-term efficacy of FLT3 inhibitors (FLT3i) in the salvage setting for relapsed and refractory (rel/ref) acute myeloid leukemia (AML) with FLT3 internal tandem duplication (AML FLT3-ITD), we conducted a retrospective study of 120 patients with rel/ref AML FLT3-ITD who received salvage therapy with either FLT3i-containing regimen (FLT3i group, N = 45) or conventional cytotoxic regimen (conventional group, N = 75). The median overall survival (OS) after the first salvage in the FLT3i group was 6·9 vs. 4·6 months in the conventional group (P = 0·17). The OS was better in the FLT3i group among patients with initial complete remission (CR) duration ≤12 months or with primary refractory disease (6·9 vs. 3·7 months; P < 0·01). The OS was better when FLT3i was combined with cytotoxic agents versus monotherapy (17 vs. 4·8 months; P = 0·017). Multivariate analysis revealed that the use of FLT3i was an independent predictor of OS (hazard ratio 0·58; 95% confidence interval, 0·38-0·88). Incorporating FLT3i into salvage strategies may improve long-term outcome of patients with AML FLT3-ITD. Prospective studies to validate this conclusion are warranted.
+AD  - Divison of Cancer Medicine, MD Anderson Cancer Center, The University of Texas, Houston, TX 77030-4009, USA.
+AN  - 23530930
+AU  - Takahashi, K.
+AU  - Kantarjian, H.
+AU  - Pemmaraju, N.
+AU  - Andreeff, M.
+AU  - Borthakur, G.
+AU  - Faderl, S.
+AU  - Garcia-Manero, G.
+AU  - Pierce, S.
+AU  - Luthra, R.
+AU  - Cardenas-Turanzas, M.
+AU  - Estrov, Z.
+AU  - Ravandi, F.
+AU  - Cortes, J.
+C2  - PMC4068703
+C6  - NIHMS593143
+DA  - Jun
+DB  - Medline
+DO  - 10.1111/bjh.12299
+DP  - NLM
+ET  - 2013/03/28
+IS  - 5
+J2  - British journal of haematology
+KW  - Adult
+Antineoplastic Agents
+therapeutic use
+Antineoplastic Combined Chemotherapy Protocols
+therapeutic use
+Drug Evaluation
+methods
+Female
+Gene Duplication
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+drug therapy
+genetics
+Male
+Protein Kinase Inhibitors
+administration & dosage
+therapeutic use
+Recurrence
+Retrospective Studies
+Salvage Therapy
+methods
+Survival Analysis
+Tandem Repeat Sequences
+genetics
+Treatment Outcome
+fms-Like Tyrosine Kinase 3
+antagonists & inhibitors
+genetics
+LA  - eng
+N1  - 1365-2141
+Takahashi, Koichi
+Kantarjian, Hagop
+Pemmaraju, Naveen
+Andreeff, Michael
+Borthakur, Gautam
+Faderl, Stefan
+Garcia-Manero, Guillermo
+Pierce, Sherry
+Luthra, Rajyalakshmi
+Cardenas-Turanzas, Marylou
+Estrov, Zeev
+Ravandi, Farhad
+Cortes, Jorge
+P01 CA055164/CA/NCI NIH HHS/United States
+P30 CA016672/CA/NCI NIH HHS/United States
+Journal Article
+Br J Haematol. 2013 Jun;161(5):659-66. doi: 10.1111/bjh.12299. Epub 2013 Mar 27.
+PY  - 2013
+SN  - 0007-1048 (Print)
+0007-1048
+SP  - 659-66
+ST  - Salvage therapy using FLT3 inhibitors may improve long-term outcome of relapsed or refractory AML in patients with FLT3-ITD
+T2  - Br J Haematol
+TI  - Salvage therapy using FLT3 inhibitors may improve long-term outcome of relapsed or refractory AML in patients with FLT3-ITD
+VL  - 161
+ID  - 29
+ER  - 
+
+TY  - JOUR
+AB  - Cytogenetic and genetic changes have prognostic significance in acute myelogenous leukemia (AML). In our study, we compared the cytogenetic changes and gene mutations (NPM1, CEBPA, DNMT3A, FLT3-ITD, FLT3-TKD, and C-KIT) with clinical outcomes in 1132 patients with AML enrolled at our center over a 10-year period. A total of 977 patients provided gene mutation data. There were subsets of patients who exhibited mutations in NPM1 (17.9%), CEBPA (16.4%), FLT3-ITD (18.5%), FLT3-TKD (3.9%), DNMT3A (8.6%), and C-KIT (8.8%). A total of 557 patients (49.2%) underwent hematopoietic stem cell transplantation (HSCT) as consolidation therapy. Multivariate analysis identified an adverse karyotype (hazard ratio [HR], 1.48; P = .001), the presence of FLT3-ITD (HR, 1.90; P < .001), and receipt of nonstandard first-line induction chemotherapy (HR, 1.45; P = .003) as significant risk factors for poor overall survival (OS), and the presence of CEBPA(mut) (HR, .42; P < .001) and receipt of HSCT (HR, .35; P < .001) as prognostic factors for favorable OS. In addition, the presence of FLT3-ITD(mut) (HR, 2.11; P < .001) was identified as an independent risk factor for poor disease-free survival (DFS), and receipt of HSCT was correlated with improved DFS (HR, .74; P = .046). Compared with chemotherapy as consolidation therapy, HSCT improved the prognosis and overcame the prognostic effect of karyotype from the initial diagnosis; however, the presence of FLT3-ITD or CEBPA mutation can predict prognosis in AML irrespective of HSCT.
+AD  - Jiangsu Institute of Hematology, First Affiliated Hospital of Soochow University, Suzhou, China; Institute of Blood and Marrow Transplantation, Suzhou, China; Key Laboratory of Thrombosis and Hemostasis of Ministry of Health, Suzhou, China.
+Jiangsu Institute of Hematology, First Affiliated Hospital of Soochow University, Suzhou, China.
+Jiangsu Institute of Hematology, First Affiliated Hospital of Soochow University, Suzhou, China; Institute of Blood and Marrow Transplantation, Suzhou, China.
+Jiangsu Institute of Hematology, First Affiliated Hospital of Soochow University, Suzhou, China; Institute of Blood and Marrow Transplantation, Suzhou, China; Collaborative Innovation Center of Hematology, Soochow University, Suzhou, China; Key Laboratory of Thrombosis and Hemostasis of Ministry of Health, Suzhou, China.
+Jiangsu Institute of Hematology, First Affiliated Hospital of Soochow University, Suzhou, China; Institute of Blood and Marrow Transplantation, Suzhou, China; Collaborative Innovation Center of Hematology, Soochow University, Suzhou, China; Key Laboratory of Thrombosis and Hemostasis of Ministry of Health, Suzhou, China. Electronic address: hanyue@suda.edu.cn.
+Jiangsu Institute of Hematology, First Affiliated Hospital of Soochow University, Suzhou, China; Institute of Blood and Marrow Transplantation, Suzhou, China; Collaborative Innovation Center of Hematology, Soochow University, Suzhou, China; Key Laboratory of Thrombosis and Hemostasis of Ministry of Health, Suzhou, China. Electronic address: wudepeisz@163.com.
+AN  - 30503388
+AU  - Wang, H.
+AU  - Chu, T. T.
+AU  - Han, S. Y.
+AU  - Qi, J. Q.
+AU  - Tang, Y. Q.
+AU  - Qiu, H. Y.
+AU  - Fu, C. C.
+AU  - Tang, X. W.
+AU  - Ruan, C. G.
+AU  - Wu, D. P.
+AU  - Han, Y.
+DA  - May
+DB  - Medline
+DO  - 10.1016/j.bbmt.2018.11.031
+DP  - NLM
+ET  - 2018/12/07
+IS  - 5
+J2  - Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation
+KW  - Adolescent
+Adult
+CCAAT-Enhancer-Binding Proteins
+genetics
+Disease-Free Survival
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+diagnosis
+genetics
+therapy
+Male
+Middle Aged
+Mutation
+Prognosis
+Remission Induction
+methods
+Risk Factors
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1523-6536
+Wang, Hong
+Chu, Tian-Tian
+Han, Shi-Yu
+Qi, Jia-Qian
+Tang, Ya-Qiong
+Qiu, Hui-Ying
+Fu, Cheng-Cheng
+Tang, Xiao-Wen
+Ruan, Chang-Geng
+Wu, De-Pei
+Han, Yue
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+*Acute myelogenous leukemia
+*cebpa
+*flt3-itd
+*Hematopoietic stem cell transplantation
+*Mutation
+*Prognosis
+Biol Blood Marrow Transplant. 2019 May;25(5):941-948. doi: 10.1016/j.bbmt.2018.11.031. Epub 2018 Nov 29.
+PY  - 2019
+SN  - 1083-8791
+SP  - 941-948
+ST  - FLT3-ITD and CEBPA Mutations Predict Prognosis in Acute Myelogenous Leukemia Irrespective of Hematopoietic Stem Cell Transplantation
+T2  - Biol Blood Marrow Transplant
+TI  - FLT3-ITD and CEBPA Mutations Predict Prognosis in Acute Myelogenous Leukemia Irrespective of Hematopoietic Stem Cell Transplantation
+VL  - 25
+ID  - 12
+ER  - 
+
+TY  - JOUR
+AB  - The optimal therapy for patients with acute myeloid leukemia (AML) with FMS-like tyrosine kinase 3 internal tandem duplication (FLT3-ITD) who relapse after allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains unclear. In this study we retrospectively evaluated the efficacy of sorafenib combined with other therapeutic strategies as salvage therapy for these patients. Eighty-three AML patients with FLT3-ITD relapsing after allo-HSCT were enrolled in this study. Fifty-three patients received salvage therapy containing sorafenib and 30 patients did not. Salvage therapy containing sorafenib was superior to that without sorafenib with respect to complete remission rates, overall survival (OS), and progression-free survival (PFS) (66.0% versus 30.0%, 46.8% versus 20.0%, and 44.9% versus 16.7%, respectively; P = .002, P = .003, and P = .001). Further subgroup analysis revealed that the OS and PFS of patients who received sorafenib combined with chemotherapy followed by donor lymphocyte infusion (DLI) were superior to those receiving other therapeutic regimens, including sorafenib combined with chemotherapy, chemotherapy followed by DLI, and monochemotherapy (P = .003, P < .001). Multivariate analysis revealed that salvage therapy including sorafenib was the only protective factor for longer OS (P = .035; hazard ratio [HR], .526); salvage therapy including sorafenib and DLI were the protective factors for longer PFS (P = .011, HR, .423; P = .019, HR, .508). Our data suggest that sorafenib therapy is associated with improved outcomes for FLT3-ITD AML relapsing after allo-HSCT, and whether sorafenib combined with chemotherapy followed by DLI reveals an optimal efficacy merits further study.
+AD  - Department of Hematology, Nanfang Hospital, Southern Medical University, Guangzhou, China.
+Institute of Hematology, Peking University People's Hospital, Beijing, China.
+The first affiliated hospital of Soochow University, Suzhou, China.
+Hematopoietic Stem Cell Transplantation Center, Institute of Hematology and Blood Diseases Hospital, Peking Union Medical College and Chinese Academy of Medical Sciences, Tianjin, China.
+Department of Hematology, Xinqiao Hospital, Third Military Medical University, Chongqing, China.
+Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, China.
+Department of Hematology, First People's Hospital of Chenzhou, Southern Medical University, Chenzhou, China.
+Department of Hematology, Nanfang Hospital, Southern Medical University, Guangzhou, China; Institute of Hematology, Peking University People's Hospital, Beijing, China.
+Department of Hematology, Nanfang Hospital, Southern Medical University, Guangzhou, China; Guangdong Provincial Key Laboratory of Construction and Detection in Tissue Engineering, Guangzhou, China. Electronic address: liuqifa628@163.com.
+AN  - 31009704
+AU  - Xuan, L.
+AU  - Wang, Y.
+AU  - Chen, J.
+AU  - Jiang, E.
+AU  - Gao, L.
+AU  - Wu, B.
+AU  - Deng, L.
+AU  - Liang, X.
+AU  - Huang, F.
+AU  - Fan, Z.
+AU  - Tang, X.
+AU  - Sun, J.
+AU  - Zhang, X.
+AU  - Han, M.
+AU  - Wu, D.
+AU  - Huang, X.
+AU  - Liu, Q.
+DA  - Aug
+DB  - Medline
+DO  - 10.1016/j.bbmt.2019.04.018
+DP  - NLM
+ET  - 2019/04/23
+IS  - 8
+J2  - Biology of blood and marrow transplantation : journal of the American Society for Blood and Marrow Transplantation
+KW  - Adolescent
+Adult
+Allografts
+Disease-Free Survival
+Female
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+genetics
+mortality
+therapy
+Male
+Middle Aged
+Retrospective Studies
+Salvage Therapy
+Sorafenib
+administration & dosage
+Survival Rate
+Tandem Repeat Sequences
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1523-6536
+Xuan, Li
+Wang, Yu
+Chen, Jia
+Jiang, Erlie
+Gao, Li
+Wu, Bingyi
+Deng, Lan
+Liang, Xinquan
+Huang, Fen
+Fan, Zhiping
+Tang, Xiaowen
+Sun, Jing
+Zhang, Xi
+Han, Mingzhe
+Wu, Depei
+Huang, Xiaojun
+Liu, Qifa
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+United States
+*Acute myeloid leukemia
+*Allogeneic hematopoietic stem cell transplantation
+*FMS-like tyrosine kinase 3 internal tandem duplication
+*Relapse
+*Sorafenib
+Biol Blood Marrow Transplant. 2019 Aug;25(8):1674-1681. doi: 10.1016/j.bbmt.2019.04.018. Epub 2019 Apr 19.
+PY  - 2019
+SN  - 1083-8791
+SP  - 1674-1681
+ST  - Sorafenib Therapy Is Associated with Improved Outcomes for FMS-like Tyrosine Kinase 3 Internal Tandem Duplication Acute Myeloid Leukemia Relapsing after Allogeneic Hematopoietic Stem Cell Transplantation
+T2  - Biol Blood Marrow Transplant
+TI  - Sorafenib Therapy Is Associated with Improved Outcomes for FMS-like Tyrosine Kinase 3 Internal Tandem Duplication Acute Myeloid Leukemia Relapsing after Allogeneic Hematopoietic Stem Cell Transplantation
+VL  - 25
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Findings of retrospective studies suggest that sorafenib maintenance post-transplantation might reduce relapse in patients with FLT3 internal tandem duplication (FLT3-ITD) acute myeloid leukaemia undergoing allogeneic haematopoietic stem-cell transplantation. We investigated the efficacy and tolerability of sorafenib maintenance post-transplantation in this population. METHODS: We did an open-label, randomised phase 3 trial at seven hospitals in China. Eligible patients (aged 18-60 years) had FLT3-ITD acute myeloid leukaemia, were undergoing allogeneic haematopoietic stem-cell transplantation, had an Eastern Cooperative Oncology Group performance status of 0-2, had composite complete remission before and after transplantation, and had haematopoietic recovery within 60 days post-transplantation. Patients were randomly assigned (1:1) to sorafenib maintenance (400 mg orally twice daily) or non-maintenance (control) at 30-60 days post-transplantation. Randomisation was done with permuted blocks (block size four) and implemented through an interactive web-based randomisation system. The primary endpoint was the 1-year cumulative incidence of relapse in the intention-to-treat population. This trial is registered with ClinicalTrials.gov, NCT02474290; the trial is complete. FINDINGS: Between June 20, 2015, and July 21, 2018, 202 patients were enrolled and randomly assigned to sorafenib maintenance (n=100) or control (n=102). Median follow-up post-transplantation was 21·3 months (IQR 15·0-37·0). The 1-year cumulative incidence of relapse was 7·0% (95% CI 3·1-13·1) in the sorafenib group and 24·5% (16·6-33·2) in the control group (hazard ratio 0·25, 95% CI 0·11-0·57; p=0·0010). Within 210 days post-transplantation, the most common grade 3 and 4 adverse events were infections (25 [25%] of 100 patients in the sorafenib group vs 24 [24%] of 102 in the control group), acute graft-versus-host-disease (GVHD; 23 [23%] of 100 vs 21 [21%] of 102), chronic GVHD (18 [18%] of 99 vs 17 [17%] of 99), and haematological toxicity (15 [15%] of 100 vs seven [7%] of 102). There were no treatment-related deaths. INTERPRETATION: Sorafenib maintenance post-transplantation can reduce relapse and is well tolerated in patients with FLT3-ITD acute myeloid leukaemia undergoing allogeneic haematopoietic stem-cell transplantation. This strategy could be a suitable therapeutic option for patients with FLT3-ITD acute myeloid leukaemia. FUNDING: None.
+AD  - Department of Hematology, Nanfang Hospital, Southern Medical University, Guangzhou, China.
+Department of Hematology, Peking University People's Hospital, Beijing, China.
+Department of Hematology, Xiangya Hospital, Central South University, Changsha, China.
+Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, China.
+Department of Hematology, Third Affiliated Hospital of Sun Yat-Sen University, Guangzhou, China.
+Department of Hematology, First People's Hospital of Chenzhou, Chenzhou, China.
+Department of Hematology, First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China.
+Department of Hematology, Nanfang Hospital, Southern Medical University, Guangzhou, China; Department of Hematology, Peking University People's Hospital, Beijing, China.
+Department of Hematology, Nanfang Hospital, Southern Medical University, Guangzhou, China. Electronic address: liuqifa628@163.com.
+AN  - 32791048
+AU  - Xuan, L.
+AU  - Wang, Y.
+AU  - Huang, F.
+AU  - Fan, Z.
+AU  - Xu, Y.
+AU  - Sun, J.
+AU  - Xu, N.
+AU  - Deng, L.
+AU  - Li, X.
+AU  - Liang, X.
+AU  - Luo, X.
+AU  - Shi, P.
+AU  - Liu, H.
+AU  - Wang, Z.
+AU  - Jiang, L.
+AU  - Yu, C.
+AU  - Zhou, X.
+AU  - Lin, R.
+AU  - Chen, Y.
+AU  - Tu, S.
+AU  - Huang, X.
+AU  - Liu, Q.
+C1  - ClinicalTrials.gov/NCT02474290
+DA  - Sep
+DB  - Medline
+DO  - 10.1016/s1470-2045(20)30455-1
+DP  - NLM
+ET  - 2020/08/14
+IS  - 9
+J2  - The Lancet. Oncology
+KW  - Adolescent
+Adult
+China
+epidemiology
+Disease-Free Survival
+Drug-Related Side Effects and Adverse Reactions
+drug therapy
+pathology
+Female
+Graft vs Host Disease
+epidemiology
+etiology
+genetics
+pathology
+Hematopoietic Stem Cell Transplantation
+adverse effects
+Humans
+Leukemia, Myeloid, Acute
+drug therapy
+epidemiology
+genetics
+pathology
+Male
+Middle Aged
+Protein Kinase Inhibitors
+Remission Induction
+Sorafenib
+administration & dosage
+adverse effects
+Tandem Repeat Sequences
+genetics
+Transplantation, Homologous
+adverse effects
+Young Adult
+fms-Like Tyrosine Kinase 3
+genetics
+LA  - eng
+N1  - 1474-5488
+Xuan, Li
+Wang, Yu
+Huang, Fen
+Fan, Zhiping
+Xu, Yajing
+Sun, Jing
+Xu, Na
+Deng, Lan
+Li, Xudong
+Liang, Xinquan
+Luo, Xiaodan
+Shi, Pengcheng
+Liu, Hui
+Wang, Zhixiang
+Jiang, Ling
+Yu, Chunzi
+Zhou, Xuan
+Lin, Ren
+Chen, Yan
+Tu, Sanfang
+Huang, Xiaojun
+Liu, Qifa
+Clinical Trial, Phase III
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Lancet Oncol. 2020 Sep;21(9):1201-1212. doi: 10.1016/S1470-2045(20)30455-1. Epub 2020 Aug 10.
+PY  - 2020
+SN  - 1470-2045
+SP  - 1201-1212
+ST  - Sorafenib maintenance in patients with FLT3-ITD acute myeloid leukaemia undergoing allogeneic haematopoietic stem-cell transplantation: an open-label, multicentre, randomised phase 3 trial
+T2  - Lancet Oncol
+TI  - Sorafenib maintenance in patients with FLT3-ITD acute myeloid leukaemia undergoing allogeneic haematopoietic stem-cell transplantation: an open-label, multicentre, randomised phase 3 trial
+VL  - 21
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The objective of this study was to evaluate the effect of sorafenib on the outcomes of patients with acute myeloid leukemia (AML) with FMS-like tyrosine kinase 3 (FLT3)-internal tandem duplication (ITD) undergoing allogeneic hematopoietic stem cell transplantation (allo-HSCT). METHODS: A total of 144 patients with FLT3-ITD AML undergoing allo-HSCT between January 2012 and December 2015 were enrolled in this study. Depending on whether they were receiving sorafenib before transplantation or sorafenib maintenance after transplantation, patients were divided into 4 groups: patients receiving sorafenib before transplantation (group A; n = 36), patients receiving sorafenib after transplantation (group B; n = 32), patients receiving sorafenib both before and after transplantation (group C; n = 26), and patients receiving sorafenib neither before nor after transplantation (group D; n = 50). Outcomes were compared among these groups. RESULTS: The 3-year relapse rates were 22.2%, 18.8%, 15.8%, and 46.1% for groups A, B, C, and D, respectively (P = .006). The 3-year overall survival (OS) rates were 74.9%, 78.1%, 84.6%, and 50.9%, respectively (P = .023), and the 3-year leukemia-free survival (LFS) rates were 69.4%, 78.1%, 80.4%, and 34.8%, respectively (P < .001). The relapse rate was higher and the LFS was shorter in group D versus groups A, B, and C. The OS in group D was shorter than the OS in group C but was similar to the OS in groups A and B. A multivariate analysis revealed that sorafenib before transplantation, sorafenib maintenance after transplantation, and their combined application were protective factors for a lower relapse rate (hazard ratios [HRs], 0.436 [P = .048], 0.431 [P = .046], and 0.173 [P = .002], respectively) and longer LFS (HRs, 0.322 [P = .010], 0.343 [P = .014], and 0.187 [P = .001], respectively). CONCLUSIONS: Sorafenib before transplantation, sorafenib maintenance after transplantation, and their combined application all could improve the outcomes for patients with FLT3-ITD AML. Further study is needed to determine whether the use of sorafenib both before and after transplantation might be ideal. Cancer 2018;124:1954-63. © 2018 American Cancer Society.
+AD  - Department of Hematology, Nanfang Hospital, Southern Medical University, Guangzhou, China.
+Institute of Hematology, Peking University People's Hospital, Beijing, China.
+Hematopoietic Stem Cell Transplantation Center, Institute of Hematology and Blood Diseases Hospital, Peking Union Medical College and Chinese Academy of Medical Sciences, Tianjin, China.
+Department of Hematology, Zhujiang Hospital, Southern Medical University, Guangzhou, China.
+Department of Hematology, First People's Hospital of Chenzhou, Chenzhou, China.
+AN  - 29509276
+AU  - Xuan, L.
+AU  - Wang, Y.
+AU  - Huang, F.
+AU  - Jiang, E.
+AU  - Deng, L.
+AU  - Wu, B.
+AU  - Fan, Z.
+AU  - Liang, X.
+AU  - Xu, N.
+AU  - Ye, J.
+AU  - Lin, R.
+AU  - Yin, C.
+AU  - Zhang, Y.
+AU  - Sun, J.
+AU  - Han, M.
+AU  - Huang, X.
+AU  - Liu, Q.
+DA  - May 1
+DB  - Medline
+DO  - 10.1002/cncr.31295
+DP  - NLM
+ET  - 2018/03/07
+IS  - 9
+J2  - Cancer
+KW  - Adult
+Combined Modality Therapy
+methods
+Disease-Free Survival
+Female
+Follow-Up Studies
+Gain of Function Mutation
+Hematopoietic Stem Cell Transplantation
+Humans
+Leukemia, Myeloid, Acute
+genetics
+mortality
+therapy
+Male
+Middle Aged
+Mutation
+Neoplasm Recurrence, Local
+epidemiology
+prevention & control
+Protein Domains
+genetics
+Protein Kinase Inhibitors
+pharmacology
+therapeutic use
+Remission Induction
+methods
+Retrospective Studies
+Segmental Duplications, Genomic
+genetics
+Sorafenib
+pharmacology
+therapeutic use
+Survival Rate
+Tandem Repeat Sequences
+genetics
+Transplantation, Homologous
+Young Adult
+fms-Like Tyrosine Kinase 3
+antagonists & inhibitors
+genetics
+LA  - eng
+N1  - 1097-0142
+Xuan, Li
+Wang, Yu
+Huang, Fen
+Jiang, Erlie
+Deng, Lan
+Wu, Bingyi
+Fan, Zhiping
+Liang, Xinquan
+Xu, Na
+Ye, Jieyu
+Lin, Ren
+Yin, Changxin
+Zhang, Yuanyuan
+Sun, Jing
+Han, Mingzhe
+Huang, Xiaojun
+Orcid: 0000-0003-1906-5819
+Liu, Qifa
+Orcid: 0000-0003-4015-3952
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+United States
+*FMS-like tyrosine kinase 3
+*acute myeloid leukemia
+*allogeneic hematopoietic stem cell transplantation
+*internal tandem duplication
+*outcomes
+*sorafenib
+Cancer. 2018 May 1;124(9):1954-1963. doi: 10.1002/cncr.31295. Epub 2018 Mar 6.
+PY  - 2018
+SN  - 0008-543x
+SP  - 1954-1963
+ST  - Effect of sorafenib on the outcomes of patients with FLT3-ITD acute myeloid leukemia undergoing allogeneic hematopoietic stem cell transplantation
+T2  - Cancer
+TI  - Effect of sorafenib on the outcomes of patients with FLT3-ITD acute myeloid leukemia undergoing allogeneic hematopoietic stem cell transplantation
+VL  - 124
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AB  - Objective: To analyze the clinical features of acute myeloid leukemia patients with Fms-like tyrosine kinase 3 internal tandem duplication (FLT3-ITD) mutation and the therapeutic effect of sorafenib in combination with chemotherapy as first-line therapy for these patients. Methods: Clinical features and therapeutic effect were retrospectively analyzed in 53 AML patients with FLT3-ITD mutation diagnosed in Henan Cancer Hospital from January 2013 to August 2016. The biological characteristics and clinical efficacy of chemotherapy in combination with or without Sorafeinb were analyzed. Results: FLT3-ITD mutation was identified in 53 AML patients, 22 cases (41.5%) were M(5) subtype. The median of the peripheral WBC was 61.00 (0.98-920.00) ×10(9)/L, and there were 50 (94.3%) patients with WBC>10×10(9)/L. The median of blast cell in bone marrow was 0.730 (0.234-0.966) . The total remission rate of all these 53 patients was 56.6% (30/53) . The complete remission (CR) rates in patients treated with chemotherapy in combination with sorafenib and patients with chemotherapy alone were 86.4% (19/22) and 35.5% (11/31) , respectively. The 1-year overall survival rates of the two groups were 78.3%% and 50.0% (P=0.041) , and 1-year progression free survival rates were 75.9% and 42.4% (P=0.044) , respectively. Conclusion: AML patients with FLT3-ITD mutation have the characteristics of high peripheral WBC, high blast cells in bone marrow and accompanying with M(5) subtype. Sorafeinb combined with chemotherapy can significantly improve CR rate and short term survival.
+AD  - Department of Hematology, the Affiliated Cancer Hospital of Zhengzhou University; Henan Cancer Hospital, Zhengzhou 450008, China.
+AN  - 28565742
+AU  - Zhang, Q. Y.
+AU  - Wei, X. D.
+AU  - Yin, Q. S.
+AU  - Mi, R. H.
+AU  - Yuan, F. F.
+AU  - Chen, L.
+C2  - PMC7354192
+DA  - May 14
+DB  - Medline
+DO  - 10.3760/cma.j.issn.0253-2727.2017.05.012
+DP  - NLM
+ET  - 2017/06/02
+IS  - 5
+J2  - Zhonghua xue ye xue za zhi = Zhonghua xueyexue zazhi
+KW  - Antineoplastic Combined Chemotherapy Protocols
+Disease-Free Survival
+Humans
+Leukemia, Myeloid, Acute
+Mutation
+Niacinamide
+analogs & derivatives
+Phenylurea Compounds
+Remission Induction
+Retrospective Studies
+Sorafenib
+Treatment Outcome
+fms-Like Tyrosine Kinase 3
+LA  - chi
+N1  - 2707-9740
+Zhang, Q Y
+Wei, X D
+Yin, Q S
+Mi, R H
+Yuan, F F
+Chen, L
+Journal Article
+FLT3-ITD mutation
+Leukemia, myeloid, acute
+Sorafenib
+Zhonghua Xue Ye Xue Za Zhi. 2017 May 14;38(5):415-420. doi: 10.3760/cma.j.issn.0253-2727.2017.05.012.
+PY  - 2017
+SN  - 0253-2727 (Print)
+0253-2727
+SP  - 415-420
+ST  - [Sorafenib in combination with chemotherapy as first-line therapy for FLT3-ITD positive acute myeloid leukemia]
+T2  - Zhonghua Xue Ye Xue Za Zhi
+TI  - [Sorafenib in combination with chemotherapy as first-line therapy for FLT3-ITD positive acute myeloid leukemia]
+VL  - 38
+ID  - 19
+ER  - 
+
+TY  - JOUR
+AB  - Objective: To analyze the clinical characteristics and prognosis of 34 cases of acute myeloid leukemia (AML) with FLT3 internal tandem duplication (FLT3-ITD) and MLL gene rearrangement. Methods: The clinical data of 34 AML patients with FLT3-ITD and MLL gene rearrangement was compared and analyzed for the therapeutic efficacy, prognostic factors when treated with chemotherapy, chemotherapy combined with targeted therapy or allogenic hematopoietic stem cell transplantation (allo-HSCT). Results: Of the thirty-four cases with median age 41 (4-71) years old, 63.6% presented with white blood cells (WBC) greater than 30×10(9)/L, 39.4% greater than 50 × 10(9)/L respectively on admission. M(5) (35.3%) made up the highest proportion. The cytogenetic abnormality reached 61.8%, of which the complex cytogenetic abnormality accounted for 11.8%. Eleven patients (32.35%) had both FLT3-ITD and MLL gene abnormalities. In addition to FLT3 and MLL abnormalities, 23 patients (67.6%) had one or more other gene abnormalities (multiple gene abnormalities). Of the 34 cases, 29.4% patients went into complete remission (CR) after two courses of chemotherapy. 20.6% (7 patients) went into CR after 3 or more courses of chemotherapy. The rate of early relapse in the CR group was 52.9%. Patients with WBC>50×10(9)/L or multiple gene abnormalities had a lower remission rate (7.7%, 5.4%) after two courses of chemotherapy. CR rate for the patients with more than three gene abnormalities was 0. The total 2-year overall survival (OS) in the 34 patients was 28.8% (95% CI 13.5%-46.0%) and the disease-free survival (DFS) was 27.1% (95% CI 12.5%-44.0%). Of the 18 patients treated with chemotherapy alone or chemotherapy combined with targeted therapy, 17 cases died within 2 years and 1 lost follow-up after giving up treatment. For the 16 patients received allo-HSCT, the 3-year OS was 43.4% (95% CI 13.7%-70.4%) and DFS 42.7% (95% CI 13.4%-69.7%). Conclusion: AML patients with FLT3-ITD and MLL gene rearrangement often presented with M(5), accompanied by hyperleukocytosis, cytogenetic or multiple gene abnormalities. Those patients were observed to have low response rate and high early relapse when treated with chemotherapy without allo-HSCT. Patients had multiple gene abnormalities may be an important poor prognostic factor. Allo-HSCT is an effective treatment which could significantly improve the prognosis and survival of AML patients with FLT3-ITD and MLL gene abnormalities.
+AD  - Department of Bone Marrow Transplantation, Hebei Yanda Lu Daopei Hospital, Langfang 065201, China.
+AN  - 30369187
+AU  - Zhou, J. R.
+AU  - Zhang, X.
+AU  - Zhao, Y. L.
+AU  - Yang, J. F.
+AU  - Zhang, J. P.
+AU  - Cao, X. Y.
+AU  - Lu, Y.
+AU  - Liu, D. Y.
+AU  - Lyu, F. Y.
+AU  - Ouyang, J.
+AU  - Lu, P. H.
+C2  - PMC7342257
+DA  - Sep 14
+DB  - Medline
+DO  - 10.3760/cma.j.issn.0253-2727.2018.09.010
+DP  - NLM
+ET  - 2018/10/30
+IS  - 9
+J2  - Zhonghua xue ye xue za zhi = Zhonghua xueyexue zazhi
+KW  - Adolescent
+Adult
+Aged
+Child
+Child, Preschool
+Gene Rearrangement
+Histone-Lysine N-Methyltransferase
+Humans
+Leukemia, Myeloid, Acute
+Middle Aged
+Myeloid-Lymphoid Leukemia Protein
+Prognosis
+Remission Induction
+Retrospective Studies
+Young Adult
+fms-Like Tyrosine Kinase 3
+LA  - chi
+N1  - 2707-9740
+Zhou, J R
+Zhang, X
+Zhao, Y L
+Yang, J F
+Zhang, J P
+Cao, X Y
+Lu, Y
+Liu, D Y
+Lyu, F Y
+Ouyang, J
+Lu, P H
+Journal Article
+Clinical research
+FLT3 internal tandem duplication
+Leukemia, myeloid, acute
+MLL gene rearrangement
+Zhonghua Xue Ye Xue Za Zhi. 2018 Sep 14;39(9):751-756. doi: 10.3760/cma.j.issn.0253-2727.2018.09.010.
+PY  - 2018
+SN  - 0253-2727 (Print)
+0253-2727
+SP  - 751-756
+ST  - [Clinical characteristics and prognosis of 34 cases of acute myeloid leukemia with FLT3 internal tandem duplication and MLL gene rearrangement]
+T2  - Zhonghua Xue Ye Xue Za Zhi
+TI  - [Clinical characteristics and prognosis of 34 cases of acute myeloid leukemia with FLT3 internal tandem duplication and MLL gene rearrangement]
+VL  - 39
+ID  - 16
+ER  - 
+

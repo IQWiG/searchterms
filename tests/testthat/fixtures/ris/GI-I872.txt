@@ -1,0 +1,2889 @@
+TY  - JOUR
+AN  - 7037273
+AU  - Allegra, C.
+AU  - Pollari, G.
+AU  - Criscuolo, A.
+AU  - Bonifacio, M.
+AU  - Tabassi, D.
+DA  - Dec 15
+DB  - Medline
+DP  - NLM
+ET  - 1981/12/15
+IS  - 5
+J2  - La Clinica terapeutica
+KW  - Anti-Infective Agents
+therapeutic use
+Clinical Trials as Topic
+Glycosides
+therapeutic use
+Humans
+Phlebitis
+complications
+drug therapy
+Placebos
+Plant Extracts
+therapeutic use
+Triterpenes
+therapeutic use
+Varicose Veins
+drug therapy
+Venous Insufficiency
+drug therapy
+LA  - ita
+N1  - Allegra, C
+Pollari, G
+Criscuolo, A
+Bonifacio, M
+Tabassi, D
+Clinical Trial
+Comparative Study
+Controlled Clinical Trial
+English Abstract
+Journal Article
+Italy
+Clin Ter. 1981 Dec 15;99(5):507-13.
+OP  - L'estratto di Centella asiatica nelle flebopatie degli arti inferiori. Ricerca clinico-strumentale comparativa con un placebo.
+PY  - 1981
+SN  - 0009-9074 (Print)
+0009-9074
+SP  - 507-13
+ST  - [Centella asiatica extract in venous disorders of the lower limbs. Comparative clinico-instrumental studies with a placebo]
+T2  - Clin Ter
+TI  - [Centella asiatica extract in venous disorders of the lower limbs. Comparative clinico-instrumental studies with a placebo]
+VL  - 99
+ID  - 62
+ER  - 
+
+TY  - JOUR
+AB  - Forty patients with chronic venous insufficiency (CVI) and varices of the legs were selected and double-blindly randomly assigned to a treatment with Pycnogenol (French maritime pine bark extract), 100 mg x 3/day or a placebo for 2 months, according to a double-blind experimental design. The effects of the treatment were evaluated by scoring the symptomatology with a semi-quantitative scale, and the venous blood flow by means of a hand-held Doppler ultrasound. The tolerability was evaluated by recording the adverse effects and by means of hematology and blood chemistry parameters, before and at the end of the treatment. Pycnogenol treatment induced a significant reduction in subcutaneous edema as well as heaviness and pain in the legs, on both after 30 and 60 days, the evaluation time periods. Approximately 60% of patients treated with Pycnogenol(R) experienced a complete disappearance of edema (the most rapidly disappearing symptom) and pain at the end of the treatment, while almost all the patients reported a reduction in leg heaviness which disappeared in approximately 33% of patients. These changes were statistically significant. No effect was observed in the placebo-treated subjects. No effect on the venous blood flow was observed in either of the experimental groups.
+AD  - Professore di Clinica Medica Generale e Terapia Medica, Università degli Studi di Firenze, Via Marsilio Ficino 10, I-50122, Firenze, Italy.
+AN  - 10844161
+AU  - Arcangeli, P.
+DA  - Jun
+DB  - Medline
+DO  - 10.1016/s0367-326x(99)00164-1
+DP  - NLM
+ET  - 2000/06/14
+IS  - 3
+J2  - Fitoterapia
+KW  - Adult
+Aged
+Blood Flow Velocity
+Chronic Disease
+Double-Blind Method
+Female
+Flavonoids
+therapeutic use
+Humans
+Leg
+blood supply
+Male
+Middle Aged
+Plant Extracts
+therapeutic use
+Platelet Aggregation Inhibitors
+therapeutic use
+Treatment Outcome
+Ultrasonography
+Venous Insufficiency
+diagnostic imaging
+drug therapy
+LA  - eng
+N1  - Arcangeli, P
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Netherlands
+Fitoterapia. 2000 Jun;71(3):236-44. doi: 10.1016/s0367-326x(99)00164-1.
+PY  - 2000
+SN  - 0367-326X (Print)
+0367-326x
+SP  - 236-44
+ST  - Pycnogenol in chronic venous insufficiency
+T2  - Fitoterapia
+TI  - Pycnogenol in chronic venous insufficiency
+VL  - 71
+ID  - 63
+ER  - 
+
+TY  - JOUR
+AN  - 7368843
+AU  - Balmer, A.
+AU  - Limoni, C.
+DB  - Medline
+DP  - NLM
+ET  - 1980/01/01
+IS  - 1
+J2  - VASA. Zeitschrift fur Gefasskrankheiten
+KW  - Adult
+Aged
+Chronic Disease
+Drug Evaluation
+Female
+Humans
+Hydroxyethylrutoside
+therapeutic use
+Male
+Middle Aged
+Placebos
+Rutin
+analogs & derivatives
+Venous Insufficiency
+drug therapy
+LA  - ger
+N1  - Balmer, A
+Limoni, C
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Switzerland
+Vasa. 1980;9(1):76-82.
+OP  - Klinische, plazebokontrollierte Doppelblindprüfung von Venoruton bei der Behandlung der chronisch-venösen Insuffizienz. Die Bedeutung der Patientenauswahl.
+PY  - 1980
+SN  - 0301-1526 (Print)
+0301-1526
+SP  - 76-82
+ST  - [Clinical, placebo-controlled double-blind study of venoruton in the treatment of chronic venous insufficiency. Importance of the selection of patients]
+T2  - Vasa
+TI  - [Clinical, placebo-controlled double-blind study of venoruton in the treatment of chronic venous insufficiency. Importance of the selection of patients]
+VL  - 9
+ID  - 64
+ER  - 
+
+TY  - JOUR
+AB  - Limited anterior plication (LAP) of the incompetent femoral vein was used in 2 groups of subjects with venous hypertension due to deep and superficial venous incompetence. Group 1 subjects were treated only with superficial veins surgery while groups 2 was treated with external valvuloplasty (LAP) at the level of the incompetent femoral vein. The plication was performed at the anterior side of the vein after limited dissection and manipulation. During a two-year follow-up the results of LAP were evaluated with color-duplex and ambulatory venous pressure (AVP) measurements. Nine of the 11 femoral veins treated with LAP were competent after 2 years (in 2 the incompetence was reduced). A lower AVP and RT was found in subjects treated with LAP in comparison with those in Group 1. Also the number of recurrent varicose veins (incompetent venous sites) and the average diameter of the femoral vein were higher in Group 2 (superficial surgery only). As no complications were observed LAP can be considered an alternative to the standard external valvuloplasty in cases of moderate incompetence when valve cusps are present and functional and incompetence is mainly due to relative enlargement of the vein diameter.
+AD  - Cardiovascular Institute, G. D'Annunzio University, Chieti, Italy.
+AN  - 8282745
+AU  - Belcaro, G.
+DA  - Oct
+DB  - Medline
+DP  - NLM
+ET  - 1993/10/01
+IS  - 5
+J2  - The Journal of cardiovascular surgery
+KW  - Adult
+Femoral Vein
+diagnostic imaging
+surgery
+Follow-Up Studies
+Humans
+Hypertension
+diagnostic imaging
+epidemiology
+surgery
+Male
+Methods
+Postoperative Complications
+epidemiology
+Suture Techniques
+Ultrasonography
+Venous Insufficiency
+diagnostic imaging
+epidemiology
+surgery
+LA  - eng
+N1  - Belcaro, G
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Italy
+J Cardiovasc Surg (Torino). 1993 Oct;34(5):395-8.
+PY  - 1993
+SN  - 0021-9509 (Print)
+0021-9509
+SP  - 395-8
+ST  - Femoral vein valve repair with limited anterior plication (LAP)
+T2  - J Cardiovasc Surg (Torino)
+TI  - Femoral vein valve repair with limited anterior plication (LAP)
+VL  - 34
+ID  - 58
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this study was to evaluate the effects after 10 years of external valvuloplasty of the femoral vein (limited anterior plication or LAP). After informed consent patients with venous hypertension due to deep and superficial venous incompetence were randomized into two treatment groups. Both groups were treated with superficial vein surgery (ligation and section of the major incompetent superficial veins). Group 2 was treated with the same procedure and with LAP. External valvuloplasty of the superficial femoral vein was performed with plication of the anterior vein wall after limited dissection of the vein. Results were evaluated with color-duplex scanning and ambulatory venous pressure (AVP) measurements. Endpoints were AVP, refilling time (RT), presence/absence of reflux at the superficial femoral vein, the variation in the diameter of the vein, and quality of life score (QLS). No complications were observed. All femoral veins treated with LAP were competent after 10 years. Significantly lower AVP and longer RT were observed in the LAP group. Also the average diameter of the vein was smaller in the LAP group. Moreover, QLS was significantly better in the LAP group after 10 years. In conclusion, in selected subjects, with moderate deep venous incompetence, functional cusps, or incompetence mainly due to relative enlargement of the femoral vein, LAP may be an effective alternative to external valvuloplasty.
+AD  - Irvine Laboratory, St. Mary's Hospital at Imperial College, London, UK. cardres@pe.abol.it
+AN  - 10431992
+AU  - Belcaro, G.
+AU  - Nicolaides, A. N.
+AU  - Ricci, A.
+AU  - Laurora, G.
+AU  - Errichi, B. M.
+AU  - Christopoulos, D.
+AU  - Cesarone, M. R.
+AU  - De Sanctis, M. T.
+AU  - Incandela, L.
+DA  - Jul
+DB  - Medline
+DO  - 10.1177/000331979905000702
+DP  - NLM
+ET  - 1999/08/04
+IS  - 7
+J2  - Angiology
+KW  - Adult
+Aged
+Dissection
+Female
+Femoral Vein
+diagnostic imaging
+surgery
+Follow-Up Studies
+Humans
+Ligation
+Male
+Middle Aged
+Monitoring, Ambulatory
+Quality of Life
+Regional Blood Flow
+physiology
+Ultrasonography, Doppler, Color
+Ultrasonography, Doppler, Duplex
+Vascular Patency
+Venous Insufficiency
+diagnostic imaging
+surgery
+Venous Pressure
+physiology
+LA  - eng
+N1  - Belcaro, G
+Nicolaides, A N
+Ricci, A
+Laurora, G
+Errichi, B M
+Christopoulos, D
+Cesarone, M R
+De Sanctis, M T
+Incandela, L
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+Angiology. 1999 Jul;50(7):531-6. doi: 10.1177/000331979905000702.
+PY  - 1999
+SN  - 0003-3197 (Print)
+0003-3197
+SP  - 531-6
+ST  - External femoral vein valvuloplasty with limited anterior plication (LAP): a 10-year randomized, follow-up study
+T2  - Angiology
+TI  - External femoral vein valvuloplasty with limited anterior plication (LAP): a 10-year randomized, follow-up study
+VL  - 50
+ID  - 59
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Our current understanding of the pathophysiology of chronic venous disease (CVD) suggests that veno-active drugs (VAD) can provide effective symptom relief. Few studies have conducted head-to-head comparisons of VAD and placebo while also assessing objective measures (such as water plethysmography findings and tibiotarsal joint range of motion) and patient-reported quality of life outcomes. OBJECTIVES: To compare the effects of different VAD on limb volume reduction, tibiotarsal range of motion, and quality of life. METHODS: 136 patients with CVD (CEAP grades 2-5) were randomly allocated into four groups to receive micronized diosmin + hesperidin, aminaphthone, coumarin + troxerutin, or placebo (starch). Patients were administered a questionnaire consisting of a quality of life (QoL) measure designed specifically for persons with CVD, and underwent tibiotarsal joint angle measurement and water plethysmography of the lower extremity before and 30 days after pharmacological intervention. Assessors were blind to the treatment groups. RESULTS: Nine patients dropped out of the trial. Data collected from the 127 remaining patients was considered for statistical analysis. There were no differences in tibiotarsal joint range of motion. Volume reductions ≥100 mL were more frequent in the diosmin + hesperidin group than in any other group. QoL scores were best in the aminaphthone group, and between-group differences were found on individual analysis of questionnaire items. CONCLUSIONS: Use of VAD was associated with significant improvements in QoL as compared with placebo. VAD may be effective for providing symptom relief in patients with CVD.
+AD  - São Camilo Medical School, São Paulo, SP, Brazil belczak@gmail.com.
+São Camilo Medical School, São Paulo, SP, Brazil.
+Medical School of the University of São Paulo, São Paulo, SP, Brazil.
+General Hospital of Carapicuiba, São Camilo University Center, São Paulo, SP, Brazil.
+São Camilo University Center, Academic League of Angiology and Vascular Surgery São Paulo, SP, Brazil.
+Medical School of the University of São Paulo, São Paulo, SP, Brazil São Camilo University Center, Academic League of Angiology and Vascular Surgery São Paulo, SP, Brazil.
+AN  - 23761871
+AU  - Belczak, S. Q.
+AU  - Sincos, I. R.
+AU  - Campos, W.
+AU  - Beserra, J.
+AU  - Nering, G.
+AU  - Aun, R.
+DA  - Aug
+DB  - Medline
+DO  - 10.1177/0268355513489550
+DP  - NLM
+ET  - 2013/06/14
+IS  - 7
+J2  - Phlebology
+KW  - Biomechanical Phenomena
+Brazil
+Cardiovascular Agents
+adverse effects
+therapeutic use
+Chronic Disease
+Coumarins
+therapeutic use
+Diosmin
+therapeutic use
+Double-Blind Method
+Drug Therapy, Combination
+Edema
+diagnosis
+physiopathology
+Female
+Foot Joints
+drug effects
+physiopathology
+Hesperidin
+therapeutic use
+Humans
+Hydroxyethylrutoside
+analogs & derivatives
+therapeutic use
+Male
+Plethysmography
+Quality of Life
+Range of Motion, Articular
+Recovery of Function
+Surveys and Questionnaires
+Time Factors
+Treatment Outcome
+Venous Insufficiency
+diagnosis
+drug therapy
+physiopathology
+para-Aminobenzoates
+therapeutic use
+LA  - eng
+N1  - 1758-1125
+Belczak, Sergio Q
+Sincos, Igor R
+Campos, Walter
+Beserra, Julio
+Nering, Gilberto
+Aun, Ricardo
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+England
+Chronic venous insufficiency
+patient-reported outcomes
+pharmacologic agents
+plethysmography
+quality of life assessment
+Phlebology. 2014 Aug;29(7):454-60. doi: 10.1177/0268355513489550. Epub 2013 May 16.
+PY  - 2014
+SN  - 0268-3555
+SP  - 454-60
+ST  - Veno-active drugs for chronic venous disease: A randomized, double-blind, placebo-controlled parallel-design trial
+T2  - Phlebology
+TI  - Veno-active drugs for chronic venous disease: A randomized, double-blind, placebo-controlled parallel-design trial
+VL  - 29
+ID  - 65
+ER  - 
+
+TY  - JOUR
+AN  - 7025500
+AU  - Bergqvist, D.
+AU  - Hallböök, T.
+AU  - Lindblad, B.
+AU  - Lindhagen, A.
+DB  - Medline
+DP  - NLM
+ET  - 1981/01/01
+IS  - 3
+J2  - VASA. Zeitschrift fur Gefasskrankheiten
+KW  - Chronic Disease
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Humans
+Hydroxyethylrutoside
+therapeutic use
+Male
+Middle Aged
+Rutin
+analogs & derivatives
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Bergqvist, D
+Hallböök, T
+Lindblad, B
+Lindhagen, A
+Clinical Trial
+Journal Article
+Switzerland
+Vasa. 1981;10(3):253-60.
+PY  - 1981
+SN  - 0301-1526 (Print)
+0301-1526
+SP  - 253-60
+ST  - A double-blind trial of O-(beta-hydroxyethyl)-rutoside in patients with chronic venous insufficiency
+T2  - Vasa
+TI  - A double-blind trial of O-(beta-hydroxyethyl)-rutoside in patients with chronic venous insufficiency
+VL  - 10
+ID  - 66
+ER  - 
+
+TY  - JOUR
+AN  - 7064522
+AU  - Biland, L.
+AU  - Blättler, P.
+AU  - Scheibler, P.
+AU  - Studer, S.
+AU  - Widmer, L. K.
+DB  - Medline
+DP  - NLM
+ET  - 1982/01/01
+IS  - 1
+J2  - VASA. Zeitschrift fur Gefasskrankheiten
+KW  - Diosmin
+therapeutic use
+Flavonoids
+therapeutic use
+Humans
+Leg Ulcer
+drug therapy
+Pain
+drug therapy
+Phlebitis
+drug therapy
+Restless Legs Syndrome
+drug therapy
+Thrombophlebitis
+drug therapy
+LA  - ger
+N1  - Biland, L
+Blättler, P
+Scheibler, P
+Studer, S
+Widmer, L K
+Clinical Trial
+Controlled Clinical Trial
+English Abstract
+Journal Article
+Switzerland
+Vasa. 1982;11(1):53-8.
+OP  - Zur Therapie sogenannt venöser Beinbeschwerden. (Kontrollierte Doppelblind-Studie zur Untersuchung der therapeutischen Wirksamkeit von Daflon).
+PY  - 1982
+SN  - 0301-1526 (Print)
+0301-1526
+SP  - 53-8
+ST  - [On the therapy of so-called leg pains. Controlled double-blind study of the therapeutic efficacy of Daflon]
+T2  - Vasa
+TI  - [On the therapy of so-called leg pains. Controlled double-blind study of the therapeutic efficacy of Daflon]
+VL  - 11
+ID  - 67
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Apart from compression therapy, physical therapy has scarcely been evaluated in the treatment of chronic venous disorders (CVDs). Spa treatment is a popular way to administer physical therapy for CVDs in France, but its efficacy has not yet been assessed in a large trial. The objective was to assess the efficacy of spa therapy for patients with advanced CVD (CEAP clinical classes C4-C5). METHODS: This was a single-blind (treatment concealed to the investigators) randomized, multicenter, controlled trial (French spa resorts). Inclusion criteria were primary or post-thrombotic CVD with skin changes but no active ulcer (C4a, C4b, or C5). The treated group had the usual 3-week spa treatment course soon after randomization; the control group had spa treatment after the 1-year comparison period. All patients continued their usual medical care including wearing compression stockings. Treatment consisted of four balneotherapy sessions per day for 6 days a week. Follow-up was performed at 6, 12 and 18 months by independent blinded investigators. The main outcome criterion was the incidence of leg ulcers at 12 months. Secondary criteria were a modified version of the Venous Clinical Severity Score, a visual analog scale for leg symptoms, and the Chronic Venous Insufficiency Questionnaire 2 and EuroQol 5D quality-of-life autoquestionnaires. RESULTS: Four hundred twenty-five subjects were enrolled: 214 in the treatment group (Spa) and 211 in the control group (Ctr); they were similar at baseline regarding their demographic characteristics, the severity of the CVD, and the outcome variables. At 1 year, the incidence of leg ulcers was not statistically different (Spa: +9.3%; 95% confidence interval [CI], +5.6 - +14.3; Ctr: +6.1%; 95% CI, +3.2 - +10.4), whereas the Venous Clinical Severity Score improved significantly in the treatment group (Spa: -1.2; 95% CI, -1.6 - -0.8; Ctr: -0.6; 95% CI, -1.0 - -0.2; P = .04). A significant difference favoring spa treatment was found regarding symptoms after 1 year (Spa: -0.03; 95% CI, -0.57 - +0.51; Ctr: +0.87; 95% CI,+0.46 - +1.26; P = .009). EuroQol 5D improved in the treatment group (Spa: +0.01; 95% CI, -0.02 - +0.04) while it worsened (Ctr: -0.07; 95% CI, -0.10 - -0.04) in the control group (P < .001). A similar pattern was found for the Chronic Venous Insufficiency Questionnaire 2 scale (Spa: -2.0; 95% CI, -4.4 - +0.4; Ctr: +2.4; 95% CI, +0.2 - +4.7; P = .008). The control patients showed similar improvements in clinical severity, symptoms, and quality of life after their own spa treatment (day 547). CONCLUSIONS: In this study, the incidence of leg ulcers was not reduced after a 3-week spa therapy course. Nevertheless, our study demonstrates that spa therapy provides a significant and substantial improvement in clinical status, symptoms, and quality of life of patients with advanced venous insufficiency for at least 1 year.
+AD  - Clinique Universitaire de Médecine Vasculaire, Pôle Pluridisciplinaire de Médecine, Centre Hospitalier Universitaire, Grenoble, France; Centre de Recherche Universitaire, La Léchère, France. Electronic address: pcarpentier@chu-grenoble.fr.
+Clinique Universitaire de Médecine Vasculaire, Pôle Pluridisciplinaire de Médecine, Centre Hospitalier Universitaire, Grenoble, France.
+Clinique Universitaire de Médecine Vasculaire, Pôle Pluridisciplinaire de Médecine, Centre Hospitalier Universitaire, Grenoble, France; Centre de Recherche Universitaire, La Léchère, France.
+Centre d'Investigation Clinique Inserm CIC03, Centre Hospitalier Universitaire, Grenoble, France.
+Médecine Physique et Rééducation Département, Université Paul Sabatier, Toulouse, France.
+AN  - 24135621
+AU  - Carpentier, P. H.
+AU  - Blaise, S.
+AU  - Satger, B.
+AU  - Genty, C.
+AU  - Rolland, C.
+AU  - Roques, C.
+AU  - Bosson, J. L.
+C1  - ClinicalTrials.gov/NCT00838500
+DA  - Feb
+DB  - Medline
+DO  - 10.1016/j.jvs.2013.08.002
+DP  - NLM
+ET  - 2013/10/19
+IS  - 2
+J2  - Journal of vascular surgery
+KW  - Balneology
+Chi-Square Distribution
+Chronic Disease
+France
+epidemiology
+Humans
+Incidence
+Leg Ulcer
+diagnosis
+epidemiology
+therapy
+Quality of Life
+Severity of Illness Index
+Single-Blind Method
+Surveys and Questionnaires
+Time Factors
+Treatment Outcome
+Venous Insufficiency
+diagnosis
+epidemiology
+therapy
+LA  - eng
+N1  - 1097-6809
+Carpentier, Patrick H
+Blaise, Sophie
+Satger, Bernadette
+Genty, Céline
+Rolland, Carole
+Roques, Christian
+Bosson, Jean-Luc
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+United States
+J Vasc Surg. 2014 Feb;59(2):447-454.e1. doi: 10.1016/j.jvs.2013.08.002. Epub 2013 Oct 15.
+PY  - 2014
+SN  - 0741-5214
+SP  - 447-454.e1
+ST  - A multicenter randomized controlled trial evaluating balneotherapy in patients with advanced chronic venous insufficiency
+T2  - J Vasc Surg
+TI  - A multicenter randomized controlled trial evaluating balneotherapy in patients with advanced chronic venous insufficiency
+VL  - 59
+ID  - 102
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Except for compression therapy, physical therapy has scarcely been evaluated in the treatment of chronic venous disorders (CVD). Spa treatment is a popular way to administer physical therapy for CVD in France, but its efficacy has not been evaluated yet. This study aimed to assess the efficacy of balneotherapy associated with patient education, as performed in the spa resort of La Léchère, in patients with advanced chronic venous insufficiency (CEAP clinical classes C4/C5). METHODS: The study was a randomized controlled trial, spa therapy being administered on top of the usual medical care. Evaluation was by a blinded independent investigator. Subjects were patients with primary or post-thrombotic CVD with skin changes but no active ulcer (C4a, C4b, or C5), living in Grenoble area, and willing to undergo a spa treatment course in La Léchère. The treated group had the three week spa treatment course in La Léchère, soon after randomization; the control group also had a spa treatment, but starting at day 365. The treatment consisted of four balneology sessions per day, six days a week during three weeks, and three educational workshops. An independent follow-up was performed in Grenoble hospital every three months for 15 months. The main outcome criterion was the severity of the skin changes, as evaluated by means of malleolar chromametry. Quality of life, as measured by the Chronic Venous Insufficiency Questionnaire 2 scale, a visual analog scale (VAS) for leg symptoms, and the occurrence of leg ulcers were used as secondary criteria. The year after spa treatment in the treated group was compared with the year before spa treatment in the control group. RESULTS: Fifty-nine subjects were enrolled (29 in the treatment group and 30 in the control group). No statistically significant difference between groups was found at study onset regarding age, sex, etiology, CEAP "C" class, and the outcome variables. After treatment, chromametry showed significantly decreased pigmentation and erythema in the treatment group compared with the controls (P < .01). Quality of life (P < .01) and symptoms (P < .001) also improved significantly. These differences remained significant after one year follow-up. The control patients improved similarly after their own spa treatment (day 450). CONCLUSION: This study shows that spa therapy, associating balneotherapy and patient education, is able to improve significantly the skin trophic changes of the CVD patients and their CVD related quality of life and symptoms. This effect is of large magnitude and remains significant one year after the treatment course.
+AD  - Pôle Pluridisciplinaire de Médecine, Centre Hospitalier Universitaire de Grenoble, Clinique Universitaire de Médecine Vasculaire, Grenoble, France. patrick.carpentier@ujf-grenoble.fr
+AN  - 18829219
+AU  - Carpentier, P. H.
+AU  - Satger, B.
+DA  - Jan
+DB  - Medline
+DO  - 10.1016/j.jvs.2008.07.075
+DP  - NLM
+ET  - 2008/10/03
+IS  - 1
+J2  - Journal of vascular surgery
+KW  - Aged
+Balneology
+Chronic Disease
+Erythema
+etiology
+pathology
+prevention & control
+Female
+Health Resorts
+Humans
+Male
+Middle Aged
+Pain
+etiology
+prevention & control
+Pain Measurement
+Patient Education as Topic
+Quality of Life
+Severity of Illness Index
+Single-Blind Method
+Skin
+pathology
+Skin Pigmentation
+Time Factors
+Treatment Outcome
+Varicose Ulcer
+etiology
+pathology
+prevention & control
+Venous Insufficiency
+complications
+pathology
+therapy
+LA  - eng
+N1  - 1097-6809
+Carpentier, Patrick H
+Satger, Bernadette
+Journal Article
+Randomized Controlled Trial
+United States
+J Vasc Surg. 2009 Jan;49(1):163-70. doi: 10.1016/j.jvs.2008.07.075. Epub 2008 Oct 1.
+PY  - 2009
+SN  - 0741-5214
+SP  - 163-70
+ST  - Randomized trial of balneotherapy associated with patient education in patients with advanced chronic venous insufficiency
+T2  - J Vasc Surg
+TI  - Randomized trial of balneotherapy associated with patient education in patients with advanced chronic venous insufficiency
+VL  - 49
+ID  - 101
+ER  - 
+
+TY  - JOUR
+AB  - Calcium dobesilate was studied in a double-blind trial in 30 normal subjects and in 30 patients with chronic venous insufficiency (CVI). There were no significant alterations in the normal subjects. In patients with CVI the active drug gave significant improvements (p less than 0.01) in the measured volume of the foot and lower limb, in clinical tenderness (p less than 0.05), and in most of the symptoms (including feelings of heaviness, swelling, tiredness, and aching in the lower extremities). Even though the chronic venous insufficiency had existed for an average of fifteen years, a relatively short course of the drug caused considerable, and significant, improvements in a number of signs and symptoms of the disease.
+AD  - Lymphoedema Association of Australia, Inc., University of Adelaide.
+AN  - 3177951
+AU  - Casley-Smith, J. R.
+DA  - Oct
+DB  - Medline
+DO  - 10.1177/000331978803901001
+DP  - NLM
+ET  - 1988/10/01
+IS  - 10
+J2  - Angiology
+KW  - Adult
+Benzenesulfonates
+therapeutic use
+Calcium Dobesilate
+therapeutic use
+Chronic Disease
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Random Allocation
+Venous Insufficiency
+drug therapy
+physiopathology
+LA  - eng
+N1  - Casley-Smith, J R
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+Angiology. 1988 Oct;39(10):853-7. doi: 10.1177/000331978803901001.
+PY  - 1988
+SN  - 0003-3197 (Print)
+0003-3197
+SP  - 853-7
+ST  - A double-blind trial of calcium dobesilate in chronic venous insufficiency
+T2  - Angiology
+TI  - A double-blind trial of calcium dobesilate in chronic venous insufficiency
+VL  - 39
+ID  - 68
+ER  - 
+
+TY  - JOUR
+AB  - The variation of capillary filtration rate (CFR) and ankle edema (AE) were evaluated in three groups of patients with venous hypertension with ambulatory venous pressure > 42 mmHg and in healthy subjects before and after treatment for four weeks with HR (Paroven, Venoruton; 0-(beta-hydroxyethyl)-rutosides), a venoactive drug acting on the microcirculation and on capillary permeability. Group A (30 patients) was treated with HR 500 mg tid; group B (30 patients) was treated with 1 g tid; group C (30 patients) was treated with placebo; group D (10 healthy subjects) was treated with HR 1 g/day in a randomised study. CFR was assessed by venous occlusion plethysmography. Subjective symptoms of venous hypertension were assessed by an analogue scale line considering four symptoms: swelling sensation, restless lower extremity, pain and cramps, and tiredness. RESULTS: There were no significant differences for sex and age distribution among the groups; no significant differences were found for ambulatory venous pressure and refilling time and parameters of venous hypertension among groups. There was a significant difference between normal subjects and patients. There were no drop-outs and observed intolerance. In group A, there was a significant decrease of CFR (P < 0.01) after treatment. In group B (2 g/day), the decrease was greater than that in group A (P < 0.05). In group C (placebo) there was no significant difference before or after treatment. The variations in analogue score was higher with the higher dosage. The score of group A fell from 7.8 (SD 1.3) to 4 (1). Group B's score fell from 7.9 (2) to 3.1 (1.2). In group C (placebo) there was no change. The decrease in the score in the groups of patients was correlated with the variation in edema and CFR. CONCLUSION: HR is effective in venous edema and hypertension. Its effects are dose-related.
+AD  - Irvine2 Vasc Lab, Department of Biomedical Sciences, Chieti University, San Valentino Vascular Screening Project, Italy.
+AN  - 12011969
+AU  - Cesarone, M. R.
+AU  - Incandela, L.
+AU  - DeSanctis, M. T.
+AU  - Belcaro, G.
+AU  - Griffin, M.
+AU  - Ippolito, E.
+AU  - Acerbi, G.
+DA  - Jan
+DB  - Medline
+DO  - 10.1177/107424840200700106
+DP  - NLM
+ET  - 2002/05/16
+J2  - Journal of cardiovascular pharmacology and therapeutics
+KW  - Adult
+Dose-Response Relationship, Drug
+Edema
+drug therapy
+Female
+Humans
+Hydroxyethylrutoside
+administration & dosage
+analogs & derivatives
+pharmacology
+Hypertension
+complications
+Male
+Microcirculation
+Middle Aged
+Placebos
+Plethysmography
+Treatment Outcome
+Vasoconstrictor Agents
+administration & dosage
+pharmacology
+Venous Insufficiency
+complications
+drug therapy
+LA  - eng
+N1  - Cesarone, M R
+Incandela, L
+DeSanctis, M T
+Belcaro, G
+Griffin, M
+Ippolito, E
+Acerbi, G
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+United States
+J Cardiovasc Pharmacol Ther. 2002 Jan;7 Suppl 1:S21-4. doi: 10.1177/107424840200700106.
+PY  - 2002
+SN  - 1074-2484 (Print)
+1074-2484
+SP  - S21-4
+ST  - Treatment of edema and increased capillary filtration in venous hypertension with HR (Paroven, Venoruton; 0-(beta-hydroxyethyl)-rutosides): a clinical, prospective, placebo-controlled, randomized, dose-ranging trial
+T2  - J Cardiovasc Pharmacol Ther
+TI  - Treatment of edema and increased capillary filtration in venous hypertension with HR (Paroven, Venoruton; 0-(beta-hydroxyethyl)-rutosides): a clinical, prospective, placebo-controlled, randomized, dose-ranging trial
+VL  - 7 Suppl 1
+ID  - 70
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: to evaluate the efficacy of a micronised purified flavonoid fraction (MPFF) in the treatment of chronic venous disease (CVD). DESIGN: prospective double blind, randomised, control study. PATIENTS AND METHODS: one hundred and one patients with symptomatic CVD were randomly allocated to treatment for 60 days with either MPFF (51 patients) or placebo (50 patients) 500 mg twice daily. There were 28 men and 73 women, aged 22-65 years (mean age 48 years). No difference regarding age, gender, clinical class or duration of symptoms was recorded between the treatment and placebo groups. A global score for evaluation of symptoms was used. Patients were investigated with plethysmography (foot-volumetry) and duplex-ultrasonography before and after the treatment period. For statistical comparison Cochran-Mantel-Haenszel test, two-sided Student t-test and covariance analysis were used and p<0.05 was regarded significant. RESULTS: improvement of the global score of symptoms was reported by 21 patients in the MPFF group and by 16 in the placebo group (N.S.). For the whole groups, no significant differences were recorded before and after treatment regarding foot-volumetric or ultrasonographic parameters. On the other hand, in patients with edema (20 in the MPFF group, 23 in the placebo group) ultrasonographic reflux time was significantly reduced for those in the treatment group (p=0.03). This finding did not correlate to clinical symptoms. CONCLUSION: in this study, MPFF did not change the symptoms of CVD, except night cramps. A secondary finding was reduced reflux times in patients with oedema, although no ultrasonographic or foot-volumetric parameters changed significantly for the whole group. The role of MPFF in treatment of patients with CVD needs to be further analysed in a large population.
+AD  - Section of Vascular Surgery, Department of Surgery, Lund University Hospital, Sweden.
+AN  - 11748952
+AU  - Danielsson, G.
+AU  - Jungbeck, C.
+AU  - Peterson, K.
+AU  - Norgren, L.
+DA  - Jan
+DB  - Medline
+DO  - 10.1053/ejvs.2001.1531
+DP  - NLM
+ET  - 2001/12/26
+IS  - 1
+J2  - European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery
+KW  - Adult
+Aged
+Chronic Disease
+Diosmin
+therapeutic use
+Double-Blind Method
+Edema
+diagnosis
+etiology
+Female
+Foot
+Humans
+Male
+Middle Aged
+Plethysmography
+Prospective Studies
+Ultrasonography, Doppler, Duplex
+Venous Insufficiency
+complications
+diagnosis
+diagnostic imaging
+drug therapy
+LA  - eng
+N1  - Danielsson, G
+Jungbeck, C
+Peterson, K
+Norgren, L
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Eur J Vasc Endovasc Surg. 2002 Jan;23(1):73-6. doi: 10.1053/ejvs.2001.1531.
+PY  - 2002
+SN  - 1078-5884 (Print)
+1078-5884
+SP  - 73-6
+ST  - A randomised controlled trial of micronised purified flavonoid fraction vs placebo in patients with chronic venous disease
+T2  - Eur J Vasc Endovasc Surg
+TI  - A randomised controlled trial of micronised purified flavonoid fraction vs placebo in patients with chronic venous disease
+VL  - 23
+ID  - 71
+ER  - 
+
+TY  - JOUR
+AB  - A multi-centre, double blind randomized clinical trial was designed to assess the efficacy and safety of orally administered 0-(beta-hydroxyethyl)-rutosides (HR) capsules in the treatment of 101 patients with post-thrombotic syndrome. Seventeen patients were excluded from the analysis for violation of the study protocol, 41 received HR capsules (1,200 mg/day) and 43 placebo. Mean follow-up scores at the 4th and 8th week show that the HR patients displayed an improved state of tiredness as compared to the placebo's. The mean circumference of the calf for the HR group decreased from 390 (+/- 33) mm at visit one to 382 (+/- 33) mm at visit three, with a mean circumference reduction of 8.7 (+/- 8) mm, compared to a steady placebo circumference of 387 (+/- 31) mm at all 3 visits with a mean circumference reduction of only 2 mm (+/- 9). The estimated treatment effect at week 8 was -6.7 mm, 95% confidence interval (-10.3, -3.0). The mean circumference of the ankle, decreased from 243 (+/- 20) mm to 238 (+/- 20) mm at the 4th week, contrasted with a constant placebo circumference of 241 (+/- 22) mm at both visits. The estimated treatment effect at week 4 was -5.4 mm, 95% confidence interval (-10.2, -0.6). However, at week 8, the estimated treatment effect was only -3.4 mm, 95% confidence interval (-8.6, +1.8). In conclusion, HR capsules may show an improvement in the clinical symptoms and may show a mean circumference reduction of the calf and ankle at the 8th week, in patients with post-thrombotic syndrome.
+AD  - Department of Surgery, University Hospital Leiden, The Netherlands.
+AN  - 2688186
+AU  - de Jongste, A. B.
+AU  - Jonker, J. J.
+AU  - Huisman, M. V.
+AU  - ten Cate, J. W.
+AU  - Azar, A. J.
+DA  - Nov 24
+DB  - Medline
+DP  - NLM
+ET  - 1989/11/24
+IS  - 3
+J2  - Thrombosis and haemostasis
+KW  - Adult
+Aged
+Anticoagulants
+therapeutic use
+Double-Blind Method
+Female
+Humans
+Hydroxyethylrutoside
+analogs & derivatives
+therapeutic use
+Male
+Middle Aged
+Multicenter Studies as Topic
+Random Allocation
+Rutin
+analogs & derivatives
+Syndrome
+Thrombosis
+complications
+drug therapy
+LA  - eng
+N1  - de Jongste, A B
+Jonker, J J
+Huisman, M V
+ten Cate, J W
+Azar, A J
+Clinical Trial
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Germany
+Thromb Haemost. 1989 Nov 24;62(3):826-9.
+PY  - 1989
+SN  - 0340-6245 (Print)
+0340-6245
+SP  - 826-9
+ST  - A double blind three center clinical trial on the short-term efficacy of 0-(beta-hydroxyethyl)-rutosides in patients with post-thrombotic syndrome
+T2  - Thromb Haemost
+TI  - A double blind three center clinical trial on the short-term efficacy of 0-(beta-hydroxyethyl)-rutosides in patients with post-thrombotic syndrome
+VL  - 62
+ID  - 77
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Chronic venous insufficiency (CVI) is a progressive and common disease that affects the superficial and deep venous systems of the lower limbs. CVI is characterised by valvular incompetence, reflux, venous obstruction, or a combination of these with consequent distal venous hypertension. Clinical manifestations of CVI include oedema, pain, skin changes, ulcerations and dilated skin veins in the lower limbs. It can result in a large financial burden on health systems. There is a wide variety of treatment options or therapies for CVI, ranging from surgery and medication to compression and physiotherapy. Balneotherapy (treatments involving water) is a relatively cheap option and potentially efficient way to deliver physical therapy for people with CVI. OBJECTIVES: To assess the efficacy and safety of balneotherapy for the treatment of people with chronic venous insufficiency (CVI). SEARCH METHODS: The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, AMED and CINAHL databases, the World Health Organization International Clinical Trials Registry Platform and the Clinical Trials.gov trials register to August 2018. We searched the LILACS and IBECS databases. We also checked references, searched citations and contacted study authors to identify additional studies. SELECTION CRITERIA: We included randomised and quasi-randomised controlled trials comparing balneotherapy with no treatment or other types of treatment for CVI. We also included studies that used a combination of treatments. DATA COLLECTION AND ANALYSIS: Two review authors independently reviewed studies retrieved by the search strategies. Both review authors independently assessed selected studies for complete analysis. We resolved conflicts through discussion. We attempted to contact trial authors for missing data, obtaining additional information. For binary outcomes (leg ulcer incidence and adverse events), we presented the results using odds ratio (OR) with 95% confidence intervals (CI). For continuous outcomes (disease severity, health-related quality of life (HRQoL), pain, oedema, skin pigmentation), we presented the results as a mean difference (MD) with 95% CI. MAIN RESULTS: We included seven randomised controlled trials with 891 participants (outpatients in secondary care). We found no quasi-randomised controlled trials. Six studies (836 participants) evaluated balneotherapy versus no treatment. One study evaluated balneotherapy versus a phlebotonic drug (melilotus officinalis) (55 participants). There was a lack of blinding of participants and investigators, imprecision and inconsistency, which downgraded the certainty of the evidence.For the balneotherapy versus no treatment comparison, there probably was no improvement in favour of balneotherapy in disease severity signs and symptom score as assessed using the Venous Clinical Severity Score (VCSS) (MD -1.66, 95% CI -4.14 to 0.83; 2 studies, 484 participants; moderate-certainty evidence). Balneotherapy probably resulted in a moderate improvement in HRQoL as assessed by the Chronic Venous Insufficiency Questionnaire 2 (CVIQ2) at three months (MD -9.38, 95% CI -18.18 to -0.57; 2 studies, 149 participants; moderate-certainty evidence), nine months (MD -10.46, 95% CI -11.81 to -9.11; 1 study; 55 participants; moderate-certainty evidence), and 12 months (MD -4.99, 95% CI -9.19 to -0.78; 2 studies, 455 participants; moderate-certainty evidence). There was no clear difference in HRQoL between balneotherapy and no treatment at six months (MD -1.64, 95% CI -9.18 to 5.89; 2 studies, 445 participants; moderate-certainty evidence). Balneotherapy probably slightly improved pain compared with no treatment (MD -1.23, 95% CI -1.33 to -1.13; 1 study; 390 participants; moderate-certainty evidence). There was no clear effect related to oedema between the two groups at 24 days (MD 43.28 mL, 95% CI -102.74 to 189.30; 2 studies, 153 participants; very-low certainty evidence). There probably was no improvement in favour of balneotherapy in the incidence of leg ulcers (OR 1.69, 95% CI 0.82 to 3.48; 2 studies, 449 participants; moderate-certainty evidence). There was probably a reduction in incidence of skin pigmentation changes in favour of balneotherapy at 12 months (pigmentation index: MD -3.59, 95% CI -4.02 to -3.16; 1 study; 59 participants; low-certainty evidence). The main complications reported included erysipelas (OR 2.58, 95% CI 0.65 to 10.22; 2 studies, 519 participants; moderate-certainty evidence), thromboembolic events (OR 0.35, 95% CI 0.09 to 1.42; 3 studies, 584 participants; moderate-certainty evidence) and palpitations (OR 0.33, 95% CI 0.01 to 8.52; 1 study; 59 participants; low-certainty evidence), with no clear evidence of an increase in reported adverse effects with balneotherapy. There were no serious adverse events reported in any of the studies.For the balneotherapy versus a phlebotonic drug (melilotus officinalis) comparison, we observed no clear difference in pain symptoms (OR 0.29, 95% CI 0.03 to 2.87; 1 study; 35 participants; very low-certainty evidence) and oedema (OR 0.21, 95% CI 0.02 to 2.27; 1 study; 35 participants; very low-certainty evidence). This single study did not report on the other outcomes of interest. AUTHORS' CONCLUSIONS: We identified moderate- to low-certainty evidence that suggests that balneotherapy may result in a moderate improvement in pain, quality of life and skin pigmentation changes and has no clear effect on disease severity signs and symptoms score, adverse effects, leg ulcers and oedema when compared with no treatment. For future studies, measurements of outcomes such as disease severity sign and symptom score, quality of life, pain and oedema and choice of time points during follow-up must be standardised for adequate comparison between trials.
+AD  - Interdisciplinary Surgical Science Program, Universidade Federal de São Paulo (UNIFESP), Rua Napoleao de Barros, 420, São Paulo, Brazil.
+AN  - 31449319
+AU  - de Moraes Silva, M. A.
+AU  - Nakano, L. C.
+AU  - Cisneros, L. L.
+AU  - Miranda, F., Jr.
+C2  - PMC6709645
+DA  - Aug 26
+DB  - Medline
+DO  - 10.1002/14651858.CD013085.pub2
+DP  - NLM
+ET  - 2019/08/27
+IS  - 8
+J2  - The Cochrane database of systematic reviews
+KW  - Balneology
+methods
+Edema
+epidemiology
+Humans
+Leg Ulcer
+epidemiology
+Pain Management
+methods
+Quality of Life
+Randomized Controlled Trials as Topic
+Venous Insufficiency
+therapy
+LA  - eng
+N1  - 1469-493x
+de Moraes Silva, Melissa Andreia
+Nakano, Luis Cu
+Cisneros, Lígia L
+Miranda, Fausto Jr
+ETM/442/CSO_/Chief Scientist Office/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+Systematic Review
+Cochrane Database Syst Rev. 2019 Aug 26;8(8):CD013085. doi: 10.1002/14651858.CD013085.pub2.
+PY  - 2019
+SN  - 1361-6137
+SP  - Cd013085
+ST  - Balneotherapy for chronic venous insufficiency
+T2  - Cochrane Database Syst Rev
+TI  - Balneotherapy for chronic venous insufficiency
+VL  - 8
+ID  - 57
+ER  - 
+
+TY  - JOUR
+AB  - A double-blind, placebo-controlled trial was carried out to assess the effectiveness of a new synthetic bioflavonoid, hidrosmin, in patients with chronic venous insufficiency of the lower limbs. Fifty-seven patients, showing varicose veins and ankle swelling and suffering from local pain and heaviness of the legs, were allocated at random to receive treatment for 45 days with 1 capsule 3-times daily of either 200 mg hidrosmin (30 patients) or placebo (27 patients). Pain and heavy legs were assessed using rating scales; swelling was assessed by a photographic method. The results showed that hidrosmin produced a significant clinical improvement in all of the parameters evaluated; compared with placebo, there was a marked reduction in the main subjective symptoms accompanied by a 10% reduction in swelling. Apart from 1 patient who complained of epigastric pain, there were no reports of adverse events during the study period.
+AD  - Vascular Surgery Services, University Hospital of the Canary Islands, Tenerife, Spain.
+AN  - 1633720
+AU  - Domínguez, C.
+AU  - Brautigam, I.
+AU  - González, E.
+AU  - González, J. A.
+AU  - Nazco, J.
+AU  - Valiente, R.
+AU  - Boada, J.
+DB  - Medline
+DO  - 10.1185/03007999209111529
+DP  - NLM
+ET  - 1992/01/01
+IS  - 10
+J2  - Current medical research and opinion
+KW  - Adult
+Aged
+Chronic Disease
+Diosmin
+analogs & derivatives
+therapeutic use
+Double-Blind Method
+Edema
+drug therapy
+Female
+Humans
+Male
+Middle Aged
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Domínguez, C
+Brautigam, I
+González, E
+González, J A
+Nazco, J
+Valiente, R
+Boada, J
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+England
+Curr Med Res Opin. 1992;12(10):623-30. doi: 10.1185/03007999209111529.
+PY  - 1992
+SN  - 0300-7995 (Print)
+0300-7995
+SP  - 623-30
+ST  - Therapeutic effects of hidrosmin on chronic venous insufficiency of the lower limbs
+T2  - Curr Med Res Opin
+TI  - Therapeutic effects of hidrosmin on chronic venous insufficiency of the lower limbs
+VL  - 12
+ID  - 72
+ER  - 
+
+TY  - JOUR
+AB  - Sixty-one patients suffering from primary varicosity were divided into 2 groups, one receiving regular hydrotherapy, the other no such treatment for 31/2 weeks. Objective evaluation of the venous competence showed an apparently greater benefit in the control group in respect to light reflex rheographic venous filling time. The leg volume changes, however, indicated a stronger and more persistent reduction in the experimental group. The same applied for ankle and calf circumferences, which were reduced significantly only in patients treated with hydrotherapy. Furthermore some (but not all) of the subjective symptoms yielded significantly more frequent improvement in this group. In conclusion this controlled study implies that hydrotherapy may help patients suffering from primary varicose veins, a notion which was previously often stated but so far not scientifically verified.
+AD  - Departement of Physical Medicine and Rehabilitation, University of Vienna.
+AN  - 1877335
+AU  - Ernst, E.
+AU  - Saradeth, T.
+AU  - Resch, K. L.
+DB  - Medline
+DP  - NLM
+ET  - 1991/01/01
+IS  - 2
+J2  - VASA. Zeitschrift fur Gefasskrankheiten
+KW  - Female
+Humans
+Hydrotherapy
+instrumentation
+Male
+Middle Aged
+Varicose Veins
+rehabilitation
+LA  - eng
+N1  - Ernst, E
+Saradeth, T
+Resch, K L
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Switzerland
+Vasa. 1991;20(2):147-52.
+PY  - 1991
+SN  - 0301-1526 (Print)
+0301-1526
+SP  - 147-52
+ST  - A single blind randomized, controlled trial of hydrotherapy for varicose veins
+T2  - Vasa
+TI  - A single blind randomized, controlled trial of hydrotherapy for varicose veins
+VL  - 20
+ID  - 103
+ER  - 
+
+TY  - JOUR
+AB  - The aims of the present study were to investigate the effect of calcium dobesilate on lymph flow and lymphovenous edema in patients with chronic venous disease. It was a randomized, placebo-controlled, double-blind clinical trial. Patients received 1 capsule of 500 mg calcium dobesilate every 8 hours (1.5 g/day) or placebo by 49 days. By the end of the treatment period, only the patients treated with calcium dobesilate had normalization of lymphogammagraphy (capture index and speed of lymph flow; 80 and 78%, respectively). Only patients treated with calcium dobesilate had statistically significant reduction in the perimeter of leg, calf, and ankle. Twenty-two out of 25 (88%) calcium dobesilate-treated patients presented clinical improvement versus 5 out of 24 (20.8%) in the placebo group. One patient on calcium dobesilate developed rash and one patient on placebo complained of vomiting. In the present study, calcium dobesilate normalized lymph physiology and improved symptoms in patients with chronic venous disease.
+AD  - Centro de Diagnostico de Enfermedades Cardiovasculares, Merida, Yucatan, Mexico.
+AN  - 18388097
+AU  - Flota-Cervera, F.
+AU  - Flota-Ruiz, C.
+AU  - Treviño, C.
+AU  - Berber, A.
+DA  - Jun-Jul
+DB  - Medline
+DO  - 10.1177/0003319707305407
+DP  - NLM
+ET  - 2008/04/05
+IS  - 3
+J2  - Angiology
+KW  - Administration, Oral
+Calcium Dobesilate
+administration & dosage
+adverse effects
+therapeutic use
+Capsules
+Cardiovascular Agents
+administration & dosage
+adverse effects
+therapeutic use
+Chronic Disease
+Double-Blind Method
+Drug Administration Schedule
+Edema
+drug therapy
+etiology
+metabolism
+Female
+Humans
+Lower Extremity
+blood supply
+Lymph
+metabolism
+Lymphatic System
+drug effects
+physiopathology
+Lymphography
+Male
+Middle Aged
+Treatment Outcome
+Venous Insufficiency
+complications
+drug therapy
+metabolism
+LA  - eng
+N1  - 1940-1574
+Flota-Cervera, Fernando
+Flota-Ruiz, Cintia
+Treviño, Carlos
+Berber, Arturo
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Angiology. 2008 Jun-Jul;59(3):352-6. doi: 10.1177/0003319707305407. Epub 2008 Apr 2.
+PY  - 2008
+SN  - 0003-3197
+SP  - 352-6
+ST  - Randomized, double blind, placebo-controlled clinical trial to evaluate the lymphagogue effect and clinical efficacy of calcium dobesilate in chronic venous disease
+T2  - Angiology
+TI  - Randomized, double blind, placebo-controlled clinical trial to evaluate the lymphagogue effect and clinical efficacy of calcium dobesilate in chronic venous disease
+VL  - 59
+ID  - 73
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Physical therapy has not been evaluated much for the treatment of chronic venous insufficiency before. The question is whether balneohydrotherapy and usual care combined is superior to usual care alone. PATIENTS AND METHODS: In a randomized trial comparing spa therapy versus waiting list patients were treated on an out-patient basis in a private spa center. Patients had to be between 18 and 80 years old, with chronic venous insufficiency (stage 3 or 4 according to the CEAP classification). The balneohydrotherapy group received 18 days of treatment in Aix-Les-Bains spa center continuing their usual care. The control group continued their usual care as well during the study. The balneohydrotherapy program consisted of Kneipp therapy (10 minutes), walking 10 minutes in a special mineral water pool with underwater jets at 23 °C, massage and bathing in a mineral water tub at 34 °C. The main outcome criterion was the number of patients with 20 % self assessed improvement on the Chronic Venous Insufficiency Questionnaire at three months after therapy. RESULTS: 192 patients were assessed for eligibility, 99 were randomized 5 retired drew back their consent and were not included in the intention to treat analysis. None were lost to follow up. After three months 32 (66 %) patients improved in the balneohydrotherapy group and 13 (28 %) in the control group. The difference between groups was significant (odd ratio 5.08 [1.94 - 13.55], relative risk reduction 2.33 [1.42 - 3.84]).There were no serious side effects. CONCLUSIONS: Balneohydrotherapy seems to improve quality of life of patients with chronic venous insufficiency.
+AD  - Centre de recherche rhumatologique et thermal, Aix-les-Bains, France.
+Istanbul physical therapy rehabilitation training and research hospital, Bahçelievler, Turkey.
+Médipôle de Savoie, France.
+AN  - 25147013
+AU  - Forestier, R. J.
+AU  - Briancon, G.
+AU  - Francon, A.
+AU  - Erol, F. B.
+AU  - Mollard, J. M.
+C1  - ClinicalTrials.gov/NCT01956318
+DA  - Sep
+DB  - Medline
+DO  - 10.1024/0301-1526/a000374
+DP  - NLM
+ET  - 2014/08/26
+IS  - 5
+J2  - VASA. Zeitschrift fur Gefasskrankheiten
+KW  - Aged
+Balneology
+Chi-Square Distribution
+Chronic Disease
+Female
+France
+Humans
+Male
+Middle Aged
+Odds Ratio
+Quality of Life
+Severity of Illness Index
+Time Factors
+Treatment Outcome
+Venous Insufficiency
+diagnosis
+therapy
+LA  - eng
+N1  - Forestier, Romain J
+Briancon, Gisèle
+Francon, Alain
+Erol, Fatma B
+Mollard, Jean M
+Journal Article
+Randomized Controlled Trial
+Switzerland
+Chronic venous insufficiency
+balneotherapy
+hydro-balneotherapy
+spa therapy
+varicose vein
+Vasa. 2014 Sep;43(5):365-71. doi: 10.1024/0301-1526/a000374.
+PY  - 2014
+SN  - 0301-1526 (Print)
+0301-1526
+SP  - 365-71
+ST  - Balneohydrotherapy in the treatment of chronic venous insufficiency
+T2  - Vasa
+TI  - Balneohydrotherapy in the treatment of chronic venous insufficiency
+VL  - 43
+ID  - 104
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Chronic deep venous insufficiency is caused by incompetent vein valves, blockage of large-calibre leg veins, or both; and causes a range of symptoms including recurrent ulcers, pain and swelling. Most surgeons accept that well-fitted graduated compression stockings (GCS) and local care of wounds serve as adequate treatment for most people, but sometimes symptoms are not controlled and ulcers recur frequently, or they do not heal despite compliance with conservative measures. In these situations, in the presence of severe venous dysfunction, surgery has been advocated by some vascular surgeons. This is an update of the review first published in 2000. OBJECTIVES: To assess the effects of surgical management of deep venous insufficiency on ulcer healing and recurrence, complications of surgery, clinical outcomes, quality of life (QoL) and pain. SEARCH METHODS: The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase and CINAHL databases, and the WHO ICTRP and ClinicalTrials.gov trials registries to 23 June 2020. SELECTION CRITERIA: We considered randomised controlled trials (RCTs) of surgical treatment versus another surgical procedure, usual care or no treatment, for people with deep venous insufficiency. DATA COLLECTION AND ANALYSIS: Two review authors independently assessed trials for inclusion, extracted data and assessed the risk of bias with the Cochrane risk of bias tool. We evaluated the certainty of the evidence using GRADE. We were unable to pool data due to differences in outcomes reported and how these were measured. Outcomes of interest were ulcer healing and recurrence, complications of surgery, clinical changes, QoL and pain. MAIN RESULTS: We included four RCTs (273 participants) comparing valvuloplasty plus surgery of the superficial venous system with surgery of the superficial venous system for primary valvular incompetence. Follow-up was two to 10 years. All included studies investigated primary valve incompetence. No studies investigated other surgical procedures for the treatment of people with deep venous insufficiency or surgery for secondary valvular incompetence or venous obstruction. The certainty of the evidence was downgraded for risk of bias concerns and imprecision due to small numbers of included trials, participants and events. None of the studies reported ulcer healing or ulcer recurrence. One study included 27 participants with active venous ulceration at the time of surgery; the other three studies did not include people with ulcers. There were no major complications of surgery, no incidence of deep vein thrombosis and no deaths reported (very low-certainty evidence). All four studies reported clinical changes but the data could not be pooled due to different outcome measures and reporting of the data. Two studies assessed clinical changes using subjective and objective measurements, as specified in the clinical, aetiological, anatomical and pathophysiological (CEAP) classification score (low-certainty evidence). One study reported mean CEAP severity scores and one study reported change in clinical class using CEAP. At baseline, the mean CEAP severity score was 18.1 (standard deviation (SD) 4.4) for limbs undergoing external valvuloplasty with surgery to the superficial venous system and 17.8 (SD 3.4) for limbs undergoing surgery to the superficial venous system only. At three years post-surgery, the mean CEAP severity score was 5.2 (SD 1.6) for limbs that had undergone external valvuloplasty with surgery to the superficial venous system and 9.2 (SD 2.6) for limbs that had undergone surgery to the superficial venous system only (low-certainty evidence). In another study, participants with progressive clinical dynamics over the five years preceding surgery had higher rates of improvement in clinical condition in the treatment group (valvuloplasty plus ligation) compared with the control group (ligation only) (80% versus 51%) after seven years of follow-up. Participants with stable preoperative clinical dynamics demonstrated similar rates of improvement in both groups (95% with valvuloplasty plus ligation versus 90% with ligation only) (low-certainty evidence). One study reported disease-specific QoL using cumulative scores from a 10-item visual analogue scale (VAS) and reported that in the limited anterior plication (LAP) plus superficial venous surgery group the score decreased from 49 to 11 at 10 years, compared to a decrease from 48 to 36 in participants treated with superficial venous surgery only (very low-certainty evidence). Two studies reported pain. Within the QoL VAS scale, one item was 'pain/discomfort' and scores decreased from 4 to 1 at 10 years for participants in the LAP plus superficial venous surgery group and increased from 2 to 3 at 10 years in participants treated with superficial venous surgery only. A second study reported that 'leg heaviness and pain' was resolved completely in 36/40 limbs treated with femoral vein external valvuloplasty plus high ligation and stripping of the great saphenous vein (GSV) and percutaneous continuous circumsuture and 22/40 limbs treated with high ligation and stripping of GSV and percutaneous continuous circumsuture alone, at three years' follow-up (very low-certainty evidence). AUTHORS' CONCLUSIONS: We only identified evidence from four RCTs for valvuloplasty plus surgery of the superficial venous system for primary valvular incompetence. We found no studies investigating other surgical procedures for the treatment of people with deep venous insufficiency, or that included participants with secondary valvular incompetence or venous obstruction. None of the studies reported ulcer healing or recurrence, and few studies reported complications of surgery, clinical outcomes, QoL and pain (very low- to low-certainty evidence). Conclusions on the effectiveness of valvuloplasty for deep venous insufficiency cannot be made.
+AD  - Department of Vascular Surgery, East Lancashire Hospitals NHS Trust, Royal Blackburn Hospital (Trust HQ), Blackburn, UK.
+Cochrane Vascular, University of Edinburgh, Edinburgh, UK.
+AN  - 34591328
+AU  - Goel, R. R.
+AU  - Hardy, S. C.
+AU  - Brown, T.
+C2  - PMC8483065
+DA  - Sep 30
+DB  - Medline
+DO  - 10.1002/14651858.CD001097.pub4
+DP  - NLM
+ET  - 2021/10/01
+IS  - 9
+J2  - The Cochrane database of systematic reviews
+KW  - Edema
+Humans
+Saphenous Vein
+Stockings, Compression
+Varicose Ulcer
+surgery
+Venous Insufficiency
+surgery
+LA  - eng
+N1  - 1469-493x
+Goel, Ravi Raj
+Hardy, Simon C
+Brown, Tamara
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Cochrane Database Syst Rev. 2021 Sep 30;9(9):CD001097. doi: 10.1002/14651858.CD001097.pub4.
+PY  - 2021
+SN  - 1361-6137
+SP  - Cd001097
+ST  - Surgery for deep venous insufficiency
+T2  - Cochrane Database Syst Rev
+TI  - Surgery for deep venous insufficiency
+VL  - 9
+ID  - 56
+ER  - 
+
+TY  - JOUR
+AB  - The objective of this study was to evaluate the efficacy of Daflon 500 mg (Dios)* in venous ulcers. A multicenter, double-blind, randomized, controlled versus placebo (Plac) trial was conducted, with stratification according to the size of ulcer (< or = 10 cm and > 10 cm). The protocol called for a two-month treatment with Dios (one tablet = 450 mg micronized purified Diosmin) or a placebo, two tablets/day, in addition to compression therapy. Evaluations were performed every fifteen days, from D0 to D60. The primary endpoint, in accordance with Alexander House group requirements were: percentage of patients with complete ulcer healing, ie, comparison between Dios and Plac group at D60, and comparison of survival curves in each group between D0 and D60 (log rank test). Secondary endpoints included ulcer surface area assessed by computerized planimetric measurements, qualitative evaluation of ulcers, and symptoms. The patients were 105 men and women ranging in age from eighteen to eighty-five years, with standard compression stocking, who were undergoing standardized local care of ulcer and had no significant arterial disease (ankle/arm systolic pressure index > 0.8). Fifty-three patients received Dios, and 52 received Plac. The 2 groups were well matched for age (m +/- 1 SD = seventy-one +/- eleven years), gender, ulcer size, and associated disorders. Among patients with ulcer size < or = 10 cm (Dios = 44, Plac = 47) a significantly larger number of patients had a complete ulcer healing at two months in the Dios group (n = 14) in comparison with the Plac group (n = 6) (32% vs 13%, P = 0.028) with a significantly shorter time duration of healing (P = 0.037). No difference was shown for the secondary criteria, except for sensation of heavy legs (P = 0.039) and a less atonic aspect of ulcer (P = 0.030) in favor of Dios. Among the 14 patients with ulcer size > 10 cm (Dios = 9, Plac = 5), subjected to a descriptive analysis only, no ulcer healed. This study showed that a two-month course of Daflon 500 mg at a daily dose of two tablets, in addition to conventional treatment, is of benefit in patients with venous ulcer < or = 10 cm by accelerating complete healing.
+AD  - Department of Service de Dermatologie-Phlébologie, Hospital Saint Charles, Montpellier, France.
+AN  - 8995348
+AU  - Guilhou, J. J.
+AU  - Dereure, O.
+AU  - Marzin, L.
+AU  - Ouvry, P.
+AU  - Zuccarelli, F.
+AU  - Debure, C.
+AU  - Van Landuyt, H.
+AU  - Gillet-Terver, M. N.
+AU  - Guillot, B.
+AU  - Levesque, H.
+AU  - Mignot, J.
+AU  - Pillion, G.
+AU  - Février, B.
+AU  - Dubeaux, D.
+DA  - Jan
+DB  - Medline
+DO  - 10.1177/000331979704800113
+DP  - NLM
+ET  - 1997/01/01
+IS  - 1
+J2  - Angiology
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Diosmin
+administration & dosage
+therapeutic use
+Double-Blind Method
+Drug Combinations
+Female
+Flavonoids
+administration & dosage
+therapeutic use
+Hesperidin
+administration & dosage
+therapeutic use
+Humans
+Leg Ulcer
+drug therapy
+therapy
+Male
+Middle Aged
+Pressure
+Treatment Outcome
+LA  - eng
+N1  - Guilhou, J J
+Dereure, O
+Marzin, L
+Ouvry, P
+Zuccarelli, F
+Debure, C
+Van Landuyt, H
+Gillet-Terver, M N
+Guillot, B
+Levesque, H
+Mignot, J
+Pillion, G
+Février, B
+Dubeaux, D
+Clinical Trial
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+United States
+Angiology. 1997 Jan;48(1):77-85. doi: 10.1177/000331979704800113.
+PY  - 1997
+SN  - 0003-3197 (Print)
+0003-3197
+SP  - 77-85
+ST  - Efficacy of Daflon 500 mg in venous leg ulcer healing: a double-blind, randomized, controlled versus placebo trial in 107 patients
+T2  - Angiology
+TI  - Efficacy of Daflon 500 mg in venous leg ulcer healing: a double-blind, randomized, controlled versus placebo trial in 107 patients
+VL  - 48
+ID  - 74
+ER  - 
+
+TY  - JOUR
+AN  - 7046524
+AU  - Hachen, H. J.
+AU  - Lorenz, P.
+DA  - Jul
+DB  - Medline
+DO  - 10.1177/000331978203300708
+DP  - NLM
+ET  - 1982/07/01
+IS  - 7
+J2  - Angiology
+KW  - Adult
+Benzenesulfonates
+therapeutic use
+Calcium Dobesilate
+pharmacology
+therapeutic use
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Hemodynamics
+drug effects
+Humans
+Middle Aged
+Plethysmography
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Hachen, H J
+Lorenz, P
+Clinical Trial
+Comparative Study
+Journal Article
+United States
+Angiology. 1982 Jul;33(7):480-8. doi: 10.1177/000331978203300708.
+PY  - 1982
+SN  - 0003-3197 (Print)
+0003-3197
+SP  - 480-8
+ST  - Double-blind clinical and plethysmographic study of calcium dobesilate in patients with peripheral microvascular disorders
+T2  - Angiology
+TI  - Double-blind clinical and plethysmographic study of calcium dobesilate in patients with peripheral microvascular disorders
+VL  - 33
+ID  - 75
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: The efficacy of a buckwheat herb tea was determined in patients with chronic venous insufficiency (CVI) in a single-centre, randomised, double-blind, placebo-controlled clinical trial. METHODS: Sixty-seven male and female patients (22-74 years) with CVI were randomly divided into two groups after a 2-week run-in period. They received either buckwheat herb tea (Fagopyrum esculentum) or a placebo tea for a period of 3 months. The main outcome measure was the lower leg volume determined by ultrasound. Subjective symptoms were assessed by a clinical symptom score system. The femoral vein diameters were measured by B-scan sonography. In a subgroup of patients capillary permeability was determined by cutaneous fluorescence angiography. RESULTS: Although the mean partial leg volume did not change in the treatment group (from 2041 to 2073 ml), it increased in the placebo group by 110 ml (from 1972 to 2082 ml) according to intent to treat. The difference between the groups was significant. The subjective clinical symptoms were significantly reduced in both groups. The mean diameters of the femoral veins were reduced and capillary permeability was improved, but neither change was statistically significant. No drug-related adverse effects were observed. CONCLUSION: CVI is a very placebo-sensitive condition. The treatment with buckwheat herb tea is safe and could have a favourable influence on patients with CVI such that further oedema development is prevented.
+AD  - Universitätsklinikum Charité, Medizinische Fakultät, Humboldt Universität zu Berlin, Germany.
+AN  - 8858269
+AU  - Ihme, N.
+AU  - Kiesewetter, H.
+AU  - Jung, F.
+AU  - Hoffmann, K. H.
+AU  - Birk, A.
+AU  - Müller, A.
+AU  - Grützner, K. I.
+DB  - Medline
+DO  - 10.1007/s002280050138
+DP  - NLM
+ET  - 1996/01/01
+IS  - 6
+J2  - European journal of clinical pharmacology
+KW  - Adult
+Aged
+Angiography
+Capillary Permeability
+drug effects
+Chronic Disease
+Double-Blind Method
+Edema
+diagnostic imaging
+prevention & control
+Edible Grain
+chemistry
+Female
+Femoral Vein
+diagnostic imaging
+pathology
+Humans
+Leg
+Male
+Middle Aged
+Plant Extracts
+therapeutic use
+Rutin
+therapeutic use
+Ultrasonography
+Venous Insufficiency
+drug therapy
+pathology
+LA  - eng
+N1  - Ihme, N
+Kiesewetter, H
+Jung, F
+Hoffmann, K H
+Birk, A
+Müller, A
+Grützner, K I
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Germany
+Eur J Clin Pharmacol. 1996;50(6):443-7. doi: 10.1007/s002280050138.
+PY  - 1996
+SN  - 0031-6970 (Print)
+0031-6970
+SP  - 443-7
+ST  - Leg oedema protection from a buckwheat herb tea in patients with chronic venous insufficiency: a single-centre, randomised, double-blind, placebo-controlled clinical trial
+T2  - Eur J Clin Pharmacol
+TI  - Leg oedema protection from a buckwheat herb tea in patients with chronic venous insufficiency: a single-centre, randomised, double-blind, placebo-controlled clinical trial
+VL  - 50
+ID  - 76
+ER  - 
+
+TY  - JOUR
+AB  - Chronic venous insufficiency (CVI) of the lower limbs is a complex and fluctuating disease by its pathogenic mechanisms and its clinical symptoms. Although symptoms are subjective, they affect the quality of life and socio-professional activity of many patients. This is why convincing demonstration of therapeutic activity of a venotropic drug should be carried out according to strict methodology. Only randomized double-blind controlled trials versus placebo (no reference drugs being available) could demonstrate the activity on condition that they are set up in a protocol, the statistical design of which, is adapted and defined "a priori". Inclusion, non inclusion and judgement criteria must be rigorous, taking into account many exogenous and endogenous factors which could have influence on the severity or the change in CVI and on the comparability of groups at the beginning and at the end of the study. Thus, the main risk factors of CVI (heredity, obesity, obstetrical and gynecological history, estroprogestogen treatment, profession, environment, etc.) and the season when the patient is recruited should be taken into account. With respect to all these restraints on methodology, the venotrotopic activity of a flavonoid Daflon 500 mg (2 tablets daily) was demonstrated in 200 patients (174 women, 26 men) with organic CVI (n = 83) or functional CVI (n = 117) treated for two months in two double-blind randomized trials versus placebo. The venotropic activity of Daflon 500 mg, was shown by a significant reduction of CVI signs and symptoms, whether organic or functional, and a significant improvement in venous hemodynamics according to plethysmographic parameters. Good acceptability was observed after medium and long term trials.
+AD  - St. Jacques Hospital, Besançon, France.
+AN  - 3053942
+AU  - Laurent, R.
+AU  - Gilly, R.
+AU  - Frileux, C.
+DA  - Apr-Jun
+DB  - Medline
+DP  - NLM
+ET  - 1988/04/01
+IS  - 2 Suppl
+J2  - International angiology : a journal of the International Union of Angiology
+KW  - Adult
+Aged
+Aged, 80 and over
+Clinical Trials as Topic
+Diosmin
+therapeutic use
+Double-Blind Method
+Female
+Flavonoids
+therapeutic use
+Humans
+Male
+Middle Aged
+Random Allocation
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Laurent, R
+Gilly, R
+Frileux, C
+Clinical Trial
+Comparative Study
+Journal Article
+Italy
+Int Angiol. 1988 Apr-Jun;7(2 Suppl):39-43.
+PY  - 1988
+SN  - 0392-9590 (Print)
+0392-9590
+SP  - 39-43
+ST  - Clinical evaluation of a venotropic drug in man. Example of Daflon 500 mg
+T2  - Int Angiol
+TI  - Clinical evaluation of a venotropic drug in man. Example of Daflon 500 mg
+VL  - 7
+ID  - 78
+ER  - 
+
+TY  - JOUR
+AB  - The efficacy and tolerability of O-(beta-hydroxyethyl)-rutosides (HR) in elderly patients (aged over 65 years) with chronic venous insufficiency or varicose veins was studied in a multicentre, double-blind, randomised, placebo-controlled trial. Of the 104 patients entered into the trial, data from 102 were available for analysis of tolerability and from 86 for efficacy. Treatment was for 6 months, with monthly examinations. Three different dosages were used due to slight differences in the registered dosage in various countries: (1) 250 mg 4 times daily (1 g/day), UK, n = 19 patients; (2) 300 mg 3 times daily (900 mg/day), FRG and Belgium, n = 55, and (3) 300 mg 4 times daily (1,200 mg/day), The Netherlands, n = 30. Each centre had its own placebo control group. The HR-treated group (n = 41) showed a significantly greater reduction in the total symptom score, 5.7 +/- 2.4 to 2.3 +/- 1.8, than in the placebo group, 4.4 +/- 3.0 to 3.0 +/- 2.4 (p < 0.01). Of the 5 studied symptoms there was also a significant (p < 0.05) improvement in leg cramps, heavy legs and restless legs. No significant differences between the two groups were seen for aching pains and paraesthesia. A small reduction was also seen in ankle and calf circumferences, which became significant at the end of the trial (p < 0.05). Pitting oedema of the leg (p < 0.01) and eczema of the leg (p < 0.05) also improved significantly greater than in the control group.(ABSTRACT TRUNCATED AT 250 WORDS)
+AD  - Geriatric Medicine Unit, City Hospital, Edinburgh, UK.
+AN  - 8034203
+AU  - MacLennan, W. J.
+AU  - Wilson, J.
+AU  - Rattenhuber, V.
+AU  - Dikland, W. J.
+AU  - Vanderdonckt, J.
+AU  - Moriau, M.
+DB  - Medline
+DO  - 10.1159/000213574
+DP  - NLM
+ET  - 1994/01/01
+IS  - 1
+J2  - Gerontology
+KW  - Aged
+Aged, 80 and over
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Humans
+Hydroxyethylrutoside
+administration & dosage
+adverse effects
+Male
+Varicose Veins
+drug therapy
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - MacLennan, W J
+Wilson, J
+Rattenhuber, V
+Dikland, W J
+Vanderdonckt, J
+Moriau, M
+Clinical Trial
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Switzerland
+Gerontology. 1994;40(1):45-52. doi: 10.1159/000213574.
+PY  - 1994
+SN  - 0304-324X (Print)
+0304-324x
+SP  - 45-52
+ST  - Hydroxyethylrutosides in elderly patients with chronic venous insufficiency: its efficacy and tolerability
+T2  - Gerontology
+TI  - Hydroxyethylrutosides in elderly patients with chronic venous insufficiency: its efficacy and tolerability
+VL  - 40
+ID  - 79
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: We tested the hypothesis that the course of primary chronic venous insufficiency can be changed by correction of the incompetent valve in the superficial femoral vein. METHODS: This was a prospective, randomized, controlled study. A total of 125 extremities with reflux in greater saphenous and superficial femoral veins and belonging to clinical classes C2-C4 were analyzed. During the first 5 years, the type of clinical dynamics and changes in valvular function were determined in each patient. Patients were stratified according to the type of clinical dynamics and randomly assigned to treatment groups. Phlebectomy was performed in all extremities. In each of 64 extremities (the study group), the proximal incompetent superficial femoral vein valve was corrected as a part of the primary intervention. Patients were followed up for 7 to 8 years after surgery. RESULTS: The clinical dynamics of the extremity significantly depended on reflux changes. Increase in superficial femoral vein reflux was found in 74% of the extremities with progressive clinical dynamics but in only 47% of extremities with stable clinical dynamics (chi(2) = 9.71; P <.01). After surgical treatment, 65% of the extremities in the control group showed stable improvement; in 11%, recurrent varicosity was found; in 24%, the disease was aggravated. Of the extremities in the study group, 86% had stable improvement, 5% had recurrent varicosity, and 10% were aggravated (P <.05). Extremities with the progressive type of clinical dynamics were main contributors to this difference (chi(2) = 7.86; P <.05). In 92% of the extremities with corrected valves and in 50% of the extremities with increase in reflux after valvuloplasty, clinical improvement was observed (chi(2) = 11.5; P <.01). Extremities with corrected valvular function demonstrated superior results in comparison with extremities with stable valvular function in the control group (clinical improvement in 92% and 66% of extremities, respectively; P <.005). CONCLUSIONS: In patients with chronic venous insufficiency, two types of clinical dynamics, stable and progressive, can be identified. The progressive type is associated with the presence of superficial femoral vein reflux and increasing greater saphenous vein reflux. Superficial vein surgery neither corrects superficial femoral vein reflux nor prevents it from progressing further. Correction of a single superficial femoral vein valve during primary intervention significantly improves the long-term results of superficial venous surgery. This improvement is associated with the prevention of reflux progression. Surgical correction of the incompetent superficial femoral vein valve changes the course of primary chronic venous insufficiency.
+AD  - Department of Surgery, Urals Medical Academy, Ekaterinburg, Russia.
+AN  - 11174790
+AU  - Makarova, N. P.
+AU  - Lurie, F.
+AU  - Hmelniker, S. M.
+DA  - Feb
+DB  - Medline
+DO  - 10.1067/mva.2001.110511
+DP  - NLM
+ET  - 2001/02/15
+IS  - 2
+J2  - Journal of vascular surgery
+KW  - Blood Flow Velocity
+Chronic Disease
+Disease Progression
+Femoral Vein
+diagnostic imaging
+surgery
+Follow-Up Studies
+Humans
+Leg
+blood supply
+Prospective Studies
+Recurrence
+Saphenous Vein
+diagnostic imaging
+physiopathology
+surgery
+Ultrasonography, Doppler, Duplex
+Varicose Veins
+physiopathology
+surgery
+Venous Insufficiency
+diagnostic imaging
+physiopathology
+surgery
+LA  - eng
+N1  - Makarova, N P
+Lurie, F
+Hmelniker, S M
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+United States
+J Vasc Surg. 2001 Feb;33(2):361-8. doi: 10.1067/mva.2001.110511.
+PY  - 2001
+SN  - 0741-5214 (Print)
+0741-5214
+SP  - 361-8
+ST  - Does surgical correction of the superficial femoral vein valve change the course of varicose disease?
+T2  - J Vasc Surg
+TI  - Does surgical correction of the superficial femoral vein valve change the course of varicose disease?
+VL  - 33
+ID  - 60
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Purpose of this study was to assess the effects of thermal hydrotherapy (balneokinesis) with a sulphurous water on clinical symptoms, quality of life and some functional parameters in patients with varicose veins. PATIENTS AND METHODS: 70 patients with primary or secondary symptomatic varicosis were enrolled and submitted to elastic compression therapy. Patients were then randomized to receive (50 pts, group A) or not receive (20 pts, group B) balneokinetic treatment for 12 days "on top" of elastic compression. Clinical symptoms, quality of life and functional parameters obtained with light reflex plethysmography (PPG) and laser Doppler fluxmetry (LDF) were assessed after 3 and 6 months. RESULTS: Scores for subjective symptoms as pain, edema, and venous claudication were decreased after 6 months in both groups, but more evidently in group A submitted to balneokinesis. Some parameters related to quality of life evaluation as "bodily pain" and "emotional role" were improved only in patients undergoing balneokinesis. Regarding functional parameters, with PPG venous refilling time after foot exercise moderately increased in both groups. With LDF a significant improvement in the veno-arteriolar reflex was seen in the group treated with balneokinesis. CONCLUSIONS: These results show additional benefits of balneokinetic treatment in patients with symptomatic varices submitted to elastic compression. In fact, clinical and quality of life improvements were observed. The associated amelioration in the veno-arteriolar reflex may support these subjective benefits.
+AD  - Institute of General and Specialistic Surgery and Phlebolymphology Center, University of Siena, Postgraduate School of Medical Hydrology, University of Milan, Italy.
+AN  - 12677762
+AU  - Mancini, S., Jr.
+AU  - Piccinetti, A.
+AU  - Nappi, G.
+AU  - Mancini, S.
+AU  - Caniato, A.
+AU  - Coccheri, S.
+DA  - Feb
+DB  - Medline
+DO  - 10.1024/0301-1526.32.1.26
+DP  - NLM
+ET  - 2003/04/08
+IS  - 1
+J2  - VASA. Zeitschrift fur Gefasskrankheiten
+KW  - Activities of Daily Living
+classification
+Adult
+Aged
+Balneology
+methods
+Bandages
+Combined Modality Therapy
+Exercise Therapy
+methods
+Female
+Humans
+Hydrotherapy
+Italy
+Laser-Doppler Flowmetry
+Male
+Middle Aged
+Plethysmography
+Quality of Life
+psychology
+Sulfur Compounds
+Varicose Veins
+diagnosis
+rehabilitation
+Venous Insufficiency
+diagnosis
+rehabilitation
+LA  - eng
+N1  - Mancini, S Jr
+Piccinetti, A
+Nappi, G
+Mancini, S
+Caniato, A
+Coccheri, S
+Clinical Trial
+Comparative Study
+Evaluation Study
+Journal Article
+Randomized Controlled Trial
+Switzerland
+Vasa. 2003 Feb;32(1):26-30. doi: 10.1024/0301-1526.32.1.26.
+PY  - 2003
+SN  - 0301-1526 (Print)
+0301-1526
+SP  - 26-30
+ST  - Clinical, functional and quality of life changes after balneokinesis with sulphurous water in patients with varicose veins
+T2  - Vasa
+TI  - Clinical, functional and quality of life changes after balneokinesis with sulphurous water in patients with varicose veins
+VL  - 32
+ID  - 105
+ER  - 
+
+TY  - JOUR
+AN  - 7020736
+AU  - Mann, R. J.
+DA  - Feb
+DB  - Medline
+DP  - NLM
+ET  - 1981/02/01
+IS  - 2
+J2  - The British journal of clinical practice
+KW  - Aged
+Clinical Trials as Topic
+Double-Blind Method
+Humans
+Hydroxyethylrutoside
+therapeutic use
+Leg Ulcer
+drug therapy
+Middle Aged
+Rutin
+analogs & derivatives
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Mann, R J
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+England
+Br J Clin Pract. 1981 Feb;35(2):79-81.
+PY  - 1981
+SN  - 0007-0947 (Print)
+0007-0947
+SP  - 79-81
+ST  - A double blind trial of oral O. B-hydroxyethyl rutosides for stasis leg ulcers
+T2  - Br J Clin Pract
+TI  - A double blind trial of oral O. B-hydroxyethyl rutosides for stasis leg ulcers
+VL  - 35
+ID  - 80
+ER  - 
+
+TY  - JOUR
+AB  - This pilot clinical trial was designed to further investigate the effects of calcium dobesilate in the treatment of chronic venous insufficiency (CVI) by means of a novel endpoint, transcutaneous oxygen pressure (TcPO2), and to evaluate the suitability of this endpoint for future research. Patients with mild to moderate CVI without active ulcers were randomized to receive calcium dobesilate 1000 mg/day, 2000 mg/day or placebo for 12 weeks. The primary efficacy endpoint was TcPO2 in the distal third of the internal side of the leg. Secondary endpoints included assessment of venous reflux and clinical symptoms. Patients in the dobesilate 1000 mg/day and placebo groups showed a mild increase in TcPO2 (adjusted mean change 2.67 mmHg and 1.56 mmHg, respectively), while those treated with 2000 mg/day of the active drug showed a decrease (adjusted mean change -0.53 mmHg). Conversely, clinical symptoms and venous reflux improved in all groups, especially with dobesilate, but differences with placebo were not significant. Treatment was very well tolerated. Although the absence of significant differences prevented confirmation of sensitivity, a trend favoring calcium dobesilate in clinical and hemodynamic parameters was observed. This improvement was not reflected by TcPO2.
+AD  - Hospital General de Mataro, Mataro, Barcelona, Spain.
+AN  - 15672120
+AU  - Marinello, J.
+AU  - Videla, S.
+DA  - Dec
+DB  - Medline
+DO  - 10.1358/mf.2004.26.10.872559
+DP  - NLM
+ET  - 2005/01/27
+IS  - 10
+J2  - Methods and findings in experimental and clinical pharmacology
+KW  - Adolescent
+Adult
+Aged
+Blood Gas Monitoring, Transcutaneous
+methods
+Calcium Dobesilate
+adverse effects
+therapeutic use
+Chronic Disease
+Double-Blind Method
+Drug Administration Schedule
+Female
+Fibrinogen
+drug effects
+metabolism
+Humans
+Leg
+blood supply
+physiopathology
+Male
+Middle Aged
+Pain Measurement
+drug effects
+Pilot Projects
+Plethysmography
+methods
+Treatment Outcome
+Venous Insufficiency
+diagnosis
+drug therapy
+physiopathology
+LA  - eng
+N1  - Marinello, J
+Videla, S
+Group for the Assessment of the Transcutaneous Oxygen Pressure in Chronic Venous Insufficiency
+Clinical Trial
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Spain
+Methods Find Exp Clin Pharmacol. 2004 Dec;26(10):775-80. doi: 10.1358/mf.2004.26.10.872559.
+PY  - 2004
+SN  - 0379-0355 (Print)
+0379-0355
+SP  - 775-80
+ST  - Chronic venous insufficiency of the lower limbs: suitability of transcutaneous blood gas monitoring as an endpoint to evaluate the outcome of pharmacological treatment with calcium dobesilate
+T2  - Methods Find Exp Clin Pharmacol
+TI  - Chronic venous insufficiency of the lower limbs: suitability of transcutaneous blood gas monitoring as an endpoint to evaluate the outcome of pharmacological treatment with calcium dobesilate
+VL  - 26
+ID  - 81
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To assess the efficacy of calcium dobesilate on the quality-of-life (QoL) of patients with chronic venous disease (CVD). DESIGN: Randomised, parallel, double blind, placebo-controlled clinical trial. METHODS: Patients were recruited from vascular surgery clinics and randomised to 500mg capsules of calcium dobesilate twice a day for 3 months or placebo. The primary outcome measure was 'QoL after 3 months' treatment measured by the specific Chronic Insufficiency Venous International Questionnaire (CIVIQ). Secondary outcomes were QoL at 12 months and assessment of the CVD signs and symptoms. The principal analysis was undertaken on the intention-to-treat (ITT) data. RESULTS: Five hundred and nine patients were recruited (246 to calcium dobesilate and 263 to placebo). The analysis of the 'QoL after 3 months' showed no significant differences between groups (p=0.07). For secondary outcomes, oedema and symptoms of CVD, there were no significant differences between groups. In a multi-factorial analysis, the 'QoL at 12 months' was better in the calcium dobesilate group than in placebo group (p=0.02). CONCLUSIONS: Treatment with calcium dobesilate was not found to be superior to placebo on the QoL of CVD patients. The sustained effect of calcium dobesilate observed after treatment should be confirmed in future studies.
+AD  - Iberoamerican Cochrane Centre, Epidemiology and Public Health Service, Hospital de la Santa Creu i Sant Pau, Spain. mmartinezz@santpau.es
+AN  - 17962050
+AU  - Martínez-Zapata, M. J.
+AU  - Moreno, R. M.
+AU  - Gich, I.
+AU  - Urrútia, G.
+AU  - Bonfill, X.
+DA  - Mar
+DB  - Medline
+DO  - 10.1016/j.ejvs.2007.08.012
+DP  - NLM
+ET  - 2007/10/27
+IS  - 3
+J2  - European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery
+KW  - Adult
+Calcium Dobesilate
+therapeutic use
+Chronic Disease
+Female
+Hemostatics
+therapeutic use
+Humans
+Male
+Middle Aged
+Principal Component Analysis
+Quality of Life
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - 1532-2165
+Martínez-Zapata, M J
+Moreno, R M
+Gich, I
+Urrútia, G
+Bonfill, X
+Chronic Venous Insufficiency Study Group
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Eur J Vasc Endovasc Surg. 2008 Mar;35(3):358-65. doi: 10.1016/j.ejvs.2007.08.012. Epub 2007 Oct 25.
+PY  - 2008
+SN  - 1078-5884
+SP  - 358-65
+ST  - A randomized, double-blind multicentre clinical trial comparing the efficacy of calcium dobesilate with placebo in the treatment of chronic venous disease
+T2  - Eur J Vasc Endovasc Surg
+TI  - A randomized, double-blind multicentre clinical trial comparing the efficacy of calcium dobesilate with placebo in the treatment of chronic venous disease
+VL  - 35
+ID  - 82
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Chronic venous insufficiency (CVI) is a condition in which veins are unable to transport blood unidirectionally towards the heart. CVI usually occurs in the lower limbs. It might result in considerable discomfort, with symptoms such as pain, itchiness and tiredness in the legs. Patients with CVI may also experience swelling and ulcers. Phlebotonics are a class of drugs often used to treat CVI. This is the second update of a review first published in 2005. OBJECTIVES: To assess the efficacy and safety of phlebotonics administered orally or topically for treatment of signs and symptoms of lower extremity CVI. SEARCH METHODS: The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL databases and the World Health Organization International Clinical Trials Registry Platform and Clinicaltrials.gov trials register up to 12 November 2019. We searched the reference lists of the articles retrieved by electronic searches for additional citations. We also contacted authors of unpublished studies. SELECTION CRITERIA: We included randomised, double-blind, placebo-controlled trials (RCTs) assessing the efficacy of phlebotonics (rutosides, hidrosmine, diosmine, calcium dobesilate, chromocarbe, Centella asiatica, disodium flavodate, French maritime pine bark extract, grape seed extract and aminaftone) in patients with CVI at any stage of the disease. DATA COLLECTION AND ANALYSIS: Two review authors independently extracted data and assessed the quality of included RCTs. We estimated the effects of treatment by using risk ratios (RRs), mean differences (MDs) and standardized mean differences (SMDs), according to the outcome assessed. We calculated 95% confidence intervals (CIs) and percentage of heterogeneity (I(2)). Outcomes of interest were oedema, quality of life (QoL), assessment of CVI and adverse events. We used GRADE criteria to assess the certainty of the evidence. MAIN RESULTS: We identified three new studies for this update. In total, 69 RCTs of oral phlebotonics were included, but only 56 studies (7690 participants, mean age 50 years) provided quantifiable data for the efficacy analysis. These studies used different phlebotonics (28 on rutosides, 11 on hidrosmine and diosmine, 10 on calcium dobesilate, two on Centella asiatica, two on aminaftone, two on French maritime pine bark extract and one on grape seed extract). No studies evaluating topical phlebotonics, chromocarbe, naftazone or disodium flavodate fulfilled the inclusion criteria. Moderate-certainty evidence suggests that phlebotonics probably reduce oedema slightly in the lower legs, compared with placebo (RR 0.70, 95% CI 0.63 to 0.78; 13 studies; 1245 participants); and probably reduce ankle circumference (MD -4.27 mm, 95% CI -5.61 to -2.93 mm; 15 studies; 2010 participants). Moderate-certainty evidence shows that phlebotonics probably make little or no difference in QoL compared with placebo (SMD -0.06, 95% CI -0.22 to 0.10; five studies; 1639 participants); and similarly, may have little or no effect on ulcer healing (RR 0.94, 95% CI 0.79 to 1.13; six studies; 461 participants; low-certainty evidence). Thirty-seven studies reported on adverse events. Pooled data suggest that phlebotonics probably increase adverse events slightly, compared to placebo (RR 1.14, 95% CI 1.02 to 1.27; 37 studies; 5789 participants; moderate-certainty evidence). Gastrointestinal disorders were the most frequently reported adverse events. We downgraded our certainty in the evidence from 'high' to 'moderate' because of risk of bias concerns, and further to 'low' because of imprecision. AUTHORS' CONCLUSIONS: There is moderate-certainty evidence that phlebotonics probably reduce oedema slightly, compared to placebo; moderate-certainty evidence of little or no difference in QoL; and low-certainty evidence that these drugs do not influence ulcer healing. Moderate-certainty evidence suggests that phlebotonics are probably associated with a higher risk of adverse events than placebo. Studies included in this systematic review provided only short-term safety data; therefore, the medium- and long-term safety of phlebotonics could not be estimated. Findings for specific groups of phlebotonics are limited due to small study numbers and heterogeneous results. Additional high-quality RCTs focusing on clinically important outcomes are needed to improve the evidence base.
+AD  - Iberoamerican Cochrane Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), CIBER Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain.
+Department of Nephrology and Hypertension and Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht, Netherlands.
+Cochrane Ecuador. Centro de Investigación en Salud Pública y Epidemiología Clínica (CISPEC). Facultad de Ciencias de la Salud Eugenio Espejo, Universidad Tecnológica Equinoccial, Quito, Ecuador.
+Preventive Medicine and Public Health, Vall Hebron University Hospital, Barcelona, Spain.
+Department of Public Health, Universidade Federal de Ciências da Saúde, Porto Alegre, Brazil.
+Angiology, Vascular and Endovascular Surgery, Universitary Hospital La Princesa, Madrid, Spain.
+Hospital Clínico San Carlos. Universidad Complutense de Madrid, Madrid, Spain.
+Iberoamerican Cochrane Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), Universitat Autònoma de Barcelona, CIBER Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain.
+AN  - 33141449
+AU  - Martinez-Zapata, M. J.
+AU  - Vernooij, R. W.
+AU  - Simancas-Racines, D.
+AU  - Uriona Tuma, S. M.
+AU  - Stein, A. T.
+AU  - Moreno Carriles, R. M. M.
+AU  - Vargas, E.
+AU  - Bonfill Cosp, X.
+C1  - ClinicalTrials.gov/NCT00979836
+ClinicalTrials.gov/NCT01848210
+ClinicalTrials.gov/NCT01654016
+ClinicalTrials.gov/NCT02191163
+ClinicalTrials.gov/NCT02191254
+ClinicalTrials.gov/NCT02191280
+ClinicalTrials.gov/NCT01532882
+C2  - PMC8094625
+DA  - Nov 3
+DB  - Medline
+DO  - 10.1002/14651858.CD003229.pub4
+DP  - NLM
+ET  - 2020/11/04
+IS  - 11
+J2  - The Cochrane database of systematic reviews
+KW  - 4-Aminobenzoic Acid
+therapeutic use
+Angioedemas, Hereditary
+drug therapy
+Calcium Dobesilate
+therapeutic use
+Centella
+Chronic Disease
+Diosmin
+analogs & derivatives
+therapeutic use
+Edema
+drug therapy
+Hematologic Agents
+therapeutic use
+Humans
+Leg
+Leg Ulcer
+drug therapy
+Middle Aged
+Phytotherapy
+methods
+Pinus
+Plant Extracts
+therapeutic use
+Quality of Life
+Randomized Controlled Trials as Topic
+Rutin
+therapeutic use
+Venous Insufficiency
+drug therapy
+para-Aminobenzoates
+therapeutic use
+LA  - eng
+N1  - 1469-493x
+Martinez-Zapata, Maria José
+Vernooij, Robin Wm
+Simancas-Racines, Daniel
+Uriona Tuma, Sonia Maria
+Stein, Airton T
+Moreno Carriles, Rosa Maria M
+Vargas, Emilio
+Bonfill Cosp, Xavier
+ETM/442/CSO_/Chief Scientist Office/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Systematic Review
+Cochrane Database Syst Rev. 2020 Nov 3;11(11):CD003229. doi: 10.1002/14651858.CD003229.pub4.
+PY  - 2020
+SN  - 1361-6137
+SP  - Cd003229
+ST  - Phlebotonics for venous insufficiency
+T2  - Cochrane Database Syst Rev
+TI  - Phlebotonics for venous insufficiency
+VL  - 11
+ID  - 55
+ER  - 
+
+TY  - JOUR
+AB  - Fourty patients with lower limb chronic venous insufficiency entered a randomised placebo controlled study with calcium dobesilate for one month. Clinical symptoms and plethysmographic parameters were evaluated before and after therapy in all patients. In the group of patients treated with calcium dobesilate we observed an improvement of clinical and instrumental parameters; no changes were found in the placebo group. We observed good tolerance to the drug and no side effects required withdrawal of treatment.
+AD  - Università degli Studi di Siena, Istituto di Patologia Speciale Medica e Metodologia Clinica.
+AN  - 2139387
+AU  - Pecchi, S.
+AU  - De Franco, V.
+AU  - Damiani, P.
+AU  - Guerrini, M.
+AU  - Di Perri, T.
+DA  - Mar 31
+DB  - Medline
+DP  - NLM
+ET  - 1990/03/31
+IS  - 6
+J2  - La Clinica terapeutica
+KW  - Aged
+Benzenesulfonates
+therapeutic use
+Calcium Dobesilate
+administration & dosage
+adverse effects
+therapeutic use
+Drug Tolerance
+Female
+Humans
+Male
+Middle Aged
+Randomized Controlled Trials as Topic
+Venous Insufficiency
+drug therapy
+LA  - ita
+N1  - Pecchi, S
+De Franco, V
+Damiani, P
+Guerrini, M
+Di Perri, T
+Clinical Trial
+Comparative Study
+English Abstract
+Journal Article
+Randomized Controlled Trial
+Italy
+Clin Ter. 1990 Mar 31;132(6):409-17.
+OP  - Il dobesilato di calcio nel trattamento dell'insufficienza venosa primitiva degli arti inferiori. Studio clinico controllato.
+PY  - 1990
+SN  - 0009-9074 (Print)
+0009-9074
+SP  - 409-17
+ST  - [Calcium dobesilate in the treatment of primary venous insufficiency of the lower limbs. A controlled clinical study]
+T2  - Clin Ter
+TI  - [Calcium dobesilate in the treatment of primary venous insufficiency of the lower limbs. A controlled clinical study]
+VL  - 132
+ID  - 83
+ER  - 
+
+TY  - JOUR
+AB  - Forty-three patients recruited from general practice with symptom-producing chronic venous insufficiency in the lower limbs participated in a randomized double-blind clinical trial with Venoruton (300 mg x 3) or a placebo for 28 days. Twenty-eight patients were treated with Venoruton and 19 with a placebo. None of the patients received other forms of treatment for chronic venous insufficiency. No differences were observed between the two groups as regards changes in symptoms (swelling, pain, heaviness, restlessness, itching and cramps) the subjective assessment of the discomfort in the extremities or the circumference of the limbs. Venoruton does not appear to have any effect on chronic venous insufficiency in the lower limbs.
+AD  - Københavns Kommunehospital, Medicinsk afdeling 3.
+AN  - 1413183
+AU  - Pedersen, F. M.
+AU  - Hamberg, O.
+AU  - Sørensen, M. D.
+AU  - Neland, K.
+DA  - Sep 14
+DB  - Medline
+DP  - NLM
+ET  - 1992/09/14
+IS  - 38
+J2  - Ugeskrift for laeger
+KW  - Adult
+Aged
+Chronic Disease
+Female
+Humans
+Hydroxyethylrutoside
+administration & dosage
+analogs & derivatives
+therapeutic use
+Leg
+blood supply
+Male
+Middle Aged
+Venous Insufficiency
+drug therapy
+LA  - dan
+N1  - Pedersen, F M
+Hamberg, O
+Sørensen, M D
+Neland, K
+Clinical Trial
+English Abstract
+Journal Article
+Randomized Controlled Trial
+Denmark
+Ugeskr Laeger. 1992 Sep 14;154(38):2561-3.
+OP  - 0-(beta-hydroxyaetyl)-rutosids (Venoruton) effekt på symptomgivende kronisk venøs insufficiens i underekstremiteterne.
+PY  - 1992
+SN  - 0041-5782 (Print)
+0041-5782
+SP  - 2561-3
+ST  - [Effect of 0-(beta-hydroxyethyl)-rutoside (Venoruton) on symptomatic venous insufficiency in the lower limbs]
+T2  - Ugeskr Laeger
+TI  - [Effect of 0-(beta-hydroxyethyl)-rutoside (Venoruton) on symptomatic venous insufficiency in the lower limbs]
+VL  - 154
+ID  - 84
+ER  - 
+
+TY  - JOUR
+AB  - The aim of out study was to investigate the efficacy of Pycnogenol - a French maritime pine bark extract - in the treatment of chronic venous insufficiency (CVI). The study consisted of a double-blind phase - in which 20 patients were recruited and randomly treated with placebo or Pycnogenol (100 mg 2 3/day for 2 months) - and an open phase - in which other 20 patients were treated with Pycnogenol at the same dose schedule. In total, 40 patients were enrolled; 30 of them were treated with Pycnogenol and 10 with placebo. Pycnogenol significantly improved the legs' heaviness and subcutaneous edema; the venous pressure was also significantly reduced by the Pycnogenol treatment, thus adding further clinical evidence to its therapeutic efficacy in patients with CVI. Pycnogenol was effective, probably by either stabilizing the collagenous subendothelial basal membrane or scavenging the free radicals, or by a combination of these activities. Clinically, capillary leakage, perivascular inflammation and subcutaneous edema were all reduced. The safety of use of Pycnogenol is demonstrated by the lack of side effects or changes in blood biochemistry and hematologic parameters. Pycnogenol can be therefore recommended both for prevention and treatment of CVI and related veno-capillary disturbances.
+AD  - Cattedra e Scuola di Specializzazione in Chirurgia Vascolare, Dipartimento di Scienze Chirurgiche, Università degli Studi di L'Aquila, Italy. chirvasc@cc.univaq.it
+AN  - 11081989
+AU  - Petrassi, C.
+AU  - Mastromarino, A.
+AU  - Spartera, C.
+DA  - Oct
+DB  - Medline
+DO  - 10.1016/s0944-7113(00)80059-8
+DP  - NLM
+ET  - 2000/11/18
+IS  - 5
+J2  - Phytomedicine : international journal of phytotherapy and phytopharmacology
+KW  - Adult
+Analysis of Variance
+Chronic Disease
+Double-Blind Method
+Female
+Flavonoids
+therapeutic use
+Humans
+Male
+Middle Aged
+Plant Extracts
+Platelet Aggregation Inhibitors
+therapeutic use
+Treatment Outcome
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Petrassi, C
+Mastromarino, A
+Spartera, C
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Germany
+Phytomedicine. 2000 Oct;7(5):383-8. doi: 10.1016/S0944-7113(00)80059-8.
+PY  - 2000
+SN  - 0944-7113 (Print)
+0944-7113
+SP  - 383-8
+ST  - PYCNOGENOL in chronic venous insufficiency
+T2  - Phytomedicine
+TI  - PYCNOGENOL in chronic venous insufficiency
+VL  - 7
+ID  - 85
+ER  - 
+
+TY  - JOUR
+AB  - Ninety-four patients suffering from venous insufficiency of the lower limbs participated in a multicenter, double-blind versus placebo study. After randomization, they were allotted for a treatment period of two months to one of three groups: TECA 120 mg/day, TECA 60 mg/day, or placebo. A significant difference (p less than 0.05) in favor of TECA was shown for the symptoms of heaviness in the lower limbs and edema, as well as for the overall evaluation by the patient. The venous distensibility measured by a mercury strain gauge plethysmograph at three occlusion pressures was improved for the TECA groups but aggravated for the placebo group.
+AN  - 3544968
+AU  - Pointel, J. P.
+AU  - Boccalon, H.
+AU  - Cloarec, M.
+AU  - Ledevehat, C.
+AU  - Joubert, M.
+DA  - Jan
+DB  - Medline
+DO  - 10.1177/000331978703800106
+DP  - NLM
+ET  - 1987/01/01
+IS  - 1 Pt 1
+J2  - Angiology
+KW  - Adult
+Aged
+Clinical Trials as Topic
+Double-Blind Method
+Female
+Humans
+Leg
+blood supply
+Male
+Middle Aged
+Placebos
+Random Allocation
+Triterpenes
+adverse effects
+therapeutic use
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Pointel, J P
+Boccalon, H
+Cloarec, M
+Ledevehat, C
+Joubert, M
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+Angiology. 1987 Jan;38(1 Pt 1):46-50. doi: 10.1177/000331978703800106.
+PY  - 1987
+SN  - 0003-3197 (Print)
+0003-3197
+SP  - 46-50
+ST  - Titrated extract of Centella asiatica (TECA) in the treatment of venous insufficiency of the lower limbs
+T2  - Angiology
+TI  - Titrated extract of Centella asiatica (TECA) in the treatment of venous insufficiency of the lower limbs
+VL  - 38
+ID  - 86
+ER  - 
+
+TY  - JOUR
+AN  - 4592458
+AU  - Prerovský, I.
+AU  - Roztocil, K.
+AU  - Hlavová, A.
+AU  - Koleilat, Z.
+AU  - Rázgová, L.
+AU  - Oliva, I.
+DB  - Medline
+DO  - 10.1159/000157949
+DP  - NLM
+ET  - 1972/01/01
+IS  - 3-6
+J2  - Angiologica
+KW  - Administration, Oral
+Blood Flow Velocity
+Chronic Disease
+Clinical Trials as Topic
+Flavonoids
+administration & dosage
+therapeutic use
+Humans
+Placebos
+Plethysmography
+Varicose Veins
+drug therapy
+LA  - eng
+N1  - Prerovský, I
+Roztocil, K
+Hlavová, A
+Koleilat, Z
+Rázgová, L
+Oliva, I
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Switzerland
+Angiologica. 1972;9(3-6):408-14. doi: 10.1159/000157949.
+PY  - 1972
+SN  - 0003-3189 (Print)
+0003-3189
+SP  - 408-14
+ST  - The effect of hydroxyethylrutosides after acute and chronic oral administration in patients with venous diseases. A double-blind study
+T2  - Angiologica
+TI  - The effect of hydroxyethylrutosides after acute and chronic oral administration in patients with venous diseases. A double-blind study
+VL  - 9
+ID  - 87
+ER  - 
+
+TY  - JOUR
+AN  - 396527
+AU  - Pulvertaft, T. B.
+DA  - Dec
+DB  - Medline
+DP  - NLM
+ET  - 1979/12/01
+IS  - 1338
+J2  - The Practitioner
+KW  - Chronic Disease
+Clinical Trials as Topic
+Double-Blind Method
+Eczema
+drug therapy
+Edema
+drug therapy
+Humans
+Hydroxyethylrutoside
+therapeutic use
+Placebos
+Restless Legs Syndrome
+drug therapy
+Rutin
+analogs & derivatives
+Surveys and Questionnaires
+Varicose Ulcer
+drug therapy
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Pulvertaft, T B
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+England
+Practitioner. 1979 Dec;223(1338):838-41.
+PY  - 1979
+SN  - 0032-6518 (Print)
+0032-6518
+SP  - 838-41
+ST  - Paroven in the treatment of chronic venous insufficiency
+T2  - Practitioner
+TI  - Paroven in the treatment of chronic venous insufficiency
+VL  - 223
+ID  - 89
+ER  - 
+
+TY  - JOUR
+AN  - 6362258
+AU  - Pulvertaft, T. B.
+DB  - Medline
+DP  - NLM
+ET  - 1983/01/01
+IS  - 4
+J2  - VASA. Zeitschrift fur Gefasskrankheiten
+KW  - Clinical Trials as Topic
+Double-Blind Method
+Female
+Humans
+Hydroxyethylrutoside
+analogs & derivatives
+therapeutic use
+Male
+Middle Aged
+Rutin
+analogs & derivatives
+United Kingdom
+Vasodilator Agents
+therapeutic use
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Pulvertaft, T B
+Clinical Trial
+Journal Article
+Switzerland
+Vasa. 1983;12(4):373-6.
+PY  - 1983
+SN  - 0301-1526 (Print)
+0301-1526
+SP  - 373-6
+ST  - General practice treatment of symptoms of venous insufficiency with oxerutins. Results of a 660 patient multicentre study in the UK
+T2  - Vasa
+TI  - General practice treatment of symptoms of venous insufficiency with oxerutins. Results of a 660 patient multicentre study in the UK
+VL  - 12
+ID  - 88
+ER  - 
+
+TY  - JOUR
+AB  - AIM: The aim was to investigate the effect of micronized purified flavonoid fraction (MPFF; Daflon® 500 mg, Laboratoires Servier, France) versus placebo, on pain and quality of life (QoL) in patients with symptomatic chronic venous disease (CVD). METHODS: A large randomized, double-blind, placebo-controlled, parallel-group study was conducted to evaluate treatment effects on vesperal oedema using water displacement volumetry (WDV). Other criteria were leg pain\heaviness assessed by Visual Analog Scale (VAS) and Quality Of Life Questionnaire (CIVIQ-20). Study treatments were administered once a day for 4 months. The tolerance to the study treatments was assessed based on spontaneously reported adverse events, coded using the MedDRA dictionary. The present post-hoc analysis focuses on the subgroup of symptomatic patients having a baseline VAS>4 cm. RESULTS: The main study included 1137 patients classified C3 or C4 according to CEAP classification, with 592 in the symptomatic subgroup: 296 randomized to MPFF and 296 to placebo. Patient demographics and medical history were well-balanced at baseline. The main study was inconclusive on WDV for methodological reasons. In the symptomatic subgroup, MPFF treatment was associated with a greater reduction in VAS score than on placebo treatment (between-group difference =-0.5 cm; P=0.031) and greater improvement in CIVIQ score (between-group difference =3.1%; P=0.040). CONCLUSION: A 4-month treatment with MPFF significantly reduced leg pain/heaviness and improved QOL when compared to placebo and was well tolerated.
+AD  - Department of Dermatology, University of Bonn, Bonn, Germany.
+AN  - 25972136
+AU  - Rabe, E.
+AU  - Agus, G. B.
+AU  - Roztocil, K.
+DA  - Oct
+DB  - Medline
+DP  - NLM
+ET  - 2015/05/15
+IS  - 5
+J2  - International angiology : a journal of the International Union of Angiology
+KW  - Adolescent
+Adult
+Aged
+Chronic Disease
+Double-Blind Method
+Female
+Flavonoids
+administration & dosage
+adverse effects
+Humans
+Leg
+physiopathology
+Male
+Middle Aged
+Pain
+drug therapy
+Pain Measurement
+Prospective Studies
+Quality of Life
+Venous Insufficiency
+drug therapy
+Young Adult
+LA  - eng
+N1  - 1827-1839
+Rabe, E
+Agus, G B
+Roztocil, K
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Italy
+Int Angiol. 2015 Oct;34(5):428-36. Epub 2015 May 14.
+PY  - 2015
+SN  - 0392-9590
+SP  - 428-36
+ST  - Analysis of the effects of micronized purified flavonoid fraction versus placebo on symptoms and quality of life in patients suffering from chronic venous disease: from a prospective randomized trial
+T2  - Int Angiol
+TI  - Analysis of the effects of micronized purified flavonoid fraction versus placebo on symptoms and quality of life in patients suffering from chronic venous disease: from a prospective randomized trial
+VL  - 34
+ID  - 91
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To show the superiority of 500 mg calcium dobesilate vs. placebo in reduction of edema of the lower limbs in patients with chronic venous insufficiency, Clinical, Etiological, Anatomical and Pathophysiological classes C3/C4. METHODS: A total of 351 patients were randomized (n = 174 calcium dobesilate, n = 177 placebo). Active treatment was 500 mg calcium dobesilate, three times daily for 12 weeks, with a 12-week follow-up. RESULTS: At the end of treatment, the relative volume change in the most pathological leg was -0.6 ± 4.8% with calcium dobesilate compared to -0.3 ± 3.3% with placebo (p = 0.09). At the end of follow-up, this was -1.01 ± 5.4% for calcium dobesilate vs. -0.08 ± 3.5% for placebo (p = 0.002). CONCLUSIONS: Calcium dobesilate treatment resulted in no significant volume change in the most pathological leg between baseline and end of treatment. However, the calcium dobesilate group showed a significantly greater volume decrease in the most pathological leg at the end of follow-up. Calcium dobesilate was well-tolerated, with a safety profile consistent with previously published data.
+AD  - Department of Dermatology, Rheinische Friedrich-Wilhelms University, Bonn, Germany eberhard.rabe@ukb.uni-bonn.de.
+Vifor Pharma, Meyrin, Switzerland.
+AN  - 25991692
+AU  - Rabe, E.
+AU  - Ballarini, S.
+AU  - Lehr, L.
+DA  - May
+DB  - Medline
+DO  - 10.1177/0268355515586097
+DP  - NLM
+ET  - 2015/05/21
+IS  - 4
+J2  - Phlebology
+KW  - Adult
+Aged
+Calcium Dobesilate
+administration & dosage
+adverse effects
+Chronic Disease
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Leg
+blood supply
+physiopathology
+Male
+Middle Aged
+Venous Insufficiency
+drug therapy
+physiopathology
+LA  - eng
+N1  - 1758-1125
+Rabe, Eberhard
+Ballarini, Stefania
+Lehr, Lorenz
+Doxium EDX09/01 Study Group
+Clinical Trial, Phase IV
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Ceap
+CIVIQ score
+Chronic venous insufficiency
+calcium dobesilate
+leg volume
+Phlebology. 2016 May;31(4):264-74. doi: 10.1177/0268355515586097. Epub 2015 May 18.
+PY  - 2016
+SN  - 0268-3555
+SP  - 264-74
+ST  - A randomized, double-blind, placebo-controlled, clinical study on the efficacy and safety of calcium dobesilate in the treatment of chronic venous insufficiency
+T2  - Phlebology
+TI  - A randomized, double-blind, placebo-controlled, clinical study on the efficacy and safety of calcium dobesilate in the treatment of chronic venous insufficiency
+VL  - 31
+ID  - 92
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To test the efficacy of calcium dobesilate (CaD) in chronic venous insufficiency (CVI). METHOD: Double-blind, parallel groups, placebo-controlled, multicentre trial in adult patients with symptomatic CVI and pitting oedema. Wearing of compression stockings Class II was admitted. During treatment period of eight weeks, the patients received CaD 3 × 500 mg/day or placebo. The leg volume calculation was based on a truncated cone model. RESULTS: A total of 256 patients was randomized to treatment (dobesilate: n = 132, placebo: n = 124); the demographic and anamnestic data at admission were comparable in the two therapeutic groups. The volume of the lower calf diminished in the dobesilate group at the end of the active treatment period by -64.72 ± 111.93 cm³ (mean ± SD), independent of the concomitant usage of compression stockings versus placebo +0.8 ± 152.98 cm³ (P = 0.0002). The symptoms of pain, discomfort, heavy legs, tired legs, tingling, itching and cramps, as well as the global assessments by investigators and patients, also improved significantly (P < 0.05) better in the dobesilate group at the end of the treatment. The observed adverse events correspond to the known profile. CONCLUSION: Dobesilate reduces leg oedema and improves the symptoms of objectively diagnosed CVI, independent of the concomitant usage of compression stockings.
+AD  - Department of Dermatology, University of Bonn, Sigmund-Freud-Str. 25, D-53105 Bonn, Germany. Eberhard.Rabe@ukb.uni-bonn.de
+AN  - 21478142
+AU  - Rabe, E.
+AU  - Jaeger, K. A.
+AU  - Bulitta, M.
+AU  - Pannier, F.
+DA  - Jun
+DB  - Medline
+DO  - 10.1258/phleb.2010.010051
+DP  - NLM
+ET  - 2011/04/12
+IS  - 4
+J2  - Phlebology
+KW  - Adult
+Aged
+Calcium Dobesilate
+administration & dosage
+Chronic Disease
+Double-Blind Method
+Female
+Follow-Up Studies
+Hemostatics
+administration & dosage
+Humans
+Male
+Middle Aged
+Venous Insufficiency
+drug therapy
+pathology
+physiopathology
+LA  - eng
+N1  - 1758-1125
+Rabe, E
+Jaeger, K A
+Bulitta, M
+Pannier, F
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+England
+Phlebology. 2011 Jun;26(4):162-8. doi: 10.1258/phleb.2010.010051. Epub 2011 Apr 7.
+PY  - 2011
+SN  - 0268-3555
+SP  - 162-8
+ST  - Calcium dobesilate in patients suffering from chronic venous insufficiency: a double-blind, placebo-controlled, clinical trial
+T2  - Phlebology
+TI  - Calcium dobesilate in patients suffering from chronic venous insufficiency: a double-blind, placebo-controlled, clinical trial
+VL  - 26
+ID  - 90
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this study was to evaluate the effect of hydroxyethylrutosides on capillary filtration in subjects with mild to moderate venous incompetence--superficial varicose veins and/or deep venous disease and ankle oedema--using the vacuum suction chamber (VSC) device applied to the internal perimalleolar region and the wheal vanishing (WV) time. Subjects entered in to the study were randomised to receive either hydroxyethylrutosides (1 g twice daily for 4 weeks) or placebo for four weeks. The two groups entering and completing the study were comparable. Microcirculatory parameters (laser-Doppler resting flux, the venoarteriolar response, transcutaneous PO2 and PCO2) remained constant during the four week study in both groups. The WV time, which was comparable in the two groups at the beginning of the study decreased significantly [from a median 55 min (interquartile 955 min), to a median 45 minutes (interquartile 65-40 min) in the treated group, p < 0.01]. No change was observed in the WV time in the placebo group. Subjective symptoms measured with an analogue scale improved following treatment with hydroxyethylrutosides [foot oedema (p < 0.005), ankle oedema (p < 0.001), and paraesthesia (p < 0.01)]; only night cramps were reported less in patients receiving the placebo (p < 0.05). In conclusion, the WV time can be used to assess the beneficial effect of therapy on capillary filtration in subjects with mild-moderate venous hypertension, even after a short period of treatment, and before other microcirculatory parameters change. Furthermore, the changes observed in WV time correlate well with an improvement in patients symptoms.
+AD  - Irvine Laboratory for Cardiovascular Investigation and Research, St. Mary's Hospital Medical School, London, England.
+AN  - 7822903
+AU  - Renton, S.
+AU  - Leon, M.
+AU  - Belcaro, G.
+AU  - Nicolaides, A. N.
+DA  - Sep
+DB  - Medline
+DP  - NLM
+ET  - 1994/09/01
+IS  - 3
+J2  - International angiology : a journal of the International Union of Angiology
+KW  - Ankle
+blood supply
+Capillary Permeability
+drug effects
+Double-Blind Method
+Edema
+etiology
+Female
+Humans
+Hydroxyethylrutoside
+pharmacology
+therapeutic use
+Male
+Microcirculation
+drug effects
+Treatment Outcome
+Varicose Veins
+drug therapy
+Venous Insufficiency
+complications
+drug therapy
+LA  - eng
+N1  - Renton, S
+Leon, M
+Belcaro, G
+Nicolaides, A N
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Italy
+Int Angiol. 1994 Sep;13(3):259-62.
+PY  - 1994
+SN  - 0392-9590 (Print)
+0392-9590
+SP  - 259-62
+ST  - The effect of hydroxyethylrutosides on capillary filtration in moderate venous hypertension: a double blind study
+T2  - Int Angiol
+TI  - The effect of hydroxyethylrutosides on capillary filtration in moderate venous hypertension: a double blind study
+VL  - 13
+ID  - 93
+ER  - 
+
+TY  - JOUR
+AN  - 4909446
+AU  - Rose, S. S.
+DA  - Apr
+DB  - Medline
+DP  - NLM
+ET  - 1970/04/01
+IS  - 4
+J2  - The British journal of clinical practice
+KW  - Clinical Trials as Topic
+Humans
+Leg
+blood supply
+Phlebitis
+drug therapy
+Placebos
+Varicose Veins
+drug therapy
+Vascular Resistance
+LA  - eng
+N1  - Rose, S S
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+England
+Br J Clin Pract. 1970 Apr;24(4):161-4.
+PY  - 1970
+SN  - 0007-0947 (Print)
+0007-0947
+SP  - 161-4
+ST  - A report on the use of an hydroxyethylrutoside in symptoms due to venous back pressure and allied conditions in the lower limbs
+T2  - Br J Clin Pract
+TI  - A report on the use of an hydroxyethylrutoside in symptoms due to venous back pressure and allied conditions in the lower limbs
+VL  - 24
+ID  - 94
+ER  - 
+
+TY  - JOUR
+AB  - In 3 controlled clinical trials, double blind versus placebo, the activity of Daflon 500 mg, a new micronised flavonoid fraction, has been evaluated on venous tone using venous plethysmography. A double-blind, randomized cross-over Phase II pharmaco-clinical trial has shown that Daflon 500 mg is statistically more effective than placebo on pathological legs, as well as normal legs. In this study, which included 20 patients suffering from post-thrombotic syndrome, Daflon 500 mg decreased: 1) venous capacity (p less than 0.001); 2) venous distensibility (p less than 0.001); 3) venous outflow time, measured by the two parameters total emptying venous time (p less than 0.001) and T2p (p less than 0.001). These modifications have been observed 2 hours after administration without any significant change in T50 outflow, cardiad index, capillary filtration index, blood pressure, cardiac or respiratory rate. The same acute effect of increasing venous tone has been demonstrated in another pharmacoclinical trial, 1 and 2 hours after ingestion in 3 groups of 10 women suffering from venous insufficiency: group I without varicose, group II during pregnancy and group III with a post-thrombotic syndrome. Finally, in a Phase III clinical trial, in 2 parallel groups of 20 patients each with functional chronic venous insufficiency, Daflon 500 mg has been compared to placebo. It was then demonstrated after 1 and 2 months treatment an improvement in the functional symptoms and edema accompanied by a statistically significant increase of the venous tone. (ABSTRACT TRUNCATED AT 250 WORDS)
+AD  - Hôpital Lariboisière, Paris, France.
+AN  - 2698902
+AU  - Tsouderos, Y.
+DA  - Oct-Dec
+DB  - Medline
+DP  - NLM
+ET  - 1989/10/01
+IS  - 4 Suppl
+J2  - International angiology : a journal of the International Union of Angiology
+KW  - Chronic Disease
+Diosmin
+therapeutic use
+Double-Blind Method
+Drug Evaluation
+Female
+Flavonoids
+therapeutic use
+Hemodynamics
+drug effects
+Humans
+Plethysmography
+Postphlebitic Syndrome
+drug therapy
+Pregnancy
+Randomized Controlled Trials as Topic
+Reference Values
+Veins
+drug effects
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Tsouderos, Y
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Italy
+Int Angiol. 1989 Oct-Dec;8(4 Suppl):53-9.
+PY  - 1989
+SN  - 0392-9590 (Print)
+0392-9590
+SP  - 53-9
+ST  - Are the phlebotonic properties shown in clinical pharmacology predictive of a therapeutic benefit in chronic venous insufficiency? Our experience with Daflon 500 mg
+T2  - Int Angiol
+TI  - Are the phlebotonic properties shown in clinical pharmacology predictive of a therapeutic benefit in chronic venous insufficiency? Our experience with Daflon 500 mg
+VL  - 8
+ID  - 95
+ER  - 
+
+TY  - JOUR
+AB  - Venodilation has been shown to enhance clinical expression of venous insufficiency and, therefore, it has been suggested that increase of venous tone should improve clinical symptoms. Four controlled double-blind clinical trials versus placebo, or versus a new micronized flavonoid fraction, have shown the activity of Daflon 500 mg, which has been evaluated on venous tone using venous plethysmography. The first, randomized cross-over Phase II pharmacoclinical trial has shown that Daflon 500 mg is significantly more effective than placebo on pathological legs, as well as normal legs. In this study, which included 20 patients suffering from post-thrombotic syndrome. Daflon 500 mg decreased: 1) venous capacity (p less than 0.001); 2) venous distensibility (p less than 0.001); and 3) venous outflow time, measured by the two parameters: total emptying venous time (p less than 0.001) and T2p (p less than 0.001). These modifications were observed 2 h after administration without any significant change in T50 outflow, cardiac index, capillary filtration index, blood pressure, cardiac or respiratory rates. The same acute effect of increasing venous tone has been demonstrated in another pharmaco-clinical trials, 1 and 2 h after ingestion by three groups, each composed of 10 women suffering from venous insufficiency: group I without varicose veins, group II during pregnancy, and group III with a post-thrombotic syndrome.(ABSTRACT TRUNCATED AT 250 WORDS)
+AD  - Institut de Recherches Internationales Servier, Courbevoie, France.
+AN  - 1792820
+AU  - Tsouderos, Y.
+DB  - Medline
+DP  - NLM
+ET  - 1991/01/01
+J2  - Zeitschrift fur Kardiologie
+KW  - Diosmin
+therapeutic use
+Dose-Response Relationship, Drug
+Double-Blind Method
+Female
+Hemodynamics
+drug effects
+Humans
+Muscle, Smooth, Vascular
+drug effects
+physiopathology
+Plethysmography
+Postphlebitic Syndrome
+drug therapy
+physiopathology
+Pregnancy
+Vascular Resistance
+drug effects
+physiology
+Venous Insufficiency
+drug therapy
+physiopathology
+LA  - eng
+N1  - Tsouderos, Y
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Germany
+Z Kardiol. 1991;80 Suppl 7:95-101.
+PY  - 1991
+SN  - 0300-5860 (Print)
+0300-5860
+SP  - 95-101
+ST  - Venous tone: are the phlebotonic properties predictive of a therapeutic benefit? A comprehensive view of our experience with Daflon 500 mg
+T2  - Z Kardiol
+TI  - Venous tone: are the phlebotonic properties predictive of a therapeutic benefit? A comprehensive view of our experience with Daflon 500 mg
+VL  - 80 Suppl 7
+ID  - 96
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this study was to investigate, if the the combined treatment of compression stockings and drug treatment with oxerutins (O-(beta-hydroxyethyl)-rutosides, Venoruton) provides additional benefit for patients with chronic venous insufficiency (CVI) compared to compression treatment alone. Oxerutins belong to the group of oedema protective agents and possess anti-exudative and membrane protective activity. A total of 133 female patients with CVI grade II participated in this double-blind, randomised, multi-centre, parallel-group study with two treatment groups. The whole study lasted for 19 weeks, and consisted of a one week placebo run-in phase, 12 weeks treatment phase, followed by a 6 weeks treatment-free follow-up period. All patients received a basis compression therapy that consisted of standard compression stockings. In order to standardise initial fitting of stockings in this multi-centre setting, stockings were fitted after one week of standard diuretics starting at baseline and then stockings were worn for the following 11 weeks. Patients were randomised to receive oxerutins (2 x 500 mg daily) or matching placebo. Leg volumes (water displacement) and associated subjective symptoms (visula analogue scale) were measured during a placebo run-in period at enrolment (week - 1) and half a week later (week - 1/2), at baseline week 0), at 4, 8, 12 weeks on treatment, and again after a 3- and 6-weeks treatment-free follow-up. The primary efficacy criterion, the area under the baseline from week 0 to week 18 (AUB0-18) of leg volume changes, as measurement of the global change of leg oedema during the study, resulted in a superior reduction of -5589 ml.d for the combined treatment with oxerutins compared to -2101 ml.d for placebo (p = 0.012). The mean change of leg volume compared to baseline after 12 weeks of treatment was -63.9 ml for stockings and oxerutins, and -32.9 ml for the patients who received stockings and placebo (p < 0.05). Oxerutins showed a prolonged effect in the follow-up phase compared to placebo, with mean AUB values for week 12 to week 18 of -1769 ml.d versus -133 ml.d (p < 0.01). The study demonstrated that the combined therapy of compression stockings and drug treatment with oxerutins is significantly superior in reducing leg oedema resulting from chronic venous insufficiency compared to compression treatment alone.
+AD  - Zyma GmbH, Medizin und Entwicklung, Munich, Germany.
+AN  - 8737630
+AU  - Unkauf, M.
+AU  - Rehn, D.
+AU  - Klinger, J.
+AU  - de la Motte, S.
+AU  - Grossmann, K.
+DA  - May
+DB  - Medline
+DP  - NLM
+ET  - 1996/05/01
+IS  - 5
+J2  - Arzneimittel-Forschung
+KW  - Aged
+Bandages
+Chronic Disease
+Combined Modality Therapy
+Double-Blind Method
+Female
+Humans
+Hydroxyethylrutoside
+adverse effects
+analogs & derivatives
+therapeutic use
+Leg
+anatomy & histology
+Microcirculation
+Middle Aged
+Vasoconstrictor Agents
+adverse effects
+therapeutic use
+Venous Insufficiency
+drug therapy
+pathology
+therapy
+LA  - eng
+N1  - Unkauf, M
+Rehn, D
+Klinger, J
+de la Motte, S
+Grossmann, K
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Germany
+Arzneimittelforschung. 1996 May;46(5):478-82.
+PY  - 1996
+SN  - 0004-4172 (Print)
+0004-4172
+SP  - 478-82
+ST  - Investigation of the efficacy of oxerutins compared to placebo in patients with chronic venous insufficiency treated with compression stockings
+T2  - Arzneimittelforschung
+TI  - Investigation of the efficacy of oxerutins compared to placebo in patients with chronic venous insufficiency treated with compression stockings
+VL  - 46
+ID  - 97
+ER  - 
+
+TY  - JOUR
+AN  - 4559545
+AU  - van Cauwenberge, H.
+DA  - Apr
+DB  - Medline
+DP  - NLM
+ET  - 1972/04/01
+J2  - Archives internationales de pharmacodynamie et de therapie
+KW  - Administration, Oral
+Clinical Trials as Topic
+Edema
+drug therapy
+Humans
+Phlebitis
+drug therapy
+Rutin
+administration & dosage
+therapeutic use
+Varicose Veins
+drug therapy
+LA  - eng
+N1  - van Cauwenberge, H
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Belgium
+Arch Int Pharmacodyn Ther. 1972 Apr;196:Suppl 196:122-.
+PY  - 1972
+SN  - 0003-9780 (Print)
+0003-9780
+SP  - Suppl 196:122-
+ST  - Double-blind study of the efficacy of a soluble rutoside derivative in the treatment of venous disease
+T2  - Arch Int Pharmacodyn Ther
+TI  - Double-blind study of the efficacy of a soluble rutoside derivative in the treatment of venous disease
+VL  - 196
+ID  - 69
+ER  - 
+
+TY  - JOUR
+AB  - Extracts from Butcher's broom rhizome (Ruscus aculeatus) have been widely used in the oral treatment of lower leg edema in patients with chronic venous insufficiency. The aim of the present multi-center, double-blind, randomized, placebo-controlled trial was to confirm the efficacy and safety of a ruscus extract (Fagorutin Ruscus Kapseln) according to the latest scientific standards. 166 women suffering from chronic venous insufficiency (Widmer grade I and II, CEAP (Clinical signs, Etiological classification, Anatomic distribution, Pathophysiology) 3-4) were included. The data of 148 patients (30-89 years, 150-182 cm height, 49-97 kg body weight) with a mean disease duration of 14.6 years in the ruscus extract group and 15.1 years in the placebo group were eligible for the intent-to-treat-analysis. The primary parameter was the area under baseline of the leg volume changes over 12 weeks (AUB0-12). Secondary parameters were the changes in circumference of the lower leg and the ankle, changes in subjective symptoms and quality of life, the overall efficacy and tolerability and safety parameters. The study was carried out according to the guidelines for testing drugs for chronic venous insufficiency. There were significant differences between the treatment groups ruscus and placebo for the AUB0-12 (-827 ml x day), for the change of leg volume after 8 and 12 weeks of treatment (-16.5 ml and -20.5 ml), for changes in ankle and leg circumferences after 8 and 12 weeks of treatment, and for the changes in subjective symptoms, heavy tired legs and sensation of tension (week 12). For the changes in the symptoms heavy lower legs, sensation of tension, and tingling sensation a significant positive correlation with the changes in leg volume was shown. Overall assessment of efficacy was significantly better for ruscus extract compared to placebo. Overall tolerability for both treatments was assessed as good and very good. Of all 48 adverse events occurring in both treatment groups, 22 were reported in the ruscus group, one of them was considered to be related to the study medication (unlikely). Considering the study duration of three months it is concluded, that ruscus extract, in the recommended daily dosage according to the German monograph, is a safe and effective treatment for patients suffering from chronic venous insufficiency.
+AD  - Rheintalklinik, Bad Krozingen, Germany.
+AN  - 12040966
+AU  - Vanscheidt, W.
+AU  - Jost, V.
+AU  - Wolna, P.
+AU  - Lücker, P. W.
+AU  - Müller, A.
+AU  - Theurer, C.
+AU  - Patz, B.
+AU  - Grützner, K. I.
+DB  - Medline
+DO  - 10.1055/s-0031-1299887
+DP  - NLM
+ET  - 2002/06/04
+IS  - 4
+J2  - Arzneimittel-Forschung
+KW  - Adult
+Aged
+Aged, 80 and over
+Ankle
+anatomy & histology
+Area Under Curve
+Double-Blind Method
+Female
+Hemodynamics
+drug effects
+Humans
+Leg
+anatomy & histology
+Middle Aged
+Patient Compliance
+Phytotherapy
+adverse effects
+Plant Extracts
+adverse effects
+therapeutic use
+Plants, Medicinal
+chemistry
+Plethysmography
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Vanscheidt, Wolfgang
+Jost, Volker
+Wolna, Peter
+Lücker, Peter W
+Müller, Alfred
+Theurer, Christoph
+Patz, Brigitte
+Grützner, Karen I
+Clinical Trial
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Germany
+Arzneimittelforschung. 2002;52(4):243-50. doi: 10.1055/s-0031-1299887.
+PY  - 2002
+SN  - 0004-4172 (Print)
+0004-4172
+SP  - 243-50
+ST  - Efficacy and safety of a Butcher's broom preparation (Ruscus aculeatus L. extract) compared to placebo in patients suffering from chronic venous insufficiency
+T2  - Arzneimittelforschung
+TI  - Efficacy and safety of a Butcher's broom preparation (Ruscus aculeatus L. extract) compared to placebo in patients suffering from chronic venous insufficiency
+VL  - 52
+ID  - 99
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The objective was to evaluate the oedema-protective effect of a vasoactive drug (coumarin/troxerutin [SB-LOT]) plus compression stockings in patients suffering from chronic venous insufficiency after decongestion of the legs as recommended by the new guidelines. PATIENTS AND METHODS: 231 patients were randomly assigned medical compression stockings plus SB-LOT (90 mg coumarin and 540 mg troxerutin per day) or medical compression stockings plus placebo for the first 4 weeks and SB-LOT or placebo for the second 12 weeks of the study. The primary efficacy endpoint was the lower leg volume measured by well-established water plethysmometry. RESULTS: 226 patients were evaluated. After ceasing compression stockings, an edema protective effect was detected in the SB-LOT-group but not in the controls. Recurrence of leg volume increase was by 6.5 +/- 12.1 ml and by 36.7 +/- 12.1 ml in the SB-LOT and placebo group, respectively (p = 0.0402). The local complaint score and general aspects of quality of life were also superior for the SB-LOT-group (p = 0.0041). Significant differences were also observed with regard to clinical global impression and therapeutic effect. No serious adverse drug reaction or clinically relevant impairment of laboratory parameters occur. CONCLUSION: This study confirms the oedema-protective effect of SB-LOT in chronic venous insufficiency and provides a treatment option for patients who discontinue compression after a short time.
+AD  - Dermatologic Clinic, University Freiburg, Germany. WolfgangVanscheidt@t-online.de
+AN  - 12236023
+AU  - Vanscheidt, W.
+AU  - Rabe, E.
+AU  - Naser-Hijazi, B.
+AU  - Ramelet, A. A.
+AU  - Partsch, H.
+AU  - Diehm, C.
+AU  - Schultz-Ehrenburg, U.
+AU  - Spengel, F.
+AU  - Wirsching, M.
+AU  - Götz, V.
+AU  - Schnitker, J.
+AU  - Henneicke-von Zepelin, H. H.
+DA  - Aug
+DB  - Medline
+DO  - 10.1024/0301-1526.31.3.185
+DP  - NLM
+ET  - 2002/09/19
+IS  - 3
+J2  - VASA. Zeitschrift fur Gefasskrankheiten
+KW  - Administration, Oral
+Adult
+Aged
+Bandages
+Combined Modality Therapy
+Coumarins
+administration & dosage
+adverse effects
+Delayed-Action Preparations
+Double-Blind Method
+Drug Combinations
+Edema
+drug therapy
+Female
+Humans
+Hydroxyethylrutoside
+administration & dosage
+adverse effects
+analogs & derivatives
+Male
+Middle Aged
+Treatment Outcome
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Vanscheidt, W
+Rabe, E
+Naser-Hijazi, B
+Ramelet, A A
+Partsch, H
+Diehm, C
+Schultz-Ehrenburg, U
+Spengel, F
+Wirsching, M
+Götz, V
+Schnitker, J
+Henneicke-von Zepelin, H H
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Switzerland
+Vasa. 2002 Aug;31(3):185-90. doi: 10.1024/0301-1526.31.3.185.
+PY  - 2002
+SN  - 0301-1526 (Print)
+0301-1526
+SP  - 185-90
+ST  - The efficacy and safety of a coumarin-/troxerutin-combination (SB-LOT) in patients with chronic venous insufficiency: a double blind placebo-controlled randomised study
+T2  - Vasa
+TI  - The efficacy and safety of a coumarin-/troxerutin-combination (SB-LOT) in patients with chronic venous insufficiency: a double blind placebo-controlled randomised study
+VL  - 31
+ID  - 98
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: This study was conducted to verify the efficacy of external valvuloplasty of the femoral vein in the treatment of primary chronic venous insufficiency (PCVI). METHODS: Forty patients with PCVI of the bilateral lower extremities were enrolled at the time of surgical management. All 80 limbs were classified as CEAP C2 to C4, with moderate incompetence of the deep vein. The limbs of each patient were randomized into one of two groups according to the operative method, so that when one limb was randomized to group A, regardless of whether it was the right or left limb, the other limb was assigned to group B. In group A, external valvuloplasty of the femoral vein was combined with surgery of the superficial venous system; in group B, surgery of the superficial venous system alone was performed. The therapeutic effects between the limbs in groups A and B were compared by color duplex scanning, a color Doppler velocity profile, air plethysmography (APG), and a CEAP severity score at 1 month, 1 year, and 3 years postoperatively. RESULTS: Within each group of limbs, no significant differences were found in the average operative time within each group of limbs. The varicose veins resolved, there were no deep vein thromboses, and the wounds healed well postoperatively in all cases. Leg heaviness was relieved completely in 90% of group A limbs (36/40) and 55% of group B limbs (22/40). Venous valve competence was achieved in 100%, 98.1%, and 90.9% of group A limbs at 1 month, 1 year, and 3 years postoperatively, respectively. The amount of venous reflux, APG indices, and CEAP severity scores were not significantly different between the two groups preoperatively (P > .05). The amount of venous reflux, reflux indices, CEAP severity scores, and muscle pumping indices improved markedly in group A limbs postoperatively compared with group B limbs (P < .01); muscle pumping indices did not improve significantly in group B limbs postoperatively (P > .05). There were significant differences in the amount of venous reflux, reflux indices, and CEAP severity scores between group A and B limbs at 1 month and 1 year postoperatively (P < .01). There were significant differences in all parameters assessed between group A and B limbs 3 years postoperatively (P < .05). CONCLUSIONS: External valvuloplasty of the femoral vein combined with surgical repair of the superficial venous system improved the hemodynamic status of the lower limbs, restored valvular function more effectively, and achieved better outcomes than surgical repair of the superficial venous system alone.
+AD  - Department of Vascular Surgery, The First Affiliated Hospital, Sun Yat-Sen University, Guangzhou, Peoples Republic of China. ShenmingWang@sohu.com
+AN  - 17145434
+AU  - Wang, S. M.
+AU  - Hu, Z. J.
+AU  - Li, S. Q.
+AU  - Huang, X. L.
+AU  - Ye, C. S.
+DA  - Dec
+DB  - Medline
+DO  - 10.1016/j.jvs.2006.07.043
+DP  - NLM
+ET  - 2006/12/06
+IS  - 6
+J2  - Journal of vascular surgery
+KW  - Adult
+Aged
+Analysis of Variance
+Blood Flow Velocity
+Chronic Disease
+Female
+Femoral Vein
+physiopathology
+surgery
+Follow-Up Studies
+Humans
+Lower Extremity
+blood supply
+Male
+Middle Aged
+Patient Selection
+Plethysmography
+Prospective Studies
+Severity of Illness Index
+Time Factors
+Treatment Outcome
+Ultrasonography, Doppler, Color
+Varicose Veins
+physiopathology
+surgery
+Vascular Patency
+Vascular Surgical Procedures
+Veins
+surgery
+Venous Insufficiency
+physiopathology
+surgery
+LA  - eng
+N1  - Wang, Shen-Ming
+Hu, Zuo-Jun
+Li, Song-Qi
+Huang, Xue-Ling
+Ye, Cai-Sheng
+Journal Article
+Randomized Controlled Trial
+United States
+J Vasc Surg. 2006 Dec;44(6):1296-300. doi: 10.1016/j.jvs.2006.07.043.
+PY  - 2006
+SN  - 0741-5214 (Print)
+0741-5214
+SP  - 1296-300
+ST  - Effect of external valvuloplasty of the deep vein in the treatment of chronic venous insufficiency of the lower extremity
+T2  - J Vasc Surg
+TI  - Effect of external valvuloplasty of the deep vein in the treatment of chronic venous insufficiency of the lower extremity
+VL  - 44
+ID  - 61
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this double-blind placebo-controlled study was to evaluate the therapeutic efficacy of Doxium in chronic venous insufficiency (CVI). 225 patients were treated randomly for 4 weeks with 1.5 g (3 capsules/day) of Doxium or placebo. The evolution of the leg oedema was determined by measuring calf and ankle circumferences. Pain and discomfort were assessed by visual analogue scale. The results show that at the end of the trial, all the examined parameters (leg oedema, pain, day and night cramps, discomfort, heavy legs, paresthesia and restless legs) were significantly more improved in the Doxium group than in the placebo group: the leg volume was diminished by 3.8% in the Doxium group compared to 1.2% in the placebo (p less than 0.005). The overall assessment by the physicians showed an improvement in 82% of the Doxium-treated patients compared to 42% of the placebo group (p less than 0.0001). The tolerance of the treatment was comparable in both groups.
+AD  - Department of Medicine, Basel University Hospital, Switzerland.
+AN  - 2254672
+AU  - Widmer, L.
+AU  - Biland, L.
+AU  - Barras, J. P.
+DA  - Apr-Jun
+DB  - Medline
+DP  - NLM
+ET  - 1990/04/01
+IS  - 2
+J2  - International angiology : a journal of the International Union of Angiology
+KW  - Calcium Dobesilate
+administration & dosage
+therapeutic use
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Pain Measurement
+Venous Insufficiency
+drug therapy
+LA  - eng
+N1  - Widmer, L
+Biland, L
+Barras, J P
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Italy
+Int Angiol. 1990 Apr-Jun;9(2):105-10.
+PY  - 1990
+SN  - 0392-9590 (Print)
+0392-9590
+SP  - 105-10
+ST  - Doxium 500 in chronic venous insufficiency: a double-blind placebo controlled multicentre study
+T2  - Int Angiol
+TI  - Doxium 500 in chronic venous insufficiency: a double-blind placebo controlled multicentre study
+VL  - 9
+ID  - 100
+ER  - 
+

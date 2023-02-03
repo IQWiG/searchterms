@@ -1,5 +1,5 @@
 
-prepare_freq_table <- function(corpus_ref, devSet = FALSE, project_name = FALSE){
+prepare_freq_table <- function(corpus_ref, devSet = FALSE){
 
   # remove all special characters
   # see also:    https://de.wikipedia.org/wiki/Liste_der_Unicode-Eigenschaften
@@ -12,14 +12,5 @@ prepare_freq_table <- function(corpus_ref, devSet = FALSE, project_name = FALSE)
   freq_ref <- quanteda.textstats::textstat_frequency(dfm_ref)
   freq_ref <- freq_ref %>%
     mutate(n = sum(frequency,na.rm=T))
-
-  # attach project name per row
-
-  if (project_name){
-
-    project_name <- gregexpr("(?<=/)(\\w|-)+(?=\\.)", risfile, perl = T)
-    project_name <- regmatches(risfile,project_name)
-    freq_ref$project <- unlist(project_name)
-  }
   return(freq_ref)
 }

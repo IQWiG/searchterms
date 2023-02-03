@@ -6,7 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of searchterms is to …
+The goal of searchterms is to identify overrepresented terms in a set of
+relevant references for a systematic review, which can be applied in a
+boolean search.
 
 ## Installation
 
@@ -20,15 +22,17 @@ devtools::install_github("claudiakapp/searchterms")
 
 ## Statistics
 
-calculating the z-Scores for test statistic  
-Hierbei entspricht dann:  
-x = beobachteten Häufigkeit des Worts, merged\$testset_freq  
-n = Stichprobengröße, also der Anzahl aller Wörter in der Analyse,
-merged\$n  
-p = erwarteten Häufigkeit (aus dem Referenzpool bestimmt), merged\$p  
-Entscheidend ist, dass der Erwartungswert durch n\*p und die Varianz
-durch n\*p\*(1-p) approximiert werden.  
-Der z-Wert wird daher durch (x – n\*p) / sqrt( n\*p\*(1-p) ) berechnet.
+The test statistic is a binomial test, which is implemented in the
+internal function “calculate_z\_scores()” and defined with:
+
+x = observed frequency of each unique term, merged\$testset_freq  
+n = Sample size, the amount of all terms in the sample, merged\$n  
+p = expected frequency of each unique term in the norm population
+erwarteten Häufigkeit (aus dem Referenzpool bestimmt), merged\$p
+
+The expected frequency in the sample is approximated with n\*p and the
+variance with n\*p\*(1-p). The z-score is calculated with: (x – n\*p) /
+sqrt( n\*p\*(1-p) )
 
 ## Example
 
@@ -36,32 +40,35 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(searchterms)
-## basic example code
-```
-
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
-
-``` r
-summary(cars)
-#>      speed           dist       
-#>  Min.   : 4.0   Min.   :  2.00  
-#>  1st Qu.:12.0   1st Qu.: 26.00  
-#>  Median :15.0   Median : 36.00  
-#>  Mean   :15.4   Mean   : 42.98  
-#>  3rd Qu.:19.0   3rd Qu.: 56.00  
-#>  Max.   :25.0   Max.   :120.00
+path <- system.file("extdata", "example_ris.txt", package= "searchterms", mustWork = T)
+data <- z_scores(path)
+head(print_z_scores(data, terms = "freetext") )
+#>         Wort Wortfrequenz Anzahl Referenzen Erwartete Frequenz   Z-Score
+#> 1        cyc            2                 1       9.566505e-05 204.47143
+#> 2  nephritis            6                 1       5.165913e-03  83.40802
+#> 3  worrisome            1                 1       2.869952e-04  59.01172
+#> 4      lupus            6                 1       1.042749e-02  58.65626
+#> 5        aza            2                 1       1.339311e-03  54.61343
+#> 6 quiescence            1                 1       6.696554e-04  38.61748
+#>   Approximationskriterium zutreffend?
+#> 1                               FALSE
+#> 2                               FALSE
+#> 3                               FALSE
+#> 4                               FALSE
+#> 5                               FALSE
+#> 6                               FALSE
+head(print_z_scores(data, terms = "MeSH"))
+#> # A tibble: 6 × 5
+#>   MeSH                 Frequenz `Erwartete Frequenz` `Z-Score` Approximationsk…¹
+#>   <chr>                   <int>                <dbl>     <dbl> <lgl>            
+#> 1 Abatacept                   1            0.0000799     112.  FALSE            
+#> 2 Immunoconjugates            1            0.000479       45.7 FALSE            
+#> 3 Lupus Nephritis             1            0.000479       45.7 FALSE            
+#> 4 Antirheumatic Agents        1            0.000799       35.4 FALSE            
+#> 5 Cyclophosphamide            1            0.00200        22.3 FALSE            
+#> 6 Double-Blind Method         1            0.00679        12.1 FALSE            
+#> # … with abbreviated variable name ¹​`Approximationskriterium zutreffend?`
 ```
 
 You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this. You could also
-use GitHub Actions to re-render `README.Rmd` every time you push. An
-example workflow can be found here:
-<https://github.com/r-lib/actions/tree/v1/examples>.
-
-You can also embed plots, for example:
-
-<img src="man/figures/README-pressure-1.png" width="100%" />
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub and CRAN.
+up-to-date. `devtools::build_readme()` is handy for this.

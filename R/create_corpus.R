@@ -11,10 +11,16 @@ create_corpus <- function(reference_set){
 
   references$text <- stringr::str_replace_all(references$text, "\\d+|[\\[\\].#@'_:]|Kein_Title|Kein_Abstract", " ")
 
+  # name documents with algorithm "author_year"
+  if (any(names(references) == "author")) {
+ references$author <- references$author %>% replace_na("Anonymous")
+  } else {
+    references$author <- "Anonymous"
+ }
+
   # create a quanteda text corpus
   references <- quanteda::corpus(references, text_field = "text")
 
-  # name documents with algorithm "author_year"
   authors <- strsplit(references$author, split = ",")
   first_authors <- lapply(authors,"[[",1)
   Docnames <- make.unique(paste(first_authors,references$year,  sep="_"))

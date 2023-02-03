@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Kapp, Claudia, Hausner, Elke, Fujita-Rohwerder, Naomi, Sieben, Wiebke
+AB  - OBJECTIVE: To show a typical ris-file. CONCLUSION: Here is a ris-file.
+AN  - 12345
+DB  - Medline
+DO  - 10.12345/12345
+DP  - NLM
+IS  - 1
+J2  - Journal
+KW  - Systematic Reviews as Topic
+Adult
+Human
+Library Automation
+PY  - 2023
+TI  - searchterms: Version 1.0 of a text analysis package
+VL  - 1
+ID  - 1
+ER  - 

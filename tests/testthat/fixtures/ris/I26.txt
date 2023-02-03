@@ -1,0 +1,1843 @@
+﻿TY  - JOUR
+AB  - Thirteen patients with acute pulmonary embolism were treated in a randomized double-blind fashion either with recombinant tissue plasminogen activator (rt-PA) 40 to 80 mg, usually in combination with heparin, or with placebo plus heparin. The drug was administered intravenously over 40 to 90 minutes. Nine patients received rt-PA, and four received placebo. A lytic effect was observed 1.5 and three hours after the onset of therapy with rt-PA based upon elevated levels of fragment-D dimers. Among the patients who received rt-PA, there was a modest improvement of the total pulmonary resistance 1.5 hours after the start of therapy, but the angiograms showed no significant changes in two hours. After 24 hours, the lung scans showed a trend toward greater improvement with rt-PA, but the rate of improvement in comparison to control subjects was not statistically significant. Massive bleeding occurred in one patient. The observations in this study suggest that rt-PA has little effect in two hours on angiographic clot burden, but may produce some improvement in hemodynamics. The treatment, however, is not without risk.
+AN  - 2106408
+DA  - Mar
+DB  - Medline
+DO  - 10.1378/chest.97.3.528
+DP  - NLM
+ET  - 1990/03/01
+IS  - 3
+J2  - Chest
+KW  - Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Double-Blind Method
+Female
+Heparin
+administration & dosage
+therapeutic use
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Multicenter Studies as Topic
+Placebos
+Pulmonary Embolism
+diagnostic imaging
+drug therapy
+physiopathology
+Radiography
+Random Allocation
+Recombinant Proteins
+administration & dosage
+therapeutic use
+Tissue Plasminogen Activator
+administration & dosage
+therapeutic use
+Vascular Resistance
+Ventilation-Perfusion Ratio
+LA  - eng
+N1  - Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, U.S. Gov't, P.H.S.
+United States
+Chest. 1990 Mar;97(3):528-33. doi: 10.1378/chest.97.3.528.
+PY  - 1990
+SN  - 0012-3692 (Print)
+0012-3692
+SP  - 528-33
+ST  - Tissue plasminogen activator for the treatment of acute pulmonary embolism. A collaborative study by the PIOPED Investigators
+T2  - Chest
+TI  - Tissue plasminogen activator for the treatment of acute pulmonary embolism. A collaborative study by the PIOPED Investigators
+VL  - 97
+ID  - 20
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In acute pulmonary embolism (PE), overt right ventricular (RV) failure with cardiogenic shock indicates a poor prognosis. However, normotensive patients with acute RV dysfunction on echocardiography or computed tomography and with myocardial troponin elevation may also have an adverse outcome. Thrombolysis rapidly reverses RV pressure overload in PE, but it remains unclear whether it may improve the early and long-term clinical outcome of selected normotensive patients. DESIGN: The Pulmonary EmbolIsm THrOmbolysis (PEITHO) trial is a prospective, multicenter, international, randomized (1:1), double-blind comparison of thrombolysis with tenecteplase vs placebo in normotensive patients with confirmed PE, an abnormal right ventricle on echocardiography or computed tomography, and a positive troponin I or T test result. Both treatment groups receive standard anticoagulation. The primary efficacy outcome is the composite of death from any cause or hemodynamic collapse within 7 days of randomization. Safety outcomes include ischemic/hemorrhagic strokes and other major bleeding episodes. In addition, 180-day clinical and echocardiographic follow-up will be performed. The study is expected to enroll approximately 1,000 patients. CONCLUSIONS: By determining the benefits vs risks of thrombolysis in submassive or intermediate-risk PE, this trial is expected to answer a long-standing query on the management of this patient population.
+AN  - 22172434
+C1  - ClinicalTrials.gov/NCT00639743
+DA  - Jan
+DB  - Medline
+DO  - 10.1016/j.ahj.2011.10.003
+DP  - NLM
+ET  - 2011/12/17
+IS  - 1
+J2  - American heart journal
+KW  - Blood Pressure
+Fibrinolytic Agents
+administration & dosage
+Heparin
+administration & dosage
+Humans
+Injections, Intravenous
+Myocardial Infarction
+blood
+complications
+drug therapy
+Patient Selection
+Pulmonary Embolism
+complications
+drug therapy
+Research Design
+Tenecteplase
+Tissue Plasminogen Activator
+administration & dosage
+Treatment Outcome
+Ventricular Dysfunction, Right
+blood
+complications
+drug therapy
+LA  - eng
+N1  - 1097-6744
+Steering Committee
+Journal Article
+Randomized Controlled Trial
+United States
+Am Heart J. 2012 Jan;163(1):33-38.e1. doi: 10.1016/j.ahj.2011.10.003.
+PY  - 2012
+SN  - 0002-8703
+SP  - 33-38.e1
+ST  - Single-bolus tenecteplase plus heparin compared with heparin alone for normotensive patients with acute pulmonary embolism who have evidence of right ventricular dysfunction and myocardial injury: rationale and design of the Pulmonary Embolism Thrombolysis (PEITHO) trial
+T2  - Am Heart J
+TI  - Single-bolus tenecteplase plus heparin compared with heparin alone for normotensive patients with acute pulmonary embolism who have evidence of right ventricular dysfunction and myocardial injury: rationale and design of the Pulmonary Embolism Thrombolysis (PEITHO) trial
+VL  - 163
+ID  - 19
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: The clinical benefit of thrombolytic treatment over heparin in patients with pulmonary embolism without hemodynamic compromise remains controversial. In these patients bolus tenecteplase has the potential to provide an effective and safe thrombolysis. METHODS: We evaluated the effect of tenecteplase on right ventricle dysfunction (RVD) assessed by echocardiography in hemodynamically stable patients with PE in a multicenter, randomized, double-blind, placebo-controlled study. RVD was defined as right/left ventricle end-diastolic dimension ratio >1 in the apical 4-chamber view. Patients were randomized to receive weight-adjusted single-bolus tenecteplase or placebo. All patients received unfractionated heparin. Reduction of RVD at 24 hours was the primary efficacy end-point and was evaluated by an independent committee unaware of treatment allocation. RESULTS: Overall, 58 patients were randomized. Echocardiograms were adequate for efficacy analysis in 51 patients, 23 randomized to tenecteplase and 28 to placebo. The reduction of right to left ventricle end-diastolic dimension ratio at 24 hours was 0.31+/-0.08 in patients randomized to tenecteplase as compared to 0.10+/-0.07 in patients randomized to placebo (p=0.04). One patient randomized to tenecteplase suffered a clinical event (recurrent pulmonary embolism) in comparison to three patients randomized to placebo (1 recurrent pulmonary embolism; 1 clinical deterioration and 1 non pulmonary embolism-related death). Two non fatal major bleedings occurred with tenecteplase (1 intracranial) and one with placebo. CONCLUSION: In hemodynamically stable patients with PE, treatment with single bolus tenecteplase is feasible at the same dosages used for acute myocardial infarction and is associated with reduction of RVD at 24 hours. Whether this benefit is associated with an improved clinical outcome without excessive bleeding is currently explored in a large clinical trial.
+AD  - Medicina Interna e Cardiovascolare-Stroke Unit, Universita di Perugia, Perugia, Italy. cecilia.becattini@unipg.it
+AN  - 19833379
+AU  - Becattini, C.
+AU  - Agnelli, G.
+AU  - Salvi, A.
+AU  - Grifoni, S.
+AU  - Pancaldi, L. G.
+AU  - Enea, I.
+AU  - Balsemin, F.
+AU  - Campanini, M.
+AU  - Ghirarduzzi, A.
+AU  - Casazza, F.
+AU  - Group, Tipes Study
+C1  - ClinicalTrials.gov/NCT00222651
+DA  - Mar
+DB  - Medline
+DO  - 10.1016/j.thromres.2009.09.017
+DP  - NLM
+ET  - 2009/10/17
+IS  - 3
+KW  - Aged
+Anticoagulants
+therapeutic use
+Dosage Forms
+Double-Blind Method
+Drug Administration Schedule
+Drug Therapy, Combination
+Echocardiography
+Feasibility Studies
+Female
+Fibrinolytic Agents
+administration & dosage
+therapeutic use
+Hemorrhage
+complications
+Heparin
+therapeutic use
+Humans
+Male
+Middle Aged
+Pilot Projects
+Pulmonary Embolism
+complications
+diagnostic imaging
+Tenecteplase
+Tissue Plasminogen Activator
+administration & dosage
+therapeutic use
+Treatment Outcome
+Ventricular Dysfunction, Right
+diagnostic imaging
+drug therapy
+N1  - Becattini, Cecilia
+Agnelli, Giancarlo
+Salvi, Aldo
+Grifoni, Stefano
+Pancaldi, Leonardo Goffredo
+Enea, Iolanda
+Balsemin, Franco
+Campanini, Mauro
+Ghirarduzzi, Angelo
+Casazza, Franco
+eng
+Clinical Trial, Phase II
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Thromb Res. 2010 Mar;125(3):e82-6. doi: 10.1016/j.thromres.2009.09.017. Epub 2009 Oct 14.
+PY  - 2010
+SN  - 1879-2472 (Electronic)
+0049-3848 (Linking)
+SP  - e82-6
+ST  - Bolus tenecteplase for right ventricle dysfunction in hemodynamically stable patients with pulmonary embolism
+T2  - Thromb Res
+TI  - Bolus tenecteplase for right ventricle dysfunction in hemodynamically stable patients with pulmonary embolism
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/19833379
+VL  - 125
+ID  - 4
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Pulmonary embolism (PE) can occur when a thrombus (blood clot) travels through the veins and lodges in the arteries of the lungs, producing an obstruction. People who are thought to be at risk include those with cancer, people who have had a recent surgical procedure or have experienced long periods of immobilisation and women who are pregnant. The clinical presentation can vary, but unexplained respiratory symptoms such as difficulty breathing, chest pain and an increased respiratory rate are common.D-dimers are fragments of protein released into the circulation when a blood clot breaks down as a result of normal body processes or with use of prescribed fibrinolytic medication. The D-dimer test is a laboratory assay currently used to rule out the presence of high D-dimer plasma levels and, by association, venous thromboembolism (VTE). D-dimer tests are rapid, simple and inexpensive and can prevent the high costs associated with expensive diagnostic tests. OBJECTIVES: To investigate the ability of the D-dimer test to rule out a diagnosis of acute PE in patients treated in hospital outpatient and accident and emergency (A&E) settings who have had a pre-test probability (PTP) of PE determined according to a clinical prediction rule (CPR), by estimating the accuracy of the test according to estimates of sensitivity and specificity. The review focuses on those patients who are not already established on anticoagulation at the time of study recruitment. SEARCH METHODS: We searched 13 databases from conception until December 2013. We cross-checked the reference lists of relevant studies. SELECTION CRITERIA: Two review authors independently applied exclusion criteria to full papers and resolved disagreements by discussion.We included cross-sectional studies of D-dimer in which ventilation/perfusion (V/Q) scintigraphy, computerised tomography pulmonary angiography (CTPA), selective pulmonary angiography and magnetic resonance pulmonary angiography (MRPA) were used as the reference standard.• PARTICIPANTS: Adults who were managed in hospital outpatient and A&E settings and were suspected of acute PE were eligible for inclusion in the review if they had received a pre-test probability score based on a CPR.• INDEX TESTS: quantitative, semi quantitative and qualitative D-dimer tests.• Target condition: acute symptomatic PE.• Reference standards: We included studies that used pulmonary angiography, V/Q scintigraphy, CTPA and MRPA as reference standard tests. DATA COLLECTION AND ANALYSIS: Two review authors independently extracted data and assessed quality using Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2). We resolved disagreements by discussion. Review authors extracted patient-level data when available to populate 2 × 2 contingency tables (true-positives (TPs), true-negatives (TNs), false-positives (FPs) and false-negatives (FNs)). MAIN RESULTS: We included four studies in the review (n = 1585 patients). None of the studies were at high risk of bias in any of the QUADAS-2 domains, but some uncertainty surrounded the validity of studies in some domains for which the risk of bias was uncertain. D-dimer assays demonstrated high sensitivity in all four studies, but with high levels of false-positive results, especially among those over the age of 65 years. Estimates of sensitivity ranged from 80% to 100%, and estimates of specificity from 23% to 63%. AUTHORS' CONCLUSIONS: A negative D-dimer test is valuable in ruling out PE in patients who present to the A&E setting with a low PTP. Evidence from one study suggests that this test may have less utility in older populations, but no empirical evidence was available to support an increase in the diagnostic threshold of interpretation of D-dimer results for those over the age of 65 years.
+AD  - NHS Fife, Queen Margaret Hospital, Dunfermline, UK, KY12 0SU.
+AN  - 27494075
+AU  - Crawford, F.
+AU  - Andras, A.
+AU  - Welch, K.
+AU  - Sheares, K.
+AU  - Keeling, D.
+AU  - Chappell, F. M.
+C2  - PMC6457638
+DA  - Aug 5
+DB  - Medline
+DO  - 10.1002/14651858.CD010864.pub2
+DP  - NLM
+ET  - 2016/08/06
+IS  - 8
+J2  - The Cochrane database of systematic reviews
+KW  - Acute Disease
+Adult
+Biomarkers
+blood
+Cross-Sectional Studies
+False Negative Reactions
+False Positive Reactions
+Fibrin Fibrinogen Degradation Products
+analysis
+Humans
+Pulmonary Embolism
+blood
+diagnosis
+Reference Standards
+Venous Thromboembolism
+blood
+diagnosis
+LA  - eng
+N1  - 1469-493x
+Crawford, Fay
+Andras, Alina
+Welch, Karen
+Sheares, Karen
+Keeling, David
+Chappell, Francesca M
+10/4001/14/DH_/Department of Health/United Kingdom
+13/89/23/DH_/Department of Health/United Kingdom
+CZB/4/788/CSO_/Chief Scientist Office/United Kingdom
+ETM/442/CSO_/Chief Scientist Office/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+Cochrane Database Syst Rev. 2016 Aug 5;2016(8):CD010864. doi: 10.1002/14651858.CD010864.pub2.
+PY  - 2016
+SN  - 1361-6137
+SP  - Cd010864
+ST  - D-dimer test for excluding the diagnosis of pulmonary embolism
+T2  - Cochrane Database Syst Rev
+TI  - D-dimer test for excluding the diagnosis of pulmonary embolism
+VL  - 2016
+ID  - 2
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The effect of alteplase versus heparin in pulmonary embolism has not been studied extensively with serial pulmonary angiograms. OBJECTIVES: The aim of this randomized, open trial was to evaluate the efficacy and safety of alteplase followed by heparin, versus heparin alone, in 36 patients with angiographically documented pulmonary embolism. METHODS: Twenty patients were allocated randomly to a 2-h infusion of alteplase (10 mg bolus, then 90 mg over 2 h) followed by heparin; the other 16 patients were given intravenous heparin at a continuous infusion rate of 1,750 IU/h. RESULTS: The vascular obstruction, assessed by the Miller index at pulmonary angiography, decreased significantly in alteplase-treated patients (p less than 0.01) from a baseline of 28.3 +/- 2.9 to a value of 24.8 +/- 5.2 2 h after the start of infusion; in the heparin group there was no change (from 25.3 +/- 5.3 to 25.2 +/- 5.4). Mean pulmonary artery pressure decreased significantly from a baseline of 30.2 +/- 7.8 mm Hg to 21.4 +/- 6.7 in the alteplase group and increased in the heparin group (from 22.3 +/- 10.5 to 24.8 +/- 11.2 mm Hg). For a subset of patients, lung scans were performed at baseline and on days 7 and 30. There were no differences between the two groups in the follow-up lung scans, but there were significant decreases from the baseline values. Bleeding occurred in 14 of 20 alteplase-treated patients and in 6 of 16 in the heparin group (p = NS). There were three major bleeding episodes in the alteplase group and two in the heparin group. Two patients died after fibrinolysis (one of acute renal failure after cardiac tamponade and one of cardiac arrest after cerebral hemorrhage) and one patient in the heparin group died of recurrent pulmonary embolism. CONCLUSIONS: Alteplase resulted in a greater and faster improvement of the angiographic and hemodynamic variables compared with heparin. However, the high frequency of bleeding observed with alteplase in this trial suggests that patients should be carefully selected before thrombolytic therapy is given.
+AD  - Istituto di Cardiologia, Università di Padova, Italy.
+AN  - 1512328
+AU  - Dalla-Volta, S.
+AU  - Palla, A.
+AU  - Santolicandro, A.
+AU  - Giuntini, C.
+AU  - Pengo, V.
+AU  - Visioli, O.
+AU  - Zonzin, P.
+AU  - Zanuttini, D.
+AU  - Barbaresi, F.
+AU  - Agnelli, G.
+AU  - et al.
+DA  - Sep
+DB  - Medline
+DO  - 10.1016/0735-1097(92)90002-5
+DP  - NLM
+ET  - 1992/09/01
+IS  - 3
+J2  - Journal of the American College of Cardiology
+KW  - Acute Disease
+Adult
+Aged
+Drug Therapy, Combination
+Female
+Hematologic Tests
+Hemorrhage
+chemically induced
+Heparin
+adverse effects
+therapeutic use
+Humans
+Lung
+diagnostic imaging
+Male
+Middle Aged
+Pulmonary Artery
+diagnostic imaging
+Pulmonary Embolism
+diagnostic imaging
+drug therapy
+physiopathology
+Radiography
+Radionuclide Imaging
+Tissue Plasminogen Activator
+adverse effects
+therapeutic use
+LA  - eng
+N1  - Dalla-Volta, S
+Palla, A
+Santolicandro, A
+Giuntini, C
+Pengo, V
+Visioli, O
+Zonzin, P
+Zanuttini, D
+Barbaresi, F
+Agnelli, G
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+J Am Coll Cardiol. 1992 Sep;20(3):520-6. doi: 10.1016/0735-1097(92)90002-5.
+PY  - 1992
+SN  - 0735-1097 (Print)
+0735-1097
+SP  - 520-6
+ST  - PAIMS 2: alteplase combined with heparin versus heparin in the treatment of acute pulmonary embolism. Plasminogen activator Italian multicenter study 2
+T2  - J Am Coll Cardiol
+TI  - PAIMS 2: alteplase combined with heparin versus heparin in the treatment of acute pulmonary embolism. Plasminogen activator Italian multicenter study 2
+VL  - 20
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: The aim of this study was to assess the effect of thrombolysis versus heparin treatment on echocardiographic parameters and clinical outcome, during hospitalization and within the first 180 days after admission, in patients with first episode of submassive pulmonary embolism (SPE) and right ventricle dysfunction (RVD). METHODS: Consecutive patients (age, 18-75 years) with a first episode of SPE, symptoms onset since no more than 6 hours, normal blood pressure (>100 mm Hg), echocardiographic evidence of RVD and positive lung spiral computed tomography were double-blind randomized: 1 group received 100 mg of alteplase (10-mg bolus, followed by a 90-mg intravenous infusion over a period of 2 hours), while the other group received matching placebo. In addition to alteplase or placebo, both groups received an unfractionated heparin treatment. Echocardiogram was performed at admission, at 24, 48 and 72 hours, at discharge and at 3 and at 6 months after randomization. RESULTS: Seventy-two patients were included into the study; 37 were assigned to thrombolysis and 35 to placebo. Both groups were well matched with regard to features and clinical presentation. Thrombolysis group showed a significant early improvement of RV function compared with heparin group, and this improvement was observed also during the follow-up (180 days). The same group also showed significant reduction in clinical events during the hospitalization and follow-up. CONCLUSIONS: Our data suggest that, in hemodynamically stable patients with SPE, thrombolysis shows an earliest reduction of RVD and a more favorable trend in clinical outcome, so, it could merit consideration in SPE.
+AD  - G.F. Ingrassia Hospital, Palermo, Italy.
+AN  - 20890176
+AU  - Fasullo, S.
+AU  - Scalzo, S.
+AU  - Maringhini, G.
+AU  - Ganci, F.
+AU  - Cannizzaro, S.
+AU  - Basile, I.
+AU  - Cangemi, D.
+AU  - Terrazzino, G.
+AU  - Parrinello, G.
+AU  - Sarullo, F. M.
+AU  - Baglini, R.
+AU  - Paterna, S.
+AU  - Di Pasquale, P.
+DA  - Jan
+DB  - Medline
+DO  - 10.1097/MAJ.0b013e3181f1fc3e
+DP  - NLM
+ET  - 2010/10/05
+IS  - 1
+J2  - The American journal of the medical sciences
+KW  - Adolescent
+Adult
+Aged
+Anticoagulants
+therapeutic use
+Double-Blind Method
+Echocardiography
+Fibrinolytic Agents
+therapeutic use
+Heparin
+therapeutic use
+Humans
+Middle Aged
+Pulmonary Embolism
+complications
+diagnostic imaging
+drug therapy
+Thrombolytic Therapy
+Tissue Plasminogen Activator
+therapeutic use
+Ventricular Dysfunction, Right
+complications
+diagnostic imaging
+drug therapy
+Warfarin
+therapeutic use
+Young Adult
+LA  - eng
+N1  - 1538-2990
+Fasullo, Sergio
+Scalzo, Sebastiano
+Maringhini, Giorgio
+Ganci, Filippo
+Cannizzaro, Sergio
+Basile, Ivana
+Cangemi, Debora
+Terrazzino, Gabriella
+Parrinello, Gaspare
+Sarullo, Filippo M
+Baglini, Roberto
+Paterna, Salvatore
+Di Pasquale, Pietro
+Journal Article
+Randomized Controlled Trial
+United States
+Am J Med Sci. 2011 Jan;341(1):33-9. doi: 10.1097/MAJ.0b013e3181f1fc3e.
+PY  - 2011
+SN  - 0002-9629
+SP  - 33-9
+ST  - Six-month echocardiographic study in patients with submassive pulmonary embolism and right ventricle dysfunction: comparison of thrombolysis with heparin
+T2  - Am J Med Sci
+TI  - Six-month echocardiographic study in patients with submassive pulmonary embolism and right ventricle dysfunction: comparison of thrombolysis with heparin
+VL  - 341
+ID  - 6
+ER  - 
+
+TY  - JOUR
+AB  - A comparison of the effects of two regimens of urokinase infusion not associated to heparin and of continuous heparin infusion was made assessing the rate of emboli and arterial hypoxemia resolution in patients with acute pulmonary embolism. Twenty-nine patients with acute pulmonary embolism, each one diagnosed by means of perfusion lung scan and selective pulmonary arteriography, were admitted to the study and randomly allocated to three treatment groups: A, 10 patients, urokinase: 800,000 CTA units/day for three days followed by oral anticoagulants; B, 9 patients, heparin: mean daily dose 30,000 units for seven days followed by oral anticoagulants; C, 10 patients, urokinase: 3,300,000 CTA units in 12 hours followed by oral anticoagulants. Pulmonary lung scan and PaO2st (PaO2 standardized to PaCO2 of 40 mmHg) were repeated at 1, 3, 7, and 30 days in all the groups of treatment. The mean daily rate of improvement, assessed from both the perfused lung segments and the PaO2st increment, in group C was highest in the first 24 hours and lowest from the first to the third day of treatment. However, from the third to the seventh day of treatment and onwards the mean daily rate of improvement was roughly the same in all the groups. After one month, lung perfusion and the PaO2st had considerably improved, but had not attained full recovery in any of the treatment groups.(ABSTRACT TRUNCATED AT 250 WORDS)
+AN  - 6398781
+AU  - Giuntini, C.
+AU  - Marini, C.
+AU  - Di Ricco, G.
+AU  - Palla, R.
+AU  - Giacomelli, V.
+AU  - Rindi, M.
+DB  - Medline
+DP  - NLM
+ET  - 1984/01/01
+J2  - Giornale italiano di cardiologia
+KW  - Acute Disease
+Clinical Trials as Topic
+Heparin
+therapeutic use
+Humans
+Oxygen
+blood
+Pulmonary Embolism
+drug therapy
+Urokinase-Type Plasminogen Activator
+administration & dosage
+therapeutic use
+LA  - eng
+N1  - Giuntini, C
+Marini, C
+Di Ricco, G
+Palla, R
+Giacomelli, V
+Rindi, M
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Italy
+G Ital Cardiol. 1984;14 Suppl 1:26-9.
+PY  - 1984
+SN  - 0046-5968 (Print)
+0046-5968
+SP  - 26-9
+ST  - A controlled clinical trial on the effect of heparin infusion and two regimens of urokinase in acute pulmonary embolism
+T2  - G Ital Cardiol
+TI  - A controlled clinical trial on the effect of heparin infusion and two regimens of urokinase in acute pulmonary embolism
+VL  - 14 Suppl 1
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AB  - Data from a non-randomised study have hinted that in patients with acute pulmonary embolism (PE), thrombolysis followed by heparin more rapidly reverses right-ventricular dysfunction and restores pulmonary tissue perfusion than does heparin alone. We have pursued this idea in a randomised protocol. 46 haemodynamically stable patients were randomised to recombinant tissue plasminogen activator (alteplase, rt-PA) 100 mg over 2 h followed by intravenous heparin and 55 to heparin alone. Right-ventricular wall motion was assessed qualitatively, and right-ventricular end diastolic area was estimated by planimetry from echocardiograms at baseline and at 3 and 24 hours. Pulmonary perfusion scans were obtained at baseline and 24 hours. In 39% of rt-PA patients but in only 17% of heparin alone patients right-ventricular wall motion at 24 hours had improved from baseline and in 2% and 17%, respectively, it worsened (p = 0.005). rt-PA patients also had a significant decrease in right-ventricular end-diastolic area during the 24 hours after randomisation and a significant absolute improvement in pulmonary perfusion (14.6% vs 1.5%). No clinical episodes of recurrent PE were noted among rt-PA patients, but there were 2 fatal and 3 non-fatal clinically suspected recurrent PEs within 14 days in patients randomised to heparin alone. rt-PA rapidly improves right-ventricular function and pulmonary perfusion among patients with PE and may lead to a lower rate of adverse clinical outcomes.
+AD  - Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts 02115.
+AN  - 8094768
+AU  - Goldhaber, S. Z.
+AU  - Haire, W. D.
+AU  - Feldstein, M. L.
+AU  - Miller, M.
+AU  - Toltzis, R.
+AU  - Smith, J. L.
+AU  - Taveira da Silva, A. M.
+AU  - Come, P. C.
+AU  - Lee, R. T.
+AU  - Parker, J. A.
+AU  - et al.
+DA  - Feb 27
+DB  - Medline
+DO  - 10.1016/0140-6736(93)90274-k
+DP  - NLM
+ET  - 1993/02/27
+IS  - 8844
+J2  - Lancet (London, England)
+KW  - Acute Disease
+Aged
+Echocardiography
+Female
+Heparin
+adverse effects
+therapeutic use
+Humans
+Lung
+diagnostic imaging
+Male
+Middle Aged
+Pulmonary Circulation
+drug effects
+Pulmonary Embolism
+diagnostic imaging
+drug therapy
+physiopathology
+Radionuclide Imaging
+Thrombolytic Therapy
+Tissue Plasminogen Activator
+adverse effects
+therapeutic use
+Ventricular Function, Left
+drug effects
+LA  - eng
+N1  - Goldhaber, S Z
+Haire, W D
+Feldstein, M L
+Miller, M
+Toltzis, R
+Smith, J L
+Taveira da Silva, A M
+Come, P C
+Lee, R T
+Parker, J A
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+Lancet. 1993 Feb 27;341(8844):507-11. doi: 10.1016/0140-6736(93)90274-k.
+PY  - 1993
+SN  - 0140-6736 (Print)
+0140-6736
+SP  - 507-11
+ST  - Alteplase versus heparin in acute pulmonary embolism: randomised trial assessing right-ventricular function and pulmonary perfusion
+T2  - Lancet
+TI  - Alteplase versus heparin in acute pulmonary embolism: randomised trial assessing right-ventricular function and pulmonary perfusion
+VL  - 341
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The goal of this study was to test the efficacy of clinical risk algorithms and a quantitative immunoturbidimetric D-dimer assay in the evaluation of patients undergoing pulmonary CT angiography for suspected acute pulmonary embolism. SUBJECTS AND METHODS: From April 1, 2007, to March 31, 2008, emergency department evaluations for clinically suspected pulmonary embolism were performed with the revised Geneva score, a quantitative D-dimer assay, and pulmonary CT angiography. RESULTS: Evaluations for pulmonary embolism were performed for 745 consecutively registered patients, 627 of whom were included in the study. The other 118 patients were excluded because a d-dimer assay was not performed. According to the revised Geneva score, 281 patients had low clinical probability of having pulmonary embolism; 330, intermediate probability; and 16, high probability. CT angiography showed that 28 patients had pulmonary embolism (six in the low-probability group, 17 in the intermediate-probability group, and five in the high-probability group). The sensitivity, negative predictive value, and specificity of the D-dimer assay were 100%, 100%, and 25% (low-clinical-probability group); 100%, 100%, and 33% (intermediate-probability group); and 80%, 80%, and 37% (high-probability group). CONCLUSION: The data appear to support the use of a quantitative D-dimer assay as a first-line test in evaluation for pulmonary embolism when the clinical probability of the presence of pulmonary embolism is low or intermediate. The sensitivity and negative predictive value were 100% for these cases. More than 26% of CT angiographic examinations might have been avoided if the D-dimer assay had been used as a first-line test in the care of patients at low or intermediate risk. Because of the small sample size, the D-dimer assay is not recommended as a first-line test in the evaluation of patients at high risk.
+AD  - Department of Radiology, Duke University Medical Center, DUMC Box 3808, Durham, NC 27710, USA. rajan.gupta@duke.edu
+AN  - 19620439
+AU  - Gupta, R. T.
+AU  - Kakarla, R. K.
+AU  - Kirshenbaum, K. J.
+AU  - Tapson, V. F.
+DA  - Aug
+DB  - Medline
+DO  - 10.2214/ajr.08.2186
+DP  - NLM
+ET  - 2009/07/22
+IS  - 2
+J2  - AJR. American journal of roentgenology
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Algorithms
+Angiography
+methods
+Biomarkers
+analysis
+Female
+Fibrin Fibrinogen Degradation Products
+analysis
+Humans
+Male
+Middle Aged
+Predictive Value of Tests
+Pulmonary Embolism
+diagnostic imaging
+Sensitivity and Specificity
+Tomography, X-Ray Computed
+methods
+Young Adult
+LA  - eng
+N1  - 1546-3141
+Gupta, Rajan T
+Kakarla, Rajesh K
+Kirshenbaum, Kevin J
+Tapson, Victor F
+Evaluation Study
+Journal Article
+United States
+AJR Am J Roentgenol. 2009 Aug;193(2):425-30. doi: 10.2214/AJR.08.2186.
+PY  - 2009
+SN  - 0361-803x
+SP  - 425-30
+ST  - D-dimers and efficacy of clinical risk estimation algorithms: sensitivity in evaluation of acute pulmonary embolism
+T2  - AJR Am J Roentgenol
+TI  - D-dimers and efficacy of clinical risk estimation algorithms: sensitivity in evaluation of acute pulmonary embolism
+VL  - 193
+ID  - 25
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Thrombolytic therapy is usually reserved for patients with clinically serious or massive pulmonary embolism (PE). Evidence suggests that thrombolytic agents may dissolve blood clots more rapidly than heparin and may reduce the death rate associated with PE. However, there are still concerns about the possible risk of adverse effects of thrombolytic therapy, such as major or minor haemorrhage. This is the third update of the Cochrane review first published in 2006. OBJECTIVES: To assess the effects of thrombolytic therapy for acute pulmonary embolism. SEARCH METHODS: The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL databases and the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 16 April 2018. We undertook reference checking to identify additional studies. SELECTION CRITERIA: We included randomised controlled trials (RCTs) that compared thrombolytic therapy followed by heparin versus heparin alone, heparin plus placebo, or surgical intervention for patients with acute PE. We did not include trials comparing two different thrombolytic agents or different doses of the same thrombolytic drug. DATA COLLECTION AND ANALYSIS: Two review authors (JY, QH) assessed the eligibility and quality of trials and extracted data. We calculated effect estimates using the odds ratio (OR) with 95% confidence interval (CI) or the mean difference (MD) with 95% CI. We assessed the quality of the evidence using GRADE criteria. MAIN RESULTS: We identified no new studies for inclusion in this 2018 update. We included in the review 18 trials with a total of 2197 participants. We were not able to include one study in the meta-analysis because it provided no data that we could extract. Most of the studies carried a high risk of bias because of high or unclear risk related to randomisation and blinding. Meta-analysis showed that, compared with heparin alone, or heparin plus placebo, thrombolytics plus heparin can reduce the odds of death (OR 0.57, 95% CI 0.37 to 0.87, 2167 participants, P = 0.01, low-quality evidence) and recurrence of PE (OR 0.51, 95% CI 0.29 to 0.89, 1898 participants, P = 0.02, low-quality evidence). Effects on mortality weakened when we excluded from analysis four studies at high risk of bias (OR 0.66, 95% CI 0.42 to 1.06, 2054 participants, P = 0.08). The incidence of major and minor haemorrhagic events was higher in the thrombolytics group than in the control group (OR 2.90, 95% CI 1.95 to 4.31, 1897 participants, P < 0.001, low-quality evidence; OR 3.09, 95% CI 1.58 to 6.06, 1553 participants, P = 0.001, very low-quality evidence, respectively). We downgraded the quality of the evidence to low or very low because of design limitations, potential influence of pharmaceutical companies, and small sample sizes. Length of hospital stay (mean difference (MD) -0.89, 95% CI -3.13 to 1.34) and quality of life were similar between the two treatment groups. Limited information from a small number of trials indicated that thrombolytics may improve haemodynamic outcomes, perfusion lung scanning, pulmonary angiogram assessment, echocardiograms, pulmonary hypertension, coagulation parameters, clinical outcomes, and survival time to a greater extent than heparin alone. However, the heterogeneity of the studies and the small number of participants involved warrant caution when results are interpreted. Similarily, fewer participants from the thrombolytics group required escalation of treatment. None of the included studies reported on post-thrombotic syndrome or compared the costs of different treatments. AUTHORS' CONCLUSIONS: Low-quality evidence suggests that thrombolytics reduce death following acute pulmonary embolism compared with heparin. The included studies used a variety of thrombolytic drugs. Thrombolytic therapy may be helpful in reducing the recurrence of pulmonary emboli but may cause major and minor haemorrhagic events and stroke. More high-quality, blinded randomised controlled trials assessing safety and cost-effectiveness of therapies for pulmonary embolism are required.
+AD  - The Center of Gerontology and Geriatrics, West China Hospital, Sichuan University, No. 37, Guo Xue Xiang, Chengdu, Sichuan, China, 610041.
+AN  - 30560579
+AU  - Hao, Q.
+AU  - Dong, B. R.
+AU  - Yue, J.
+AU  - Wu, T.
+AU  - Liu, G. J.
+C2  - PMC6516871
+DA  - Dec 18
+DB  - Medline
+DO  - 10.1002/14651858.CD004437.pub5
+DP  - NLM
+ET  - 2018/12/19
+IS  - 12
+J2  - The Cochrane database of systematic reviews
+KW  - Cause of Death
+Fibrinolytic Agents
+adverse effects
+therapeutic use
+Hemorrhage
+chemically induced
+epidemiology
+Heparin
+adverse effects
+therapeutic use
+Humans
+Pulmonary Embolism
+drug therapy
+mortality
+Randomized Controlled Trials as Topic
+Recurrence
+Thrombolytic Therapy
+adverse effects
+methods
+LA  - eng
+N1  - 1469-493x
+Hao, Qiukui
+Dong, Bi Rong
+Yue, Jirong
+Wu, Taixiang
+Liu, Guan J
+ETM/442/Chief Scientist Office/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Systematic Review
+Cochrane Database Syst Rev. 2018 Dec 18;12(12):CD004437. doi: 10.1002/14651858.CD004437.pub5.
+PY  - 2018
+SN  - 1361-6137
+SP  - Cd004437
+ST  - Thrombolytic therapy for pulmonary embolism
+T2  - Cochrane Database Syst Rev
+TI  - Thrombolytic therapy for pulmonary embolism
+VL  - 12
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - To test the efficacy of thrombolytic therapy in massive pulmonary embolism, we conducted a prospective randomized controlled trial. Eight patients were randomized to receive either 1,500,000 IU of streptokinase in 1 hour through a peripheral vein followed by heparin or heparin alone. All patients had major risk factors for deep vein thrombosis (DVT) and were considered to have high clinical suspicion for pulmonary embolism (PE). At baseline all patients had a similar degree of systemic arterial hypotension, pulmonary arterial hypertension, and right ventricular dysfunction. The time of onset of cardiogenic shock in both groups was comparable (2.25 +/- 0.5 hours in the streptokinase group and 1.75 +/- 0.96 hours in the heparin group). The four patients who were randomized to streptokinase improved in the first hour after treatment, survived, and in 2 years of follow-up are without pulmonary arterial hypertension. All four patients treated with heparin alone died from 1 to 3 hours after arrival at the emergency room (p = 0.02). Post-thrombolytic therapy the diagnosis of PE was sustained in the streptokinase group by high probability V/Q lung scans and proven DVT. A necropsy study performed in three patients in the heparin group showed massive pulmonary embolism and right ventricular myocardial infarction, without significant coronary arterial obstruction. The results indicate that thrombolytic therapy reduces the mortality rate of massive acute pulmonary embolism.
+AD  - Amores 1636 Edificio "D," Depto 503, CP 03100, Mexico City, Mexico and Emergency Care Department, Hospital de Cardiologia, National Medical Center, Mexico City, Mexico.
+AN  - 10608028
+AU  - Jerjes-Sanchez, C.
+AU  - Ramírez-Rivera, A.
+AU  - de Lourdes García, M.
+AU  - Arriaga-Nava, R.
+AU  - Valencia, S.
+AU  - Rosado-Buzzo, A.
+AU  - Pierzo, J. A.
+AU  - Rosas, E.
+DB  - PubMed-not-MEDLINE
+DO  - 10.1007/bf01062714
+DP  - NLM
+ET  - 1995/01/01
+IS  - 3
+J2  - Journal of thrombosis and thrombolysis
+LA  - eng
+N1  - 1573-742x
+Jerjes-Sanchez, C
+Ramírez-Rivera, A
+de Lourdes García M
+Arriaga-Nava, R
+Valencia, S
+Rosado-Buzzo, A
+Pierzo, JA
+Rosas, E
+Journal Article
+Netherlands
+J Thromb Thrombolysis. 1995;2(3):227-229. doi: 10.1007/BF01062714.
+PY  - 1995
+SN  - 0929-5305
+SP  - 227-229
+ST  - Streptokinase and Heparin versus Heparin Alone in Massive Pulmonary Embolism: A Randomized Controlled Trial
+T2  - J Thromb Thrombolysis
+TI  - Streptokinase and Heparin versus Heparin Alone in Massive Pulmonary Embolism: A Randomized Controlled Trial
+VL  - 2
+ID  - 8
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Submassive pulmonary embolism (PE) has a low mortality rate but can degrade functional capacity. OBJECTIVE: The present study aims to provide rationale, methodology, and initial findings of a multicentre, randomised trial of fibrinolysis for PE that used a composite end-point, including quality of life measures. METHODS: This investigator-initiated study was funded by a contract between a corporate partner and the investigator's hospital (the prime site). The investigator was the Food and Drug Administration (FDA) sponsor. The prime site subcontracted, indemnified, and trained consortia members. Consenting, normotensive patients with PE and right ventricular strain (by echocardiography or biomarkers) received low-molecular-weight heparin and random assignment to a single bolus of tenecteplase or placebo in double-blinded fashion. The outcomes were: (i) in-hospital rate of intubation, vasopressor support, and major haemorrhage, or (ii) at 90 days, death, recurrent PE, or composite that defined poor quality of life (echocardiography, 6 min walk test and surveys). The planned sample size was n = 200. RESULTS: Eight sites enrolled 87 patients over 5 years. The ratio of patients screened for each enrolled was 7.4 to 1, equating to 11 h screening time per patient enrolled. Primary barrier to enrolment was the cost of screening. Two patients died (2.5%, 95%CI [0-8%]), one developed shock, but 18 (22%, 95%CI: [13-30%]) had a poor quality of life. CONCLUSIONS: An investigator-initiated, FDA-regulated, multicentre trial of fibrinolysis for submassive PE was conducted, but was limited by screening costs and a low mortality rate. Quality of life measurements might represent a more important patient-centred end-point.
+AD  - Department of Emergency Medicine, Indiana University School of Medicine, Indianapolis, Indiana, USA; Department of Cellular and Integrative Physiology, Indiana University School of Medicine, Indianapolis, Indiana, USA.
+AN  - 24224521
+AU  - Kline, J. A.
+AU  - Hernandez, J.
+AU  - Hogg, M. M.
+AU  - Jones, A. E.
+AU  - Courtney, D. M.
+AU  - Kabrhel, C.
+AU  - Nordenholz, K. E.
+AU  - Diercks, D. B.
+AU  - Rondina, M. T.
+AU  - Klinger, J. R.
+DA  - Dec
+DB  - Medline
+DO  - 10.1111/1742-6723.12159
+DP  - NLM
+ET  - 2013/11/15
+IS  - 6
+J2  - Emergency medicine Australasia : EMA
+KW  - Adolescent
+Adult
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Fibrinolytic Agents
+adverse effects
+therapeutic use
+Heparin, Low-Molecular-Weight
+adverse effects
+therapeutic use
+Humans
+Male
+Middle Aged
+Outcome Assessment, Health Care
+methods
+Pulmonary Embolism
+drug therapy
+Quality of Life
+Research Design
+Tenecteplase
+Tissue Plasminogen Activator
+adverse effects
+therapeutic use
+Young Adult
+LA  - eng
+N1  - 1742-6723
+Kline, Jeffrey A
+Hernandez, Jackeline
+Hogg, Melanie M
+Jones, Alan E
+Courtney, D Mark
+Kabrhel, Christopher
+Nordenholz, Kristen E
+Diercks, Deborah B
+Rondina, Matthew T
+Klinger, James R
+K23 HL092161/HL/NHLBI NIH HHS/United States
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+Australia
+controlled trial
+fibrinolysis
+indemnification
+methodology
+thrombolysis
+venous thromboembolism
+Emerg Med Australas. 2013 Dec;25(6):515-26. doi: 10.1111/1742-6723.12159. Epub 2013 Nov 13.
+PY  - 2013
+SN  - 1742-6723
+SP  - 515-26
+ST  - Rationale and methodology for a multicentre randomised trial of fibrinolysis for pulmonary embolism that includes quality of life outcomes
+T2  - Emerg Med Australas
+TI  - Rationale and methodology for a multicentre randomised trial of fibrinolysis for pulmonary embolism that includes quality of life outcomes
+VL  - 25
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Acute pulmonary embolism (PE) can worsen quality of life due to persistent dyspnea or exercise intolerance. OBJECTIVE: Test if tenecteplase increases the probability of a favorable composite patient-oriented outcome after submassive PE. METHODS: Normotensive patients with PE and right ventricular (RV) strain (by echocardiography or biomarkers) were enrolled from eight hospitals. All patients received low-molecular-weight heparin followed by random assignment to either a single weight-based bolus of tenecteplase or placebo, administered in a double-blinded fashion. The primary composite outcome included: (i) death, circulatory shock, intubation or major bleeding within 5 days or (ii) recurrent PE, poor functional capacity (RV dysfunction with either dyspnea at rest or exercise intolerance) or an SF36(®) Physical Component Summary (PCS) score < 30 at 90-day follow-up. RESULTS: Eighty-three patients were randomized; 40 to tenecteplase and 43 to placebo. The trial was terminated prematurely. Within 5 days, adverse outcomes occurred in three placebo-treated patients (death in one and intubation in two) and one tenecteplase-treated patient (fatal intracranial hemorrhage). At 90 days, adverse outcomes occurred in 13 unique placebo-treated patients and five unique tenecteplase-treated patients Thus, 16 (37%) placebo-treated and six (15%) tenecteplase-treated patients had at least one adverse outcome (exact two-sided P = 0.017). CONCLUSIONS: Treatment of patients with submassive pulmonary embolism with tenecteplase was associated with increased probability of a favorable composite outcome.
+AD  - Departments of Emergency Medicine and Cellular and Integrative Physiology, Indiana University School of Medicine, Indianapolis, IN, USA.
+AN  - 24484241
+AU  - Kline, J. A.
+AU  - Nordenholz, K. E.
+AU  - Courtney, D. M.
+AU  - Kabrhel, C.
+AU  - Jones, A. E.
+AU  - Rondina, M. T.
+AU  - Diercks, D. B.
+AU  - Klinger, J. R.
+AU  - Hernandez, J.
+DA  - Apr
+DB  - Medline
+DO  - 10.1111/jth.12521
+DP  - NLM
+ET  - 2014/02/04
+IS  - 4
+J2  - Journal of thrombosis and haemostasis : JTH
+KW  - Adult
+Aged
+Double-Blind Method
+Dyspnea
+complications
+Female
+Fibrinolytic Agents
+therapeutic use
+Hemorrhage
+complications
+Humans
+Male
+Middle Aged
+Probability
+Prospective Studies
+Pulmonary Embolism
+drug therapy
+mortality
+Quality of Life
+Shock
+complications
+Tenecteplase
+Tissue Plasminogen Activator
+therapeutic use
+Treatment Outcome
+LA  - eng
+N1  - 1538-7836
+Kline, J A
+Nordenholz, K E
+Courtney, D M
+Kabrhel, C
+Jones, A E
+Rondina, M T
+Diercks, D B
+Klinger, J R
+Hernandez, J
+R03 AG040631/AG/NIA NIH HHS/United States
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+pulmonary embolism
+quality of life
+thrombolytic therapy
+ventricular function, right
+J Thromb Haemost. 2014 Apr;12(4):459-68. doi: 10.1111/jth.12521.
+PY  - 2014
+SN  - 1538-7836
+SP  - 459-68
+ST  - Treatment of submassive pulmonary embolism with tenecteplase or placebo: cardiopulmonary outcomes at 3 months: multicenter double-blind, placebo-controlled randomized trial
+T2  - J Thromb Haemost
+TI  - Treatment of submassive pulmonary embolism with tenecteplase or placebo: cardiopulmonary outcomes at 3 months: multicenter double-blind, placebo-controlled randomized trial
+VL  - 12
+ID  - 10
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The use of thrombolytic agents in the treatment of hemodynamically stable patients with acute submassive pulmonary embolism remains controversial. METHODS: We conducted a study of patients with acute pulmonary embolism and pulmonary hypertension or right ventricular dysfunction but without arterial hypotension or shock. The patients were randomly assigned in double-blind fashion to receive heparin plus 100 mg of alteplase or heparin plus placebo over a period of two hours. The primary end point was in-hospital death or clinical deterioration requiring an escalation of treatment, which was defined as catecholamine infusion, secondary thrombolysis, endotracheal intubation, cardiopulmonary resuscitation, or emergency surgical embolectomy or thrombus fragmentation by catheter. RESULTS: Of 256 patients enrolled, 118 were randomly assigned to receive heparin plus alteplase and 138 to receive heparin plus placebo. The incidence of the primary end point was significantly higher in the heparin-plus-placebo group than in the heparin-plus-alteplase group (P=0.006), and the probability of 30-day event-free survival (according to Kaplan-Meier analysis) was higher in the heparin-plus-alteplase group (P=0.005). This difference was due to the higher incidence of treatment escalation in the heparin-plus-placebo group (24.6 percent vs. 10.2 percent, P=0.004), since mortality was low in both groups (3.4 percent in the heparin-plus-alteplase group and 2.2 percent in the heparin-plus-placebo group, P=0.71). Treatment with heparin plus placebo was associated with almost three times the risk of death or treatment escalation that was associated with heparin plus alteplase (P=0.006). No fatal bleeding or cerebral bleeding occurred in patients receiving heparin plus alteplase. CONCLUSIONS: When given in conjunction with heparin, alteplase can improve the clinical course of stable patients who have acute submassive pulmonary embolism and can prevent clinical deterioration requiring the escalation of treatment during the hospital stay.
+AD  - Department of Cardiology and Pulmonary Medicine, Georg-August-Universität, Göttingen, Germany. skonstan@med.uni-goettingen.de
+AN  - 12374874
+AU  - Konstantinides, S.
+AU  - Geibel, A.
+AU  - Heusel, G.
+AU  - Heinrich, F.
+AU  - Kasper, W.
+DA  - Oct 10
+DB  - Medline
+DO  - 10.1056/NEJMoa021274
+DP  - NLM
+ET  - 2002/10/11
+IS  - 15
+J2  - The New England journal of medicine
+KW  - Aged
+Disease-Free Survival
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Fibrinolytic Agents
+therapeutic use
+Heparin
+therapeutic use
+Humans
+Male
+Middle Aged
+Prospective Studies
+Pulmonary Embolism
+complications
+diagnostic imaging
+drug therapy
+mortality
+Recurrence
+Thrombolytic Therapy
+Tissue Plasminogen Activator
+therapeutic use
+Ultrasonography
+Ventricular Dysfunction, Right
+diagnostic imaging
+etiology
+LA  - eng
+N1  - 1533-4406
+Konstantinides, Stavros
+Geibel, Annette
+Heusel, Gerhard
+Heinrich, Fritz
+Kasper, Wolfgang
+Management Strategies and Prognosis of Pulmonary Embolism-3 Trial Investigators
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+N Engl J Med. 2002 Oct 10;347(15):1143-50. doi: 10.1056/NEJMoa021274.
+PY  - 2002
+SN  - 0028-4793
+SP  - 1143-50
+ST  - Heparin plus alteplase compared with heparin alone in patients with submassive pulmonary embolism
+T2  - N Engl J Med
+TI  - Heparin plus alteplase compared with heparin alone in patients with submassive pulmonary embolism
+VL  - 347
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The long-term effect of thrombolytic treatment of pulmonary embolism (PE) is unknown. OBJECTIVES: This study investigated the long-term prognosis of patients with intermediate-risk PE and the effect of thrombolytic treatment on the persistence of symptoms or the development of late complications. METHODS: The PEITHO (Pulmonary Embolism Thrombolysis) trial was a randomized (1:1) comparison of thrombolysis with tenecteplase versus placebo in normotensive patients with acute PE, right ventricular (RV) dysfunction on imaging, and a positive cardiac troponin test result. Both treatment arms received standard anticoagulation. Long-term follow-up was included in the third protocol amendment; 28 sites randomizing 709 of the 1,006 patients participated. RESULTS: Long-term (median 37.8 months) survival was assessed in 353 of 359 (98.3%) patients in the thrombolysis arm and in 343 of 350 (98.0%) in the placebo arm. Overall mortality rates were 20.3% and 18.0%, respectively (p = 0.43). Between day 30 and long-term follow-up, 65 deaths occurred in the thrombolysis arm and 53 occurred in the placebo arm. At follow-up examination of survivors, persistent dyspnea (mostly mild) or functional limitation was reported by 36.0% versus 30.1% of the patients (p = 0.23). Echocardiography (performed in 144 and 146 patients randomized to thrombolysis and placebo, respectively) did not reveal significant differences in residual pulmonary hypertension or RV dysfunction. Chronic thromboembolic pulmonary hypertension (CTEPH) was confirmed in 4 (2.1%) versus 6 (3.2%) cases (p = 0.79). CONCLUSIONS: Approximately 33% of patients report some degree of persistent functional limitation after intermediate-risk PE, but CTEPH is infrequent. Thrombolytic treatment did not affect long-term mortality rates, and it did not appear to reduce residual dyspnea or RV dysfunction in these patients. (Pulmonary Embolism Thrombolysis study [PEITHO]; NCT00639743).
+AD  - Center for Thrombosis and Hemostasis, University Medical Center, Mainz, Germany; Department of Cardiology, Democritus University of Thrace, Alexandroupoli, Greece. Electronic address: stavros.konstantinides@unimedizin-mainz.de.
+Clinical Research Unit, Fernand-Widal Hospital, Assistance Publique Hôpitaux de Paris, University Paris Diderot, Paris, France.
+Boehringer Ingelheim, Reims, France.
+Department of Internal and Cardiovascular Medicine-Stroke Unit, University of Perugia, Perugia, Italy.
+Department of Vascular Medicine and Therapy, Saint-Etienne University Hospital Center, Saint-Etienne, France; INSERM (National Institute of Health and Medical Research) U1059, Saint-Etienne, France; INSERM CIC1408, Saint-Etienne, France.
+Center for Vascular Diseases, Division of Thrombosis Research, University Hospital Carl Gustav Carus, Technical University Dresden, Dresden, Germany.
+Cardiology Service, Michallon Hospital, Grenoble University Hospital Center, Grenoble, France.
+Departement of Internal Medicine and Pulmonology, Equipe d'Accueil 3878, CIC INSERM 0502, La Cavale Blanche Hospital, University of Western Brittany, Brest, France (INNOVTE, France).
+Cardiology and Pulmonology Clinic, University Medical Center Göttingen, Göttingen, Germany.
+Heart Center, University of Freiburg, Freiberg, Germany.
+Ernst Moritz Arndt Greifswald University Hospital, Greifswald, Germany.
+Department of Cardiology, University Hospital of Nice, Nice, France.
+Department of Experimental, Diagnostic and Specialty Medicine-DIMES, Bologna University Hospital, Bologna, Italy.
+Department of Respiratory Diseases, Ramon y Cajal Hospital, IRYCIS, Madrid, Spain.
+Department of Internal Medicine and Cardiology, Medical University of Warsaw, Warsaw, Poland.
+University Medical Center, Ljubljana, Slovenia.
+Klinikum Rechts der Isar, TU Munich, and German Center for Cardiovascular Research (DZHK), partner site Munich Heart Alliance, Munich, Germany.
+Department of Cardiology, Vienna General Hospital, Medical University of Vienna, Vienna, Austria.
+Center for Thrombosis and Hemostasis, University Medical Center, Mainz, Germany; Cardiology and Pulmonology Clinic, University Medical Center Göttingen, Göttingen, Germany.
+Department of Cardiology, Equipe d'Accueil 3920, Structure Fédérative de Recherche 4234, University Hospital Jean Minjoz, Besançon, France (INNOVTE, France).
+Department of Cardiology, Ca Foncello Hospital, Treviso, Italy.
+Azienda Ospedaliero-Universitaria Ospedali Riuniti di Ancona, Ancona, Italy.
+Pulmonology and Intensive Care Service, Georges Pompidou European Hospital, Assistance Publique Hôpitaux de Paris, Paris, France; Paris Descartes University, Sorbonne Paris Cité, Paris, France; INSERM UMR S 1140, Paris, France (INNOVTE, France).
+Municipal Hospital of Dresden-Friedrichstadt, Dresden, Germany.
+Medical University, Bialystok, Poland.
+Pulmonology and Intensive Care Service, Georges Pompidou European Hospital, Assistance Publique Hôpitaux de Paris, Paris, France; Paris Descartes University, Sorbonne Paris Cité, Paris, France; INSERM UMR S 970, Paris, France (INNOVTE, France).
+AN  - 28335835
+AU  - Konstantinides, S. V.
+AU  - Vicaut, E.
+AU  - Danays, T.
+AU  - Becattini, C.
+AU  - Bertoletti, L.
+AU  - Beyer-Westendorf, J.
+AU  - Bouvaist, H.
+AU  - Couturaud, F.
+AU  - Dellas, C.
+AU  - Duerschmied, D.
+AU  - Empen, K.
+AU  - Ferrari, E.
+AU  - Galiè, N.
+AU  - Jiménez, D.
+AU  - Kostrubiec, M.
+AU  - Kozak, M.
+AU  - Kupatt, C.
+AU  - Lang, I. M.
+AU  - Lankeit, M.
+AU  - Meneveau, N.
+AU  - Palazzini, M.
+AU  - Pruszczyk, P.
+AU  - Rugolotto, M.
+AU  - Salvi, A.
+AU  - Sanchez, O.
+AU  - Schellong, S.
+AU  - Sobkowicz, B.
+AU  - Meyer, G.
+C1  - ClinicalTrials.gov/NCT00639743
+DA  - Mar 28
+DB  - Medline
+DO  - 10.1016/j.jacc.2016.12.039
+DP  - NLM
+ET  - 2017/03/25
+IS  - 12
+J2  - Journal of the American College of Cardiology
+KW  - Aged
+Aged, 80 and over
+Double-Blind Method
+Echocardiography
+Female
+Fibrinolytic Agents
+therapeutic use
+Humans
+Male
+Middle Aged
+Pulmonary Embolism
+diagnostic imaging
+mortality
+prevention & control
+Tenecteplase
+Thrombolytic Therapy
+Tissue Plasminogen Activator
+therapeutic use
+Treatment Outcome
+LA  - eng
+N1  - 1558-3597
+Konstantinides, Stavros V
+Vicaut, Eric
+Danays, Thierry
+Becattini, Cecilia
+Bertoletti, Laurent
+Beyer-Westendorf, Jan
+Bouvaist, Helene
+Couturaud, Francis
+Dellas, Claudia
+Duerschmied, Daniel
+Empen, Klaus
+Ferrari, Emile
+Galiè, Nazzareno
+Jiménez, David
+Kostrubiec, Maciej
+Kozak, Matija
+Kupatt, Christian
+Lang, Irene M
+Lankeit, Mareike
+Meneveau, Nicolas
+Palazzini, Massimiliano
+Pruszczyk, Piotr
+Rugolotto, Matteo
+Salvi, Aldo
+Sanchez, Olivier
+Schellong, Sebastian
+Sobkowicz, Bozena
+Meyer, Guy
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+United States
+chronic thromboembolic pulmonary hypertension
+long-term survival
+prognosis
+pulmonary embolism
+thrombolysis
+J Am Coll Cardiol. 2017 Mar 28;69(12):1536-1544. doi: 10.1016/j.jacc.2016.12.039.
+PY  - 2017
+SN  - 0735-1097
+SP  - 1536-1544
+ST  - Impact of Thrombolytic Therapy on the Long-Term Outcome of Intermediate-Risk Pulmonary Embolism
+T2  - J Am Coll Cardiol
+TI  - Impact of Thrombolytic Therapy on the Long-Term Outcome of Intermediate-Risk Pulmonary Embolism
+VL  - 69
+ID  - 17
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In patients with acute pulmonary embolism, systemic thrombolysis improves right ventricular (RV) dilatation, is associated with major bleeding, and is withheld in many patients at risk. This multicenter randomized, controlled trial investigated whether ultrasound-assisted catheter-directed thrombolysis (USAT) is superior to anticoagulation alone in the reversal of RV dilatation in intermediate-risk patients. METHODS AND RESULTS: Fifty-nine patients (63±14 years) with acute main or lower lobe pulmonary embolism and echocardiographic RV to left ventricular dimension (RV/LV) ratio ≥1.0 were randomized to receive unfractionated heparin and an USAT regimen of 10 to 20 mg recombinant tissue plasminogen activator over 15 hours (n=30; USAT group) or unfractionated heparin alone (n=29; heparin group). Primary outcome was the difference in the RV/LV ratio from baseline to 24 hours. Safety outcomes included death, major and minor bleeding, and recurrent venous thromboembolism at 90 days. In the USAT group, the mean RV/LV ratio was reduced from 1.28±0.19 at baseline to 0.99±0.17 at 24 hours (P<0.001); in the heparin group, mean RV/LV ratios were 1.20±0.14 and 1.17±0.20, respectively (P=0.31). The mean decrease in RV/LV ratio from baseline to 24 hours was 0.30±0.20 versus 0.03±0.16 (P<0.001), respectively. At 90 days, there was 1 death (in the heparin group), no major bleeding, 4 minor bleeding episodes (3 in the USAT group and 1 in the heparin group; P=0.61), and no recurrent venous thromboembolism. CONCLUSIONS: In patients with pulmonary embolism at intermediate risk, a standardized USAT regimen was superior to anticoagulation with heparin alone in reversing RV dilatation at 24 hours, without an increase in bleeding complications. CLINICAL TRIAL REGISTRATION URL: http://www.clinicaltrials.gov. Unique identifier: NCT01166997.
+AD  - Division of Vascular Medicine, Swiss Cardiovascular Center, University Hospital Bern, Bern, Switzerland (N.K., I.B.); Helios Hospital Siegburg, Siegburg, Germany (P.B., J.H., R.M.); Internal Medicine III, University Hospital Heidelberg, Heidelberg, Germany (O.J.M., E.B.); Großhadern Hospital, Ludwig-Maximilians University Munich, Munich, Germany (C.K., M.G., P.L.); University Hospital Carl Gustav Carus of Technical University Dresden, Dresden, Germany (J.B.-W., R.H., S.W.); Dortmund Hospital, Dortmund, Germany (T.H., A.B.); Hospital Lippe-Detmold, Detmold, Germany (U.T., D.H.); and University Hospital of Ernst-Moritz-Arndt University, Greifswald, Germany (H.G., K.E.).
+AN  - 24226805
+AU  - Kucher, N.
+AU  - Boekstegers, P.
+AU  - Müller, O. J.
+AU  - Kupatt, C.
+AU  - Beyer-Westendorf, J.
+AU  - Heitzer, T.
+AU  - Tebbe, U.
+AU  - Horstkotte, J.
+AU  - Müller, R.
+AU  - Blessing, E.
+AU  - Greif, M.
+AU  - Lange, P.
+AU  - Hoffmann, R. T.
+AU  - Werth, S.
+AU  - Barmeyer, A.
+AU  - Härtel, D.
+AU  - Grünwald, H.
+AU  - Empen, K.
+AU  - Baumgartner, I.
+C1  - ClinicalTrials.gov/NCT01166997
+DA  - Jan 28
+DB  - Medline
+DO  - 10.1161/circulationaha.113.005544
+DP  - NLM
+ET  - 2013/11/15
+IS  - 4
+J2  - Circulation
+KW  - Acute Disease
+Aged
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Female
+Hemorrhage
+epidemiology
+Heparin
+administration & dosage
+therapeutic use
+Humans
+Male
+Middle Aged
+Outcome Assessment, Health Care
+Pulmonary Embolism
+diagnostic imaging
+drug therapy
+Recombinant Proteins
+administration & dosage
+therapeutic use
+Risk Factors
+Thrombolytic Therapy
+methods
+Tissue Plasminogen Activator
+administration & dosage
+therapeutic use
+Treatment Outcome
+Ultrasonography, Interventional
+Vascular Access Devices
+LA  - eng
+N1  - 1524-4539
+Kucher, Nils
+Boekstegers, Peter
+Müller, Oliver J
+Kupatt, Christian
+Beyer-Westendorf, Jan
+Heitzer, Thomas
+Tebbe, Ulrich
+Horstkotte, Jan
+Müller, Ralf
+Blessing, Erwin
+Greif, Martin
+Lange, Philipp
+Hoffmann, Ralf-Thorsten
+Werth, Sebastian
+Barmeyer, Achim
+Härtel, Dirk
+Grünwald, Henriette
+Empen, Klaus
+Baumgartner, Iris
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+pulmonary embolism
+Circulation. 2014 Jan 28;129(4):479-86. doi: 10.1161/CIRCULATIONAHA.113.005544. Epub 2013 Nov 13.
+PY  - 2014
+SN  - 0009-7322
+SP  - 479-86
+ST  - Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism
+T2  - Circulation
+TI  - Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism
+VL  - 129
+ID  - 12
+ER  - 
+
+TY  - JOUR
+AB  - Experiments in animals have demonstrated that recombinant tissue plasminogen activator (rt-PA) produces continuing thrombolysis after it is cleared from the circulation and that thrombolysis is both increased and accelerated, and bleeding is reduced when rt-PA is administered over a short period. In previous studies in patients with thrombotic disease, rt-PA has been shown to be an effective thrombolytic agent when administered by continuous infusion over a period between 90 minutes and 8 hours. To determine whether a short course regimen of rt-PA can achieve thrombolysis, a double-blind randomized trial has been conducted in which patients with objectively established acute symptomatic pulmonary embolism who were receiving heparin were allocated to either a 2-minute infusion of rt-PA at a dose of 0.6 mg/kg (33 patients) or saline placebo (25 patients). Perfusion lung scanning was used to assess the change in pulmonary perfusion at 24 hours and seven days post-study drug administration. Thirty-four percent of the rt-PA patients had a greater than 50 percent resolution in the perfusion defect at 24 hours compared to 12 percent of placebo patients (p = 0.026). At 24 hours, the mean relative improvement in the perfusion defect was 37.0 percent in rt-PA treated patients compared to 18.8 percent in the placebo group (p = 0.017). By day 7, no difference in lung scan resolution was detected between the groups. There were no major bleeds in either group nor were there any differences in transfusion requirements between groups. Minor bleeding occurred in 15 of the rt-PA patients mainly at angiogram-catheter insertion and venipuncture sites. These results suggest that a bolus regimen of rt-PA produces accelerated thrombolysis and provides an alternative and convenient approach to thrombolytic therapy in patients with pulmonary embolism.
+AD  - Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+AN  - 2123152
+AU  - Levine, M.
+AU  - Hirsh, J.
+AU  - Weitz, J.
+AU  - Cruickshank, M.
+AU  - Neemeh, J.
+AU  - Turpie, A. G.
+AU  - Gent, M.
+DA  - Dec
+DB  - Medline
+DO  - 10.1378/chest.98.6.1473
+DP  - NLM
+ET  - 1990/12/01
+IS  - 6
+J2  - Chest
+KW  - Acute Disease
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Injections, Intravenous
+Lung
+diagnostic imaging
+Male
+Middle Aged
+Pulmonary Embolism
+diagnostic imaging
+drug therapy
+mortality
+Radionuclide Imaging
+Recombinant Proteins
+Recurrence
+Thrombolytic Therapy
+adverse effects
+Tissue Plasminogen Activator
+administration & dosage
+adverse effects
+therapeutic
+use
+LA  - eng
+N1  - Levine, M
+Hirsh, J
+Weitz, J
+Cruickshank, M
+Neemeh, J
+Turpie, A G
+Gent, M
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+Chest. 1990 Dec;98(6):1473-9. doi: 10.1378/chest.98.6.1473.
+PY  - 1990
+SN  - 0012-3692 (Print)
+0012-3692
+SP  - 1473-9
+ST  - A randomized trial of a single bolus dosage regimen of recombinant tissue plasminogen activator in patients with acute pulmonary embolism
+T2  - Chest
+TI  - A randomized trial of a single bolus dosage regimen of recombinant tissue plasminogen activator in patients with acute pulmonary embolism
+VL  - 98
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AB  - Treatment with streptokinase or heparin was allocated randomly to 20 patients with major pulmonary embolism verified by angiography. In addition, 4 patients treated with streptokinase and 1 patient treated with heparin were included in the trial prior to the start of treatment. Streptokinase of heparin was given for 72 hours and pulmonary angiography was repeated. The angiographic evidence of thrombolysis was significantly greater (p less than 0.01) in the 14 patients treated with streptokinase than in the 11 treated with heparin. In the heparin group, 1 patient died from massive embolism 15 hours after the start of treatment. In another patient who died 4 weeks later from cerebral glibolastoma, persistent massive embolism contributed to the fatal outcome. In the streptokinase group, 1 patient with a metastatic pulmonary carcinoma died 3 weeks after the start of treatment from gangrene of both legs following thrombotic occlusion of the inferior vena cava. Bleeding was more common after treatment with streptokinase than with heparin, but was not a serious problem in any patient. It is concluded that patients with life-threatening pulmonary embolism should be offered the benefits of streptokinase.
+AN  - 352100
+AU  - Ly, B.
+AU  - Arnesen, H.
+AU  - Eie, H.
+AU  - Hol, R.
+DB  - Medline
+DO  - 10.1111/j.0954-6820.1978.tb14909.x
+DP  - NLM
+ET  - 1978/01/01
+IS  - 6
+J2  - Acta medica Scandinavica
+KW  - Adult
+Aged
+Clinical Trials as Topic
+Drug Evaluation
+Female
+Heparin
+administration & dosage
+adverse effects
+therapeutic use
+Humans
+Infusions, Parenteral
+Male
+Middle Aged
+Pulmonary Embolism
+diagnostic imaging
+drug therapy
+mortality
+Radiography
+Streptokinase
+administration & dosage
+adverse effects
+therapeutic use
+LA  - eng
+N1  - Ly, B
+Arnesen, H
+Eie, H
+Hol, R
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Sweden
+Acta Med Scand. 1978;203(6):465-70. doi: 10.1111/j.0954-6820.1978.tb14909.x.
+PY  - 1978
+SN  - 0001-6101 (Print)
+0001-6101
+SP  - 465-70
+ST  - A controlled clinical trial of streptokinase and heparin in the treatment of major pulmonary embolism
+T2  - Acta Med Scand
+TI  - A controlled clinical trial of streptokinase and heparin in the treatment of major pulmonary embolism
+VL  - 203
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AB  - Dissolution of pulmonary emboli with heparin and urokinase is ascribed, respectively, to anticoagulation and fibrinolysis. Since truly independent assessment of these effects in man is lacking, we administered each drug alone. Fibrinogen and plasminogen plasma levels and the resolution of pulmonary emboli were measured in three randomized groups of 10 patients each: groups A and C infused with small repeated doses of urokinase and a large single dose of urokinase, respectively, and group B who received heparin. After 6 h of treatment, fibrinogen fell in all the groups, while, after 12 h, remained equally reduced in groups A and B and declined further in group C. Plasminogen behaved similarly. Up to 60 h, statistical analysis showed that these effects were related to timing and amounts of urokinase and heparin infusion. These observations suggest that heparin may induce a lytic state. As to signs of pulmonary emboli resolution, no differences between groups were found in lung perfusion and gas exchange recovery at any time (from 1 day to 1 year) and in pulmonary artery pressure reduction at 1 week. The greater angiographic and scintigraphic recovery observed with urokinase, versus heparin alone, after 1 day of treatment in the Urokinase Pulmonary Embolism Trial may be ascribed to a synergistic effect with urokinase of heparin administered during the diagnostic work-out. The indications of heparin and urokinase should be evaluated in the light of these results.
+AD  - Pulmonary Unit, University of Pisa, Italy.
+AN  - 3073463
+AU  - Marini, C.
+AU  - Di Ricco, G.
+AU  - Rossi, G.
+AU  - Rindi, M.
+AU  - Palla, R.
+AU  - Giuntini, C.
+DB  - Medline
+DO  - 10.1159/000195517
+DP  - NLM
+ET  - 1988/01/01
+IS  - 3
+J2  - Respiration; international review of thoracic diseases
+KW  - Acute Disease
+Adult
+Aged
+Clinical Trials as Topic
+Female
+Fibrinolysis
+drug effects
+Heparin
+pharmacology
+therapeutic use
+Humans
+Male
+Middle Aged
+Pulmonary Embolism
+drug therapy
+physiopathology
+Random Allocation
+Urokinase-Type Plasminogen Activator
+pharmacology
+therapeutic use
+LA  - eng
+N1  - Marini, C
+Di Ricco, G
+Rossi, G
+Rindi, M
+Palla, R
+Giuntini, C
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Switzerland
+Respiration. 1988;54(3):162-73. doi: 10.1159/000195517.
+PY  - 1988
+SN  - 0025-7931 (Print)
+0025-7931
+SP  - 162-73
+ST  - Fibrinolytic effects of urokinase and heparin in acute pulmonary embolism: a randomized clinical trial
+T2  - Respiration
+TI  - Fibrinolytic effects of urokinase and heparin in acute pulmonary embolism: a randomized clinical trial
+VL  - 54
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The role of fibrinolytic therapy in patients with intermediate-risk pulmonary embolism is controversial. METHODS: In a randomized, double-blind trial, we compared tenecteplase plus heparin with placebo plus heparin in normotensive patients with intermediate-risk pulmonary embolism. Eligible patients had right ventricular dysfunction on echocardiography or computed tomography, as well as myocardial injury as indicated by a positive test for cardiac troponin I or troponin T. The primary outcome was death or hemodynamic decompensation (or collapse) within 7 days after randomization. The main safety outcomes were major extracranial bleeding and ischemic or hemorrhagic stroke within 7 days after randomization. RESULTS: Of 1006 patients who underwent randomization, 1005 were included in the intention-to-treat analysis. Death or hemodynamic decompensation occurred in 13 of 506 patients (2.6%) in the tenecteplase group as compared with 28 of 499 (5.6%) in the placebo group (odds ratio, 0.44; 95% confidence interval, 0.23 to 0.87; P=0.02). Between randomization and day 7, a total of 6 patients (1.2%) in the tenecteplase group and 9 (1.8%) in the placebo group died (P=0.42). Extracranial bleeding occurred in 32 patients (6.3%) in the tenecteplase group and 6 patients (1.2%) in the placebo group (P<0.001). Stroke occurred in 12 patients (2.4%) in the tenecteplase group and was hemorrhagic in 10 patients; 1 patient (0.2%) in the placebo group had a stroke, which was hemorrhagic (P=0.003). By day 30, a total of 12 patients (2.4%) in the tenecteplase group and 16 patients (3.2%) in the placebo group had died (P=0.42). CONCLUSIONS: In patients with intermediate-risk pulmonary embolism, fibrinolytic therapy prevented hemodynamic decompensation but increased the risk of major hemorrhage and stroke. (Funded by the Programme Hospitalier de Recherche Clinique in France and others; PEITHO EudraCT number, 2006-005328-18; ClinicalTrials.gov number, NCT00639743.).
+AD  - The authors' affiliations are listed in the Appendix.
+AN  - 24716681
+AU  - Meyer, G.
+AU  - Vicaut, E.
+AU  - Danays, T.
+AU  - Agnelli, G.
+AU  - Becattini, C.
+AU  - Beyer-Westendorf, J.
+AU  - Bluhmki, E.
+AU  - Bouvaist, H.
+AU  - Brenner, B.
+AU  - Couturaud, F.
+AU  - Dellas, C.
+AU  - Empen, K.
+AU  - Franca, A.
+AU  - Galiè, N.
+AU  - Geibel, A.
+AU  - Goldhaber, S. Z.
+AU  - Jimenez, D.
+AU  - Kozak, M.
+AU  - Kupatt, C.
+AU  - Kucher, N.
+AU  - Lang, I. M.
+AU  - Lankeit, M.
+AU  - Meneveau, N.
+AU  - Pacouret, G.
+AU  - Palazzini, M.
+AU  - Petris, A.
+AU  - Pruszczyk, P.
+AU  - Rugolotto, M.
+AU  - Salvi, A.
+AU  - Schellong, S.
+AU  - Sebbane, M.
+AU  - Sobkowicz, B.
+AU  - Stefanovic, B. S.
+AU  - Thiele, H.
+AU  - Torbicki, A.
+AU  - Verschuren, F.
+AU  - Konstantinides, S. V.
+C1  - ClinicalTrials.gov/NCT00639743
+DA  - Apr 10
+DB  - Medline
+DO  - 10.1056/NEJMoa1302097
+DP  - NLM
+ET  - 2014/04/11
+IS  - 15
+J2  - The New England journal of medicine
+KW  - Age Factors
+Aged
+Aged, 80 and over
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Fibrinolytic Agents
+adverse effects
+therapeutic use
+Hemorrhage
+chemically induced
+Heparin
+adverse effects
+therapeutic use
+Humans
+Male
+Middle Aged
+Pulmonary Embolism
+complications
+drug therapy
+mortality
+Risk Factors
+Stroke
+chemically induced
+Tenecteplase
+Tissue Plasminogen Activator
+adverse effects
+therapeutic use
+Treatment Outcome
+Troponin
+blood
+Ventricular Dysfunction, Right
+etiology
+LA  - eng
+N1  - 1533-4406
+Meyer, Guy
+Vicaut, Eric
+Danays, Thierry
+Agnelli, Giancarlo
+Becattini, Cecilia
+Beyer-Westendorf, Jan
+Bluhmki, Erich
+Bouvaist, Helene
+Brenner, Benjamin
+Couturaud, Francis
+Dellas, Claudia
+Empen, Klaus
+Franca, Ana
+Galiè, Nazzareno
+Geibel, Annette
+Goldhaber, Samuel Z
+Jimenez, David
+Kozak, Matija
+Kupatt, Christian
+Kucher, Nils
+Lang, Irene M
+Lankeit, Mareike
+Meneveau, Nicolas
+Pacouret, Gerard
+Palazzini, Massimiliano
+Petris, Antoniu
+Pruszczyk, Piotr
+Rugolotto, Matteo
+Salvi, Aldo
+Schellong, Sebastian
+Sebbane, Mustapha
+Sobkowicz, Bozena
+Stefanovic, Branislav S
+Thiele, Holger
+Torbicki, Adam
+Verschuren, Franck
+Konstantinides, Stavros V
+PEITHO Investigators
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+N Engl J Med. 2014 Apr 10;370(15):1402-11. doi: 10.1056/NEJMoa1302097.
+PY  - 2014
+SN  - 0028-4793
+SP  - 1402-11
+ST  - Fibrinolysis for patients with intermediate-risk pulmonary embolism
+T2  - N Engl J Med
+TI  - Fibrinolysis for patients with intermediate-risk pulmonary embolism
+VL  - 370
+ID  - 18
+ER  - 
+
+TY  - JOUR
+AB  - Objectives. To evaluate the viability of the possibility to use a higher D-dimer value than the one used today in the clinical algorithms evaluating patients suspected to have pulmonary embolism. Methods. A retrospective analysis of 300 serial patients for whom D-dimer values were taken during a 10 month period in the emergency room of a tertiary medical center. Results. Our analysis showed that it may be safe and cost effective to use a D-dimer value of 900 ng/ml rather than the value of 500 ng/ml accepted today, with sensitivity of 94.4%. In younger patients [under 40 years] the sensitivity reached was even higher-100%. Conclusions. Raising cutoff values of D-dimer in screening for pulmonary embolism seems a viable option. There may be a place for "tailoring" cutoff values according individual patient characteristics, such as according age groups. More studies of the subject are warranted.
+AD  - Department of Emergency Medicine, Rambam Health Care Campus, Haifa 31096, Israel.
+AN  - 22888438
+AU  - Raviv, B.
+AU  - Israelit, S. H.
+C2  - PMC3409522
+DB  - PubMed-not-MEDLINE
+DO  - 10.1155/2012/517375
+DP  - NLM
+ET  - 2012/08/14
+J2  - Emergency medicine international
+LA  - eng
+N1  - 2090-2859
+Raviv, Bennidor
+Israelit, Shlomo H
+Journal Article
+Emerg Med Int. 2012;2012:517375. doi: 10.1155/2012/517375. Epub 2012 Jul 24.
+PY  - 2012
+SN  - 2090-2840 (Print)
+2090-2840
+SP  - 517375
+ST  - Shifting up cutoff value of d-dimer in the evaluation of pulmonary embolism: a viable option? Possible risks and benefits
+T2  - Emerg Med Int
+TI  - Shifting up cutoff value of d-dimer in the evaluation of pulmonary embolism: a viable option? Possible risks and benefits
+VL  - 2012
+ID  - 26
+ER  - 
+
+TY  - JOUR
+AB  - The role of low-dose thrombolysis in the reduction of pulmonary artery pressure in moderate pulmonary embolism (PE) has not been investigated. Because the lungs are very sensitive to thrombolysis, we postulated that effective and safe thrombolysis might be achieved by a lower dose of tissue plasminogen activator. The purpose of the present study was to evaluate the role of this "safe dose" thrombolysis in the reduction of pulmonary artery pressure in moderate PE. During a 22-month period, 121 patients with moderate PE were randomized to receive a "safe dose" of tissue plasminogen activator plus anticoagulation (thrombolysis group [TG], n = 61 patients) or anticoagulation alone (control group [CG], n = 60). The primary end points consisted of pulmonary hypertension and the composite end point of pulmonary hypertension and recurrent PE at 28 months. Pulmonary hypertension and the composite end point developed in 9 of 58 patients (16%) in the TG and 32 of 56 patients (57%) in the CG (p <0.001) and 9 of 58 patients (16%) in the TG and 35 of 56 patients (63%) in the CG (p <0.001), respectively. The secondary end points were total mortality, the duration of hospital stay, bleeding at the index hospitalization, recurrent PE, and the combination of mortality and recurrent PE. The duration of hospitalization was 2.2 ± 0.5 days in the TG and 4.9 ± 0.8 days in the CG (p <0.001). The combination of death plus recurrent PE was 1 (1.6%) in TG and 6 (10%) in the CG (p = 0.0489). No bleeding occurred in any group, and despite a positive trend in favor of a "safe dose" thrombolysis, no significant difference was noted in the rate of individual outcomes of death and recurrent PE when assessed independently. In conclusion, the results from the present prospective randomized trial suggests that "safe dose" thrombolysis is safe and effective in the treatment of moderate PE, with a significant immediate reduction in the pulmonary artery pressure that was maintained at 28 months.
+AD  - Arizona Cardiovascular Consultants, Mesa, Arizona, USA. seyedmohsensharifi@yahoo.com
+AN  - 23102885
+AU  - Sharifi, M.
+AU  - Bay, C.
+AU  - Skrocki, L.
+AU  - Rahimi, F.
+AU  - Mehdipour, M.
+DA  - Jan 15
+DB  - Medline
+DO  - 10.1016/j.amjcard.2012.09.027
+DP  - NLM
+ET  - 2012/10/30
+IS  - 2
+J2  - The American journal of cardiology
+KW  - Arizona
+epidemiology
+Female
+Fibrinolytic Agents
+therapeutic use
+Follow-Up Studies
+Humans
+Length of Stay
+trends
+Male
+Middle Aged
+Prospective Studies
+Pulmonary Embolism
+drug therapy
+mortality
+Survival Rate
+trends
+Thrombolytic Therapy
+methods
+Treatment Outcome
+LA  - eng
+N1  - 1879-1913
+Sharifi, Mohsen
+Bay, Curt
+Skrocki, Laura
+Rahimi, Farnoosh
+Mehdipour, Mahshid
+“MOPETT” Investigators
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+Am J Cardiol. 2013 Jan 15;111(2):273-7. doi: 10.1016/j.amjcard.2012.09.027. Epub 2012 Oct 24.
+PY  - 2013
+SN  - 0002-9149
+SP  - 273-7
+ST  - Moderate pulmonary embolism treated with thrombolysis (from the "MOPETT" Trial)
+T2  - Am J Cardiol
+TI  - Moderate pulmonary embolism treated with thrombolysis (from the "MOPETT" Trial)
+VL  - 111
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - To compare the effects of heparin thrombolytic agents in pulmonary thromboembolic disease, we randomly assigned 40 patients with pulmonary emboli but without other clinical cardiopulmonary disease either to heparin followed by oral anticoagulants (21 patients) or to urokinse or streptokinase followed by heparin and then by oral anticoagulants (19 patients). The effects on pulmonary-capillary blood volume and diffusing capacity were compared at two weeks and at one year. The pulmonary-capillary blood volume (in milliliters per square meter of body-surface area) was abnormally low (30 +/- 2.4) [+/- S.E.]; normal, 47 +/- 1.5) in the heparin-treated group at two weeks and remained unchanged at one year. In contrast, it was normal (45 +/- 2.5) in the group receiving thrombolytic agents, both at two weeks and at one year (P < 0.001). The pulmonary diffusing capacity was reduced to 69% of the predicted value in the heparin group at two weeks and 72% at one year, whereas it was 85% of the predicted value in the thrombolytic group at two weeks and 93% at one year (P < 0.001). These results indicate that thrombolytic agents allow more complete resolution of thromboemboli than do heparin and anticoagulants and that they improve capillary perfusion and diffusion.
+AN  - 7412801
+AU  - Sharma, G. V.
+AU  - Burleson, V. A.
+AU  - Sasahara, A. A.
+DA  - Oct 9
+DB  - Medline
+DO  - 10.1056/nejm198010093031502
+DP  - NLM
+ET  - 1980/10/09
+IS  - 15
+J2  - The New England journal of medicine
+KW  - Blood Volume
+drug effects
+Capillaries
+physiopathology
+Fibrinolytic Agents
+pharmacology
+therapeutic use
+Heparin
+pharmacology
+Humans
+Pulmonary Circulation
+drug effects
+Pulmonary Diffusing Capacity
+Pulmonary Embolism
+drug therapy
+physiopathology
+Streptokinase
+pharmacology
+Urokinase-Type Plasminogen Activator
+pharmacology
+LA  - eng
+N1  - Sharma, G V
+Burleson, V A
+Sasahara, A A
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+United States
+N Engl J Med. 1980 Oct 9;303(15):842-5. doi: 10.1056/NEJM198010093031502.
+PY  - 1980
+SN  - 0028-4793 (Print)
+0028-4793
+SP  - 842-5
+ST  - Effect of thrombolytic therapy on pulmonary-capillary blood volume in patients with pulmonary embolism
+T2  - N Engl J Med
+TI  - Effect of thrombolytic therapy on pulmonary-capillary blood volume in patients with pulmonary embolism
+VL  - 303
+ID  - 24
+ER  - 
+
+TY  - JOUR
+AB  - RATIONALE, AIMS AND OBJECTIVE: To investigate if a combination of Wells pre-test probability score and D-dimer testing could be used as a safe base for making clinical decisions on further investigations for patients with intermediate to high risks of pulmonary embolism (PE). METHODS: One hundred and twenty patients with signs or symptoms of acute PE were investigated with pulmonary angiography (PA) or contrast enhanced computed tomography of the pulmonary arteries (CTPA), D-dimer testing (Tinaquant) and clinical scoring using the Wells pre-test probability score during their first 48 hours at the hospital. Patients were recruited consecutively from emergency departments at two teaching hospitals. RESULTS: The cut-off value of 0.5 mg L(-1) in D-dimer analysis is proved adequate with a negative predictive value (NPV) of 92% in this group of patients with intermediate to high risks. The combination of D-dimer testing and Wells score increases the NPV to 94%. The specificities of both tests were low. CONCLUSION: D-dimer and Wells pre-test probability scores are safe to rule out acute PE even in patients with at least an intermediate risk of PE, but the specificity is low. D-dimer testing had a higher NPV than Wells score and the combination improved the algorithm further. The cut-off level for a high risk of PE measured with the Wells score was four and it seems reasonable to use that cut-off level in future algorithms. In addition, both PA and CTPA can present false positive and negative results difficult to interpret.
+AD  - Department of Internal Medicine, Karolinska Institutet, Södersjukhuset, Stockholm, Sweden. marten.soderberg@sodersjukhuset.se
+AN  - 18759753
+AU  - Söderberg, M.
+AU  - Brohult, J.
+AU  - Jorfeldt, L.
+AU  - Lärfars, G.
+DA  - Feb
+DB  - Medline
+DO  - 10.1111/j.1365-2753.2008.00967.x
+DP  - NLM
+ET  - 2008/09/02
+IS  - 1
+J2  - Journal of evaluation in clinical practice
+KW  - Acute Disease
+Adult
+Aged
+Aged, 80 and over
+Antifibrinolytic Agents
+analysis
+Female
+Fibrin Fibrinogen Degradation Products
+analysis
+Humans
+Male
+Middle Aged
+Probability
+Pulmonary Embolism
+diagnosis
+epidemiology
+Reproducibility of Results
+Retrospective Studies
+Sweden
+epidemiology
+LA  - eng
+N1  - 1365-2753
+Söderberg, Mårten
+Brohult, Johan
+Jorfeldt, Lennart
+Lärfars, Gerd
+Evaluation Study
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+J Eval Clin Pract. 2009 Feb;15(1):129-33. doi: 10.1111/j.1365-2753.2008.00967.x. Epub 2008 Aug 28.
+PY  - 2009
+SN  - 1356-1294
+SP  - 129-33
+ST  - The use of D-dimer testing and Wells score in patients with high probability for acute pulmonary embolism
+T2  - J Eval Clin Pract
+TI  - The use of D-dimer testing and Wells score in patients with high probability for acute pulmonary embolism
+VL  - 15
+ID  - 27
+ER  - 
+
+TY  - JOUR
+AB  - Excluding or confirming pulmonary embolism remains a diagnostic challenge. In elderly patients pulmonary embolism is associated with substantial co-morbidity and mortality, and many elderly patients with suspected pulmonary embolism are inpatients. The safety and efficacy of the combination of a clinical probability (CDR) and d-dimer test in excluding pulmonary embolism in this group is unclear. We retrospectively analysed data of two prospective studies of consecutive in-and outpatients with suspected pulmonary embolism. The patients were categorized into three age groups: <65 years, 65-75 years and >75 years. The sensitivity, negative predictive value and the proportion of patients with the combination of a non-high CDR score according to Wells (< or = 4) and a normal d-dimer result were calculated for each group. In 747 consecutive patients with suspected pulmonary embolism, sensitivity and negative predictive value of a non-high CDR and a normal d-dimer result in outpatients (n=538) of all age categories (<65 years, 65-75 years and >75 years) were both 100%. These tests were, however, less reliable for inpatients(n=209), irrespective of their age (sensitivity 91% [ CI: 79-98%], negative predictive value 88 % [CI: 74-96%]. The proportion of both in-and outpatients >75 years with a non-high CDR and a normal d-dimer concentration was only 14%, whereas this was 22% in patients 65-75 years and 41% among in-and outpatients <65 years, respectively. In elderly outpatients the combination of a non-high CDR and a normal d-dimer result is a safe strategy to rule out pulmonary embolism. However, in inpatients this algorithm is not reliable to safely exclude pulmonary embolism. In addition, the proportion of patients >65 years in which this strategy excludes pulmonary embolism is markedly lower compared to younger patients.
+AD  - Academic Medical Center, Department of Vascular Medicine, Room F4-136, Meibergdreef 9, 1105 AZ Amsterdam. m.sohne@amc.uva.nl
+AN  - 16113805
+AU  - Söhne, M.
+AU  - Kamphuisen, P. W.
+AU  - van Mierlo, P. J.
+AU  - Büller, H. R.
+DA  - Jul
+DB  - Medline
+DO  - 10.1160/th04-11-0753
+DP  - NLM
+ET  - 2005/08/23
+IS  - 1
+J2  - Thrombosis and haemostasis
+KW  - Adolescent
+Adult
+Aged
+Blood Coagulation Tests
+Diagnosis, Differential
+Fibrin Fibrinogen Degradation Products
+analysis
+biosynthesis
+Geriatrics
+methods
+Humans
+Inpatients
+Middle Aged
+Outpatients
+Predictive Value of Tests
+Prospective Studies
+Pulmonary Embolism
+diagnosis
+Retrospective Studies
+Sensitivity and Specificity
+Treatment Outcome
+LA  - eng
+N1  - Söhne, Maaike
+Kamphuisen, Pieter W
+van Mierlo, Patricia J W B
+Büller, Harry R
+Journal Article
+Germany
+Thromb Haemost. 2005 Jul;94(1):206-10. doi: 10.1160/TH04-11-0753.
+PY  - 2005
+SN  - 0340-6245 (Print)
+0340-6245
+SP  - 206-10
+ST  - Diagnostic strategy using a modified clinical decision rule and D-dimer test to rule out pulmonary embolism in elderly in- and outpatients
+T2  - Thromb Haemost
+TI  - Diagnostic strategy using a modified clinical decision rule and D-dimer test to rule out pulmonary embolism in elderly in- and outpatients
+VL  - 94
+ID  - 28
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The use of thrombolytic agents in the treatment of hemodynamically stable patients with acute submassive pulmonary embolism (PTE) remains controversial. We, therefore, conducted this study to compare the effect of thrombolytic plus anticoagulation versus anticoagulation alone on early death and adverse outcome following submassive PTE. METHODS: We conducted a study of patients with acute pulmonary embolism and pulmonary hypertension or right ventricular dilatation/dysfunction but without arterial hypotension or shock. The patients were randomly assigned in a single-blind fashion to receive an anticoagulant [Enoxaparin (1 mg/kg twice a day)] plus a thrombolytic [Alteplase (100 mg) or Streptokinase (1500000 u/2 hours)] or an anticoagulant [Enoxaparin (1 mg/kg twice a day)] alone. The primary endpoint was in-hospital death or clinical deterioration requiring an escalation of treatment. The secondary endpoints of the study were major bleeding, pulmonary hypertension, right ventricular dilatation at the end of the first week, and exertional dyspnea at the end of the first month. RESULTS: Of 50 patients enrolled, 25 patients were randomly assigned to receive an anticoagulant plus a thrombolytic and the other 25 patients were given an anticoagulant alone. The incidence of the primary endpoints was significantly higher in the anticoagulant-alone group than in the thrombolytic-plus-anticoagulant group (p value = 0.022). At the time of discharge, pulmonary artery pressure was significantly higher in the anticoagulant-alone group than in the thrombolytic-plus-anticoagulant group (p value = 0.018); however, reduction in the right ventricular size or normalization of the right ventricle showed non-significant differences between the two groups. There was no significant difference regarding the New York Heat Association (NYHA) functional class between the two groups at the end of the first month (p value = 0.213). No fatal bleeding or cerebral bleeding occurred in the patients receiving an anticoagulant plus a thrombolytic. CONCLUSION: When given in conjunction with anticoagulants, thrombolytics may improve the clinical course of stable patients who have acute submassive pulmonary embolism and prevent clinical deterioration.
+AD  - Modarres Hospital, Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+AN  - 25870626
+AU  - Taherkhani, M.
+AU  - Taherkhani, A.
+AU  - Hashemi, S. R.
+AU  - Faghihi Langroodi, T.
+AU  - Sadeghi, R.
+AU  - Beyranvand, M.
+C2  - PMC4393831
+DB  - PubMed-not-MEDLINE
+DP  - NLM
+ET  - 2014/01/01
+IS  - 3
+J2  - The journal of Tehran Heart Center
+LA  - eng
+N1  - 2008-2371
+Taherkhani, Maryam
+Taherkhani, Adineh
+Hashemi, Seyed Reza
+Faghihi Langroodi, Taraneh
+Sadeghi, Roxana
+Beyranvand, Mohammadreza
+Journal Article
+Anticoagulants
+Pulmonary embolism
+Thrombolytic therapy
+J Tehran Heart Cent. 2014;9(3):104-8. Epub 2014 Jul 3.
+PY  - 2014
+SN  - 1735-5370 (Print)
+1735-5370
+SP  - 104-8
+ST  - Thrombolytic-plus-Anticoagulant Therapy versus Anticoagulant-Alone Therapy in Submassive Pulmonary Thromboembolism (TVASPE Study): A Randomized Clinical Trial
+T2  - J Tehran Heart Cent
+TI  - Thrombolytic-plus-Anticoagulant Therapy versus Anticoagulant-Alone Therapy in Submassive Pulmonary Thromboembolism (TVASPE Study): A Randomized Clinical Trial
+VL  - 9
+ID  - 22
+ER  - 
+
+TY  - JOUR
+AB  - Treatment with heparin or streptokinase was allocated randomly to 30 patients with life-threatening pulmonary embolism verified by angiography. Treatment was given for 72 hours and pulmonary angiography was repeated. There was significantly greater (P < 0.001) evidence of thrombolysis in those patients treated with streptokinase compared with those treated with heparin. The reduction of systolic and mean pulmonary arterial pressures was also significantly greater (P < 0.05 and P < 0.02 respectively) in the streptokinase group.Seven patients failed to complete 72 hours of the trial treatment: five successfully underwent pulmonary embolectomy. Six of these "failures" had initial pulmonary angiographic scores of 24 or more and systemic systolic blood pressure recordings of 100 mm Hg or less. Patients with these features should probably be considered for pulmonary embolectomy as the initial treatment.A febrile reaction commonly occurred in the streptokinase group; otherwise side effects were no more common than in the heparin group.
+AN  - 4594580
+AU  - Tibbutt, D. A.
+AU  - Davies, J. A.
+AU  - Anderson, J. A.
+AU  - Fletcher, E. W.
+AU  - Hamill, J.
+AU  - Holt, J. M.
+AU  - Thomas, M. L.
+AU  - Lee, G.
+AU  - Miller, G. A.
+AU  - Sharp, A. A.
+AU  - Sutton, G. C.
+C2  - PMC1633603
+DA  - Mar 2
+DB  - Medline
+DO  - 10.1136/bmj.1.5904.343
+DP  - NLM
+ET  - 1974/03/02
+IS  - 5904
+J2  - British medical journal
+KW  - Angiography
+Blood Pressure
+drug effects
+Clinical Trials as Topic
+Electrocardiography
+Female
+Follow-Up Studies
+Hemodynamics
+drug effects
+Heparin
+therapeutic use
+Humans
+Lung
+diagnostic imaging
+Male
+Pulmonary Embolism
+drug therapy
+surgery
+Streptokinase
+therapeutic use
+LA  - eng
+N1  - Tibbutt, D A
+Davies, J A
+Anderson, J A
+Fletcher, E W
+Hamill, J
+Holt, J M
+Thomas, M L
+Lee, G
+Miller, G A
+Sharp, A A
+Sutton, G C
+Clinical Trial
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+Br Med J. 1974 Mar 2;1(5904):343-7. doi: 10.1136/bmj.1.5904.343.
+PY  - 1974
+SN  - 0007-1447 (Print)
+0007-1447
+SP  - 343-7
+ST  - Comparison by controlled clinical trial of streptokinase and heparin in treatment of life-threatening pulmonay embolism
+T2  - Br Med J
+TI  - Comparison by controlled clinical trial of streptokinase and heparin in treatment of life-threatening pulmonay embolism
+VL  - 1
+ID  - 23
+ER  - 
+

@@ -3,7 +3,7 @@
 #' A comprehensive list of the MeSH headings as data.frame
 #'
 #'
-#' @format ## `MeSH Dictionary`
+#' @format ## `MeSH_Dictionary`
 #' A data frame with 3094 rows and 1 column:
 #' \describe{
 #'   \item{MeSH}{MeSH Heading}
@@ -17,7 +17,7 @@
 #' search date: April 1st 2022.
 #'
 #'
-#' @format ## `Population Set 2022`
+#' @format ## `popset`
 #' A list of 3 data frames
 #' \describe{
 #'   freetext  :Classes ‘frequency’, ‘textstat’ and 'data.frame':	66014 obs. of  6 variables:
@@ -54,7 +54,7 @@
 #' A comprehensive list of the MeSH qualifier as data.frame
 #'
 #'
-#' @format ## `Qualifier Dictionary`
+#' @format ## `Qualifier_Dictionary`
 #' A data frame with 76 rows and 1 column:
 #' \describe{
 #'   \item{qualifier}{MeSH qualifier}
