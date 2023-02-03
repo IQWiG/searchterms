@@ -1,7 +1,7 @@
 return_pmids <- function(testset_ref, validationset_ref = NULL, validation_set = FALSE){
 
   testset_pmids<- testset_ref %>%
-    map(.,pluck, "accession") %>%
+    map(pluck, "accession") %>%
     flatten_chr
 
   if(validation_set){

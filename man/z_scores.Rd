@@ -30,7 +30,16 @@ a list
 Z score tables
 }
 \examples{
-path <- system.file("extdata", "example_ris.txt", package = "searchterms")
-z_scores(path)
+ris <- c("TY  - JOUR",
+         "AU  - Kapp",
+         "TI  - Titles",
+         "PY  - 2023",
+         "JOUR  - IQWiG Journal",
+         "KW  - Systematic Reviews as Topic",
+         "ER  -")
+
+tmp <- tempfile(fileext = ".txt")
+writeLines(ris, tmp)
+z_scores(tmp)
 
 }

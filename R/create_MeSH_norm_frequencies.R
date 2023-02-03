@@ -5,14 +5,14 @@ create_MeSH_norm_frequencies <- function (reference_set) {
 
   population_MeSH <- prepare_MeSH_table(reference_set)
 
-  population_headings <- MeSH_Dictionary %>%
+  population_headings <- searchterms::MeSH_Dictionary %>%
     left_join(population_MeSH[["all_keywords"]], by = "MeSH") %>%
     rename(Norm.frequency = .data$frequency,
            Norm.docfreq = .data$docfreq) %>%
     mutate(N = sum(.data$Norm.frequency, na.rm = T),
            p = .data$Norm.frequency/.data$N)
 
-  population_qualifier <- Qualifier_Dictionary %>%
+  population_qualifier <- searchterms::Qualifier_Dictionary %>%
     left_join(population_MeSH[["all_keywords"]], by = c("qualifier" = "MeSH")) %>%
     rename(Norm.frequency = .data$frequency,
            Norm.docfreq = .data$docfreq) %>%

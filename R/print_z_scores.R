@@ -7,12 +7,18 @@
 #' @export
 #'
 #' @examples
-#' path <- system.file("extdata",
-#'  "example_ris.txt",
-#'  package = "searchterms",
-#'  mustWork = TRUE)
-#' data <- z_scores(path)
-#' print_z_scores(data, terms = "freetext")
+#' ris <- c("TY  - JOUR",
+#'          "AU  - Kapp",
+#'          "TI  - Titles",
+#'          "PY  - 2023",
+#'          "JOUR  - IQWiG Journal",
+#'          "KW  - Systematic Reviews as Topic",
+#'          "ER  -")
+#'
+#' tmp <- tempfile(fileext = ".txt")
+#' writeLines(ris, tmp)
+#' data <- z_scores(tmp)
+# print_z_scores(data, terms = "freetext")
 print_z_scores <- function(z_scores_object, terms){ # terms can be "freetext" OR "MeSH" or "qualifier"
   stopifnot("Terms not `freetext` or `MeSh` or `qualifier`" = terms %in% c("freetext","MeSH","qualifier"))
   if(terms == "freetext"){

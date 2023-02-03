@@ -9,8 +9,17 @@
 #' @returns a list
 #' @export
 #' @examples
-#' path <- system.file("extdata", "example_ris.txt", package = "searchterms")
-#' z_scores(path)
+#' ris <- c("TY  - JOUR",
+#'          "AU  - Kapp",
+#'          "TI  - Titles",
+#'          "PY  - 2023",
+#'          "JOUR  - IQWiG Journal",
+#'          "KW  - Systematic Reviews as Topic",
+#'          "ER  -")
+#'
+#' tmp <- tempfile(fileext = ".txt")
+#' writeLines(ris, tmp)
+#' z_scores(tmp)
 #'
 z_scores <- function(risfile, risfile_population, load_popset = TRUE,dev_set = FALSE, seed = NULL){
 

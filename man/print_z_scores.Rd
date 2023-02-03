@@ -18,7 +18,15 @@ a data frame
 Z-Score tables with German column names ready for exporting
 }
 \examples{
-path <- system.file("extdata", "example_ris.txt", package = "searchterms", mustWork = T)
-data <- z_scores(path)
-print_z_scores(data, terms = "freetext")
+ris <- c("TY  - JOUR",
+         "AU  - Kapp",
+         "TI  - Titles",
+         "PY  - 2023",
+         "JOUR  - IQWiG Journal",
+         "KW  - Systematic Reviews as Topic",
+         "ER  -")
+
+tmp <- tempfile(fileext = ".txt")
+writeLines(ris, tmp)
+data <- z_scores(tmp)
 }

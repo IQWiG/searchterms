@@ -35,7 +35,7 @@ create_testset <- function(risfile, dev_set = FALSE, project_name = TRUE, seed =
 
   # attach project name per row
   if (project_name){
-    project_names <- gregexpr("(?<=/)(\\w|-)+(?=\\.)", risfile, perl = T)
+    project_names <- gregexpr("(?<=/|\\\\)(\\w|-)+(?=\\.)", risfile, perl = T)
     project_names <- regmatches(risfile,project_names)
     testset_df$project <- unlist(project_names)
     testset_MeSH[["all_keywords"]]$project <- unlist(project_names)
