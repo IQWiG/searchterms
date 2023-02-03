@@ -17,7 +17,7 @@ print_z_scores <- function(z_scores_object, terms){ # terms can be "freetext" OR
   stopifnot("Terms not `freetext` or `MeSh` or `qualifier`" = terms %in% c("freetext","MeSH","qualifier"))
   if(terms == "freetext"){
     z_scores_object[[eval(terms)]] %>%
-      select(.data$feature, .data$frequency, .data$docfreq, .data$E, .data$z, .data$approx_criteria) %>%
+      select("feature", "frequency", "docfreq", "E", "z", "approx_criteria") %>%
       rename("Wort" = .data$feature,
              `Anzahl Referenzen` = .data$docfreq,
              "Wortfrequenz" = .data$frequency,
@@ -26,14 +26,14 @@ print_z_scores <- function(z_scores_object, terms){ # terms can be "freetext" OR
              `Approximationskriterium zutreffend?` = .data$approx_criteria)
   }else if(terms == "MeSH"){
     z_scores_object[[eval(terms)]] %>%
-      select(.data$MeSH, .data$frequency, .data$E, .data$z, .data$approx_criteria) %>%
+      select("MeSH", "frequency", "E", "z", "approx_criteria") %>%
       rename( "Frequenz" = .data$frequency,
               `Erwartete Frequenz` = .data$E,
               "Z-Score" = .data$z,
               `Approximationskriterium zutreffend?` = .data$approx_criteria)
   }else if(terms == "qualifier"){
     z_scores_object[[eval(terms)]] %>%
-      select(.data$MeSH, .data$frequency, .data$E, .data$z, .data$approx_criteria) %>%
+      select("MeSH", "frequency", "E", "z", "approx_criteria") %>%
       rename( "Frequenz" = .data$frequency,
               `Erwartete Frequenz` = .data$E,
               "Z-Score" = .data$z,
