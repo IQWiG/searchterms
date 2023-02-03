@@ -9,6 +9,9 @@
 #' @returns a list
 #' @export
 #' @examples
+#' path <- system.file("extdata", "example_ris.txt", package = "searchterms")
+#' z_scores(path)
+#'
 z_scores <- function(risfile, risfile_population, load_popset = TRUE,dev_set = FALSE, seed = NULL){
 
   #load population set

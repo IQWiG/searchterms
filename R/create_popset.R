@@ -14,12 +14,12 @@ create_popset <- function(risfile){
   popset_df <- create_corpus(popset_ref)
   popset_df <- prepare_freq_table(popset_df)
   popset_df <- popset_df %>%
-    select(!(group)) %>%
-    rename(Norm.frequency = frequency,
-           Norm.docfreq = docfreq,
-           Norm.rank = rank,
-           N = n) %>%
-    mutate(p = Norm.frequency/N)
+    select(!(.data$group)) %>%
+    rename(Norm.frequency = .data$frequency,
+           Norm.docfreq = .data$docfreq,
+           Norm.rank = .data$rank,
+           N = .data$n) %>%
+    mutate(p = .data$Norm.frequency/.data$N)
 
   popset_MeSH <- create_MeSH_norm_frequencies(popset_ref)
   popset <- list("freetext" = popset_df, "MeSH.Terms" = popset_MeSH[["headings"]], "qualifier" = popset_MeSH[["qualifier"]])
