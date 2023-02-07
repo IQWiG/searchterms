@@ -1,0 +1,106 @@
+﻿TY  - JOUR
+AB  - BACKGROUND: Different approaches can be adopted for the development of search strategies of systematic reviews. The objective approach draws on already established text analysis methods for developing search filters. Our aim was to determine whether the objective approach for the development of search strategies was noninferior to the conceptual approach commonly used in Cochrane reviews (CRs). METHODS: We conducted a search for CRs published in the Cochrane Library. The studies included in the CRs were searched for in MEDLINE and represented the total set. We then tested whether references previously removed could be identified via the objective approach. We also reconstructed the original search strategies from the CRs to determine why references could not be identified by the objective approach. As we performed the validation of the search strategies without study filters, we used only sensitivity as a quality measure and did not calculate precision. RESULTS: The objective approach yielded a mean sensitivity of 96% based on 13 searches. The noninferiority test showed that this approach was noninferior to the conceptual approach used in the CRs (P < 0.002). An additional descriptive analysis showed that the original MEDLINE strategies could identify only 86% of all references; however, this lower sensitivity was largely due to one CR. CONCLUSION: To the best of our knowledge, our findings indicate for the first time that the objective approach for the development of search strategies is noninferior to the conceptual approach.
+AD  - Information Management Unit, Institute for Quality and Efficiency in Health Care (IQWiG), Im Mediapark 8, 50670 Cologne, Germany. Electronic address: elke.hausner@iqwig.de.
+Department of Medical Biometry, Institute for Quality and Efficiency in Health Care, Im Mediapark 8, 50670 Cologne, Germany.
+Information Management Unit, Institute for Quality and Efficiency in Health Care (IQWiG), Im Mediapark 8, 50670 Cologne, Germany.
+AN  - 25464826
+AU  - Hausner, E.
+AU  - Guddat, C.
+AU  - Hermanns, T.
+AU  - Lampert, U.
+AU  - Waffenschmidt, S.
+DA  - Feb
+DB  - Medline
+DO  - 10.1016/j.jclinepi.2014.09.016
+DP  - NLM
+ET  - 2014/12/04
+IS  - 2
+J2  - Journal of clinical epidemiology
+KW  - Humans
+Information Storage and Retrieval/*methods/*standards/trends
+Publishing/*standards
+*Review Literature as Topic
+Search Engine/*standards
+*Validation Studies as Topic
+LA  - eng
+M3  - Journal Article
+Research Support, Non-U.S. Gov't
+PY  - 2015
+SN  - 1878-5921 (Electronic)
+0895-4356 (Linking)
+SP  - 191-9
+ST  - Development of search strategies for systematic reviews: validation showed the noninferiority of the objective approach
+T2  - J Clin Epidemiol
+TI  - Development of search strategies for systematic reviews: validation showed the noninferiority of the objective approach
+VL  - 68
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In the development of search strategies for systematic reviews, "conceptual approaches" are generally recommended to identify appropriate search terms for those parts of the strategies for which no validated search filters exist. However, "objective approaches" based on search terms identified by text analysis are increasingly being applied. OBJECTIVES: To prospectively compare an objective with a conceptual approach for the development of search strategies. METHODS: Two different MEDLINE search strategies were developed in parallel for five systematic reviews covering a range of topics and study designs. The Institute for Quality and Efficiency in Health Care (IQWiG) applied an objective approach, and external experts applied a conceptual approach for the same research questions. For each systematic review, the citations retrieved were combined and the overall pool of citations screened to determine sensitivity and precision. RESULTS: The objective approach yielded a weighted mean sensitivity and precision of 97% and 5%. The corresponding values for the conceptual approach were 75% and 4%. CONCLUSION: Our findings indicate that the objective approach applied by IQWiG for search strategy development yields higher sensitivity than and similar precision to a conceptual approach. The main advantage of the objective approach is that it produces consistent results across searches.
+AD  - Information Management Unit, Institute for Quality and Efficiency in Health Care (IQWiG), Im Mediapark 8, 50670 Cologne, Germany. Electronic address: elke.hausner@iqwig.de.
+Department of Medical Biometry (IQWiG), Institute for Quality and Efficiency in Health Care, Im Mediapark 8, 50670 Cologne, Germany.
+Information Management Unit, Institute for Quality and Efficiency in Health Care (IQWiG), Im Mediapark 8, 50670 Cologne, Germany.
+AN  - 27256930
+AU  - Hausner, E.
+AU  - Guddat, C.
+AU  - Hermanns, T.
+AU  - Lampert, U.
+AU  - Waffenschmidt, S.
+DA  - Sep
+DB  - Medline
+DO  - 10.1016/j.jclinepi.2016.05.002
+DP  - NLM
+ET  - 2016/06/04
+J2  - Journal of clinical epidemiology
+KW  - Humans
+Information Storage and Retrieval/*methods/statistics & numerical data
+MEDLINE/*statistics & numerical data
+Prospective Studies
+Reproducibility of Results
+Research Design
+*Review Literature as Topic
+Sensitivity and Specificity
+LA  - eng
+M3  - Journal Article
+PY  - 2016
+SN  - 1878-5921 (Electronic)
+0895-4356 (Linking)
+SP  - 118-124
+ST  - Prospective comparison of search strategies for systematic reviews: an objective approach yielded higher sensitivity than a conceptual one
+T2  - J Clin Epidemiol
+TI  - Prospective comparison of search strategies for systematic reviews: an objective approach yielded higher sensitivity than a conceptual one
+VL  - 77
+ID  - 2
+ER  - 
+
+TY  - JOUR
+AD  - Information Management Department, Institute for Quality and Efficiency in Health Care (IQWiG), Im Mediapark 8, D-50670 Köln, Germany. Electronic address: Elke.Hausner@iqwig.de.
+Information Management Department, Institute for Quality and Efficiency in Health Care (IQWiG), Im Mediapark 8, D-50670 Köln, Germany.
+AN  - 35644323
+AU  - Hausner, E.
+AU  - Knelangen, M.
+AU  - Waffenschmidt, S.
+DA  - Sep
+DB  - Medline
+DO  - 10.1016/j.jclinepi.2022.05.011
+DP  - NLM
+ET  - 2022/06/02
+J2  - Journal of clinical epidemiology
+KW  - Humans
+*Data Mining
+*Software
+LA  - eng
+M3  - Comment
+Letter
+PY  - 2022
+SN  - 1878-5921 (Electronic)
+0895-4356 (Linking)
+SP  - 254-256
+ST  - Use of text mining tools in the development of search strategies - Comparison of different approaches
+T2  - J Clin Epidemiol
+TI  - Use of text mining tools in the development of search strategies - Comparison of different approaches
+VL  - 149
+ID  - 3
+ER  - 
+

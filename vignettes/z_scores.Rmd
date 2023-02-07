@@ -17,3 +17,26 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(searchterms)
 ```
+This package provides an easy-to use wrapper for a textual analysis of potential search terms for scientific publications including an analysis of MeSH-Terms following the methodolgy of Hausner, et al. (2011)
+
+Step 1
+Import a set of references, that serve as a testset of potentially relevant studies of the review as a risfile:
+
+```{r import references, include = TRUE, eval = FALSE}
+testset <- z_scores(testset.ris)
+```
+
+```{r show tables, include=TRUE,}
+
+head(testset$freetext)
+head(testset$MeSH)
+head(testset$qualifier)
+```
+
+
+
+a more concise table with German column names:
+```{r}
+print_z_scores(testset, terms = "freetext")
+```
+
