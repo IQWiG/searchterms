@@ -2,6 +2,7 @@
 "_PACKAGE"
 
 ## usethis namespace: start
+#' @import shiny
 #' @importFrom dplyr arrange
 #' @importFrom dplyr bind_rows
 #' @importFrom dplyr count
@@ -25,6 +26,7 @@
 #' @importFrom quanteda corpus
 #' @importFrom quanteda dfm
 #' @importFrom quanteda docnames
+#' @importFrom quanteda kwic
 #' @importFrom quanteda tokens
 #' @importFrom quanteda.textstats textstat_frequency
 #' @importFrom revtools [.bibliography
