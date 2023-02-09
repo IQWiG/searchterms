@@ -65,5 +65,11 @@ app_server <- function(input, output, session) {
     req(input$upload)
     quanteda::kwic(tokens(rawdata()$text_corpus), input$kwicInput, case_insensitive = TRUE, window = input$kwicSlider)
   })
+
+  output$phraseTable <- renderTable({
+    req(input$upload)
+    summarise_adjacency(rawdata()$text_corpus, ngrams = input$phraseSlider) %>%
+      filter(grepl(input$phraseInput, feature, fixed = TRUE))
+    })
   }
 

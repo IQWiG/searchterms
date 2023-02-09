@@ -84,4 +84,22 @@ app_ui <- navbarPage(
                ))
 
     ),
+    tabPanel("Phrases",
+             fluidPage(
+               fluidRow(
+                 column(6,
+
+                        textInput("phraseInput", "Enter phrase")),
+                 column(6,
+                        sliderInput("phraseSlider", "Number of words between candidate terms", 0, 6, 2))
+               )
+             ),
+             fluidRow(
+               column(12,
+                      #verbatimTextOutput("kwic_analyse1")
+                      tableOutput("phraseTable")
+
+               ))
+
+    ),
     )
