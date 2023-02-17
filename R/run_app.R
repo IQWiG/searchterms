@@ -5,6 +5,8 @@
 #' @export
 #'
 #' @examples
-#' n -> 1+2
+#' # run_app()
+#' # see vignette
+#'
 run_app <- function(){
   shinyApp(ui = app_ui, server = app_server)}

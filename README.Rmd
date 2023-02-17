@@ -12,36 +12,20 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-
+# Proof of concept version for presentation @#ESMARConf2023
 # searchterms
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of searchterms is to identify overrepresented terms in a set of relevant references for a systematic review, which can be applied in a boolean search.
+The goal of searchterms is to identify overrepresented terms in a set of relevant references for a systematic review, which can then be applied in a boolean search in a bibliograpic database.
 
 ## Installation
-
-You can install the development version of searchterms from [GitHub](https://github.com/) with:
-
-``` r
-# install.packages("devtools")
-devtools::install_github("claudiakapp/searchterms")
-```
-## Statistics
-The test statistic is a binomial test, which is implemented in the internal function "calculate_z_scores()" and defined with:
-
-  x = observed frequency of each unique term, merged\$testset_freq  
-  n = Sample size, the amount of all terms in the sample, merged\$n  
-  p = expected frequency of each unique term in the norm population 
-  erwarteten Häufigkeit (aus dem Referenzpool bestimmt), merged\$p  
-  
-The expected frequency in the sample is approximated with n\*p and the variance with n\*p\*(1-p). The z-score is calculated with: (x – n\*p) / sqrt( n\*p\*(1-p) )
-
+Instructions for installation will follow with the official release of the package. 
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example which shows you how to solve a common problem, the package was designed for:
 
 ```{r example}
 library(searchterms)
@@ -50,7 +34,3 @@ data <- z_scores(path)
 head(print_z_scores(data, terms = "freetext") )
 head(print_z_scores(data, terms = "MeSH"))
 ```
-
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this.
-
