@@ -46,7 +46,7 @@ prepare_MeSH_table <- function (reference_set) {
                                      responseName = "frequency",
                                      stringsAsFactors = F)}) %>%
     bind_rows(.id = "reference")
-    if(exists("df_MeSH_starred$MeSH_starred")){
+    if(exists("df_MeSH_starred$MeSH_starred")){ # überarbeiten
       df_MeSH_starred <- df_MeSH_starred %>%
         group_by(.data$MeSH_starred) %>%
         summarise(docfreq = n(),

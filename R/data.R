@@ -62,9 +62,14 @@
 #' @source <https://www.nlm.nih.gov/databases/download/mesh.html>
 "Qualifier_Dictionary"
 
-#' example result of function z_scores()
-#' @format a list of data frames
-#' #' \describe{
+#' Testset example
+#'
+#' example result of function "z_scores"
+#'
+#'
+#' @format ## `testset`
+#' a list of 4 data frames
+#'  \describe{
 #'   freetext  S3: ‘frequency’, ‘textstat’ and 'data.frame':	172 rows of  16 columns:
 #'   \describe{
 #'     \item{feature}{character, single word token/term}
@@ -82,7 +87,6 @@
 #'     \item{var}{estimated variance}
 #'     \item{z}{z-score of bionomial test}
 #'     \item{approx_criteria}{}
-#'
 #'     }
 #'   MeSH.Terms:S3:tbl_df, tbl, data.frame :	8 rows and 13 columns:
 #'   \describe{
@@ -116,9 +120,15 @@
 #'     \item{z}{z-score of bionomial test}
 #'     \item{approx_criteria}{}
 #'          }
+#'    \describe{
 #'    all_keywords:S3:tbl_df, tbl, data.frame :	12 rows and 4 columns:
 #'     \item{MeSH}{character, MeSH heading title style case}
 #'     \item{frequency}{integer, observed frequency of MeSH term}
 #'     \item{docfreq}{integer, observed frequency of the MeSH term}
 #'     \item{project}{name of the import file}
+#'     }
+#' \describe{
+#'    leftover_keywords: an empty list
+#'    }
 #' }
+"testset"

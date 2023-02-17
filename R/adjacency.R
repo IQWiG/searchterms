@@ -5,7 +5,7 @@ adjacency <- function(corpus_data, skip = 0) {
     quanteda::tokens_ngrams(n = 2, skip = skip, concatenator = " ") %>%
     dfm %>%
     textstat_frequency()%>%
-    select(feature, frequency) %>%
+    select("feature", "frequency") %>%
     mutate(ngram = skip + 2)
 #  return(skip)
 }
@@ -19,14 +19,14 @@ summarise_adjacency <- function(corpus, ngrams = 4){
   }
   result <- result_loop %>%
     bind_rows %>%
-    group_by(feature) %>%
-    summarise(frequency = sum(frequency),
-              ngram = ngram,
+    group_by(.data$feature) %>%
+    summarise(frequency = sum(.data$frequency),
+              ngram = .data$ngram,
               .groups = "drop") %>% # avoid dplyr message about group tibble
-    arrange(ngram) %>%
-    tidyr::pivot_wider(names_from = ngram,
+    arrange(.data$ngram) %>%
+    tidyr::pivot_wider(names_from = .data$ngram,
                        names_prefix = "ngram_",
-                       values_from = ngram,
+                       values_from = .data$ngram,
                        values_fn = as.character, # otherwise values_fill throws an error
                        values_fill = "-") %>%
     arrange(desc(frequency))
