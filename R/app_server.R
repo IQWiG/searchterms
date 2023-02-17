@@ -2,7 +2,6 @@
 #'
 #' @returns a shiny app
 #' @import shiny
-#' @export
 #' @noRd
 app_server <- function(input, output, session) {
   rawdata <- reactive({
@@ -16,7 +15,10 @@ app_server <- function(input, output, session) {
   })
   zScoreData <- reactive({
     req(input$upload)
-    z_scores(input$upload$datapath)
+    if(input$analyzeTestset){
+    result <- z_scores(input$upload$datapath)
+    }
+    return(result)
   })
   output$allRefs <- renderTable({
      as.data.frame(rawdata()$reference.list)[c("accession",
@@ -26,7 +28,7 @@ app_server <- function(input, output, session) {
                                              "keywords")]
   })
   output$zScoreFreetext <- renderTable({
-    zScoreData()$freetext[c("feature", "frequency", "z")]
+    zScoreData()$freetext[c("feature", "frequency","docfreq", "z")]
   })
   output$downloadFreetext <- downloadHandler(
     filename = function(){
@@ -61,15 +63,16 @@ app_server <- function(input, output, session) {
                  file)
     }
   )
+  # raw data or development set?
   output$kwicTable <- renderTable({
     req(input$upload)
     quanteda::kwic(tokens(rawdata()$text_corpus), input$kwicInput, case_insensitive = TRUE, window = input$kwicSlider)
   })
-
+## Phrases überarbeiten
   output$phraseTable <- renderTable({
     req(input$upload)
     summarise_adjacency(rawdata()$text_corpus, ngrams = input$phraseSlider) %>%
-      filter(grepl(input$phraseInput, feature, fixed = TRUE))
+      filter(grepl(input$phraseInput, .data$feature, fixed = TRUE))
     })
   }
 

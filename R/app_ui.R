@@ -2,7 +2,6 @@
 #'
 #' @returns a shiny app
 #' @import shiny
-#' @export
 #' @noRd
 app_ui <- navbarPage(
     "searchterms",
@@ -13,13 +12,35 @@ app_ui <- navbarPage(
                  tags$div(HTML(paste0(tags$em("Proof of concept version")))),
                  br(),
                  br(),
-                 p("Start with uploading your development set."),
+                 p("Start with uploading your testset."),
                  br(),
                  column(6,
 
                         fileInput("upload", "Choose testset"),
                  )
                ),
+               fluidRow(
+                 column(6,
+                        actionButton("analyzeTestset", "Analyze all references")
+                        ),
+                 column(6,
+                        actionButton("analyzeDevset", "Create development set and analyze"))
+               ),
+               br(),
+               #fluidRow(
+              #   column(4,
+
+               #         downloadButton("downloadDevSet", "Download Development Set"),
+                # ),
+                 #column(4,
+
+                  #      downloadButton("downloadValSet", "Download Validation Set"),
+                 #)
+                 #),
+               br(),
+               tags$hr(),
+               p("PMIDS"),
+               verbatimTextOutput("outputPMIDs", placeholder = TRUE),
                textOutput("statistikinfo"),
                tags$hr(),
                tableOutput("allRefs")

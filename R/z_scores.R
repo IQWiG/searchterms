@@ -1,6 +1,7 @@
 #' Z score tables
 #'
-#' @param risfile a data frame containing a testset
+#' @param risfile a ris file containing a testset
+#' @param references an object created with create_testset() to be used fo analysis instead of a raw ris file
 #' @param risfile_population a dataframe containing a population set
 #' @param load_popset logical, should internal population set be applied (default) or should a customized population set be calculated
 #' @param dev_set logical, if testset should be randomly divided into a development and validation set select TRUE?
@@ -21,14 +22,20 @@
 #' writeLines(ris, tmp)
 #' z_scores(tmp)
 #'
-z_scores <- function(risfile, risfile_population, load_popset = TRUE,dev_set = FALSE, seed = NULL){
+z_scores <- function(risfile = NULL, references = NULL, risfile_population, load_popset = TRUE,dev_set = FALSE, seed = NULL){
 
   #load population set
   if(load_popset == F){
     popset <- create_popset(risfile_population)
   }
+  if(!is.null(risfile)){
   # calculate frequency table for testset
   testset <- create_testset(risfile, dev_set = dev_set, seed = seed)
+  }else if (!is.null(references)){
+  testset <- references
+  }else {
+    stop("Please provide a valid set of test references as risfile or created with create_testset()")
+  }
   testset <- create_MeSH_qualifier_lists(testset)
 
 
