@@ -33,6 +33,7 @@
 #' @importFrom rlang .data
 #' @importFrom rlang .env
 #' @importFrom rlang set_names
+#' @importFrom shiny fluidPage
 #' @importFrom stats frequency
 #' @importFrom stats var
 #' @importFrom stats xtabs

@@ -5,7 +5,8 @@
 \title{Z score tables}
 \usage{
 z_scores(
-  risfile,
+  risfile = NULL,
+  references = NULL,
   risfile_population,
   load_popset = TRUE,
   dev_set = FALSE,
@@ -13,7 +14,9 @@ z_scores(
 )
 }
 \arguments{
-\item{risfile}{a data frame containing a testset}
+\item{risfile}{a ris file containing a testset}
+
+\item{references}{an object created with create_testset() to be used fo analysis instead of a raw ris file}
 
 \item{risfile_population}{a dataframe containing a population set}
 
