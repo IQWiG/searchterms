@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
-# Proof of concept version for presentation at #ESMARConf2023
+# Proof of concept version
 # searchterms
 
 <!-- badges: start -->

@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Proof of concept version for presentation at \#ESMARConf2023
+# Proof of concept version
 
 # searchterms
 
